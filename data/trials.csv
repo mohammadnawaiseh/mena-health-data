@@ -1,0 +1,15 @@
+code,country,group,active_trials,cardiometabolic_trials,other_trials,snapshot_date
+ARE,UAE,GCC,122,30,92,2026-11-10
+SAU,Saudi Arabia,GCC,247,62,185,2026-11-10
+QAT,Qatar,GCC,40,14,26,2026-11-10
+KWT,Kuwait,GCC,25,11,14,2026-11-10
+BHR,Bahrain,GCC,5,2,3,2026-11-10
+OMN,Oman,GCC,36,6,30,2026-11-10
+JOR,Jordan,Levant & Iraq,90,16,74,2026-11-10
+LBN,Lebanon,Levant & Iraq,63,10,53,2026-11-10
+IRQ,Iraq,Levant & Iraq,114,14,100,2026-11-10
+EGY,Egypt,North Africa,2670,329,2341,2026-11-10
+MAR,Morocco,North Africa,18,6,12,2026-11-10
+TUN,Tunisia,North Africa,69,23,46,2026-11-10
+DZA,Algeria,North Africa,13,5,8,2026-11-10
+LBY,Libya,North Africa,1,1,0,2026-11-10

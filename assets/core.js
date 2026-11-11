@@ -1,0 +1,30 @@
+(function(){
+window.HD = {s: {grp: '', bench: false, sex: 'value', ind: 'obesity', country: 'ARE', cmp: 'REG', x: 'gdp_pc', y: 'obesity', picks: new Set(['ARE', 'SAU', 'QAT', 'KWT', 'BHR', 'OMN', 'REG', 'WLD'])}};
+const H = window.HD;
+H.num = (v) => (v == null || v === '' ? null : +v);
+H.MENA = ['GCC', 'Levant & Iraq', 'North Africa'];
+H.ok = (...ids) => ids.every((i) => dash.data(i).status === 'ok');
+H.cat = () => { const d = dash.data('catalog'); return d.status === 'ok' ? new Map(d.data.map((r) => [r.indicator, r])) : new Map(); };
+H.field = (c) => (c && c.by_sex === '1' ? H.s.sex : 'value');
+H.sexWord = (c) => (c && c.by_sex === '1' && H.s.sex !== 'value' ? (H.s.sex === 'female' ? ' (women)' : ' (men)') : '');
+H.row = (code, ind) => dash.data('latest').data.find((r) => r.code === code && r.indicator === ind);
+H.val = (r, c) => (r ? H.num(r[H.field(c)]) : null);
+H.inView = (r) => r.group !== 'Aggregate' && (r.group !== 'Global benchmark' || H.s.bench) && (!H.s.grp || r.group === H.s.grp || r.group === 'Global benchmark');
+H.fmt = (v, d = 1) => (v == null ? '—' : d3.format(',.' + d + 'f')(v));
+H.fmtI = (v, c) => (v == null ? '—' : c && c.indicator === 'population' ? (v >= 1e9 ? d3.format('.2f')(v / 1e9) + ' bn' : d3.format('.1f')(v / 1e6) + ' m') : H.fmt(v, c ? +c.decimals : 1));
+H.where = (code, ind) => `code=${encodeURIComponent(code)}&indicator=${encodeURIComponent(ind)}`;
+H.mark = (el, code, ind, c) => { el.setAttribute('data-source', 'latest'); el.setAttribute('data-field', H.field(c)); el.setAttribute('data-where', H.where(code, ind)); };
+H.isLog = (id) => ['population', 'gdp_pc', 'he_pc'].includes(id);
+H.names = ['kpi', 'kpiw', 'heat', 'mini', 'indsel', 'indmeta', 'exbar', 'picks', 'exline', 'exsex', 'csel', 'cmpsel', 'causes', 'risks', 'score', 'h-country', 'h-cmp', 'xsel', 'ysel', 'scatter'];
+H.redraw = () => H.names.forEach((n) => dash.draw(n));
+H.tip = (el) => { let t = el.querySelector(':scope > .tip'); if (!t) { t = document.createElement('div'); t.className = 'tip'; t.hidden = true; el.appendChild(t); } return t; };
+H.place = (el, tip, x, y) => { tip.hidden = false; const w = el.clientWidth, tw = tip.offsetWidth; tip.style.left = Math.max(0, Math.min(w - tw, x + 12)) + 'px'; tip.style.top = Math.max(0, y - 10) + 'px'; };
+H.status = (v, w, better) => { if (v == null || w == null || better === 'none') return 0; const d = (v - w) / Math.max(Math.abs(w), 1e-9); return better === 'lower' ? -d : d; };
+H.go = (tab) => { document.querySelectorAll('.hd .tab').forEach((b) => { if (b.dataset.tab === tab) b.click(); }); };
+H.optList = (sel, items, cur) => { sel.replaceChildren(...items.map(([v, t, g]) => { const o = new Option(t, v); if (g) o.dataset.g = g; return o; })); sel.value = cur; };
+H.catOptions = (sel, cur, onPick) => {
+  const cat = H.cat(); sel.replaceChildren();
+  d3.groups([...cat.values()], (c) => c.category).forEach(([g, list]) => { const og = document.createElement('optgroup'); og.label = g; list.forEach((c) => og.appendChild(new Option(c.name, c.indicator))); sel.appendChild(og); });
+  sel.value = cur; sel.onchange = () => onPick(sel.value);
+};
+})();

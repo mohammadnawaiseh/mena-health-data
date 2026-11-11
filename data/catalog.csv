@@ -1,0 +1,31 @@
+indicator,name,category,unit,source,better,by_sex,decimals,regional_average
+population,Population,Demographics,people,World Bank WDI,none,0,0,MENA (World Bank)
+age65,Population aged 65+,Demographics,% of population,World Bank WDI,none,0,1,MENA (World Bank)
+gdp_pc,GDP per capita,Economy,US$,World Bank WDI,none,0,0,MENA (World Bank)
+life_exp,Life expectancy at birth,Outcomes,years,World Bank WDI,higher,0,1,MENA (World Bank)
+hale,Healthy life expectancy (HALE),Outcomes,years,WHO GHO,higher,1,1,WHO Eastern Mediterranean
+u5mr,Under-5 mortality,Outcomes,"per 1,000 live births",World Bank WDI,lower,0,1,MENA (World Bank)
+mmr,Maternal mortality ratio,Outcomes,"per 100,000 live births",WHO GHO,lower,0,1,WHO Eastern Mediterranean
+ncd_3070,Premature NCD mortality (30–70),Outcomes,% probability,World Bank WDI,lower,0,1,MENA (World Bank)
+diabetes,Diabetes prevalence (20–79),Disease burden,% of adults,World Bank WDI,lower,0,1,MENA (World Bank)
+ncd_share,Deaths from non-communicable diseases,Disease burden,% of deaths,World Bank WDI,none,0,1,MENA (World Bank)
+comm_share,"Deaths from communicable, maternal & nutritional causes",Disease burden,% of deaths,World Bank WDI,lower,0,1,MENA (World Bank)
+injury_share,Deaths from injuries,Disease burden,% of deaths,World Bank WDI,lower,0,1,MENA (World Bank)
+cvd_rate,Cardiovascular death rate (age-standardised),Disease burden,"per 100,000",WHO Global Health Estimates 2021,lower,0,1,not available
+stroke_rate,Stroke death rate (age-standardised),Disease burden,"per 100,000",WHO Global Health Estimates 2021,lower,0,1,not available
+diab_death,Diabetes death rate (all ages),Disease burden,"per 100,000",WHO Global Health Estimates 2021,lower,0,1,not available
+road,Road traffic death rate,Disease burden,"per 100,000",WHO GHO,lower,1,1,WHO Eastern Mediterranean
+obesity,"Adult obesity (BMI ≥30, age-standardised)",Risk factors,% of adults,WHO GHO,lower,1,1,WHO Eastern Mediterranean
+obesity_child,Child & adolescent obesity (5–19),Risk factors,% of 5–19 year olds,WHO GHO,lower,1,1,WHO Eastern Mediterranean
+hypertension,"Hypertension prevalence (30–79, age-standardised)",Risk factors,% of adults,WHO GHO,lower,1,1,WHO Eastern Mediterranean
+tobacco,Current tobacco use (age-standardised),Risk factors,% of adults 15+,WHO GHO,lower,1,1,WHO Eastern Mediterranean
+inactivity,Insufficient physical activity,Risk factors,% of adults 18+,WHO GHO,lower,1,1,WHO Eastern Mediterranean
+pm25,Air pollution: PM2.5 concentration,Risk factors,µg/m³,WHO GHO,lower,0,1,WHO Eastern Mediterranean
+uhc,UHC service coverage index,Health system,index 0–100,WHO GHO,higher,0,0,WHO Eastern Mediterranean
+hyp_control,Hypertension controlled,Health system,% of people with hypertension,WHO GHO,higher,1,1,WHO Eastern Mediterranean
+physicians,Physicians,Health system,"per 1,000 people",World Bank WDI,higher,0,1,MENA (World Bank)
+nurses,Nurses & midwives,Health system,"per 10,000 people",WHO GHO,higher,0,1,WHO Eastern Mediterranean
+beds,Hospital beds,Health system,"per 1,000 people",World Bank WDI,higher,0,1,MENA (World Bank)
+he_gdp,Health spending,Financing,% of GDP,World Bank WDI,none,0,1,MENA (World Bank)
+he_pc,Health spending per person,Financing,US$,World Bank WDI,none,0,0,MENA (World Bank)
+oop,Out-of-pocket spending,Financing,% of health spending,World Bank WDI,lower,0,1,MENA (World Bank)

@@ -1,0 +1,568 @@
+code,country,group,indicator,year,value,male,female
+ARE,UAE,GCC,population,2024,10986400,,
+SAU,Saudi Arabia,GCC,population,2024,35300280,,
+QAT,Qatar,GCC,population,2024,2857822,,
+KWT,Kuwait,GCC,population,2024,4897263,,
+BHR,Bahrain,GCC,population,2024,1588670,,
+OMN,Oman,GCC,population,2024,5281538,,
+JOR,Jordan,Levant & Iraq,population,2024,11552876,,
+LBN,Lebanon,Levant & Iraq,population,2024,5805962,,
+IRQ,Iraq,Levant & Iraq,population,2024,46042015,,
+EGY,Egypt,North Africa,population,2024,116538258,,
+MAR,Morocco,North Africa,population,2024,38081173,,
+TUN,Tunisia,North Africa,population,2024,12277109,,
+DZA,Algeria,North Africa,population,2024,46814308,,
+LBY,Libya,North Africa,population,2024,7381023,,
+USA,United States,Global benchmark,population,2024,340003797,,
+GBR,United Kingdom,Global benchmark,population,2024,69281000,,
+FIN,Finland,Global benchmark,population,2024,5619911,,
+REG,Regional average,Aggregate,population,2024,813173936,,
+WLD,World,Aggregate,population,2024,8140897523,,
+ARE,UAE,GCC,age65,2024,1.8,,
+SAU,Saudi Arabia,GCC,age65,2024,3,,
+QAT,Qatar,GCC,age65,2024,1.7,,
+KWT,Kuwait,GCC,age65,2024,3.1,,
+BHR,Bahrain,GCC,age65,2024,3.9,,
+OMN,Oman,GCC,age65,2024,2.6,,
+JOR,Jordan,Levant & Iraq,age65,2024,4.5,,
+LBN,Lebanon,Levant & Iraq,age65,2024,10.1,,
+IRQ,Iraq,Levant & Iraq,age65,2024,3.4,,
+EGY,Egypt,North Africa,age65,2024,5.1,,
+MAR,Morocco,North Africa,age65,2024,8.1,,
+TUN,Tunisia,North Africa,age65,2024,9.5,,
+DZA,Algeria,North Africa,age65,2024,6.6,,
+LBY,Libya,North Africa,age65,2024,5,,
+USA,United States,Global benchmark,age65,2024,17.9,,
+GBR,United Kingdom,Global benchmark,age65,2024,19.5,,
+FIN,Finland,Global benchmark,age65,2024,23.9,,
+REG,Regional average,Aggregate,age65,2024,5.1,,
+WLD,World,Aggregate,age65,2024,10.2,,
+ARE,UAE,GCC,gdp_pc,2024,50274,,
+SAU,Saudi Arabia,GCC,gdp_pc,2024,35528,,
+QAT,Qatar,GCC,gdp_pc,2024,75685,,
+KWT,Kuwait,GCC,gdp_pc,2024,32856,,
+BHR,Bahrain,GCC,gdp_pc,2024,29717,,
+OMN,Oman,GCC,gdp_pc,2024,20285,,
+JOR,Jordan,Levant & Iraq,gdp_pc,2024,5074,,
+LBN,Lebanon,Levant & Iraq,gdp_pc,2024,4473,,
+IRQ,Iraq,Levant & Iraq,gdp_pc,2024,6074,,
+EGY,Egypt,North Africa,gdp_pc,2024,3338,,
+MAR,Morocco,North Africa,gdp_pc,2024,4153,,
+TUN,Tunisia,North Africa,gdp_pc,2024,4188,,
+DZA,Algeria,North Africa,gdp_pc,2024,5753,,
+LBY,Libya,North Africa,gdp_pc,2024,6569,,
+USA,United States,Global benchmark,gdp_pc,2024,86170,,
+GBR,United Kingdom,Global benchmark,gdp_pc,2024,53341,,
+FIN,Finland,Global benchmark,gdp_pc,2024,53156,,
+REG,Regional average,Aggregate,gdp_pc,2024,6275,,
+WLD,World,Aggregate,gdp_pc,2024,13717,,
+ARE,UAE,GCC,life_exp,2023,82.9,,
+SAU,Saudi Arabia,GCC,life_exp,2023,78.7,,
+QAT,Qatar,GCC,life_exp,2023,82.4,,
+KWT,Kuwait,GCC,life_exp,2023,83.2,,
+BHR,Bahrain,GCC,life_exp,2023,81.3,,
+OMN,Oman,GCC,life_exp,2023,80,,
+JOR,Jordan,Levant & Iraq,life_exp,2023,77.8,,
+LBN,Lebanon,Levant & Iraq,life_exp,2023,77.8,,
+IRQ,Iraq,Levant & Iraq,life_exp,2023,72.3,,
+EGY,Egypt,North Africa,life_exp,2023,71.6,,
+MAR,Morocco,North Africa,life_exp,2023,75.3,,
+TUN,Tunisia,North Africa,life_exp,2023,76.5,,
+DZA,Algeria,North Africa,life_exp,2023,76.3,,
+LBY,Libya,North Africa,life_exp,2023,69.3,,
+USA,United States,Global benchmark,life_exp,2023,78.4,,
+GBR,United Kingdom,Global benchmark,life_exp,2023,81.2,,
+FIN,Finland,Global benchmark,life_exp,2023,81.6,,
+REG,Regional average,Aggregate,life_exp,2023,72.1,,
+WLD,World,Aggregate,life_exp,2023,73.3,,
+ARE,UAE,GCC,hale,2023,70.2,70.7,69.3
+SAU,Saudi Arabia,GCC,hale,2023,66.5,66.8,65.8
+QAT,Qatar,GCC,hale,2023,69.3,69.8,67.8
+KWT,Kuwait,GCC,hale,2023,69.5,69.7,68.8
+BHR,Bahrain,GCC,hale,2023,68.7,71.3,64.9
+OMN,Oman,GCC,hale,2023,68.2,68.1,67.9
+JOR,Jordan,Levant & Iraq,hale,2023,68.6,69,68.1
+LBN,Lebanon,Levant & Iraq,hale,2023,66,65.2,66.8
+IRQ,Iraq,Levant & Iraq,hale,2023,62.4,61.4,63.3
+EGY,Egypt,North Africa,hale,2023,61.6,61,62.2
+MAR,Morocco,North Africa,hale,2023,64.6,65.2,64
+TUN,Tunisia,North Africa,hale,2023,66.2,65.4,66.9
+DZA,Algeria,North Africa,hale,2023,66.5,66.5,66.5
+LBY,Libya,North Africa,hale,2023,58.9,59.4,58.3
+USA,United States,Global benchmark,hale,2023,64.6,63.8,65.4
+GBR,United Kingdom,Global benchmark,hale,2023,68.2,67.9,68.4
+FIN,Finland,Global benchmark,hale,2023,69.4,68,70.7
+REG,Regional average,Aggregate,hale,2023,60.4,60.1,60.6
+WLD,World,Aggregate,hale,2023,62.8,61.5,64.1
+ARE,UAE,GCC,u5mr,2024,4.8,,
+SAU,Saudi Arabia,GCC,u5mr,2024,6,,
+QAT,Qatar,GCC,u5mr,2024,5.9,,
+KWT,Kuwait,GCC,u5mr,2024,8.1,,
+BHR,Bahrain,GCC,u5mr,2024,8.8,,
+OMN,Oman,GCC,u5mr,2024,10.3,,
+JOR,Jordan,Levant & Iraq,u5mr,2024,12.9,,
+LBN,Lebanon,Levant & Iraq,u5mr,2024,17.6,,
+IRQ,Iraq,Levant & Iraq,u5mr,2024,21.8,,
+EGY,Egypt,North Africa,u5mr,2024,22.4,,
+MAR,Morocco,North Africa,u5mr,2024,15.7,,
+TUN,Tunisia,North Africa,u5mr,2024,12.1,,
+DZA,Algeria,North Africa,u5mr,2024,21.6,,
+LBY,Libya,North Africa,u5mr,2024,9.8,,
+USA,United States,Global benchmark,u5mr,2024,6.5,,
+GBR,United Kingdom,Global benchmark,u5mr,2024,4.7,,
+FIN,Finland,Global benchmark,u5mr,2024,2.4,,
+REG,Regional average,Aggregate,u5mr,2024,36.4,,
+WLD,World,Aggregate,u5mr,2024,37.4,,
+ARE,UAE,GCC,mmr,2023,2.5,,
+SAU,Saudi Arabia,GCC,mmr,2023,7.4,,
+QAT,Qatar,GCC,mmr,2023,3.9,,
+KWT,Kuwait,GCC,mmr,2023,7.8,,
+BHR,Bahrain,GCC,mmr,2023,16.8,,
+OMN,Oman,GCC,mmr,2023,12.5,,
+JOR,Jordan,Levant & Iraq,mmr,2023,30.8,,
+LBN,Lebanon,Levant & Iraq,mmr,2023,15,,
+IRQ,Iraq,Levant & Iraq,mmr,2023,66,,
+EGY,Egypt,North Africa,mmr,2023,17,,
+MAR,Morocco,North Africa,mmr,2023,69.8,,
+TUN,Tunisia,North Africa,mmr,2023,35.7,,
+DZA,Algeria,North Africa,mmr,2023,62.5,,
+LBY,Libya,North Africa,mmr,2023,59.5,,
+USA,United States,Global benchmark,mmr,2023,16.6,,
+GBR,United Kingdom,Global benchmark,mmr,2023,8.3,,
+FIN,Finland,Global benchmark,mmr,2023,7.9,,
+REG,Regional average,Aggregate,mmr,2023,167,,
+WLD,World,Aggregate,mmr,2023,197,,
+ARE,UAE,GCC,ncd_3070,2021,11.6,,
+SAU,Saudi Arabia,GCC,ncd_3070,2021,13.6,,
+QAT,Qatar,GCC,ncd_3070,2021,12.1,,
+KWT,Kuwait,GCC,ncd_3070,2021,9.3,,
+BHR,Bahrain,GCC,ncd_3070,2021,14.8,,
+OMN,Oman,GCC,ncd_3070,2021,14.6,,
+JOR,Jordan,Levant & Iraq,ncd_3070,2021,11.6,,
+LBN,Lebanon,Levant & Iraq,ncd_3070,2021,11.9,,
+IRQ,Iraq,Levant & Iraq,ncd_3070,2021,22.7,,
+EGY,Egypt,North Africa,ncd_3070,2021,26,,
+MAR,Morocco,North Africa,ncd_3070,2021,22,,
+TUN,Tunisia,North Africa,ncd_3070,2021,13,,
+DZA,Algeria,North Africa,ncd_3070,2021,13.3,,
+LBY,Libya,North Africa,ncd_3070,2021,19.8,,
+USA,United States,Global benchmark,ncd_3070,2021,13.7,,
+GBR,United Kingdom,Global benchmark,ncd_3070,2021,11,,
+FIN,Finland,Global benchmark,ncd_3070,2021,9.6,,
+REG,Regional average,Aggregate,ncd_3070,2021,20.7,,
+WLD,World,Aggregate,ncd_3070,2021,18.3,,
+ARE,UAE,GCC,diabetes,2024,20.7,,
+SAU,Saudi Arabia,GCC,diabetes,2024,23.1,,
+QAT,Qatar,GCC,diabetes,2024,24.6,,
+KWT,Kuwait,GCC,diabetes,2024,25.6,,
+BHR,Bahrain,GCC,diabetes,2024,22.1,,
+OMN,Oman,GCC,diabetes,2024,17,,
+JOR,Jordan,Levant & Iraq,diabetes,2024,20.5,,
+LBN,Lebanon,Levant & Iraq,diabetes,2024,12.3,,
+IRQ,Iraq,Levant & Iraq,diabetes,2024,13.4,,
+EGY,Egypt,North Africa,diabetes,2024,22.4,,
+MAR,Morocco,North Africa,diabetes,2024,11.9,,
+TUN,Tunisia,North Africa,diabetes,2024,16,,
+DZA,Algeria,North Africa,diabetes,2024,17.5,,
+LBY,Libya,North Africa,diabetes,2024,15.8,,
+USA,United States,Global benchmark,diabetes,2024,13.7,,
+GBR,United Kingdom,Global benchmark,diabetes,2024,7.4,,
+FIN,Finland,Global benchmark,diabetes,2024,6.9,,
+REG,Regional average,Aggregate,diabetes,2024,20.1,,
+WLD,World,Aggregate,diabetes,2024,10.8,,
+ARE,UAE,GCC,ncd_share,2021,68.1,,
+SAU,Saudi Arabia,GCC,ncd_share,2021,67.6,,
+QAT,Qatar,GCC,ncd_share,2021,62.4,,
+KWT,Kuwait,GCC,ncd_share,2021,59,,
+BHR,Bahrain,GCC,ncd_share,2021,74.4,,
+OMN,Oman,GCC,ncd_share,2021,52.1,,
+JOR,Jordan,Levant & Iraq,ncd_share,2021,54,,
+LBN,Lebanon,Levant & Iraq,ncd_share,2021,53.2,,
+IRQ,Iraq,Levant & Iraq,ncd_share,2021,63.4,,
+EGY,Egypt,North Africa,ncd_share,2021,64.2,,
+MAR,Morocco,North Africa,ncd_share,2021,74,,
+TUN,Tunisia,North Africa,ncd_share,2021,56.9,,
+DZA,Algeria,North Africa,ncd_share,2021,73.9,,
+LBY,Libya,North Africa,ncd_share,2021,62.7,,
+USA,United States,Global benchmark,ncd_share,2021,77.4,,
+GBR,United Kingdom,Global benchmark,ncd_share,2021,79.7,,
+FIN,Finland,Global benchmark,ncd_share,2021,92.3,,
+REG,Regional average,Aggregate,ncd_share,2021,56.8,,
+WLD,World,Aggregate,ncd_share,2021,63.4,,
+ARE,UAE,GCC,comm_share,2021,16.8,,
+SAU,Saudi Arabia,GCC,comm_share,2021,16.5,,
+QAT,Qatar,GCC,comm_share,2021,17.9,,
+KWT,Kuwait,GCC,comm_share,2021,26.2,,
+BHR,Bahrain,GCC,comm_share,2021,17.2,,
+OMN,Oman,GCC,comm_share,2021,33.5,,
+JOR,Jordan,Levant & Iraq,comm_share,2021,31.5,,
+LBN,Lebanon,Levant & Iraq,comm_share,2021,34.2,,
+IRQ,Iraq,Levant & Iraq,comm_share,2021,20.1,,
+EGY,Egypt,North Africa,comm_share,2021,25.3,,
+MAR,Morocco,North Africa,comm_share,2021,17,,
+TUN,Tunisia,North Africa,comm_share,2021,30.2,,
+DZA,Algeria,North Africa,comm_share,2021,17.1,,
+LBY,Libya,North Africa,comm_share,2021,21.8,,
+USA,United States,Global benchmark,comm_share,2021,16.5,,
+GBR,United Kingdom,Global benchmark,comm_share,2021,17,,
+FIN,Finland,Global benchmark,comm_share,2021,2.6,,
+REG,Regional average,Aggregate,comm_share,2021,30.1,,
+WLD,World,Aggregate,comm_share,2021,27.4,,
+ARE,UAE,GCC,injury_share,2021,10.9,,
+SAU,Saudi Arabia,GCC,injury_share,2021,11.8,,
+QAT,Qatar,GCC,injury_share,2021,14.6,,
+KWT,Kuwait,GCC,injury_share,2021,8.3,,
+BHR,Bahrain,GCC,injury_share,2021,5.2,,
+OMN,Oman,GCC,injury_share,2021,5.3,,
+JOR,Jordan,Levant & Iraq,injury_share,2021,6.1,,
+LBN,Lebanon,Levant & Iraq,injury_share,2021,4.2,,
+IRQ,Iraq,Levant & Iraq,injury_share,2021,13.8,,
+EGY,Egypt,North Africa,injury_share,2021,3.4,,
+MAR,Morocco,North Africa,injury_share,2021,5.3,,
+TUN,Tunisia,North Africa,injury_share,2021,4.3,,
+DZA,Algeria,North Africa,injury_share,2021,6.7,,
+LBY,Libya,North Africa,injury_share,2021,10.4,,
+USA,United States,Global benchmark,injury_share,2021,6.1,,
+GBR,United Kingdom,Global benchmark,injury_share,2021,3.4,,
+FIN,Finland,Global benchmark,injury_share,2021,5.2,,
+REG,Regional average,Aggregate,injury_share,2021,8.7,,
+WLD,World,Aggregate,injury_share,2021,6.6,,
+ARE,UAE,GCC,cvd_rate,2021,220.4,,
+SAU,Saudi Arabia,GCC,cvd_rate,2021,231.6,,
+QAT,Qatar,GCC,cvd_rate,2021,204.9,,
+KWT,Kuwait,GCC,cvd_rate,2021,166.8,,
+BHR,Bahrain,GCC,cvd_rate,2021,250.3,,
+OMN,Oman,GCC,cvd_rate,2021,297.9,,
+JOR,Jordan,Levant & Iraq,cvd_rate,2021,155.1,,
+LBN,Lebanon,Levant & Iraq,cvd_rate,2021,135.1,,
+IRQ,Iraq,Levant & Iraq,cvd_rate,2021,397.1,,
+EGY,Egypt,North Africa,cvd_rate,2021,462.8,,
+MAR,Morocco,North Africa,cvd_rate,2021,379.2,,
+TUN,Tunisia,North Africa,cvd_rate,2021,263.4,,
+DZA,Algeria,North Africa,cvd_rate,2021,316.4,,
+LBY,Libya,North Africa,cvd_rate,2021,257.3,,
+USA,United States,Global benchmark,cvd_rate,2021,136.2,,
+GBR,United Kingdom,Global benchmark,cvd_rate,2021,88.5,,
+FIN,Finland,Global benchmark,cvd_rate,2021,124.1,,
+WLD,World,Aggregate,cvd_rate,2021,210.1,,
+ARE,UAE,GCC,stroke_rate,2021,62.2,,
+SAU,Saudi Arabia,GCC,stroke_rate,2021,25.3,,
+QAT,Qatar,GCC,stroke_rate,2021,53.6,,
+KWT,Kuwait,GCC,stroke_rate,2021,32.4,,
+BHR,Bahrain,GCC,stroke_rate,2021,69.6,,
+OMN,Oman,GCC,stroke_rate,2021,68.2,,
+JOR,Jordan,Levant & Iraq,stroke_rate,2021,51.7,,
+LBN,Lebanon,Levant & Iraq,stroke_rate,2021,36.7,,
+IRQ,Iraq,Levant & Iraq,stroke_rate,2021,142.5,,
+EGY,Egypt,North Africa,stroke_rate,2021,132.4,,
+MAR,Morocco,North Africa,stroke_rate,2021,104.6,,
+TUN,Tunisia,North Africa,stroke_rate,2021,73.2,,
+DZA,Algeria,North Africa,stroke_rate,2021,89.8,,
+LBY,Libya,North Africa,stroke_rate,2021,64.9,,
+USA,United States,Global benchmark,stroke_rate,2021,24.7,,
+GBR,United Kingdom,Global benchmark,stroke_rate,2021,20.1,,
+FIN,Finland,Global benchmark,stroke_rate,2021,25.8,,
+WLD,World,Aggregate,stroke_rate,2021,76.3,,
+ARE,UAE,GCC,diab_death,2021,7,,
+SAU,Saudi Arabia,GCC,diab_death,2021,13.7,,
+QAT,Qatar,GCC,diab_death,2021,16.2,,
+KWT,Kuwait,GCC,diab_death,2021,11.9,,
+BHR,Bahrain,GCC,diab_death,2021,53.4,,
+OMN,Oman,GCC,diab_death,2021,15,,
+JOR,Jordan,Levant & Iraq,diab_death,2021,13,,
+LBN,Lebanon,Levant & Iraq,diab_death,2021,29.7,,
+IRQ,Iraq,Levant & Iraq,diab_death,2021,17.5,,
+EGY,Egypt,North Africa,diab_death,2021,23.5,,
+MAR,Morocco,North Africa,diab_death,2021,17.9,,
+TUN,Tunisia,North Africa,diab_death,2021,14.3,,
+DZA,Algeria,North Africa,diab_death,2021,11,,
+LBY,Libya,North Africa,diab_death,2021,15.6,,
+USA,United States,Global benchmark,diab_death,2021,18.1,,
+GBR,United Kingdom,Global benchmark,diab_death,2021,10.3,,
+FIN,Finland,Global benchmark,diab_death,2021,10.3,,
+WLD,World,Aggregate,diab_death,2021,20.4,,
+ARE,UAE,GCC,road,2023,5.1,6.9,1.7
+SAU,Saudi Arabia,GCC,road,2023,14.7,21.4,4.2
+QAT,Qatar,GCC,road,2023,7.3,8.9,3.1
+KWT,Kuwait,GCC,road,2023,8,11.4,2.8
+BHR,Bahrain,GCC,road,2023,8,6.3,10.6
+OMN,Oman,GCC,road,2023,6.8,8.8,3.6
+JOR,Jordan,Levant & Iraq,road,2023,13.7,20.6,6.4
+LBN,Lebanon,Levant & Iraq,road,2023,6.9,10.8,3.1
+IRQ,Iraq,Levant & Iraq,road,2023,20.4,31.5,9.2
+EGY,Egypt,North Africa,road,2023,7.9,12.4,3.4
+MAR,Morocco,North Africa,road,2023,16.2,22.2,10.2
+TUN,Tunisia,North Africa,road,2023,13,20.4,5.7
+DZA,Algeria,North Africa,road,2023,16,22.3,9.5
+LBY,Libya,North Africa,road,2023,33.3,51.4,14.6
+USA,United States,Global benchmark,road,2023,18.4,26.3,10.4
+GBR,United Kingdom,Global benchmark,road,2023,2.5,3.9,1.2
+FIN,Finland,Global benchmark,road,2023,3.5,5.3,1.8
+REG,Regional average,Aggregate,road,2023,15.3,22.7,7.4
+WLD,World,Aggregate,road,2023,15.2,22.8,7.4
+ARE,UAE,GCC,obesity,2024,31.6,27.8,38.4
+SAU,Saudi Arabia,GCC,obesity,2024,40.1,36.5,46.7
+QAT,Qatar,GCC,obesity,2024,42,38.8,50.1
+KWT,Kuwait,GCC,obesity,2024,40.4,36.4,46.8
+BHR,Bahrain,GCC,obesity,2024,34.9,30.8,41.8
+OMN,Oman,GCC,obesity,2024,30.5,25.5,39.5
+JOR,Jordan,Levant & Iraq,obesity,2024,35.4,29.2,41.9
+LBN,Lebanon,Levant & Iraq,obesity,2024,30.7,29.4,31.7
+IRQ,Iraq,Levant & Iraq,obesity,2024,39.7,31.2,47.6
+EGY,Egypt,North Africa,obesity,2024,43.9,30.6,57.1
+MAR,Morocco,North Africa,obesity,2024,21.6,13.2,29.9
+TUN,Tunisia,North Africa,obesity,2024,26.1,18.7,32.8
+DZA,Algeria,North Africa,obesity,2024,23.6,15.6,31.8
+LBY,Libya,North Africa,obesity,2024,33.7,25.3,41.9
+USA,United States,Global benchmark,obesity,2024,41,39.6,42.4
+GBR,United Kingdom,Global benchmark,obesity,2024,27.4,25.9,28.9
+FIN,Finland,Global benchmark,obesity,2024,24.2,23.6,24.7
+REG,Regional average,Aggregate,obesity,2024,28.8,22.6,35.2
+WLD,World,Aggregate,obesity,2024,16.2,13.8,18.4
+ARE,UAE,GCC,obesity_child,2024,21.2,24.6,17.6
+SAU,Saudi Arabia,GCC,obesity_child,2024,18.3,22.2,14.1
+QAT,Qatar,GCC,obesity_child,2024,23.5,29.5,17.1
+KWT,Kuwait,GCC,obesity_child,2024,21.9,25.2,18.3
+BHR,Bahrain,GCC,obesity_child,2024,20,22.1,17.8
+OMN,Oman,GCC,obesity_child,2024,17.7,21.4,13.8
+JOR,Jordan,Levant & Iraq,obesity_child,2024,14.1,16.5,11.7
+LBN,Lebanon,Levant & Iraq,obesity_child,2024,17.4,22.4,12.1
+IRQ,Iraq,Levant & Iraq,obesity_child,2024,18,15.3,20.7
+EGY,Egypt,North Africa,obesity_child,2024,13.6,12.9,14.3
+MAR,Morocco,North Africa,obesity_child,2024,5,5,5.1
+TUN,Tunisia,North Africa,obesity_child,2024,13.2,15.1,11.2
+DZA,Algeria,North Africa,obesity_child,2024,14.4,14.7,14.1
+LBY,Libya,North Africa,obesity_child,2024,14,14.3,13.7
+USA,United States,Global benchmark,obesity_child,2024,21.8,23.3,20.2
+GBR,United Kingdom,Global benchmark,obesity_child,2024,11.3,12.4,10.1
+FIN,Finland,Global benchmark,obesity_child,2024,12.8,15.1,10.4
+REG,Regional average,Aggregate,obesity_child,2024,10.6,11.4,9.7
+WLD,World,Aggregate,obesity_child,2024,8.2,9.4,6.9
+ARE,UAE,GCC,hypertension,2019,41.4,43.9,34.5
+SAU,Saudi Arabia,GCC,hypertension,2019,34,36.3,30.2
+QAT,Qatar,GCC,hypertension,2019,40.9,41.6,37.7
+KWT,Kuwait,GCC,hypertension,2019,40.5,43.5,35.2
+BHR,Bahrain,GCC,hypertension,2019,38.7,40.1,35.3
+OMN,Oman,GCC,hypertension,2019,45.6,48.3,38.8
+JOR,Jordan,Levant & Iraq,hypertension,2019,37.7,39.6,35.7
+LBN,Lebanon,Levant & Iraq,hypertension,2019,38.1,42.1,34.2
+IRQ,Iraq,Levant & Iraq,hypertension,2019,48.1,48.4,47.7
+EGY,Egypt,North Africa,hypertension,2019,38.2,35.6,40.7
+MAR,Morocco,North Africa,hypertension,2019,35.3,35,35.6
+TUN,Tunisia,North Africa,hypertension,2019,34.7,34.5,34.8
+DZA,Algeria,North Africa,hypertension,2019,36.2,35,37.4
+LBY,Libya,North Africa,hypertension,2019,42.7,45.9,39.4
+USA,United States,Global benchmark,hypertension,2019,31.6,34.1,29
+GBR,United Kingdom,Global benchmark,hypertension,2019,26.4,29.9,23
+FIN,Finland,Global benchmark,hypertension,2019,35.9,41,30.6
+REG,Regional average,Aggregate,hypertension,2019,37.8,37.1,38.5
+WLD,World,Aggregate,hypertension,2019,33.1,34.5,31.7
+ARE,UAE,GCC,tobacco,2024,9,15.3,2.6
+SAU,Saudi Arabia,GCC,tobacco,2024,14.7,25.8,3.6
+QAT,Qatar,GCC,tobacco,2024,12.5,21.5,3.6
+KWT,Kuwait,GCC,tobacco,2024,19.4,36.4,2.4
+BHR,Bahrain,GCC,tobacco,2024,15.4,24.9,5.9
+OMN,Oman,GCC,tobacco,2024,8.5,16.6,0.4
+JOR,Jordan,Levant & Iraq,tobacco,2024,34.1,55.1,13.1
+LBN,Lebanon,Levant & Iraq,tobacco,2024,46.9,54.1,39.7
+IRQ,Iraq,Levant & Iraq,tobacco,2024,20.1,38.1,2.2
+EGY,Egypt,North Africa,tobacco,2024,25,49.6,0.4
+MAR,Morocco,North Africa,tobacco,2024,12.5,23.8,1.2
+TUN,Tunisia,North Africa,tobacco,2024,24.4,46.6,2.3
+DZA,Algeria,North Africa,tobacco,2024,22.4,44.2,0.6
+LBY,Libya,North Africa,tobacco,2024,24.2,48.2,0.2
+USA,United States,Global benchmark,tobacco,2024,15.8,20,11.6
+GBR,United Kingdom,Global benchmark,tobacco,2024,12.8,14.6,11
+FIN,Finland,Global benchmark,tobacco,2024,21.4,25.3,17.4
+REG,Regional average,Aggregate,tobacco,2024,18,32.3,3.7
+WLD,World,Aggregate,tobacco,2024,19.5,32.5,6.6
+ARE,UAE,GCC,inactivity,2022,66.1,63.1,73.6
+SAU,Saudi Arabia,GCC,inactivity,2022,51.5,46.7,57.8
+QAT,Qatar,GCC,inactivity,2022,53.5,50.3,63.2
+KWT,Kuwait,GCC,inactivity,2022,63.3,61.7,65.1
+BHR,Bahrain,GCC,inactivity,2022,38.6,35.7,42.8
+OMN,Oman,GCC,inactivity,2022,40.9,35,50.4
+JOR,Jordan,Levant & Iraq,inactivity,2022,28.2,30,26.1
+LBN,Lebanon,Levant & Iraq,inactivity,2022,58.6,57.8,59.4
+IRQ,Iraq,Levant & Iraq,inactivity,2022,52,41.9,61.5
+EGY,Egypt,North Africa,inactivity,2022,33.8,30,37.4
+MAR,Morocco,North Africa,inactivity,2022,24.5,19.8,29.1
+TUN,Tunisia,North Africa,inactivity,2022,33.4,28.6,37.8
+DZA,Algeria,North Africa,inactivity,2022,29,20.1,38.2
+LBY,Libya,North Africa,inactivity,2022,45.6,37.5,53.6
+USA,United States,Global benchmark,inactivity,2022,33.7,27.6,39.8
+GBR,United Kingdom,Global benchmark,inactivity,2022,19,18.2,19.7
+FIN,Finland,Global benchmark,inactivity,2022,9.6,11.1,8.1
+REG,Regional average,Aggregate,inactivity,2022,40.3,33.2,47.6
+WLD,World,Aggregate,inactivity,2022,31.3,28.7,33.8
+ARE,UAE,GCC,pm25,2023,34,,
+SAU,Saudi Arabia,GCC,pm25,2023,43.9,,
+QAT,Qatar,GCC,pm25,2023,58.1,,
+KWT,Kuwait,GCC,pm25,2023,48.8,,
+BHR,Bahrain,GCC,pm25,2023,46.1,,
+OMN,Oman,GCC,pm25,2023,30,,
+JOR,Jordan,Levant & Iraq,pm25,2023,23.5,,
+LBN,Lebanon,Levant & Iraq,pm25,2023,26.5,,
+IRQ,Iraq,Levant & Iraq,pm25,2023,39.8,,
+EGY,Egypt,North Africa,pm25,2023,53.5,,
+MAR,Morocco,North Africa,pm25,2023,14.2,,
+TUN,Tunisia,North Africa,pm25,2023,21.6,,
+DZA,Algeria,North Africa,pm25,2023,18.6,,
+LBY,Libya,North Africa,pm25,2023,24.1,,
+USA,United States,Global benchmark,pm25,2023,9.8,,
+GBR,United Kingdom,Global benchmark,pm25,2023,7.9,,
+FIN,Finland,Global benchmark,pm25,2023,4.1,,
+REG,Regional average,Aggregate,pm25,2023,38.1,,
+WLD,World,Aggregate,pm25,2023,26.1,,
+ARE,UAE,GCC,uhc,2023,84,,
+SAU,Saudi Arabia,GCC,uhc,2023,83,,
+QAT,Qatar,GCC,uhc,2023,84,,
+KWT,Kuwait,GCC,uhc,2023,84,,
+BHR,Bahrain,GCC,uhc,2023,78,,
+OMN,Oman,GCC,uhc,2023,73,,
+JOR,Jordan,Levant & Iraq,uhc,2023,74,,
+LBN,Lebanon,Levant & Iraq,uhc,2023,67,,
+IRQ,Iraq,Levant & Iraq,uhc,2023,64,,
+EGY,Egypt,North Africa,uhc,2023,71,,
+MAR,Morocco,North Africa,uhc,2023,65,,
+TUN,Tunisia,North Africa,uhc,2023,76,,
+DZA,Algeria,North Africa,uhc,2023,70,,
+LBY,Libya,North Africa,uhc,2023,71,,
+USA,United States,Global benchmark,uhc,2023,88,,
+GBR,United Kingdom,Global benchmark,uhc,2023,88,,
+FIN,Finland,Global benchmark,uhc,2023,86,,
+REG,Regional average,Aggregate,uhc,2023,63,,
+WLD,World,Aggregate,uhc,2023,71,,
+ARE,UAE,GCC,hyp_control,2019,19.7,18.3,24.6
+SAU,Saudi Arabia,GCC,hyp_control,2019,21.3,19,25.6
+QAT,Qatar,GCC,hyp_control,2019,23.7,21.2,32.5
+KWT,Kuwait,GCC,hyp_control,2019,30.8,27.2,38.6
+BHR,Bahrain,GCC,hyp_control,2019,19.1,16.4,24.5
+OMN,Oman,GCC,hyp_control,2019,13.8,11.3,19.9
+JOR,Jordan,Levant & Iraq,hyp_control,2019,32.1,28.7,35.9
+LBN,Lebanon,Levant & Iraq,hyp_control,2019,26.9,23,31.8
+IRQ,Iraq,Levant & Iraq,hyp_control,2019,13.3,11.3,15.2
+EGY,Egypt,North Africa,hyp_control,2019,18.9,14.2,22.9
+MAR,Morocco,North Africa,hyp_control,2019,10.1,6.4,13.5
+TUN,Tunisia,North Africa,hyp_control,2019,14.6,10.3,18.5
+DZA,Algeria,North Africa,hyp_control,2019,15.9,11.1,20.4
+LBY,Libya,North Africa,hyp_control,2019,11.1,7.6,15.1
+USA,United States,Global benchmark,hyp_control,2019,47.6,44.8,51
+GBR,United Kingdom,Global benchmark,hyp_control,2019,30,30.6,29.2
+FIN,Finland,Global benchmark,hyp_control,2019,27.7,27,29.1
+REG,Regional average,Aggregate,hyp_control,2019,15.5,12.3,18.7
+WLD,World,Aggregate,hyp_control,2019,20.8,18.4,23.5
+ARE,UAE,GCC,physicians,2023,3,,
+SAU,Saudi Arabia,GCC,physicians,2023,3.4,,
+QAT,Qatar,GCC,physicians,2023,3,,
+KWT,Kuwait,GCC,physicians,2020,2.3,,
+BHR,Bahrain,GCC,physicians,2020,0.7,,
+OMN,Oman,GCC,physicians,2022,2,,
+JOR,Jordan,Levant & Iraq,physicians,2022,2.9,,
+LBN,Lebanon,Levant & Iraq,physicians,2020,2.7,,
+IRQ,Iraq,Levant & Iraq,physicians,2022,1,,
+EGY,Egypt,North Africa,physicians,2020,0.7,,
+MAR,Morocco,North Africa,physicians,2021,0.7,,
+TUN,Tunisia,North Africa,physicians,2021,1.3,,
+DZA,Algeria,North Africa,physicians,2022,1.7,,
+LBY,Libya,North Africa,physicians,2017,2,,
+USA,United States,Global benchmark,physicians,2022,3.7,,
+GBR,United Kingdom,Global benchmark,physicians,2023,3.3,,
+FIN,Finland,Global benchmark,physicians,2021,3.6,,
+REG,Regional average,Aggregate,physicians,2022,1.3,,
+WLD,World,Aggregate,physicians,2022,1.9,,
+ARE,UAE,GCC,nurses,2023,61.6,,
+SAU,Saudi Arabia,GCC,nurses,2023,65.6,,
+QAT,Qatar,GCC,nurses,2024,86.1,,
+KWT,Kuwait,GCC,nurses,2022,67.1,,
+BHR,Bahrain,GCC,nurses,2020,26.5,,
+OMN,Oman,GCC,nurses,2024,45.9,,
+JOR,Jordan,Levant & Iraq,nurses,2024,33.4,,
+LBN,Lebanon,Levant & Iraq,nurses,2018,19.2,,
+IRQ,Iraq,Levant & Iraq,nurses,2023,25.7,,
+EGY,Egypt,North Africa,nurses,2021,19.5,,
+MAR,Morocco,North Africa,nurses,2024,7.2,,
+TUN,Tunisia,North Africa,nurses,2023,19.2,,
+DZA,Algeria,North Africa,nurses,2022,25.1,,
+LBY,Libya,North Africa,nurses,2017,63.8,,
+USA,United States,Global benchmark,nurses,2024,124,,
+GBR,United Kingdom,Global benchmark,nurses,2023,95.6,,
+FIN,Finland,Global benchmark,nurses,2023,130,,
+REG,Regional average,Aggregate,nurses,2024,16.7,,
+WLD,World,Aggregate,nurses,2024,40.5,,
+ARE,UAE,GCC,beds,2022,1.9,,
+SAU,Saudi Arabia,GCC,beds,2023,2.4,,
+QAT,Qatar,GCC,beds,2022,1.3,,
+KWT,Kuwait,GCC,beds,2020,2.3,,
+BHR,Bahrain,GCC,beds,2022,1.8,,
+OMN,Oman,GCC,beds,2023,1,,
+JOR,Jordan,Levant & Iraq,beds,2023,1.4,,
+LBN,Lebanon,Levant & Iraq,beds,2021,2.7,,
+IRQ,Iraq,Levant & Iraq,beds,2018,1.1,,
+EGY,Egypt,North Africa,beds,2021,1.1,,
+MAR,Morocco,North Africa,beds,2023,0.7,,
+TUN,Tunisia,North Africa,beds,2023,1.8,,
+DZA,Algeria,North Africa,beds,2017,1.6,,
+LBY,Libya,North Africa,beds,2022,3.5,,
+USA,United States,Global benchmark,beds,2022,2.7,,
+GBR,United Kingdom,Global benchmark,beds,2022,2.4,,
+FIN,Finland,Global benchmark,beds,2022,2.6,,
+REG,Regional average,Aggregate,beds,2020,1.1,,
+WLD,World,Aggregate,beds,2021,3.3,,
+ARE,UAE,GCC,he_gdp,2023,5,,
+SAU,Saudi Arabia,GCC,he_gdp,2023,5.7,,
+QAT,Qatar,GCC,he_gdp,2023,2.5,,
+KWT,Kuwait,GCC,he_gdp,2023,5,,
+BHR,Bahrain,GCC,he_gdp,2023,4,,
+OMN,Oman,GCC,he_gdp,2023,3.5,,
+JOR,Jordan,Levant & Iraq,he_gdp,2023,7.7,,
+LBN,Lebanon,Levant & Iraq,he_gdp,2023,5.6,,
+IRQ,Iraq,Levant & Iraq,he_gdp,2023,5.5,,
+EGY,Egypt,North Africa,he_gdp,2023,4.9,,
+MAR,Morocco,North Africa,he_gdp,2023,6.1,,
+TUN,Tunisia,North Africa,he_gdp,2023,8,,
+DZA,Algeria,North Africa,he_gdp,2023,4.4,,
+LBY,Libya,North Africa,he_gdp,2023,7.8,,
+USA,United States,Global benchmark,he_gdp,2023,16.7,,
+GBR,United Kingdom,Global benchmark,he_gdp,2024,11.1,,
+FIN,Finland,Global benchmark,he_gdp,2023,10.5,,
+REG,Regional average,Aggregate,he_gdp,2023,5.3,,
+WLD,World,Aggregate,he_gdp,2023,10.1,,
+ARE,UAE,GCC,he_pc,2023,2402,,
+SAU,Saudi Arabia,GCC,he_pc,2023,1825,,
+QAT,Qatar,GCC,he_pc,2023,1804,,
+KWT,Kuwait,GCC,he_pc,2023,1679,,
+BHR,Bahrain,GCC,he_pc,2023,1176,,
+OMN,Oman,GCC,he_pc,2023,732,,
+JOR,Jordan,Levant & Iraq,he_pc,2023,342,,
+LBN,Lebanon,Levant & Iraq,he_pc,2023,261,,
+IRQ,Iraq,Levant & Iraq,he_pc,2023,333,,
+EGY,Egypt,North Africa,he_pc,2023,141,,
+MAR,Morocco,North Africa,he_pc,2023,232,,
+TUN,Tunisia,North Africa,he_pc,2023,318,,
+DZA,Algeria,North Africa,he_pc,2023,233,,
+LBY,Libya,North Africa,he_pc,2023,470,,
+USA,United States,Global benchmark,he_pc,2023,13473,,
+GBR,United Kingdom,Global benchmark,he_pc,2023,5407,,
+FIN,Finland,Global benchmark,he_pc,2023,5515,,
+REG,Regional average,Aggregate,he_pc,2023,311,,
+WLD,World,Aggregate,he_pc,2023,1317,,
+ARE,UAE,GCC,oop,2023,9.7,,
+SAU,Saudi Arabia,GCC,oop,2023,14.1,,
+QAT,Qatar,GCC,oop,2023,7.4,,
+KWT,Kuwait,GCC,oop,2023,10,,
+BHR,Bahrain,GCC,oop,2023,28.7,,
+OMN,Oman,GCC,oop,2023,6.3,,
+JOR,Jordan,Levant & Iraq,oop,2023,34.5,,
+LBN,Lebanon,Levant & Iraq,oop,2023,29.7,,
+IRQ,Iraq,Levant & Iraq,oop,2023,54,,
+EGY,Egypt,North Africa,oop,2023,57.2,,
+MAR,Morocco,North Africa,oop,2023,37.3,,
+TUN,Tunisia,North Africa,oop,2023,37.9,,
+DZA,Algeria,North Africa,oop,2023,45,,
+LBY,Libya,North Africa,oop,2023,19.2,,
+USA,United States,Global benchmark,oop,2023,10.9,,
+GBR,United Kingdom,Global benchmark,oop,2023,14.6,,
+FIN,Finland,Global benchmark,oop,2023,14.1,,
+REG,Regional average,Aggregate,oop,2023,28.3,,
+WLD,World,Aggregate,oop,2023,17.3,,

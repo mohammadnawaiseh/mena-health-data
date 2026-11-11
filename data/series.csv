@@ -1,0 +1,4153 @@
+code,country,group,indicator,year,value
+ARE,UAE,GCC,cvd_rate,2000,224.4
+ARE,UAE,GCC,cvd_rate,2001,215.4
+ARE,UAE,GCC,cvd_rate,2002,211.5
+ARE,UAE,GCC,cvd_rate,2003,199.2
+ARE,UAE,GCC,cvd_rate,2004,195.8
+ARE,UAE,GCC,cvd_rate,2005,185.4
+ARE,UAE,GCC,cvd_rate,2006,170.7
+ARE,UAE,GCC,cvd_rate,2007,158.8
+ARE,UAE,GCC,cvd_rate,2008,153.4
+ARE,UAE,GCC,cvd_rate,2009,158.8
+ARE,UAE,GCC,cvd_rate,2010,172.8
+ARE,UAE,GCC,cvd_rate,2011,181.6
+ARE,UAE,GCC,cvd_rate,2012,185
+ARE,UAE,GCC,cvd_rate,2013,181
+ARE,UAE,GCC,cvd_rate,2014,180.3
+ARE,UAE,GCC,cvd_rate,2015,181
+ARE,UAE,GCC,cvd_rate,2016,181.5
+ARE,UAE,GCC,cvd_rate,2017,181.1
+ARE,UAE,GCC,cvd_rate,2018,176.2
+ARE,UAE,GCC,cvd_rate,2019,170.5
+ARE,UAE,GCC,cvd_rate,2020,162.7
+ARE,UAE,GCC,cvd_rate,2021,220.4
+SAU,Saudi Arabia,GCC,cvd_rate,2000,437
+SAU,Saudi Arabia,GCC,cvd_rate,2001,433.6
+SAU,Saudi Arabia,GCC,cvd_rate,2002,429.3
+SAU,Saudi Arabia,GCC,cvd_rate,2003,425.1
+SAU,Saudi Arabia,GCC,cvd_rate,2004,417.2
+SAU,Saudi Arabia,GCC,cvd_rate,2005,409.8
+SAU,Saudi Arabia,GCC,cvd_rate,2006,396.1
+SAU,Saudi Arabia,GCC,cvd_rate,2007,372.6
+SAU,Saudi Arabia,GCC,cvd_rate,2008,345.1
+SAU,Saudi Arabia,GCC,cvd_rate,2009,314
+SAU,Saudi Arabia,GCC,cvd_rate,2010,283.2
+SAU,Saudi Arabia,GCC,cvd_rate,2011,249.6
+SAU,Saudi Arabia,GCC,cvd_rate,2012,227.8
+SAU,Saudi Arabia,GCC,cvd_rate,2013,222.4
+SAU,Saudi Arabia,GCC,cvd_rate,2014,226.8
+SAU,Saudi Arabia,GCC,cvd_rate,2015,233.7
+SAU,Saudi Arabia,GCC,cvd_rate,2016,237.3
+SAU,Saudi Arabia,GCC,cvd_rate,2017,248.8
+SAU,Saudi Arabia,GCC,cvd_rate,2018,251.6
+SAU,Saudi Arabia,GCC,cvd_rate,2019,248.6
+SAU,Saudi Arabia,GCC,cvd_rate,2020,225.7
+SAU,Saudi Arabia,GCC,cvd_rate,2021,231.6
+QAT,Qatar,GCC,cvd_rate,2000,546.2
+QAT,Qatar,GCC,cvd_rate,2001,557.5
+QAT,Qatar,GCC,cvd_rate,2002,563.6
+QAT,Qatar,GCC,cvd_rate,2003,543.3
+QAT,Qatar,GCC,cvd_rate,2004,505.8
+QAT,Qatar,GCC,cvd_rate,2005,475.8
+QAT,Qatar,GCC,cvd_rate,2006,427.2
+QAT,Qatar,GCC,cvd_rate,2007,381.4
+QAT,Qatar,GCC,cvd_rate,2008,353.9
+QAT,Qatar,GCC,cvd_rate,2009,351
+QAT,Qatar,GCC,cvd_rate,2010,324.5
+QAT,Qatar,GCC,cvd_rate,2011,276.3
+QAT,Qatar,GCC,cvd_rate,2012,242.7
+QAT,Qatar,GCC,cvd_rate,2013,212.7
+QAT,Qatar,GCC,cvd_rate,2014,191
+QAT,Qatar,GCC,cvd_rate,2015,170.5
+QAT,Qatar,GCC,cvd_rate,2016,171.8
+QAT,Qatar,GCC,cvd_rate,2017,171.8
+QAT,Qatar,GCC,cvd_rate,2018,171.9
+QAT,Qatar,GCC,cvd_rate,2019,173.3
+QAT,Qatar,GCC,cvd_rate,2020,201.4
+QAT,Qatar,GCC,cvd_rate,2021,204.9
+KWT,Kuwait,GCC,cvd_rate,2000,232.3
+KWT,Kuwait,GCC,cvd_rate,2001,210.3
+KWT,Kuwait,GCC,cvd_rate,2002,228.9
+KWT,Kuwait,GCC,cvd_rate,2003,215
+KWT,Kuwait,GCC,cvd_rate,2004,214
+KWT,Kuwait,GCC,cvd_rate,2005,214.8
+KWT,Kuwait,GCC,cvd_rate,2006,213.8
+KWT,Kuwait,GCC,cvd_rate,2007,198.7
+KWT,Kuwait,GCC,cvd_rate,2008,217
+KWT,Kuwait,GCC,cvd_rate,2009,189.2
+KWT,Kuwait,GCC,cvd_rate,2010,165.3
+KWT,Kuwait,GCC,cvd_rate,2011,147.2
+KWT,Kuwait,GCC,cvd_rate,2012,147.6
+KWT,Kuwait,GCC,cvd_rate,2013,140.4
+KWT,Kuwait,GCC,cvd_rate,2014,131.4
+KWT,Kuwait,GCC,cvd_rate,2015,137
+KWT,Kuwait,GCC,cvd_rate,2016,123
+KWT,Kuwait,GCC,cvd_rate,2017,122.9
+KWT,Kuwait,GCC,cvd_rate,2018,119.4
+KWT,Kuwait,GCC,cvd_rate,2019,128.1
+KWT,Kuwait,GCC,cvd_rate,2020,151.3
+KWT,Kuwait,GCC,cvd_rate,2021,166.8
+BHR,Bahrain,GCC,cvd_rate,2000,605.5
+BHR,Bahrain,GCC,cvd_rate,2001,591.6
+BHR,Bahrain,GCC,cvd_rate,2002,566
+BHR,Bahrain,GCC,cvd_rate,2003,568.6
+BHR,Bahrain,GCC,cvd_rate,2004,548.9
+BHR,Bahrain,GCC,cvd_rate,2005,520
+BHR,Bahrain,GCC,cvd_rate,2006,462.7
+BHR,Bahrain,GCC,cvd_rate,2007,418
+BHR,Bahrain,GCC,cvd_rate,2008,379.4
+BHR,Bahrain,GCC,cvd_rate,2009,346.3
+BHR,Bahrain,GCC,cvd_rate,2010,336.4
+BHR,Bahrain,GCC,cvd_rate,2011,319.4
+BHR,Bahrain,GCC,cvd_rate,2012,295.7
+BHR,Bahrain,GCC,cvd_rate,2013,261.4
+BHR,Bahrain,GCC,cvd_rate,2014,231.5
+BHR,Bahrain,GCC,cvd_rate,2015,243.3
+BHR,Bahrain,GCC,cvd_rate,2016,256.4
+BHR,Bahrain,GCC,cvd_rate,2017,249.7
+BHR,Bahrain,GCC,cvd_rate,2018,237.6
+BHR,Bahrain,GCC,cvd_rate,2019,232.6
+BHR,Bahrain,GCC,cvd_rate,2020,241.9
+BHR,Bahrain,GCC,cvd_rate,2021,250.3
+OMN,Oman,GCC,cvd_rate,2000,425.7
+OMN,Oman,GCC,cvd_rate,2001,403.7
+OMN,Oman,GCC,cvd_rate,2002,389
+OMN,Oman,GCC,cvd_rate,2003,379.9
+OMN,Oman,GCC,cvd_rate,2004,362.8
+OMN,Oman,GCC,cvd_rate,2005,359.1
+OMN,Oman,GCC,cvd_rate,2006,358.5
+OMN,Oman,GCC,cvd_rate,2007,354.8
+OMN,Oman,GCC,cvd_rate,2008,354.3
+OMN,Oman,GCC,cvd_rate,2009,329.2
+OMN,Oman,GCC,cvd_rate,2010,374.4
+OMN,Oman,GCC,cvd_rate,2011,356.7
+OMN,Oman,GCC,cvd_rate,2012,323.7
+OMN,Oman,GCC,cvd_rate,2013,313
+OMN,Oman,GCC,cvd_rate,2014,319.6
+OMN,Oman,GCC,cvd_rate,2015,324.4
+OMN,Oman,GCC,cvd_rate,2016,333.3
+OMN,Oman,GCC,cvd_rate,2017,324.8
+OMN,Oman,GCC,cvd_rate,2018,299.8
+OMN,Oman,GCC,cvd_rate,2019,297.6
+OMN,Oman,GCC,cvd_rate,2020,353.8
+OMN,Oman,GCC,cvd_rate,2021,297.9
+JOR,Jordan,Levant & Iraq,cvd_rate,2000,314.9
+JOR,Jordan,Levant & Iraq,cvd_rate,2001,324.5
+JOR,Jordan,Levant & Iraq,cvd_rate,2002,319
+JOR,Jordan,Levant & Iraq,cvd_rate,2003,288.8
+JOR,Jordan,Levant & Iraq,cvd_rate,2004,293.3
+JOR,Jordan,Levant & Iraq,cvd_rate,2005,312.7
+JOR,Jordan,Levant & Iraq,cvd_rate,2006,309.1
+JOR,Jordan,Levant & Iraq,cvd_rate,2007,255.2
+JOR,Jordan,Levant & Iraq,cvd_rate,2008,226.9
+JOR,Jordan,Levant & Iraq,cvd_rate,2009,213.4
+JOR,Jordan,Levant & Iraq,cvd_rate,2010,205.6
+JOR,Jordan,Levant & Iraq,cvd_rate,2011,201.5
+JOR,Jordan,Levant & Iraq,cvd_rate,2012,197.3
+JOR,Jordan,Levant & Iraq,cvd_rate,2013,191.2
+JOR,Jordan,Levant & Iraq,cvd_rate,2014,184.4
+JOR,Jordan,Levant & Iraq,cvd_rate,2015,171.8
+JOR,Jordan,Levant & Iraq,cvd_rate,2016,165.2
+JOR,Jordan,Levant & Iraq,cvd_rate,2017,158.2
+JOR,Jordan,Levant & Iraq,cvd_rate,2018,148.4
+JOR,Jordan,Levant & Iraq,cvd_rate,2019,145.8
+JOR,Jordan,Levant & Iraq,cvd_rate,2020,169.3
+JOR,Jordan,Levant & Iraq,cvd_rate,2021,155.1
+LBN,Lebanon,Levant & Iraq,cvd_rate,2000,253.1
+LBN,Lebanon,Levant & Iraq,cvd_rate,2001,236.5
+LBN,Lebanon,Levant & Iraq,cvd_rate,2002,212.4
+LBN,Lebanon,Levant & Iraq,cvd_rate,2003,196.3
+LBN,Lebanon,Levant & Iraq,cvd_rate,2004,185.3
+LBN,Lebanon,Levant & Iraq,cvd_rate,2005,180.7
+LBN,Lebanon,Levant & Iraq,cvd_rate,2006,175.3
+LBN,Lebanon,Levant & Iraq,cvd_rate,2007,173.3
+LBN,Lebanon,Levant & Iraq,cvd_rate,2008,171.5
+LBN,Lebanon,Levant & Iraq,cvd_rate,2009,168.2
+LBN,Lebanon,Levant & Iraq,cvd_rate,2010,164.8
+LBN,Lebanon,Levant & Iraq,cvd_rate,2011,165.6
+LBN,Lebanon,Levant & Iraq,cvd_rate,2012,164.5
+LBN,Lebanon,Levant & Iraq,cvd_rate,2013,163.6
+LBN,Lebanon,Levant & Iraq,cvd_rate,2014,159.9
+LBN,Lebanon,Levant & Iraq,cvd_rate,2015,155.8
+LBN,Lebanon,Levant & Iraq,cvd_rate,2016,148.8
+LBN,Lebanon,Levant & Iraq,cvd_rate,2017,144.6
+LBN,Lebanon,Levant & Iraq,cvd_rate,2018,140
+LBN,Lebanon,Levant & Iraq,cvd_rate,2019,139.7
+LBN,Lebanon,Levant & Iraq,cvd_rate,2020,143.3
+LBN,Lebanon,Levant & Iraq,cvd_rate,2021,135.1
+IRQ,Iraq,Levant & Iraq,cvd_rate,2000,423.9
+IRQ,Iraq,Levant & Iraq,cvd_rate,2001,414.6
+IRQ,Iraq,Levant & Iraq,cvd_rate,2002,409.1
+IRQ,Iraq,Levant & Iraq,cvd_rate,2003,405.8
+IRQ,Iraq,Levant & Iraq,cvd_rate,2004,401.1
+IRQ,Iraq,Levant & Iraq,cvd_rate,2005,395.2
+IRQ,Iraq,Levant & Iraq,cvd_rate,2006,387.7
+IRQ,Iraq,Levant & Iraq,cvd_rate,2007,390.7
+IRQ,Iraq,Levant & Iraq,cvd_rate,2008,392.5
+IRQ,Iraq,Levant & Iraq,cvd_rate,2009,386.6
+IRQ,Iraq,Levant & Iraq,cvd_rate,2010,378.6
+IRQ,Iraq,Levant & Iraq,cvd_rate,2011,369.9
+IRQ,Iraq,Levant & Iraq,cvd_rate,2012,360.8
+IRQ,Iraq,Levant & Iraq,cvd_rate,2013,349.9
+IRQ,Iraq,Levant & Iraq,cvd_rate,2014,338.8
+IRQ,Iraq,Levant & Iraq,cvd_rate,2015,332.3
+IRQ,Iraq,Levant & Iraq,cvd_rate,2016,326.9
+IRQ,Iraq,Levant & Iraq,cvd_rate,2017,325.1
+IRQ,Iraq,Levant & Iraq,cvd_rate,2018,338.2
+IRQ,Iraq,Levant & Iraq,cvd_rate,2019,355.7
+IRQ,Iraq,Levant & Iraq,cvd_rate,2020,449
+IRQ,Iraq,Levant & Iraq,cvd_rate,2021,397.1
+EGY,Egypt,North Africa,cvd_rate,2000,470.4
+EGY,Egypt,North Africa,cvd_rate,2001,497.9
+EGY,Egypt,North Africa,cvd_rate,2002,510.3
+EGY,Egypt,North Africa,cvd_rate,2003,527.6
+EGY,Egypt,North Africa,cvd_rate,2004,507.3
+EGY,Egypt,North Africa,cvd_rate,2005,491.5
+EGY,Egypt,North Africa,cvd_rate,2006,489.9
+EGY,Egypt,North Africa,cvd_rate,2007,486.4
+EGY,Egypt,North Africa,cvd_rate,2008,489.3
+EGY,Egypt,North Africa,cvd_rate,2009,490.7
+EGY,Egypt,North Africa,cvd_rate,2010,491
+EGY,Egypt,North Africa,cvd_rate,2011,480.4
+EGY,Egypt,North Africa,cvd_rate,2012,509.4
+EGY,Egypt,North Africa,cvd_rate,2013,475.7
+EGY,Egypt,North Africa,cvd_rate,2014,483.9
+EGY,Egypt,North Africa,cvd_rate,2015,519.5
+EGY,Egypt,North Africa,cvd_rate,2016,483.9
+EGY,Egypt,North Africa,cvd_rate,2017,467.5
+EGY,Egypt,North Africa,cvd_rate,2018,470.6
+EGY,Egypt,North Africa,cvd_rate,2019,476.7
+EGY,Egypt,North Africa,cvd_rate,2020,448.7
+EGY,Egypt,North Africa,cvd_rate,2021,462.8
+MAR,Morocco,North Africa,cvd_rate,2000,408.6
+MAR,Morocco,North Africa,cvd_rate,2001,405.5
+MAR,Morocco,North Africa,cvd_rate,2002,398.6
+MAR,Morocco,North Africa,cvd_rate,2003,399.6
+MAR,Morocco,North Africa,cvd_rate,2004,398.8
+MAR,Morocco,North Africa,cvd_rate,2005,398.6
+MAR,Morocco,North Africa,cvd_rate,2006,397.7
+MAR,Morocco,North Africa,cvd_rate,2007,397.1
+MAR,Morocco,North Africa,cvd_rate,2008,392.5
+MAR,Morocco,North Africa,cvd_rate,2009,388.9
+MAR,Morocco,North Africa,cvd_rate,2010,385.9
+MAR,Morocco,North Africa,cvd_rate,2011,385.2
+MAR,Morocco,North Africa,cvd_rate,2012,382.9
+MAR,Morocco,North Africa,cvd_rate,2013,382.7
+MAR,Morocco,North Africa,cvd_rate,2014,382.6
+MAR,Morocco,North Africa,cvd_rate,2015,383
+MAR,Morocco,North Africa,cvd_rate,2016,382.8
+MAR,Morocco,North Africa,cvd_rate,2017,383.2
+MAR,Morocco,North Africa,cvd_rate,2018,383.8
+MAR,Morocco,North Africa,cvd_rate,2019,381.7
+MAR,Morocco,North Africa,cvd_rate,2020,394.3
+MAR,Morocco,North Africa,cvd_rate,2021,379.2
+TUN,Tunisia,North Africa,cvd_rate,2000,368
+TUN,Tunisia,North Africa,cvd_rate,2001,364.5
+TUN,Tunisia,North Africa,cvd_rate,2002,359.3
+TUN,Tunisia,North Africa,cvd_rate,2003,356.9
+TUN,Tunisia,North Africa,cvd_rate,2004,350.8
+TUN,Tunisia,North Africa,cvd_rate,2005,343.8
+TUN,Tunisia,North Africa,cvd_rate,2006,336.5
+TUN,Tunisia,North Africa,cvd_rate,2007,329.1
+TUN,Tunisia,North Africa,cvd_rate,2008,322
+TUN,Tunisia,North Africa,cvd_rate,2009,317.6
+TUN,Tunisia,North Africa,cvd_rate,2010,313.7
+TUN,Tunisia,North Africa,cvd_rate,2011,301.9
+TUN,Tunisia,North Africa,cvd_rate,2012,295.9
+TUN,Tunisia,North Africa,cvd_rate,2013,293.2
+TUN,Tunisia,North Africa,cvd_rate,2014,289.9
+TUN,Tunisia,North Africa,cvd_rate,2015,288
+TUN,Tunisia,North Africa,cvd_rate,2016,284.7
+TUN,Tunisia,North Africa,cvd_rate,2017,282.9
+TUN,Tunisia,North Africa,cvd_rate,2018,278.1
+TUN,Tunisia,North Africa,cvd_rate,2019,271.3
+TUN,Tunisia,North Africa,cvd_rate,2020,278.3
+TUN,Tunisia,North Africa,cvd_rate,2021,263.4
+DZA,Algeria,North Africa,cvd_rate,2000,335.3
+DZA,Algeria,North Africa,cvd_rate,2001,330.2
+DZA,Algeria,North Africa,cvd_rate,2002,324.7
+DZA,Algeria,North Africa,cvd_rate,2003,324.3
+DZA,Algeria,North Africa,cvd_rate,2004,320.2
+DZA,Algeria,North Africa,cvd_rate,2005,315.8
+DZA,Algeria,North Africa,cvd_rate,2006,313.5
+DZA,Algeria,North Africa,cvd_rate,2007,311.3
+DZA,Algeria,North Africa,cvd_rate,2008,310.4
+DZA,Algeria,North Africa,cvd_rate,2009,307.2
+DZA,Algeria,North Africa,cvd_rate,2010,311.1
+DZA,Algeria,North Africa,cvd_rate,2011,310.8
+DZA,Algeria,North Africa,cvd_rate,2012,302.8
+DZA,Algeria,North Africa,cvd_rate,2013,299.7
+DZA,Algeria,North Africa,cvd_rate,2014,295.8
+DZA,Algeria,North Africa,cvd_rate,2015,293.5
+DZA,Algeria,North Africa,cvd_rate,2016,286.2
+DZA,Algeria,North Africa,cvd_rate,2017,283.3
+DZA,Algeria,North Africa,cvd_rate,2018,286.9
+DZA,Algeria,North Africa,cvd_rate,2019,288.3
+DZA,Algeria,North Africa,cvd_rate,2020,306.4
+DZA,Algeria,North Africa,cvd_rate,2021,316.4
+LBY,Libya,North Africa,cvd_rate,2000,251.1
+LBY,Libya,North Africa,cvd_rate,2001,267.2
+LBY,Libya,North Africa,cvd_rate,2002,274.6
+LBY,Libya,North Africa,cvd_rate,2003,277.3
+LBY,Libya,North Africa,cvd_rate,2004,270
+LBY,Libya,North Africa,cvd_rate,2005,273.3
+LBY,Libya,North Africa,cvd_rate,2006,258.8
+LBY,Libya,North Africa,cvd_rate,2007,265.2
+LBY,Libya,North Africa,cvd_rate,2008,271.6
+LBY,Libya,North Africa,cvd_rate,2009,279
+LBY,Libya,North Africa,cvd_rate,2010,277.1
+LBY,Libya,North Africa,cvd_rate,2011,285.9
+LBY,Libya,North Africa,cvd_rate,2012,260.7
+LBY,Libya,North Africa,cvd_rate,2013,250.3
+LBY,Libya,North Africa,cvd_rate,2014,265.9
+LBY,Libya,North Africa,cvd_rate,2015,267.4
+LBY,Libya,North Africa,cvd_rate,2016,273.9
+LBY,Libya,North Africa,cvd_rate,2017,280
+LBY,Libya,North Africa,cvd_rate,2018,281.4
+LBY,Libya,North Africa,cvd_rate,2019,273.9
+LBY,Libya,North Africa,cvd_rate,2020,275.1
+LBY,Libya,North Africa,cvd_rate,2021,257.3
+USA,United States,Global benchmark,cvd_rate,2000,201.9
+USA,United States,Global benchmark,cvd_rate,2001,195.4
+USA,United States,Global benchmark,cvd_rate,2002,191.2
+USA,United States,Global benchmark,cvd_rate,2003,184.6
+USA,United States,Global benchmark,cvd_rate,2004,172.9
+USA,United States,Global benchmark,cvd_rate,2005,168.4
+USA,United States,Global benchmark,cvd_rate,2006,159.1
+USA,United States,Global benchmark,cvd_rate,2007,152.3
+USA,United States,Global benchmark,cvd_rate,2008,148.9
+USA,United States,Global benchmark,cvd_rate,2009,142
+USA,United States,Global benchmark,cvd_rate,2010,138.3
+USA,United States,Global benchmark,cvd_rate,2011,135.7
+USA,United States,Global benchmark,cvd_rate,2012,134
+USA,United States,Global benchmark,cvd_rate,2013,133.5
+USA,United States,Global benchmark,cvd_rate,2014,132.2
+USA,United States,Global benchmark,cvd_rate,2015,134
+USA,United States,Global benchmark,cvd_rate,2016,132.7
+USA,United States,Global benchmark,cvd_rate,2017,132.7
+USA,United States,Global benchmark,cvd_rate,2018,131.6
+USA,United States,Global benchmark,cvd_rate,2019,128.6
+USA,United States,Global benchmark,cvd_rate,2020,135.4
+USA,United States,Global benchmark,cvd_rate,2021,136.2
+GBR,United Kingdom,Global benchmark,cvd_rate,2000,189.8
+GBR,United Kingdom,Global benchmark,cvd_rate,2001,190.8
+GBR,United Kingdom,Global benchmark,cvd_rate,2002,185.9
+GBR,United Kingdom,Global benchmark,cvd_rate,2003,180.4
+GBR,United Kingdom,Global benchmark,cvd_rate,2004,166.6
+GBR,United Kingdom,Global benchmark,cvd_rate,2005,157.1
+GBR,United Kingdom,Global benchmark,cvd_rate,2006,146.8
+GBR,United Kingdom,Global benchmark,cvd_rate,2007,140.4
+GBR,United Kingdom,Global benchmark,cvd_rate,2008,135.5
+GBR,United Kingdom,Global benchmark,cvd_rate,2009,126
+GBR,United Kingdom,Global benchmark,cvd_rate,2010,122.5
+GBR,United Kingdom,Global benchmark,cvd_rate,2011,108.5
+GBR,United Kingdom,Global benchmark,cvd_rate,2012,107.5
+GBR,United Kingdom,Global benchmark,cvd_rate,2013,105.5
+GBR,United Kingdom,Global benchmark,cvd_rate,2014,100.1
+GBR,United Kingdom,Global benchmark,cvd_rate,2015,100.9
+GBR,United Kingdom,Global benchmark,cvd_rate,2016,96.4
+GBR,United Kingdom,Global benchmark,cvd_rate,2017,94.4
+GBR,United Kingdom,Global benchmark,cvd_rate,2018,95.2
+GBR,United Kingdom,Global benchmark,cvd_rate,2019,89.3
+GBR,United Kingdom,Global benchmark,cvd_rate,2020,92.9
+GBR,United Kingdom,Global benchmark,cvd_rate,2021,88.5
+FIN,Finland,Global benchmark,cvd_rate,2000,219.2
+FIN,Finland,Global benchmark,cvd_rate,2001,206.9
+FIN,Finland,Global benchmark,cvd_rate,2002,208
+FIN,Finland,Global benchmark,cvd_rate,2003,200.1
+FIN,Finland,Global benchmark,cvd_rate,2004,187.5
+FIN,Finland,Global benchmark,cvd_rate,2005,181.3
+FIN,Finland,Global benchmark,cvd_rate,2006,177.4
+FIN,Finland,Global benchmark,cvd_rate,2007,175.3
+FIN,Finland,Global benchmark,cvd_rate,2008,170.1
+FIN,Finland,Global benchmark,cvd_rate,2009,167.1
+FIN,Finland,Global benchmark,cvd_rate,2010,164.4
+FIN,Finland,Global benchmark,cvd_rate,2011,156.4
+FIN,Finland,Global benchmark,cvd_rate,2012,155.1
+FIN,Finland,Global benchmark,cvd_rate,2013,147.7
+FIN,Finland,Global benchmark,cvd_rate,2014,145.3
+FIN,Finland,Global benchmark,cvd_rate,2015,140.7
+FIN,Finland,Global benchmark,cvd_rate,2016,139.5
+FIN,Finland,Global benchmark,cvd_rate,2017,133.7
+FIN,Finland,Global benchmark,cvd_rate,2018,130.8
+FIN,Finland,Global benchmark,cvd_rate,2019,124.3
+FIN,Finland,Global benchmark,cvd_rate,2020,124.4
+FIN,Finland,Global benchmark,cvd_rate,2021,124.1
+WLD,World,Aggregate,cvd_rate,2000,283.4
+WLD,World,Aggregate,cvd_rate,2001,280.2
+WLD,World,Aggregate,cvd_rate,2002,280.3
+WLD,World,Aggregate,cvd_rate,2003,281.7
+WLD,World,Aggregate,cvd_rate,2004,275.6
+WLD,World,Aggregate,cvd_rate,2005,272.1
+WLD,World,Aggregate,cvd_rate,2006,261.3
+WLD,World,Aggregate,cvd_rate,2007,256
+WLD,World,Aggregate,cvd_rate,2008,253.4
+WLD,World,Aggregate,cvd_rate,2009,248.7
+WLD,World,Aggregate,cvd_rate,2010,246.9
+WLD,World,Aggregate,cvd_rate,2011,240.8
+WLD,World,Aggregate,cvd_rate,2012,236.6
+WLD,World,Aggregate,cvd_rate,2013,232.6
+WLD,World,Aggregate,cvd_rate,2014,229.5
+WLD,World,Aggregate,cvd_rate,2015,226.7
+WLD,World,Aggregate,cvd_rate,2016,223.2
+WLD,World,Aggregate,cvd_rate,2017,220
+WLD,World,Aggregate,cvd_rate,2018,217.6
+WLD,World,Aggregate,cvd_rate,2019,214.3
+WLD,World,Aggregate,cvd_rate,2020,212.4
+WLD,World,Aggregate,cvd_rate,2021,210.1
+ARE,UAE,GCC,diab_death,2000,4.4
+ARE,UAE,GCC,diab_death,2001,4.6
+ARE,UAE,GCC,diab_death,2002,5.1
+ARE,UAE,GCC,diab_death,2003,5.2
+ARE,UAE,GCC,diab_death,2004,5.8
+ARE,UAE,GCC,diab_death,2005,6.2
+ARE,UAE,GCC,diab_death,2006,6.1
+ARE,UAE,GCC,diab_death,2007,5.5
+ARE,UAE,GCC,diab_death,2008,4.8
+ARE,UAE,GCC,diab_death,2009,4.7
+ARE,UAE,GCC,diab_death,2010,4.8
+ARE,UAE,GCC,diab_death,2011,5
+ARE,UAE,GCC,diab_death,2012,5.2
+ARE,UAE,GCC,diab_death,2013,5.2
+ARE,UAE,GCC,diab_death,2014,5.3
+ARE,UAE,GCC,diab_death,2015,5.3
+ARE,UAE,GCC,diab_death,2016,5.2
+ARE,UAE,GCC,diab_death,2017,5.2
+ARE,UAE,GCC,diab_death,2018,5.4
+ARE,UAE,GCC,diab_death,2019,5.5
+ARE,UAE,GCC,diab_death,2020,5.8
+ARE,UAE,GCC,diab_death,2021,7
+SAU,Saudi Arabia,GCC,diab_death,2000,15.7
+SAU,Saudi Arabia,GCC,diab_death,2001,14.9
+SAU,Saudi Arabia,GCC,diab_death,2002,14.3
+SAU,Saudi Arabia,GCC,diab_death,2003,14.3
+SAU,Saudi Arabia,GCC,diab_death,2004,14.4
+SAU,Saudi Arabia,GCC,diab_death,2005,14.6
+SAU,Saudi Arabia,GCC,diab_death,2006,14.7
+SAU,Saudi Arabia,GCC,diab_death,2007,14.6
+SAU,Saudi Arabia,GCC,diab_death,2008,14.1
+SAU,Saudi Arabia,GCC,diab_death,2009,13.4
+SAU,Saudi Arabia,GCC,diab_death,2010,12.5
+SAU,Saudi Arabia,GCC,diab_death,2011,11.2
+SAU,Saudi Arabia,GCC,diab_death,2012,10.3
+SAU,Saudi Arabia,GCC,diab_death,2013,10.3
+SAU,Saudi Arabia,GCC,diab_death,2014,10.9
+SAU,Saudi Arabia,GCC,diab_death,2015,11.2
+SAU,Saudi Arabia,GCC,diab_death,2016,11.7
+SAU,Saudi Arabia,GCC,diab_death,2017,12.9
+SAU,Saudi Arabia,GCC,diab_death,2018,13.9
+SAU,Saudi Arabia,GCC,diab_death,2019,14.3
+SAU,Saudi Arabia,GCC,diab_death,2020,13.3
+SAU,Saudi Arabia,GCC,diab_death,2021,13.7
+QAT,Qatar,GCC,diab_death,2000,20.9
+QAT,Qatar,GCC,diab_death,2001,21.2
+QAT,Qatar,GCC,diab_death,2002,22.9
+QAT,Qatar,GCC,diab_death,2003,23.6
+QAT,Qatar,GCC,diab_death,2004,23.9
+QAT,Qatar,GCC,diab_death,2005,23.8
+QAT,Qatar,GCC,diab_death,2006,22.4
+QAT,Qatar,GCC,diab_death,2007,21.6
+QAT,Qatar,GCC,diab_death,2008,20
+QAT,Qatar,GCC,diab_death,2009,19.1
+QAT,Qatar,GCC,diab_death,2010,18.2
+QAT,Qatar,GCC,diab_death,2011,17.6
+QAT,Qatar,GCC,diab_death,2012,17.4
+QAT,Qatar,GCC,diab_death,2013,17
+QAT,Qatar,GCC,diab_death,2014,15.8
+QAT,Qatar,GCC,diab_death,2015,14.4
+QAT,Qatar,GCC,diab_death,2016,14.5
+QAT,Qatar,GCC,diab_death,2017,14.3
+QAT,Qatar,GCC,diab_death,2018,14.2
+QAT,Qatar,GCC,diab_death,2019,14.3
+QAT,Qatar,GCC,diab_death,2020,15.2
+QAT,Qatar,GCC,diab_death,2021,16.2
+KWT,Kuwait,GCC,diab_death,2000,6.9
+KWT,Kuwait,GCC,diab_death,2001,5.1
+KWT,Kuwait,GCC,diab_death,2002,5.7
+KWT,Kuwait,GCC,diab_death,2003,5.2
+KWT,Kuwait,GCC,diab_death,2004,5.9
+KWT,Kuwait,GCC,diab_death,2005,5.9
+KWT,Kuwait,GCC,diab_death,2006,5.9
+KWT,Kuwait,GCC,diab_death,2007,5.7
+KWT,Kuwait,GCC,diab_death,2008,6.3
+KWT,Kuwait,GCC,diab_death,2009,6.3
+KWT,Kuwait,GCC,diab_death,2010,5.7
+KWT,Kuwait,GCC,diab_death,2011,5.1
+KWT,Kuwait,GCC,diab_death,2012,5.2
+KWT,Kuwait,GCC,diab_death,2013,5.4
+KWT,Kuwait,GCC,diab_death,2014,5.7
+KWT,Kuwait,GCC,diab_death,2015,6.8
+KWT,Kuwait,GCC,diab_death,2016,7.6
+KWT,Kuwait,GCC,diab_death,2017,8.1
+KWT,Kuwait,GCC,diab_death,2018,8.4
+KWT,Kuwait,GCC,diab_death,2019,9.8
+KWT,Kuwait,GCC,diab_death,2020,12.1
+KWT,Kuwait,GCC,diab_death,2021,11.9
+BHR,Bahrain,GCC,diab_death,2000,39.5
+BHR,Bahrain,GCC,diab_death,2001,38.9
+BHR,Bahrain,GCC,diab_death,2002,40
+BHR,Bahrain,GCC,diab_death,2003,42.6
+BHR,Bahrain,GCC,diab_death,2004,44.4
+BHR,Bahrain,GCC,diab_death,2005,44.9
+BHR,Bahrain,GCC,diab_death,2006,43.2
+BHR,Bahrain,GCC,diab_death,2007,41.9
+BHR,Bahrain,GCC,diab_death,2008,40.6
+BHR,Bahrain,GCC,diab_death,2009,39.7
+BHR,Bahrain,GCC,diab_death,2010,40.9
+BHR,Bahrain,GCC,diab_death,2011,41.7
+BHR,Bahrain,GCC,diab_death,2012,41.7
+BHR,Bahrain,GCC,diab_death,2013,42.4
+BHR,Bahrain,GCC,diab_death,2014,42.8
+BHR,Bahrain,GCC,diab_death,2015,43.6
+BHR,Bahrain,GCC,diab_death,2016,44.7
+BHR,Bahrain,GCC,diab_death,2017,43.9
+BHR,Bahrain,GCC,diab_death,2018,43.4
+BHR,Bahrain,GCC,diab_death,2019,44.8
+BHR,Bahrain,GCC,diab_death,2020,49.6
+BHR,Bahrain,GCC,diab_death,2021,53.4
+OMN,Oman,GCC,diab_death,2000,15.1
+OMN,Oman,GCC,diab_death,2001,14.8
+OMN,Oman,GCC,diab_death,2002,14.5
+OMN,Oman,GCC,diab_death,2003,14.4
+OMN,Oman,GCC,diab_death,2004,14.2
+OMN,Oman,GCC,diab_death,2005,14.3
+OMN,Oman,GCC,diab_death,2006,14.9
+OMN,Oman,GCC,diab_death,2007,15
+OMN,Oman,GCC,diab_death,2008,15.4
+OMN,Oman,GCC,diab_death,2009,14.5
+OMN,Oman,GCC,diab_death,2010,16.8
+OMN,Oman,GCC,diab_death,2011,16.6
+OMN,Oman,GCC,diab_death,2012,16.3
+OMN,Oman,GCC,diab_death,2013,16.2
+OMN,Oman,GCC,diab_death,2014,17
+OMN,Oman,GCC,diab_death,2015,17.3
+OMN,Oman,GCC,diab_death,2016,17.9
+OMN,Oman,GCC,diab_death,2017,17.7
+OMN,Oman,GCC,diab_death,2018,17.2
+OMN,Oman,GCC,diab_death,2019,17.4
+OMN,Oman,GCC,diab_death,2020,18.2
+OMN,Oman,GCC,diab_death,2021,15
+JOR,Jordan,Levant & Iraq,diab_death,2000,18.7
+JOR,Jordan,Levant & Iraq,diab_death,2001,19.5
+JOR,Jordan,Levant & Iraq,diab_death,2002,19.8
+JOR,Jordan,Levant & Iraq,diab_death,2003,18.9
+JOR,Jordan,Levant & Iraq,diab_death,2004,19.7
+JOR,Jordan,Levant & Iraq,diab_death,2005,21
+JOR,Jordan,Levant & Iraq,diab_death,2006,20.9
+JOR,Jordan,Levant & Iraq,diab_death,2007,18.2
+JOR,Jordan,Levant & Iraq,diab_death,2008,16.6
+JOR,Jordan,Levant & Iraq,diab_death,2009,15.9
+JOR,Jordan,Levant & Iraq,diab_death,2010,15.6
+JOR,Jordan,Levant & Iraq,diab_death,2011,15.6
+JOR,Jordan,Levant & Iraq,diab_death,2012,15.4
+JOR,Jordan,Levant & Iraq,diab_death,2013,14.6
+JOR,Jordan,Levant & Iraq,diab_death,2014,13.2
+JOR,Jordan,Levant & Iraq,diab_death,2015,12.2
+JOR,Jordan,Levant & Iraq,diab_death,2016,12.2
+JOR,Jordan,Levant & Iraq,diab_death,2017,12.1
+JOR,Jordan,Levant & Iraq,diab_death,2018,11.9
+JOR,Jordan,Levant & Iraq,diab_death,2019,12.2
+JOR,Jordan,Levant & Iraq,diab_death,2020,14.2
+JOR,Jordan,Levant & Iraq,diab_death,2021,13
+LBN,Lebanon,Levant & Iraq,diab_death,2000,15.3
+LBN,Lebanon,Levant & Iraq,diab_death,2001,15.5
+LBN,Lebanon,Levant & Iraq,diab_death,2002,16
+LBN,Lebanon,Levant & Iraq,diab_death,2003,16.6
+LBN,Lebanon,Levant & Iraq,diab_death,2004,17.1
+LBN,Lebanon,Levant & Iraq,diab_death,2005,17.9
+LBN,Lebanon,Levant & Iraq,diab_death,2006,18.3
+LBN,Lebanon,Levant & Iraq,diab_death,2007,19.1
+LBN,Lebanon,Levant & Iraq,diab_death,2008,19.8
+LBN,Lebanon,Levant & Iraq,diab_death,2009,20.3
+LBN,Lebanon,Levant & Iraq,diab_death,2010,20.8
+LBN,Lebanon,Levant & Iraq,diab_death,2011,21.8
+LBN,Lebanon,Levant & Iraq,diab_death,2012,22.4
+LBN,Lebanon,Levant & Iraq,diab_death,2013,23.1
+LBN,Lebanon,Levant & Iraq,diab_death,2014,23.3
+LBN,Lebanon,Levant & Iraq,diab_death,2015,23.9
+LBN,Lebanon,Levant & Iraq,diab_death,2016,24.4
+LBN,Lebanon,Levant & Iraq,diab_death,2017,25.1
+LBN,Lebanon,Levant & Iraq,diab_death,2018,25.9
+LBN,Lebanon,Levant & Iraq,diab_death,2019,27.4
+LBN,Lebanon,Levant & Iraq,diab_death,2020,30.1
+LBN,Lebanon,Levant & Iraq,diab_death,2021,29.7
+IRQ,Iraq,Levant & Iraq,diab_death,2000,14.1
+IRQ,Iraq,Levant & Iraq,diab_death,2001,13.7
+IRQ,Iraq,Levant & Iraq,diab_death,2002,13.6
+IRQ,Iraq,Levant & Iraq,diab_death,2003,13.6
+IRQ,Iraq,Levant & Iraq,diab_death,2004,13.6
+IRQ,Iraq,Levant & Iraq,diab_death,2005,13.6
+IRQ,Iraq,Levant & Iraq,diab_death,2006,13.5
+IRQ,Iraq,Levant & Iraq,diab_death,2007,13.8
+IRQ,Iraq,Levant & Iraq,diab_death,2008,14
+IRQ,Iraq,Levant & Iraq,diab_death,2009,14
+IRQ,Iraq,Levant & Iraq,diab_death,2010,13.9
+IRQ,Iraq,Levant & Iraq,diab_death,2011,13.9
+IRQ,Iraq,Levant & Iraq,diab_death,2012,13.8
+IRQ,Iraq,Levant & Iraq,diab_death,2013,13.6
+IRQ,Iraq,Levant & Iraq,diab_death,2014,13.6
+IRQ,Iraq,Levant & Iraq,diab_death,2015,13.6
+IRQ,Iraq,Levant & Iraq,diab_death,2016,13.7
+IRQ,Iraq,Levant & Iraq,diab_death,2017,13.9
+IRQ,Iraq,Levant & Iraq,diab_death,2018,14.7
+IRQ,Iraq,Levant & Iraq,diab_death,2019,15.6
+IRQ,Iraq,Levant & Iraq,diab_death,2020,18.3
+IRQ,Iraq,Levant & Iraq,diab_death,2021,17.5
+EGY,Egypt,North Africa,diab_death,2000,11.8
+EGY,Egypt,North Africa,diab_death,2001,12.8
+EGY,Egypt,North Africa,diab_death,2002,14
+EGY,Egypt,North Africa,diab_death,2003,15.5
+EGY,Egypt,North Africa,diab_death,2004,16.3
+EGY,Egypt,North Africa,diab_death,2005,17
+EGY,Egypt,North Africa,diab_death,2006,17.9
+EGY,Egypt,North Africa,diab_death,2007,18.3
+EGY,Egypt,North Africa,diab_death,2008,19.2
+EGY,Egypt,North Africa,diab_death,2009,20.1
+EGY,Egypt,North Africa,diab_death,2010,20.9
+EGY,Egypt,North Africa,diab_death,2011,21.1
+EGY,Egypt,North Africa,diab_death,2012,22.8
+EGY,Egypt,North Africa,diab_death,2013,21.5
+EGY,Egypt,North Africa,diab_death,2014,22.6
+EGY,Egypt,North Africa,diab_death,2015,24.8
+EGY,Egypt,North Africa,diab_death,2016,24.2
+EGY,Egypt,North Africa,diab_death,2017,23.4
+EGY,Egypt,North Africa,diab_death,2018,23.9
+EGY,Egypt,North Africa,diab_death,2019,23.8
+EGY,Egypt,North Africa,diab_death,2020,23.5
+EGY,Egypt,North Africa,diab_death,2021,23.5
+MAR,Morocco,North Africa,diab_death,2000,6.3
+MAR,Morocco,North Africa,diab_death,2001,6.6
+MAR,Morocco,North Africa,diab_death,2002,7
+MAR,Morocco,North Africa,diab_death,2003,7.6
+MAR,Morocco,North Africa,diab_death,2004,8.2
+MAR,Morocco,North Africa,diab_death,2005,8.7
+MAR,Morocco,North Africa,diab_death,2006,9.3
+MAR,Morocco,North Africa,diab_death,2007,9.8
+MAR,Morocco,North Africa,diab_death,2008,10.3
+MAR,Morocco,North Africa,diab_death,2009,10.8
+MAR,Morocco,North Africa,diab_death,2010,11.3
+MAR,Morocco,North Africa,diab_death,2011,11.8
+MAR,Morocco,North Africa,diab_death,2012,12.3
+MAR,Morocco,North Africa,diab_death,2013,12.9
+MAR,Morocco,North Africa,diab_death,2014,13.4
+MAR,Morocco,North Africa,diab_death,2015,14.1
+MAR,Morocco,North Africa,diab_death,2016,14.8
+MAR,Morocco,North Africa,diab_death,2017,15.5
+MAR,Morocco,North Africa,diab_death,2018,16.3
+MAR,Morocco,North Africa,diab_death,2019,17
+MAR,Morocco,North Africa,diab_death,2020,18
+MAR,Morocco,North Africa,diab_death,2021,17.9
+TUN,Tunisia,North Africa,diab_death,2000,6.5
+TUN,Tunisia,North Africa,diab_death,2001,6.8
+TUN,Tunisia,North Africa,diab_death,2002,7.2
+TUN,Tunisia,North Africa,diab_death,2003,7.7
+TUN,Tunisia,North Africa,diab_death,2004,8.1
+TUN,Tunisia,North Africa,diab_death,2005,8.6
+TUN,Tunisia,North Africa,diab_death,2006,9
+TUN,Tunisia,North Africa,diab_death,2007,9.5
+TUN,Tunisia,North Africa,diab_death,2008,9.9
+TUN,Tunisia,North Africa,diab_death,2009,10.4
+TUN,Tunisia,North Africa,diab_death,2010,10.8
+TUN,Tunisia,North Africa,diab_death,2011,11
+TUN,Tunisia,North Africa,diab_death,2012,11.3
+TUN,Tunisia,North Africa,diab_death,2013,11.8
+TUN,Tunisia,North Africa,diab_death,2014,12.2
+TUN,Tunisia,North Africa,diab_death,2015,12.8
+TUN,Tunisia,North Africa,diab_death,2016,13.2
+TUN,Tunisia,North Africa,diab_death,2017,13.7
+TUN,Tunisia,North Africa,diab_death,2018,14.1
+TUN,Tunisia,North Africa,diab_death,2019,14.5
+TUN,Tunisia,North Africa,diab_death,2020,15.5
+TUN,Tunisia,North Africa,diab_death,2021,14.3
+DZA,Algeria,North Africa,diab_death,2000,4.6
+DZA,Algeria,North Africa,diab_death,2001,4.7
+DZA,Algeria,North Africa,diab_death,2002,5
+DZA,Algeria,North Africa,diab_death,2003,5.3
+DZA,Algeria,North Africa,diab_death,2004,5.6
+DZA,Algeria,North Africa,diab_death,2005,5.8
+DZA,Algeria,North Africa,diab_death,2006,6.1
+DZA,Algeria,North Africa,diab_death,2007,6.3
+DZA,Algeria,North Africa,diab_death,2008,6.6
+DZA,Algeria,North Africa,diab_death,2009,6.8
+DZA,Algeria,North Africa,diab_death,2010,7.1
+DZA,Algeria,North Africa,diab_death,2011,7.4
+DZA,Algeria,North Africa,diab_death,2012,7.6
+DZA,Algeria,North Africa,diab_death,2013,7.9
+DZA,Algeria,North Africa,diab_death,2014,8.1
+DZA,Algeria,North Africa,diab_death,2015,8.4
+DZA,Algeria,North Africa,diab_death,2016,8.6
+DZA,Algeria,North Africa,diab_death,2017,8.9
+DZA,Algeria,North Africa,diab_death,2018,9.4
+DZA,Algeria,North Africa,diab_death,2019,9.8
+DZA,Algeria,North Africa,diab_death,2020,10.3
+DZA,Algeria,North Africa,diab_death,2021,11
+LBY,Libya,North Africa,diab_death,2000,7.4
+LBY,Libya,North Africa,diab_death,2001,7.9
+LBY,Libya,North Africa,diab_death,2002,8.4
+LBY,Libya,North Africa,diab_death,2003,8.8
+LBY,Libya,North Africa,diab_death,2004,8.7
+LBY,Libya,North Africa,diab_death,2005,9.1
+LBY,Libya,North Africa,diab_death,2006,8.8
+LBY,Libya,North Africa,diab_death,2007,9.6
+LBY,Libya,North Africa,diab_death,2008,10.3
+LBY,Libya,North Africa,diab_death,2009,10.9
+LBY,Libya,North Africa,diab_death,2010,11.3
+LBY,Libya,North Africa,diab_death,2011,12.9
+LBY,Libya,North Africa,diab_death,2012,12.9
+LBY,Libya,North Africa,diab_death,2013,12.5
+LBY,Libya,North Africa,diab_death,2014,13.8
+LBY,Libya,North Africa,diab_death,2015,14.3
+LBY,Libya,North Africa,diab_death,2016,14.9
+LBY,Libya,North Africa,diab_death,2017,15.6
+LBY,Libya,North Africa,diab_death,2018,16.1
+LBY,Libya,North Africa,diab_death,2019,16.1
+LBY,Libya,North Africa,diab_death,2020,16.3
+LBY,Libya,North Africa,diab_death,2021,15.6
+USA,United States,Global benchmark,diab_death,2000,20.4
+USA,United States,Global benchmark,diab_death,2001,20.6
+USA,United States,Global benchmark,diab_death,2002,20.8
+USA,United States,Global benchmark,diab_death,2003,20.8
+USA,United States,Global benchmark,diab_death,2004,20.1
+USA,United States,Global benchmark,diab_death,2005,20.4
+USA,United States,Global benchmark,diab_death,2006,19.3
+USA,United States,Global benchmark,diab_death,2007,18.6
+USA,United States,Global benchmark,diab_death,2008,18
+USA,United States,Global benchmark,diab_death,2009,17.1
+USA,United States,Global benchmark,diab_death,2010,16.5
+USA,United States,Global benchmark,diab_death,2011,16.5
+USA,United States,Global benchmark,diab_death,2012,15.7
+USA,United States,Global benchmark,diab_death,2013,15.1
+USA,United States,Global benchmark,diab_death,2014,14.7
+USA,United States,Global benchmark,diab_death,2015,14.8
+USA,United States,Global benchmark,diab_death,2016,14.7
+USA,United States,Global benchmark,diab_death,2017,15.1
+USA,United States,Global benchmark,diab_death,2018,15.2
+USA,United States,Global benchmark,diab_death,2019,15.6
+USA,United States,Global benchmark,diab_death,2020,18
+USA,United States,Global benchmark,diab_death,2021,18.1
+GBR,United Kingdom,Global benchmark,diab_death,2000,9.8
+GBR,United Kingdom,Global benchmark,diab_death,2001,10.6
+GBR,United Kingdom,Global benchmark,diab_death,2002,10.5
+GBR,United Kingdom,Global benchmark,diab_death,2003,10.7
+GBR,United Kingdom,Global benchmark,diab_death,2004,10
+GBR,United Kingdom,Global benchmark,diab_death,2005,9.6
+GBR,United Kingdom,Global benchmark,diab_death,2006,9.2
+GBR,United Kingdom,Global benchmark,diab_death,2007,8.9
+GBR,United Kingdom,Global benchmark,diab_death,2008,8.9
+GBR,United Kingdom,Global benchmark,diab_death,2009,8.3
+GBR,United Kingdom,Global benchmark,diab_death,2010,8.2
+GBR,United Kingdom,Global benchmark,diab_death,2011,7.6
+GBR,United Kingdom,Global benchmark,diab_death,2012,7.6
+GBR,United Kingdom,Global benchmark,diab_death,2013,7.5
+GBR,United Kingdom,Global benchmark,diab_death,2014,7.9
+GBR,United Kingdom,Global benchmark,diab_death,2015,8.2
+GBR,United Kingdom,Global benchmark,diab_death,2016,8.4
+GBR,United Kingdom,Global benchmark,diab_death,2017,8.9
+GBR,United Kingdom,Global benchmark,diab_death,2018,9.5
+GBR,United Kingdom,Global benchmark,diab_death,2019,9.5
+GBR,United Kingdom,Global benchmark,diab_death,2020,10.8
+GBR,United Kingdom,Global benchmark,diab_death,2021,10.3
+FIN,Finland,Global benchmark,diab_death,2000,9.6
+FIN,Finland,Global benchmark,diab_death,2001,8.6
+FIN,Finland,Global benchmark,diab_death,2002,9
+FIN,Finland,Global benchmark,diab_death,2003,8.7
+FIN,Finland,Global benchmark,diab_death,2004,8.8
+FIN,Finland,Global benchmark,diab_death,2005,8.3
+FIN,Finland,Global benchmark,diab_death,2006,7.4
+FIN,Finland,Global benchmark,diab_death,2007,8.2
+FIN,Finland,Global benchmark,diab_death,2008,8.3
+FIN,Finland,Global benchmark,diab_death,2009,6.6
+FIN,Finland,Global benchmark,diab_death,2010,6.8
+FIN,Finland,Global benchmark,diab_death,2011,6.9
+FIN,Finland,Global benchmark,diab_death,2012,7.1
+FIN,Finland,Global benchmark,diab_death,2013,7.1
+FIN,Finland,Global benchmark,diab_death,2014,7.2
+FIN,Finland,Global benchmark,diab_death,2015,7
+FIN,Finland,Global benchmark,diab_death,2016,8.2
+FIN,Finland,Global benchmark,diab_death,2017,8.6
+FIN,Finland,Global benchmark,diab_death,2018,8.3
+FIN,Finland,Global benchmark,diab_death,2019,9
+FIN,Finland,Global benchmark,diab_death,2020,10.3
+FIN,Finland,Global benchmark,diab_death,2021,10.3
+WLD,World,Aggregate,diab_death,2000,13.4
+WLD,World,Aggregate,diab_death,2001,13.6
+WLD,World,Aggregate,diab_death,2002,14
+WLD,World,Aggregate,diab_death,2003,14.5
+WLD,World,Aggregate,diab_death,2004,14.6
+WLD,World,Aggregate,diab_death,2005,14.9
+WLD,World,Aggregate,diab_death,2006,14.9
+WLD,World,Aggregate,diab_death,2007,15.2
+WLD,World,Aggregate,diab_death,2008,15.4
+WLD,World,Aggregate,diab_death,2009,15.5
+WLD,World,Aggregate,diab_death,2010,15.8
+WLD,World,Aggregate,diab_death,2011,16
+WLD,World,Aggregate,diab_death,2012,16.2
+WLD,World,Aggregate,diab_death,2013,16.5
+WLD,World,Aggregate,diab_death,2014,17.1
+WLD,World,Aggregate,diab_death,2015,17.6
+WLD,World,Aggregate,diab_death,2016,18
+WLD,World,Aggregate,diab_death,2017,18.5
+WLD,World,Aggregate,diab_death,2018,18.9
+WLD,World,Aggregate,diab_death,2019,19.4
+WLD,World,Aggregate,diab_death,2020,20.4
+WLD,World,Aggregate,diab_death,2021,20.4
+ARE,UAE,GCC,hale,2000,69
+ARE,UAE,GCC,hale,2001,69
+ARE,UAE,GCC,hale,2002,69.1
+ARE,UAE,GCC,hale,2003,69.3
+ARE,UAE,GCC,hale,2004,69.4
+ARE,UAE,GCC,hale,2005,69.5
+ARE,UAE,GCC,hale,2006,69.5
+ARE,UAE,GCC,hale,2007,69.7
+ARE,UAE,GCC,hale,2008,69.9
+ARE,UAE,GCC,hale,2009,70
+ARE,UAE,GCC,hale,2010,70
+ARE,UAE,GCC,hale,2011,70
+ARE,UAE,GCC,hale,2012,70
+ARE,UAE,GCC,hale,2013,70.2
+ARE,UAE,GCC,hale,2014,70.5
+ARE,UAE,GCC,hale,2015,70.6
+ARE,UAE,GCC,hale,2016,70.6
+ARE,UAE,GCC,hale,2017,70.7
+ARE,UAE,GCC,hale,2018,70.8
+ARE,UAE,GCC,hale,2019,70.8
+ARE,UAE,GCC,hale,2020,69.6
+ARE,UAE,GCC,hale,2021,68.7
+ARE,UAE,GCC,hale,2022,69.3
+ARE,UAE,GCC,hale,2023,70.2
+SAU,Saudi Arabia,GCC,hale,2000,64.7
+SAU,Saudi Arabia,GCC,hale,2001,64.9
+SAU,Saudi Arabia,GCC,hale,2002,65.1
+SAU,Saudi Arabia,GCC,hale,2003,65.3
+SAU,Saudi Arabia,GCC,hale,2004,65.1
+SAU,Saudi Arabia,GCC,hale,2005,64.9
+SAU,Saudi Arabia,GCC,hale,2006,64.8
+SAU,Saudi Arabia,GCC,hale,2007,64.8
+SAU,Saudi Arabia,GCC,hale,2008,64.7
+SAU,Saudi Arabia,GCC,hale,2009,64.7
+SAU,Saudi Arabia,GCC,hale,2010,64.8
+SAU,Saudi Arabia,GCC,hale,2011,65
+SAU,Saudi Arabia,GCC,hale,2012,65.2
+SAU,Saudi Arabia,GCC,hale,2013,65.3
+SAU,Saudi Arabia,GCC,hale,2014,65.7
+SAU,Saudi Arabia,GCC,hale,2015,65.9
+SAU,Saudi Arabia,GCC,hale,2016,65.6
+SAU,Saudi Arabia,GCC,hale,2017,65.8
+SAU,Saudi Arabia,GCC,hale,2018,66.1
+SAU,Saudi Arabia,GCC,hale,2019,65.8
+SAU,Saudi Arabia,GCC,hale,2020,65.2
+SAU,Saudi Arabia,GCC,hale,2021,65.1
+SAU,Saudi Arabia,GCC,hale,2022,65.7
+SAU,Saudi Arabia,GCC,hale,2023,66.5
+QAT,Qatar,GCC,hale,2000,64.9
+QAT,Qatar,GCC,hale,2001,65.3
+QAT,Qatar,GCC,hale,2002,65.2
+QAT,Qatar,GCC,hale,2003,65.3
+QAT,Qatar,GCC,hale,2004,65.1
+QAT,Qatar,GCC,hale,2005,65.1
+QAT,Qatar,GCC,hale,2006,65.4
+QAT,Qatar,GCC,hale,2007,66.1
+QAT,Qatar,GCC,hale,2008,66.5
+QAT,Qatar,GCC,hale,2009,66.9
+QAT,Qatar,GCC,hale,2010,67.5
+QAT,Qatar,GCC,hale,2011,67.8
+QAT,Qatar,GCC,hale,2012,68.2
+QAT,Qatar,GCC,hale,2013,68.7
+QAT,Qatar,GCC,hale,2014,68.6
+QAT,Qatar,GCC,hale,2015,69.3
+QAT,Qatar,GCC,hale,2016,69.6
+QAT,Qatar,GCC,hale,2017,69.7
+QAT,Qatar,GCC,hale,2018,69.7
+QAT,Qatar,GCC,hale,2019,69.9
+QAT,Qatar,GCC,hale,2020,68.1
+QAT,Qatar,GCC,hale,2021,68.4
+QAT,Qatar,GCC,hale,2022,68.7
+QAT,Qatar,GCC,hale,2023,69.3
+KWT,Kuwait,GCC,hale,2000,64.5
+KWT,Kuwait,GCC,hale,2001,65
+KWT,Kuwait,GCC,hale,2002,65.1
+KWT,Kuwait,GCC,hale,2003,65.2
+KWT,Kuwait,GCC,hale,2004,65.4
+KWT,Kuwait,GCC,hale,2005,65.4
+KWT,Kuwait,GCC,hale,2006,65.5
+KWT,Kuwait,GCC,hale,2007,65.7
+KWT,Kuwait,GCC,hale,2008,65.6
+KWT,Kuwait,GCC,hale,2009,66.7
+KWT,Kuwait,GCC,hale,2010,67
+KWT,Kuwait,GCC,hale,2011,67.3
+KWT,Kuwait,GCC,hale,2012,68
+KWT,Kuwait,GCC,hale,2013,68.3
+KWT,Kuwait,GCC,hale,2014,68.6
+KWT,Kuwait,GCC,hale,2015,68.7
+KWT,Kuwait,GCC,hale,2016,69.4
+KWT,Kuwait,GCC,hale,2017,70.2
+KWT,Kuwait,GCC,hale,2018,70.4
+KWT,Kuwait,GCC,hale,2019,70.6
+KWT,Kuwait,GCC,hale,2020,68.5
+KWT,Kuwait,GCC,hale,2021,68.5
+KWT,Kuwait,GCC,hale,2022,68.6
+KWT,Kuwait,GCC,hale,2023,69.5
+BHR,Bahrain,GCC,hale,2000,62.1
+BHR,Bahrain,GCC,hale,2001,62.5
+BHR,Bahrain,GCC,hale,2002,62.9
+BHR,Bahrain,GCC,hale,2003,63.4
+BHR,Bahrain,GCC,hale,2004,63.9
+BHR,Bahrain,GCC,hale,2005,64.6
+BHR,Bahrain,GCC,hale,2006,65.1
+BHR,Bahrain,GCC,hale,2007,65.3
+BHR,Bahrain,GCC,hale,2008,65.5
+BHR,Bahrain,GCC,hale,2009,65.6
+BHR,Bahrain,GCC,hale,2010,66
+BHR,Bahrain,GCC,hale,2011,66.5
+BHR,Bahrain,GCC,hale,2012,67
+BHR,Bahrain,GCC,hale,2013,67.3
+BHR,Bahrain,GCC,hale,2014,67.5
+BHR,Bahrain,GCC,hale,2015,67.7
+BHR,Bahrain,GCC,hale,2016,68
+BHR,Bahrain,GCC,hale,2017,68.2
+BHR,Bahrain,GCC,hale,2018,68.5
+BHR,Bahrain,GCC,hale,2019,68.3
+BHR,Bahrain,GCC,hale,2020,66.9
+BHR,Bahrain,GCC,hale,2021,66.7
+BHR,Bahrain,GCC,hale,2022,67.2
+BHR,Bahrain,GCC,hale,2023,68.7
+OMN,Oman,GCC,hale,2000,62.6
+OMN,Oman,GCC,hale,2001,62.8
+OMN,Oman,GCC,hale,2002,62.9
+OMN,Oman,GCC,hale,2003,63.1
+OMN,Oman,GCC,hale,2004,63.2
+OMN,Oman,GCC,hale,2005,63.4
+OMN,Oman,GCC,hale,2006,63.5
+OMN,Oman,GCC,hale,2007,63.6
+OMN,Oman,GCC,hale,2008,63.8
+OMN,Oman,GCC,hale,2009,64.1
+OMN,Oman,GCC,hale,2010,64.5
+OMN,Oman,GCC,hale,2011,64.7
+OMN,Oman,GCC,hale,2012,64.9
+OMN,Oman,GCC,hale,2013,64.9
+OMN,Oman,GCC,hale,2014,64.8
+OMN,Oman,GCC,hale,2015,65.2
+OMN,Oman,GCC,hale,2016,65.5
+OMN,Oman,GCC,hale,2017,65.9
+OMN,Oman,GCC,hale,2018,66.1
+OMN,Oman,GCC,hale,2019,66.3
+OMN,Oman,GCC,hale,2020,66.3
+OMN,Oman,GCC,hale,2021,65.6
+OMN,Oman,GCC,hale,2022,66.9
+OMN,Oman,GCC,hale,2023,68.2
+JOR,Jordan,Levant & Iraq,hale,2000,62.3
+JOR,Jordan,Levant & Iraq,hale,2001,62.5
+JOR,Jordan,Levant & Iraq,hale,2002,62.6
+JOR,Jordan,Levant & Iraq,hale,2003,62.8
+JOR,Jordan,Levant & Iraq,hale,2004,62.9
+JOR,Jordan,Levant & Iraq,hale,2005,63.2
+JOR,Jordan,Levant & Iraq,hale,2006,63.7
+JOR,Jordan,Levant & Iraq,hale,2007,64.2
+JOR,Jordan,Levant & Iraq,hale,2008,64.6
+JOR,Jordan,Levant & Iraq,hale,2009,64.8
+JOR,Jordan,Levant & Iraq,hale,2010,65
+JOR,Jordan,Levant & Iraq,hale,2011,65.4
+JOR,Jordan,Levant & Iraq,hale,2012,65.7
+JOR,Jordan,Levant & Iraq,hale,2013,66.1
+JOR,Jordan,Levant & Iraq,hale,2014,66.1
+JOR,Jordan,Levant & Iraq,hale,2015,66.2
+JOR,Jordan,Levant & Iraq,hale,2016,66.7
+JOR,Jordan,Levant & Iraq,hale,2017,67.3
+JOR,Jordan,Levant & Iraq,hale,2018,67.8
+JOR,Jordan,Levant & Iraq,hale,2019,68
+JOR,Jordan,Levant & Iraq,hale,2020,66.8
+JOR,Jordan,Levant & Iraq,hale,2021,69.4
+JOR,Jordan,Levant & Iraq,hale,2022,69.8
+JOR,Jordan,Levant & Iraq,hale,2023,68.6
+LBN,Lebanon,Levant & Iraq,hale,2000,65
+LBN,Lebanon,Levant & Iraq,hale,2001,65.3
+LBN,Lebanon,Levant & Iraq,hale,2002,65.7
+LBN,Lebanon,Levant & Iraq,hale,2003,65.9
+LBN,Lebanon,Levant & Iraq,hale,2004,66.2
+LBN,Lebanon,Levant & Iraq,hale,2005,66.3
+LBN,Lebanon,Levant & Iraq,hale,2006,65.9
+LBN,Lebanon,Levant & Iraq,hale,2007,66.5
+LBN,Lebanon,Levant & Iraq,hale,2008,66.6
+LBN,Lebanon,Levant & Iraq,hale,2009,66.7
+LBN,Lebanon,Levant & Iraq,hale,2010,66.8
+LBN,Lebanon,Levant & Iraq,hale,2011,66.8
+LBN,Lebanon,Levant & Iraq,hale,2012,66.8
+LBN,Lebanon,Levant & Iraq,hale,2013,66.9
+LBN,Lebanon,Levant & Iraq,hale,2014,66.9
+LBN,Lebanon,Levant & Iraq,hale,2015,67
+LBN,Lebanon,Levant & Iraq,hale,2016,67.1
+LBN,Lebanon,Levant & Iraq,hale,2017,67.1
+LBN,Lebanon,Levant & Iraq,hale,2018,67.1
+LBN,Lebanon,Levant & Iraq,hale,2019,66.9
+LBN,Lebanon,Levant & Iraq,hale,2020,65.7
+LBN,Lebanon,Levant & Iraq,hale,2021,64.1
+LBN,Lebanon,Levant & Iraq,hale,2022,65.4
+LBN,Lebanon,Levant & Iraq,hale,2023,66
+IRQ,Iraq,Levant & Iraq,hale,2000,58.5
+IRQ,Iraq,Levant & Iraq,hale,2001,58.8
+IRQ,Iraq,Levant & Iraq,hale,2002,59
+IRQ,Iraq,Levant & Iraq,hale,2003,57.6
+IRQ,Iraq,Levant & Iraq,hale,2004,58.1
+IRQ,Iraq,Levant & Iraq,hale,2005,57.9
+IRQ,Iraq,Levant & Iraq,hale,2006,57.1
+IRQ,Iraq,Levant & Iraq,hale,2007,57.5
+IRQ,Iraq,Levant & Iraq,hale,2008,58.9
+IRQ,Iraq,Levant & Iraq,hale,2009,59.5
+IRQ,Iraq,Levant & Iraq,hale,2010,59.8
+IRQ,Iraq,Levant & Iraq,hale,2011,60.1
+IRQ,Iraq,Levant & Iraq,hale,2012,60.4
+IRQ,Iraq,Levant & Iraq,hale,2013,60.2
+IRQ,Iraq,Levant & Iraq,hale,2014,59.2
+IRQ,Iraq,Levant & Iraq,hale,2015,59.8
+IRQ,Iraq,Levant & Iraq,hale,2016,60.2
+IRQ,Iraq,Levant & Iraq,hale,2017,60.8
+IRQ,Iraq,Levant & Iraq,hale,2018,62
+IRQ,Iraq,Levant & Iraq,hale,2019,62.2
+IRQ,Iraq,Levant & Iraq,hale,2020,59.8
+IRQ,Iraq,Levant & Iraq,hale,2021,59.3
+IRQ,Iraq,Levant & Iraq,hale,2022,61.6
+IRQ,Iraq,Levant & Iraq,hale,2023,62.4
+EGY,Egypt,North Africa,hale,2000,59
+EGY,Egypt,North Africa,hale,2001,58.9
+EGY,Egypt,North Africa,hale,2002,58.9
+EGY,Egypt,North Africa,hale,2003,59
+EGY,Egypt,North Africa,hale,2004,59.4
+EGY,Egypt,North Africa,hale,2005,59.7
+EGY,Egypt,North Africa,hale,2006,59.7
+EGY,Egypt,North Africa,hale,2007,59.9
+EGY,Egypt,North Africa,hale,2008,59.9
+EGY,Egypt,North Africa,hale,2009,59.9
+EGY,Egypt,North Africa,hale,2010,60
+EGY,Egypt,North Africa,hale,2011,60.1
+EGY,Egypt,North Africa,hale,2012,60
+EGY,Egypt,North Africa,hale,2013,60.5
+EGY,Egypt,North Africa,hale,2014,60.5
+EGY,Egypt,North Africa,hale,2015,60.3
+EGY,Egypt,North Africa,hale,2016,60.7
+EGY,Egypt,North Africa,hale,2017,61.1
+EGY,Egypt,North Africa,hale,2018,61.2
+EGY,Egypt,North Africa,hale,2019,61.4
+EGY,Egypt,North Africa,hale,2020,59.9
+EGY,Egypt,North Africa,hale,2021,58.9
+EGY,Egypt,North Africa,hale,2022,60.8
+EGY,Egypt,North Africa,hale,2023,61.6
+MAR,Morocco,North Africa,hale,2000,59.9
+MAR,Morocco,North Africa,hale,2001,60.2
+MAR,Morocco,North Africa,hale,2002,60.4
+MAR,Morocco,North Africa,hale,2003,60.4
+MAR,Morocco,North Africa,hale,2004,60.6
+MAR,Morocco,North Africa,hale,2005,60.8
+MAR,Morocco,North Africa,hale,2006,61.1
+MAR,Morocco,North Africa,hale,2007,61.3
+MAR,Morocco,North Africa,hale,2008,61.7
+MAR,Morocco,North Africa,hale,2009,62.1
+MAR,Morocco,North Africa,hale,2010,62.4
+MAR,Morocco,North Africa,hale,2011,62.7
+MAR,Morocco,North Africa,hale,2012,62.9
+MAR,Morocco,North Africa,hale,2013,63
+MAR,Morocco,North Africa,hale,2014,63.3
+MAR,Morocco,North Africa,hale,2015,63.4
+MAR,Morocco,North Africa,hale,2016,63.6
+MAR,Morocco,North Africa,hale,2017,63.9
+MAR,Morocco,North Africa,hale,2018,64
+MAR,Morocco,North Africa,hale,2019,64.2
+MAR,Morocco,North Africa,hale,2020,64.2
+MAR,Morocco,North Africa,hale,2021,64.1
+MAR,Morocco,North Africa,hale,2022,64
+MAR,Morocco,North Africa,hale,2023,64.6
+TUN,Tunisia,North Africa,hale,2000,63
+TUN,Tunisia,North Africa,hale,2001,63.2
+TUN,Tunisia,North Africa,hale,2002,63.4
+TUN,Tunisia,North Africa,hale,2003,63.6
+TUN,Tunisia,North Africa,hale,2004,63.9
+TUN,Tunisia,North Africa,hale,2005,64.2
+TUN,Tunisia,North Africa,hale,2006,64.5
+TUN,Tunisia,North Africa,hale,2007,64.7
+TUN,Tunisia,North Africa,hale,2008,65
+TUN,Tunisia,North Africa,hale,2009,65.1
+TUN,Tunisia,North Africa,hale,2010,65.3
+TUN,Tunisia,North Africa,hale,2011,65.2
+TUN,Tunisia,North Africa,hale,2012,65.3
+TUN,Tunisia,North Africa,hale,2013,65.4
+TUN,Tunisia,North Africa,hale,2014,65.4
+TUN,Tunisia,North Africa,hale,2015,65.4
+TUN,Tunisia,North Africa,hale,2016,65.4
+TUN,Tunisia,North Africa,hale,2017,65.4
+TUN,Tunisia,North Africa,hale,2018,65.5
+TUN,Tunisia,North Africa,hale,2019,65.8
+TUN,Tunisia,North Africa,hale,2020,65.2
+TUN,Tunisia,North Africa,hale,2021,65.3
+TUN,Tunisia,North Africa,hale,2022,65.2
+TUN,Tunisia,North Africa,hale,2023,66.2
+DZA,Algeria,North Africa,hale,2000,62.8
+DZA,Algeria,North Africa,hale,2001,63.1
+DZA,Algeria,North Africa,hale,2002,63.3
+DZA,Algeria,North Africa,hale,2003,63.4
+DZA,Algeria,North Africa,hale,2004,63.7
+DZA,Algeria,North Africa,hale,2005,63.9
+DZA,Algeria,North Africa,hale,2006,64.1
+DZA,Algeria,North Africa,hale,2007,64.3
+DZA,Algeria,North Africa,hale,2008,64.5
+DZA,Algeria,North Africa,hale,2009,64.7
+DZA,Algeria,North Africa,hale,2010,65
+DZA,Algeria,North Africa,hale,2011,65.1
+DZA,Algeria,North Africa,hale,2012,65.2
+DZA,Algeria,North Africa,hale,2013,65.4
+DZA,Algeria,North Africa,hale,2014,65.5
+DZA,Algeria,North Africa,hale,2015,65.6
+DZA,Algeria,North Africa,hale,2016,65.7
+DZA,Algeria,North Africa,hale,2017,65.8
+DZA,Algeria,North Africa,hale,2018,65.9
+DZA,Algeria,North Africa,hale,2019,65.9
+DZA,Algeria,North Africa,hale,2020,64.7
+DZA,Algeria,North Africa,hale,2021,64.3
+DZA,Algeria,North Africa,hale,2022,65.8
+DZA,Algeria,North Africa,hale,2023,66.5
+LBY,Libya,North Africa,hale,2000,63.1
+LBY,Libya,North Africa,hale,2001,63.1
+LBY,Libya,North Africa,hale,2002,63.1
+LBY,Libya,North Africa,hale,2003,63.1
+LBY,Libya,North Africa,hale,2004,63.1
+LBY,Libya,North Africa,hale,2005,63.2
+LBY,Libya,North Africa,hale,2006,63.3
+LBY,Libya,North Africa,hale,2007,63.2
+LBY,Libya,North Africa,hale,2008,63.4
+LBY,Libya,North Africa,hale,2009,63.6
+LBY,Libya,North Africa,hale,2010,63.8
+LBY,Libya,North Africa,hale,2011,61.5
+LBY,Libya,North Africa,hale,2012,63.5
+LBY,Libya,North Africa,hale,2013,63.7
+LBY,Libya,North Africa,hale,2014,62.3
+LBY,Libya,North Africa,hale,2015,62.2
+LBY,Libya,North Africa,hale,2016,62.2
+LBY,Libya,North Africa,hale,2017,62.7
+LBY,Libya,North Africa,hale,2018,63
+LBY,Libya,North Africa,hale,2019,62.8
+LBY,Libya,North Africa,hale,2020,61.4
+LBY,Libya,North Africa,hale,2021,61.3
+LBY,Libya,North Africa,hale,2022,65.5
+LBY,Libya,North Africa,hale,2023,58.9
+USA,United States,Global benchmark,hale,2000,64.5
+USA,United States,Global benchmark,hale,2001,64.5
+USA,United States,Global benchmark,hale,2002,64.6
+USA,United States,Global benchmark,hale,2003,64.7
+USA,United States,Global benchmark,hale,2004,64.9
+USA,United States,Global benchmark,hale,2005,64.9
+USA,United States,Global benchmark,hale,2006,65.1
+USA,United States,Global benchmark,hale,2007,65.2
+USA,United States,Global benchmark,hale,2008,65.3
+USA,United States,Global benchmark,hale,2009,65.5
+USA,United States,Global benchmark,hale,2010,65.7
+USA,United States,Global benchmark,hale,2011,65.6
+USA,United States,Global benchmark,hale,2012,65.7
+USA,United States,Global benchmark,hale,2013,65.6
+USA,United States,Global benchmark,hale,2014,65.5
+USA,United States,Global benchmark,hale,2015,65.4
+USA,United States,Global benchmark,hale,2016,65.3
+USA,United States,Global benchmark,hale,2017,65.2
+USA,United States,Global benchmark,hale,2018,65.3
+USA,United States,Global benchmark,hale,2019,65.3
+USA,United States,Global benchmark,hale,2020,63.8
+USA,United States,Global benchmark,hale,2021,63.2
+USA,United States,Global benchmark,hale,2022,64
+USA,United States,Global benchmark,hale,2023,64.6
+GBR,United Kingdom,Global benchmark,hale,2000,67.2
+GBR,United Kingdom,Global benchmark,hale,2001,67.3
+GBR,United Kingdom,Global benchmark,hale,2002,67.4
+GBR,United Kingdom,Global benchmark,hale,2003,67.4
+GBR,United Kingdom,Global benchmark,hale,2004,67.8
+GBR,United Kingdom,Global benchmark,hale,2005,68
+GBR,United Kingdom,Global benchmark,hale,2006,68.2
+GBR,United Kingdom,Global benchmark,hale,2007,68.3
+GBR,United Kingdom,Global benchmark,hale,2008,68.3
+GBR,United Kingdom,Global benchmark,hale,2009,68.6
+GBR,United Kingdom,Global benchmark,hale,2010,68.7
+GBR,United Kingdom,Global benchmark,hale,2011,69
+GBR,United Kingdom,Global benchmark,hale,2012,69
+GBR,United Kingdom,Global benchmark,hale,2013,68.9
+GBR,United Kingdom,Global benchmark,hale,2014,69.1
+GBR,United Kingdom,Global benchmark,hale,2015,68.8
+GBR,United Kingdom,Global benchmark,hale,2016,68.9
+GBR,United Kingdom,Global benchmark,hale,2017,69
+GBR,United Kingdom,Global benchmark,hale,2018,68.8
+GBR,United Kingdom,Global benchmark,hale,2019,69.2
+GBR,United Kingdom,Global benchmark,hale,2020,68
+GBR,United Kingdom,Global benchmark,hale,2021,67.9
+GBR,United Kingdom,Global benchmark,hale,2022,67.3
+GBR,United Kingdom,Global benchmark,hale,2023,68.2
+FIN,Finland,Global benchmark,hale,2000,67
+FIN,Finland,Global benchmark,hale,2001,67.2
+FIN,Finland,Global benchmark,hale,2002,67.3
+FIN,Finland,Global benchmark,hale,2003,67.4
+FIN,Finland,Global benchmark,hale,2004,67.5
+FIN,Finland,Global benchmark,hale,2005,67.7
+FIN,Finland,Global benchmark,hale,2006,67.9
+FIN,Finland,Global benchmark,hale,2007,68
+FIN,Finland,Global benchmark,hale,2008,68.2
+FIN,Finland,Global benchmark,hale,2009,68.4
+FIN,Finland,Global benchmark,hale,2010,68.5
+FIN,Finland,Global benchmark,hale,2011,68.8
+FIN,Finland,Global benchmark,hale,2012,68.9
+FIN,Finland,Global benchmark,hale,2013,69.1
+FIN,Finland,Global benchmark,hale,2014,69.3
+FIN,Finland,Global benchmark,hale,2015,69.6
+FIN,Finland,Global benchmark,hale,2016,69.5
+FIN,Finland,Global benchmark,hale,2017,69.7
+FIN,Finland,Global benchmark,hale,2018,69.9
+FIN,Finland,Global benchmark,hale,2019,70
+FIN,Finland,Global benchmark,hale,2020,69.8
+FIN,Finland,Global benchmark,hale,2021,69.8
+FIN,Finland,Global benchmark,hale,2022,69.3
+FIN,Finland,Global benchmark,hale,2023,69.4
+REG,Regional average,Aggregate,hale,2000,56.1
+REG,Regional average,Aggregate,hale,2001,56.3
+REG,Regional average,Aggregate,hale,2002,56.5
+REG,Regional average,Aggregate,hale,2003,56.5
+REG,Regional average,Aggregate,hale,2004,56.8
+REG,Regional average,Aggregate,hale,2005,56.9
+REG,Regional average,Aggregate,hale,2006,57.3
+REG,Regional average,Aggregate,hale,2007,57.6
+REG,Regional average,Aggregate,hale,2008,57.9
+REG,Regional average,Aggregate,hale,2009,58.2
+REG,Regional average,Aggregate,hale,2010,58.3
+REG,Regional average,Aggregate,hale,2011,57.9
+REG,Regional average,Aggregate,hale,2012,58.5
+REG,Regional average,Aggregate,hale,2013,58.9
+REG,Regional average,Aggregate,hale,2014,58.9
+REG,Regional average,Aggregate,hale,2015,59.1
+REG,Regional average,Aggregate,hale,2016,59.4
+REG,Regional average,Aggregate,hale,2017,59.7
+REG,Regional average,Aggregate,hale,2018,59.9
+REG,Regional average,Aggregate,hale,2019,60.2
+REG,Regional average,Aggregate,hale,2020,59
+REG,Regional average,Aggregate,hale,2021,58.5
+REG,Regional average,Aggregate,hale,2022,59.8
+REG,Regional average,Aggregate,hale,2023,60.4
+WLD,World,Aggregate,hale,2000,57.9
+WLD,World,Aggregate,hale,2001,58.2
+WLD,World,Aggregate,hale,2002,58.4
+WLD,World,Aggregate,hale,2003,58.7
+WLD,World,Aggregate,hale,2004,59
+WLD,World,Aggregate,hale,2005,59.4
+WLD,World,Aggregate,hale,2006,59.9
+WLD,World,Aggregate,hale,2007,60.2
+WLD,World,Aggregate,hale,2008,60.5
+WLD,World,Aggregate,hale,2009,60.9
+WLD,World,Aggregate,hale,2010,61.1
+WLD,World,Aggregate,hale,2011,61.4
+WLD,World,Aggregate,hale,2012,61.7
+WLD,World,Aggregate,hale,2013,62
+WLD,World,Aggregate,hale,2014,62.2
+WLD,World,Aggregate,hale,2015,62.3
+WLD,World,Aggregate,hale,2016,62.5
+WLD,World,Aggregate,hale,2017,62.7
+WLD,World,Aggregate,hale,2018,63
+WLD,World,Aggregate,hale,2019,63.2
+WLD,World,Aggregate,hale,2020,62.4
+WLD,World,Aggregate,hale,2021,61.4
+WLD,World,Aggregate,hale,2022,62.3
+WLD,World,Aggregate,hale,2023,62.8
+ARE,UAE,GCC,he_pc,2010,1620
+ARE,UAE,GCC,he_pc,2011,1788
+ARE,UAE,GCC,he_pc,2012,1711
+ARE,UAE,GCC,he_pc,2013,1790
+ARE,UAE,GCC,he_pc,2014,1777
+ARE,UAE,GCC,he_pc,2015,1479
+ARE,UAE,GCC,he_pc,2016,1593
+ARE,UAE,GCC,he_pc,2017,1695
+ARE,UAE,GCC,he_pc,2018,1873
+ARE,UAE,GCC,he_pc,2019,1962
+ARE,UAE,GCC,he_pc,2020,2154
+ARE,UAE,GCC,he_pc,2021,2250
+ARE,UAE,GCC,he_pc,2022,2241
+ARE,UAE,GCC,he_pc,2023,2402
+SAU,Saudi Arabia,GCC,he_pc,2010,766
+SAU,Saudi Arabia,GCC,he_pc,2011,954
+SAU,Saudi Arabia,GCC,he_pc,2012,1093
+SAU,Saudi Arabia,GCC,he_pc,2013,1190
+SAU,Saudi Arabia,GCC,he_pc,2014,1364
+SAU,Saudi Arabia,GCC,he_pc,2015,1309
+SAU,Saudi Arabia,GCC,he_pc,2016,1353
+SAU,Saudi Arabia,GCC,he_pc,2017,1401
+SAU,Saudi Arabia,GCC,he_pc,2018,1489
+SAU,Saudi Arabia,GCC,he_pc,2019,1505
+SAU,Saudi Arabia,GCC,he_pc,2020,1575
+SAU,Saudi Arabia,GCC,he_pc,2021,1655
+SAU,Saudi Arabia,GCC,he_pc,2022,1831
+SAU,Saudi Arabia,GCC,he_pc,2023,1825
+QAT,Qatar,GCC,he_pc,2010,1310
+QAT,Qatar,GCC,he_pc,2011,1482
+QAT,Qatar,GCC,he_pc,2012,1713
+QAT,Qatar,GCC,he_pc,2013,2030
+QAT,Qatar,GCC,he_pc,2014,2252
+QAT,Qatar,GCC,he_pc,2015,2423
+QAT,Qatar,GCC,he_pc,2016,2072
+QAT,Qatar,GCC,he_pc,2017,1912
+QAT,Qatar,GCC,he_pc,2018,1967
+QAT,Qatar,GCC,he_pc,2019,2008
+QAT,Qatar,GCC,he_pc,2020,1967
+QAT,Qatar,GCC,he_pc,2021,1847
+QAT,Qatar,GCC,he_pc,2022,1782
+QAT,Qatar,GCC,he_pc,2023,1804
+KWT,Kuwait,GCC,he_pc,2010,1050
+KWT,Kuwait,GCC,he_pc,2011,1147
+KWT,Kuwait,GCC,he_pc,2012,1217
+KWT,Kuwait,GCC,he_pc,2013,1235
+KWT,Kuwait,GCC,he_pc,2014,1294
+KWT,Kuwait,GCC,he_pc,2015,1260
+KWT,Kuwait,GCC,he_pc,2016,1293
+KWT,Kuwait,GCC,he_pc,2017,1352
+KWT,Kuwait,GCC,he_pc,2018,1659
+KWT,Kuwait,GCC,he_pc,2019,1643
+KWT,Kuwait,GCC,he_pc,2020,1543
+KWT,Kuwait,GCC,he_pc,2021,1829
+KWT,Kuwait,GCC,he_pc,2022,1683
+KWT,Kuwait,GCC,he_pc,2023,1679
+BHR,Bahrain,GCC,he_pc,2010,867
+BHR,Bahrain,GCC,he_pc,2011,922
+BHR,Bahrain,GCC,he_pc,2012,1038
+BHR,Bahrain,GCC,he_pc,2013,1115
+BHR,Bahrain,GCC,he_pc,2014,1122
+BHR,Bahrain,GCC,he_pc,2015,1128
+BHR,Bahrain,GCC,he_pc,2016,1096
+BHR,Bahrain,GCC,he_pc,2017,1080
+BHR,Bahrain,GCC,he_pc,2018,1042
+BHR,Bahrain,GCC,he_pc,2019,1030
+BHR,Bahrain,GCC,he_pc,2020,1101
+BHR,Bahrain,GCC,he_pc,2021,1177
+BHR,Bahrain,GCC,he_pc,2022,1179
+BHR,Bahrain,GCC,he_pc,2023,1176
+OMN,Oman,GCC,he_pc,2010,584
+OMN,Oman,GCC,he_pc,2011,563
+OMN,Oman,GCC,he_pc,2012,561
+OMN,Oman,GCC,he_pc,2013,588
+OMN,Oman,GCC,he_pc,2014,727
+OMN,Oman,GCC,he_pc,2015,767
+OMN,Oman,GCC,he_pc,2016,714
+OMN,Oman,GCC,he_pc,2017,705
+OMN,Oman,GCC,he_pc,2018,640
+OMN,Oman,GCC,he_pc,2019,730
+OMN,Oman,GCC,he_pc,2020,859
+OMN,Oman,GCC,he_pc,2021,843
+OMN,Oman,GCC,he_pc,2022,712
+OMN,Oman,GCC,he_pc,2023,732
+JOR,Jordan,Levant & Iraq,he_pc,2010,304
+JOR,Jordan,Levant & Iraq,he_pc,2011,322
+JOR,Jordan,Levant & Iraq,he_pc,2012,326
+JOR,Jordan,Levant & Iraq,he_pc,2013,309
+JOR,Jordan,Levant & Iraq,he_pc,2014,302
+JOR,Jordan,Levant & Iraq,he_pc,2015,302
+JOR,Jordan,Levant & Iraq,he_pc,2016,278
+JOR,Jordan,Levant & Iraq,he_pc,2017,289
+JOR,Jordan,Levant & Iraq,he_pc,2018,289
+JOR,Jordan,Levant & Iraq,he_pc,2019,295
+JOR,Jordan,Levant & Iraq,he_pc,2020,303
+JOR,Jordan,Levant & Iraq,he_pc,2021,322
+JOR,Jordan,Levant & Iraq,he_pc,2022,334
+JOR,Jordan,Levant & Iraq,he_pc,2023,342
+LBN,Lebanon,Levant & Iraq,he_pc,2010,567
+LBN,Lebanon,Levant & Iraq,he_pc,2011,641
+LBN,Lebanon,Levant & Iraq,he_pc,2012,589
+LBN,Lebanon,Levant & Iraq,he_pc,2013,577
+LBN,Lebanon,Levant & Iraq,he_pc,2014,570
+LBN,Lebanon,Levant & Iraq,he_pc,2015,572
+LBN,Lebanon,Levant & Iraq,he_pc,2016,641
+LBN,Lebanon,Levant & Iraq,he_pc,2017,672
+LBN,Lebanon,Levant & Iraq,he_pc,2018,740
+LBN,Lebanon,Levant & Iraq,he_pc,2019,798
+LBN,Lebanon,Levant & Iraq,he_pc,2020,303
+LBN,Lebanon,Levant & Iraq,he_pc,2021,190
+LBN,Lebanon,Levant & Iraq,he_pc,2022,230
+LBN,Lebanon,Levant & Iraq,he_pc,2023,261
+IRQ,Iraq,Levant & Iraq,he_pc,2010,145
+IRQ,Iraq,Levant & Iraq,he_pc,2011,162
+IRQ,Iraq,Levant & Iraq,he_pc,2012,174
+IRQ,Iraq,Levant & Iraq,he_pc,2013,187
+IRQ,Iraq,Levant & Iraq,he_pc,2014,179
+IRQ,Iraq,Levant & Iraq,he_pc,2015,149
+IRQ,Iraq,Levant & Iraq,he_pc,2016,200
+IRQ,Iraq,Levant & Iraq,he_pc,2017,197
+IRQ,Iraq,Levant & Iraq,he_pc,2018,233
+IRQ,Iraq,Levant & Iraq,he_pc,2019,242
+IRQ,Iraq,Levant & Iraq,he_pc,2020,248
+IRQ,Iraq,Levant & Iraq,he_pc,2021,252
+IRQ,Iraq,Levant & Iraq,he_pc,2022,283
+IRQ,Iraq,Levant & Iraq,he_pc,2023,333
+EGY,Egypt,North Africa,he_pc,2010,105
+EGY,Egypt,North Africa,he_pc,2011,116
+EGY,Egypt,North Africa,he_pc,2012,140
+EGY,Egypt,North Africa,he_pc,2013,140
+EGY,Egypt,North Africa,he_pc,2014,155
+EGY,Egypt,North Africa,he_pc,2015,170
+EGY,Egypt,North Africa,he_pc,2016,143
+EGY,Egypt,North Africa,he_pc,2017,106
+EGY,Egypt,North Africa,he_pc,2018,118
+EGY,Egypt,North Africa,he_pc,2019,143
+EGY,Egypt,North Africa,he_pc,2020,148
+EGY,Egypt,North Africa,he_pc,2021,177
+EGY,Egypt,North Africa,he_pc,2022,172
+EGY,Egypt,North Africa,he_pc,2023,141
+MAR,Morocco,North Africa,he_pc,2010,168
+MAR,Morocco,North Africa,he_pc,2011,179
+MAR,Morocco,North Africa,he_pc,2012,172
+MAR,Morocco,North Africa,he_pc,2013,180
+MAR,Morocco,North Africa,he_pc,2014,189
+MAR,Morocco,North Africa,he_pc,2015,163
+MAR,Morocco,North Africa,he_pc,2016,162
+MAR,Morocco,North Africa,he_pc,2017,167
+MAR,Morocco,North Africa,he_pc,2018,176
+MAR,Morocco,North Africa,he_pc,2019,179
+MAR,Morocco,North Africa,he_pc,2020,192
+MAR,Morocco,North Africa,he_pc,2021,210
+MAR,Morocco,North Africa,he_pc,2022,202
+MAR,Morocco,North Africa,he_pc,2023,232
+TUN,Tunisia,North Africa,he_pc,2010,241
+TUN,Tunisia,North Africa,he_pc,2011,271
+TUN,Tunisia,North Africa,he_pc,2012,270
+TUN,Tunisia,North Africa,he_pc,2013,285
+TUN,Tunisia,North Africa,he_pc,2014,288
+TUN,Tunisia,North Africa,he_pc,2015,249
+TUN,Tunisia,North Africa,he_pc,2016,240
+TUN,Tunisia,North Africa,he_pc,2017,224
+TUN,Tunisia,North Africa,he_pc,2018,215
+TUN,Tunisia,North Africa,he_pc,2019,213
+TUN,Tunisia,North Africa,he_pc,2020,250
+TUN,Tunisia,North Africa,he_pc,2021,285
+TUN,Tunisia,North Africa,he_pc,2022,276
+TUN,Tunisia,North Africa,he_pc,2023,318
+DZA,Algeria,North Africa,he_pc,2010,228
+DZA,Algeria,North Africa,he_pc,2011,286
+DZA,Algeria,North Africa,he_pc,2012,340
+DZA,Algeria,North Africa,he_pc,2013,338
+DZA,Algeria,North Africa,he_pc,2014,367
+DZA,Algeria,North Africa,he_pc,2015,297
+DZA,Algeria,North Africa,he_pc,2016,266
+DZA,Algeria,North Africa,he_pc,2017,271
+DZA,Algeria,North Africa,he_pc,2018,272
+DZA,Algeria,North Africa,he_pc,2019,242
+DZA,Algeria,North Africa,he_pc,2020,211
+DZA,Algeria,North Africa,he_pc,2021,209
+DZA,Algeria,North Africa,he_pc,2022,180
+DZA,Algeria,North Africa,he_pc,2023,233
+LBY,Libya,North Africa,he_pc,2010,381
+LBY,Libya,North Africa,he_pc,2011,305
+LBY,Libya,North Africa,he_pc,2012,592
+LBY,Libya,North Africa,he_pc,2013,595
+LBY,Libya,North Africa,he_pc,2014,462
+LBY,Libya,North Africa,he_pc,2015,433
+LBY,Libya,North Africa,he_pc,2016,464
+LBY,Libya,North Africa,he_pc,2017,466
+LBY,Libya,North Africa,he_pc,2018,545
+LBY,Libya,North Africa,he_pc,2019,553
+LBY,Libya,North Africa,he_pc,2020,473
+LBY,Libya,North Africa,he_pc,2021,299
+LBY,Libya,North Africa,he_pc,2022,284
+LBY,Libya,North Africa,he_pc,2023,470
+USA,United States,Global benchmark,he_pc,2010,7836
+USA,United States,Global benchmark,he_pc,2011,8016
+USA,United States,Global benchmark,he_pc,2012,8262
+USA,United States,Global benchmark,he_pc,2013,8412
+USA,United States,Global benchmark,he_pc,2014,8796
+USA,United States,Global benchmark,he_pc,2015,9201
+USA,United States,Global benchmark,he_pc,2016,9536
+USA,United States,Global benchmark,he_pc,2017,9823
+USA,United States,Global benchmark,he_pc,2018,10180
+USA,United States,Global benchmark,he_pc,2019,10550
+USA,United States,Global benchmark,he_pc,2020,11648
+USA,United States,Global benchmark,he_pc,2021,12080
+USA,United States,Global benchmark,he_pc,2022,12586
+USA,United States,Global benchmark,he_pc,2023,13473
+GBR,United Kingdom,Global benchmark,he_pc,2010,3876
+GBR,United Kingdom,Global benchmark,he_pc,2011,4124
+GBR,United Kingdom,Global benchmark,he_pc,2012,4204
+GBR,United Kingdom,Global benchmark,he_pc,2013,4340
+GBR,United Kingdom,Global benchmark,he_pc,2014,4733
+GBR,United Kingdom,Global benchmark,he_pc,2015,4470
+GBR,United Kingdom,Global benchmark,he_pc,2016,4043
+GBR,United Kingdom,Global benchmark,he_pc,2017,3939
+GBR,United Kingdom,Global benchmark,he_pc,2018,4234
+GBR,United Kingdom,Global benchmark,he_pc,2019,4260
+GBR,United Kingdom,Global benchmark,he_pc,2020,4866
+GBR,United Kingdom,Global benchmark,he_pc,2021,5645
+GBR,United Kingdom,Global benchmark,he_pc,2022,5112
+GBR,United Kingdom,Global benchmark,he_pc,2023,5407
+FIN,Finland,Global benchmark,he_pc,2010,4252
+FIN,Finland,Global benchmark,he_pc,2011,4718
+FIN,Finland,Global benchmark,he_pc,2012,4573
+FIN,Finland,Global benchmark,he_pc,2013,4892
+FIN,Finland,Global benchmark,he_pc,2014,4922
+FIN,Finland,Global benchmark,he_pc,2015,4128
+FIN,Finland,Global benchmark,he_pc,2016,4109
+FIN,Finland,Global benchmark,he_pc,2017,4236
+FIN,Finland,Global benchmark,he_pc,2018,4521
+FIN,Finland,Global benchmark,he_pc,2019,4460
+FIN,Finland,Global benchmark,he_pc,2020,4736
+FIN,Finland,Global benchmark,he_pc,2021,5262
+FIN,Finland,Global benchmark,he_pc,2022,4902
+FIN,Finland,Global benchmark,he_pc,2023,5515
+REG,Regional average,Aggregate,he_pc,2010,218
+REG,Regional average,Aggregate,he_pc,2011,249
+REG,Regional average,Aggregate,he_pc,2012,264
+REG,Regional average,Aggregate,he_pc,2013,267
+REG,Regional average,Aggregate,he_pc,2014,282
+REG,Regional average,Aggregate,he_pc,2015,276
+REG,Regional average,Aggregate,he_pc,2016,280
+REG,Regional average,Aggregate,he_pc,2017,288
+REG,Regional average,Aggregate,he_pc,2018,277
+REG,Regional average,Aggregate,he_pc,2019,277
+REG,Regional average,Aggregate,he_pc,2020,277
+REG,Regional average,Aggregate,he_pc,2021,295
+REG,Regional average,Aggregate,he_pc,2022,305
+REG,Regional average,Aggregate,he_pc,2023,311
+WLD,World,Aggregate,he_pc,2010,900
+WLD,World,Aggregate,he_pc,2011,974
+WLD,World,Aggregate,he_pc,2012,982
+WLD,World,Aggregate,he_pc,2013,993
+WLD,World,Aggregate,he_pc,2014,1016
+WLD,World,Aggregate,he_pc,2015,975
+WLD,World,Aggregate,he_pc,2016,992
+WLD,World,Aggregate,he_pc,2017,1028
+WLD,World,Aggregate,he_pc,2018,1067
+WLD,World,Aggregate,he_pc,2019,1085
+WLD,World,Aggregate,he_pc,2020,1160
+WLD,World,Aggregate,he_pc,2021,1258
+WLD,World,Aggregate,he_pc,2022,1266
+WLD,World,Aggregate,he_pc,2023,1317
+ARE,UAE,GCC,hypertension,2000,37.7
+ARE,UAE,GCC,hypertension,2001,37.8
+ARE,UAE,GCC,hypertension,2002,38
+ARE,UAE,GCC,hypertension,2003,38.1
+ARE,UAE,GCC,hypertension,2004,38.2
+ARE,UAE,GCC,hypertension,2005,38.3
+ARE,UAE,GCC,hypertension,2006,38.5
+ARE,UAE,GCC,hypertension,2007,38.6
+ARE,UAE,GCC,hypertension,2008,38.8
+ARE,UAE,GCC,hypertension,2009,39
+ARE,UAE,GCC,hypertension,2010,39.2
+ARE,UAE,GCC,hypertension,2011,39.4
+ARE,UAE,GCC,hypertension,2012,39.7
+ARE,UAE,GCC,hypertension,2013,39.9
+ARE,UAE,GCC,hypertension,2014,40.1
+ARE,UAE,GCC,hypertension,2015,40.3
+ARE,UAE,GCC,hypertension,2016,40.5
+ARE,UAE,GCC,hypertension,2017,40.8
+ARE,UAE,GCC,hypertension,2018,41.1
+ARE,UAE,GCC,hypertension,2019,41.4
+SAU,Saudi Arabia,GCC,hypertension,2000,35.1
+SAU,Saudi Arabia,GCC,hypertension,2001,35.2
+SAU,Saudi Arabia,GCC,hypertension,2002,35.2
+SAU,Saudi Arabia,GCC,hypertension,2003,35.2
+SAU,Saudi Arabia,GCC,hypertension,2004,35.2
+SAU,Saudi Arabia,GCC,hypertension,2005,35.1
+SAU,Saudi Arabia,GCC,hypertension,2006,35
+SAU,Saudi Arabia,GCC,hypertension,2007,35
+SAU,Saudi Arabia,GCC,hypertension,2008,34.9
+SAU,Saudi Arabia,GCC,hypertension,2009,34.8
+SAU,Saudi Arabia,GCC,hypertension,2010,34.7
+SAU,Saudi Arabia,GCC,hypertension,2011,34.7
+SAU,Saudi Arabia,GCC,hypertension,2012,34.6
+SAU,Saudi Arabia,GCC,hypertension,2013,34.5
+SAU,Saudi Arabia,GCC,hypertension,2014,34.4
+SAU,Saudi Arabia,GCC,hypertension,2015,34.3
+SAU,Saudi Arabia,GCC,hypertension,2016,34.2
+SAU,Saudi Arabia,GCC,hypertension,2017,34.2
+SAU,Saudi Arabia,GCC,hypertension,2018,34.1
+SAU,Saudi Arabia,GCC,hypertension,2019,34
+QAT,Qatar,GCC,hypertension,2000,42.9
+QAT,Qatar,GCC,hypertension,2001,43
+QAT,Qatar,GCC,hypertension,2002,43.2
+QAT,Qatar,GCC,hypertension,2003,43.2
+QAT,Qatar,GCC,hypertension,2004,43.3
+QAT,Qatar,GCC,hypertension,2005,43.2
+QAT,Qatar,GCC,hypertension,2006,43.3
+QAT,Qatar,GCC,hypertension,2007,43.3
+QAT,Qatar,GCC,hypertension,2008,43.2
+QAT,Qatar,GCC,hypertension,2009,43.2
+QAT,Qatar,GCC,hypertension,2010,43.1
+QAT,Qatar,GCC,hypertension,2011,42.9
+QAT,Qatar,GCC,hypertension,2012,42.6
+QAT,Qatar,GCC,hypertension,2013,42.4
+QAT,Qatar,GCC,hypertension,2014,42.1
+QAT,Qatar,GCC,hypertension,2015,41.8
+QAT,Qatar,GCC,hypertension,2016,41.6
+QAT,Qatar,GCC,hypertension,2017,41.4
+QAT,Qatar,GCC,hypertension,2018,41.1
+QAT,Qatar,GCC,hypertension,2019,40.9
+KWT,Kuwait,GCC,hypertension,2000,41
+KWT,Kuwait,GCC,hypertension,2001,41.1
+KWT,Kuwait,GCC,hypertension,2002,41.2
+KWT,Kuwait,GCC,hypertension,2003,41.3
+KWT,Kuwait,GCC,hypertension,2004,41.4
+KWT,Kuwait,GCC,hypertension,2005,41.5
+KWT,Kuwait,GCC,hypertension,2006,41.4
+KWT,Kuwait,GCC,hypertension,2007,41.4
+KWT,Kuwait,GCC,hypertension,2008,41.4
+KWT,Kuwait,GCC,hypertension,2009,41.3
+KWT,Kuwait,GCC,hypertension,2010,41.3
+KWT,Kuwait,GCC,hypertension,2011,41.2
+KWT,Kuwait,GCC,hypertension,2012,41.2
+KWT,Kuwait,GCC,hypertension,2013,41.1
+KWT,Kuwait,GCC,hypertension,2014,41
+KWT,Kuwait,GCC,hypertension,2015,40.8
+KWT,Kuwait,GCC,hypertension,2016,40.7
+KWT,Kuwait,GCC,hypertension,2017,40.7
+KWT,Kuwait,GCC,hypertension,2018,40.6
+KWT,Kuwait,GCC,hypertension,2019,40.5
+BHR,Bahrain,GCC,hypertension,2000,39
+BHR,Bahrain,GCC,hypertension,2001,39.2
+BHR,Bahrain,GCC,hypertension,2002,39.3
+BHR,Bahrain,GCC,hypertension,2003,39.3
+BHR,Bahrain,GCC,hypertension,2004,39.4
+BHR,Bahrain,GCC,hypertension,2005,39.4
+BHR,Bahrain,GCC,hypertension,2006,39.4
+BHR,Bahrain,GCC,hypertension,2007,39.4
+BHR,Bahrain,GCC,hypertension,2008,39.3
+BHR,Bahrain,GCC,hypertension,2009,39.3
+BHR,Bahrain,GCC,hypertension,2010,39.3
+BHR,Bahrain,GCC,hypertension,2011,39.2
+BHR,Bahrain,GCC,hypertension,2012,39.2
+BHR,Bahrain,GCC,hypertension,2013,39.1
+BHR,Bahrain,GCC,hypertension,2014,39
+BHR,Bahrain,GCC,hypertension,2015,38.9
+BHR,Bahrain,GCC,hypertension,2016,38.8
+BHR,Bahrain,GCC,hypertension,2017,38.8
+BHR,Bahrain,GCC,hypertension,2018,38.8
+BHR,Bahrain,GCC,hypertension,2019,38.7
+OMN,Oman,GCC,hypertension,2000,46.3
+OMN,Oman,GCC,hypertension,2001,46.5
+OMN,Oman,GCC,hypertension,2002,46.7
+OMN,Oman,GCC,hypertension,2003,46.8
+OMN,Oman,GCC,hypertension,2004,47
+OMN,Oman,GCC,hypertension,2005,47
+OMN,Oman,GCC,hypertension,2006,47
+OMN,Oman,GCC,hypertension,2007,47
+OMN,Oman,GCC,hypertension,2008,47
+OMN,Oman,GCC,hypertension,2009,47
+OMN,Oman,GCC,hypertension,2010,46.9
+OMN,Oman,GCC,hypertension,2011,46.9
+OMN,Oman,GCC,hypertension,2012,46.8
+OMN,Oman,GCC,hypertension,2013,46.7
+OMN,Oman,GCC,hypertension,2014,46.6
+OMN,Oman,GCC,hypertension,2015,46.5
+OMN,Oman,GCC,hypertension,2016,46.3
+OMN,Oman,GCC,hypertension,2017,46.1
+OMN,Oman,GCC,hypertension,2018,45.9
+OMN,Oman,GCC,hypertension,2019,45.6
+JOR,Jordan,Levant & Iraq,hypertension,2000,38.3
+JOR,Jordan,Levant & Iraq,hypertension,2001,38.4
+JOR,Jordan,Levant & Iraq,hypertension,2002,38.4
+JOR,Jordan,Levant & Iraq,hypertension,2003,38.5
+JOR,Jordan,Levant & Iraq,hypertension,2004,38.5
+JOR,Jordan,Levant & Iraq,hypertension,2005,38.5
+JOR,Jordan,Levant & Iraq,hypertension,2006,38.5
+JOR,Jordan,Levant & Iraq,hypertension,2007,38.5
+JOR,Jordan,Levant & Iraq,hypertension,2008,38.5
+JOR,Jordan,Levant & Iraq,hypertension,2009,38.5
+JOR,Jordan,Levant & Iraq,hypertension,2010,38.5
+JOR,Jordan,Levant & Iraq,hypertension,2011,38.4
+JOR,Jordan,Levant & Iraq,hypertension,2012,38.4
+JOR,Jordan,Levant & Iraq,hypertension,2013,38.4
+JOR,Jordan,Levant & Iraq,hypertension,2014,38.3
+JOR,Jordan,Levant & Iraq,hypertension,2015,38.2
+JOR,Jordan,Levant & Iraq,hypertension,2016,38.1
+JOR,Jordan,Levant & Iraq,hypertension,2017,38
+JOR,Jordan,Levant & Iraq,hypertension,2018,37.9
+JOR,Jordan,Levant & Iraq,hypertension,2019,37.7
+LBN,Lebanon,Levant & Iraq,hypertension,2000,39
+LBN,Lebanon,Levant & Iraq,hypertension,2001,39.2
+LBN,Lebanon,Levant & Iraq,hypertension,2002,39.3
+LBN,Lebanon,Levant & Iraq,hypertension,2003,39.5
+LBN,Lebanon,Levant & Iraq,hypertension,2004,39.6
+LBN,Lebanon,Levant & Iraq,hypertension,2005,39.6
+LBN,Lebanon,Levant & Iraq,hypertension,2006,39.6
+LBN,Lebanon,Levant & Iraq,hypertension,2007,39.5
+LBN,Lebanon,Levant & Iraq,hypertension,2008,39.5
+LBN,Lebanon,Levant & Iraq,hypertension,2009,39.4
+LBN,Lebanon,Levant & Iraq,hypertension,2010,39.4
+LBN,Lebanon,Levant & Iraq,hypertension,2011,39.3
+LBN,Lebanon,Levant & Iraq,hypertension,2012,39.2
+LBN,Lebanon,Levant & Iraq,hypertension,2013,39.1
+LBN,Lebanon,Levant & Iraq,hypertension,2014,38.9
+LBN,Lebanon,Levant & Iraq,hypertension,2015,38.7
+LBN,Lebanon,Levant & Iraq,hypertension,2016,38.6
+LBN,Lebanon,Levant & Iraq,hypertension,2017,38.4
+LBN,Lebanon,Levant & Iraq,hypertension,2018,38.3
+LBN,Lebanon,Levant & Iraq,hypertension,2019,38.1
+IRQ,Iraq,Levant & Iraq,hypertension,2000,45.5
+IRQ,Iraq,Levant & Iraq,hypertension,2001,45.7
+IRQ,Iraq,Levant & Iraq,hypertension,2002,45.9
+IRQ,Iraq,Levant & Iraq,hypertension,2003,46.1
+IRQ,Iraq,Levant & Iraq,hypertension,2004,46.3
+IRQ,Iraq,Levant & Iraq,hypertension,2005,46.4
+IRQ,Iraq,Levant & Iraq,hypertension,2006,46.5
+IRQ,Iraq,Levant & Iraq,hypertension,2007,46.7
+IRQ,Iraq,Levant & Iraq,hypertension,2008,46.8
+IRQ,Iraq,Levant & Iraq,hypertension,2009,47
+IRQ,Iraq,Levant & Iraq,hypertension,2010,47.2
+IRQ,Iraq,Levant & Iraq,hypertension,2011,47.4
+IRQ,Iraq,Levant & Iraq,hypertension,2012,47.5
+IRQ,Iraq,Levant & Iraq,hypertension,2013,47.7
+IRQ,Iraq,Levant & Iraq,hypertension,2014,47.8
+IRQ,Iraq,Levant & Iraq,hypertension,2015,47.9
+IRQ,Iraq,Levant & Iraq,hypertension,2016,47.9
+IRQ,Iraq,Levant & Iraq,hypertension,2017,48
+IRQ,Iraq,Levant & Iraq,hypertension,2018,48.1
+IRQ,Iraq,Levant & Iraq,hypertension,2019,48.1
+EGY,Egypt,North Africa,hypertension,2000,37.5
+EGY,Egypt,North Africa,hypertension,2001,37.6
+EGY,Egypt,North Africa,hypertension,2002,37.8
+EGY,Egypt,North Africa,hypertension,2003,37.9
+EGY,Egypt,North Africa,hypertension,2004,37.9
+EGY,Egypt,North Africa,hypertension,2005,37.9
+EGY,Egypt,North Africa,hypertension,2006,37.9
+EGY,Egypt,North Africa,hypertension,2007,37.9
+EGY,Egypt,North Africa,hypertension,2008,37.8
+EGY,Egypt,North Africa,hypertension,2009,37.9
+EGY,Egypt,North Africa,hypertension,2010,37.9
+EGY,Egypt,North Africa,hypertension,2011,38
+EGY,Egypt,North Africa,hypertension,2012,38.1
+EGY,Egypt,North Africa,hypertension,2013,38.1
+EGY,Egypt,North Africa,hypertension,2014,38.1
+EGY,Egypt,North Africa,hypertension,2015,38.1
+EGY,Egypt,North Africa,hypertension,2016,38.1
+EGY,Egypt,North Africa,hypertension,2017,38.2
+EGY,Egypt,North Africa,hypertension,2018,38.2
+EGY,Egypt,North Africa,hypertension,2019,38.2
+MAR,Morocco,North Africa,hypertension,2000,37.7
+MAR,Morocco,North Africa,hypertension,2001,37.8
+MAR,Morocco,North Africa,hypertension,2002,37.8
+MAR,Morocco,North Africa,hypertension,2003,37.8
+MAR,Morocco,North Africa,hypertension,2004,37.8
+MAR,Morocco,North Africa,hypertension,2005,37.7
+MAR,Morocco,North Africa,hypertension,2006,37.6
+MAR,Morocco,North Africa,hypertension,2007,37.5
+MAR,Morocco,North Africa,hypertension,2008,37.4
+MAR,Morocco,North Africa,hypertension,2009,37.3
+MAR,Morocco,North Africa,hypertension,2010,37.1
+MAR,Morocco,North Africa,hypertension,2011,37
+MAR,Morocco,North Africa,hypertension,2012,36.8
+MAR,Morocco,North Africa,hypertension,2013,36.7
+MAR,Morocco,North Africa,hypertension,2014,36.5
+MAR,Morocco,North Africa,hypertension,2015,36.2
+MAR,Morocco,North Africa,hypertension,2016,36
+MAR,Morocco,North Africa,hypertension,2017,35.8
+MAR,Morocco,North Africa,hypertension,2018,35.5
+MAR,Morocco,North Africa,hypertension,2019,35.3
+TUN,Tunisia,North Africa,hypertension,2000,35
+TUN,Tunisia,North Africa,hypertension,2001,34.9
+TUN,Tunisia,North Africa,hypertension,2002,34.9
+TUN,Tunisia,North Africa,hypertension,2003,34.9
+TUN,Tunisia,North Africa,hypertension,2004,34.8
+TUN,Tunisia,North Africa,hypertension,2005,34.7
+TUN,Tunisia,North Africa,hypertension,2006,34.7
+TUN,Tunisia,North Africa,hypertension,2007,34.6
+TUN,Tunisia,North Africa,hypertension,2008,34.6
+TUN,Tunisia,North Africa,hypertension,2009,34.6
+TUN,Tunisia,North Africa,hypertension,2010,34.6
+TUN,Tunisia,North Africa,hypertension,2011,34.7
+TUN,Tunisia,North Africa,hypertension,2012,34.7
+TUN,Tunisia,North Africa,hypertension,2013,34.7
+TUN,Tunisia,North Africa,hypertension,2014,34.7
+TUN,Tunisia,North Africa,hypertension,2015,34.7
+TUN,Tunisia,North Africa,hypertension,2016,34.7
+TUN,Tunisia,North Africa,hypertension,2017,34.7
+TUN,Tunisia,North Africa,hypertension,2018,34.7
+TUN,Tunisia,North Africa,hypertension,2019,34.7
+DZA,Algeria,North Africa,hypertension,2000,37.7
+DZA,Algeria,North Africa,hypertension,2001,37.8
+DZA,Algeria,North Africa,hypertension,2002,37.8
+DZA,Algeria,North Africa,hypertension,2003,37.8
+DZA,Algeria,North Africa,hypertension,2004,37.8
+DZA,Algeria,North Africa,hypertension,2005,37.8
+DZA,Algeria,North Africa,hypertension,2006,37.7
+DZA,Algeria,North Africa,hypertension,2007,37.6
+DZA,Algeria,North Africa,hypertension,2008,37.5
+DZA,Algeria,North Africa,hypertension,2009,37.4
+DZA,Algeria,North Africa,hypertension,2010,37.4
+DZA,Algeria,North Africa,hypertension,2011,37.3
+DZA,Algeria,North Africa,hypertension,2012,37.2
+DZA,Algeria,North Africa,hypertension,2013,37.1
+DZA,Algeria,North Africa,hypertension,2014,37
+DZA,Algeria,North Africa,hypertension,2015,36.8
+DZA,Algeria,North Africa,hypertension,2016,36.6
+DZA,Algeria,North Africa,hypertension,2017,36.5
+DZA,Algeria,North Africa,hypertension,2018,36.3
+DZA,Algeria,North Africa,hypertension,2019,36.2
+LBY,Libya,North Africa,hypertension,2000,44
+LBY,Libya,North Africa,hypertension,2001,44.2
+LBY,Libya,North Africa,hypertension,2002,44.4
+LBY,Libya,North Africa,hypertension,2003,44.5
+LBY,Libya,North Africa,hypertension,2004,44.6
+LBY,Libya,North Africa,hypertension,2005,44.6
+LBY,Libya,North Africa,hypertension,2006,44.6
+LBY,Libya,North Africa,hypertension,2007,44.6
+LBY,Libya,North Africa,hypertension,2008,44.6
+LBY,Libya,North Africa,hypertension,2009,44.5
+LBY,Libya,North Africa,hypertension,2010,44.5
+LBY,Libya,North Africa,hypertension,2011,44.4
+LBY,Libya,North Africa,hypertension,2012,44.2
+LBY,Libya,North Africa,hypertension,2013,44
+LBY,Libya,North Africa,hypertension,2014,43.8
+LBY,Libya,North Africa,hypertension,2015,43.6
+LBY,Libya,North Africa,hypertension,2016,43.4
+LBY,Libya,North Africa,hypertension,2017,43.2
+LBY,Libya,North Africa,hypertension,2018,43
+LBY,Libya,North Africa,hypertension,2019,42.7
+USA,United States,Global benchmark,hypertension,2000,31.1
+USA,United States,Global benchmark,hypertension,2001,31.3
+USA,United States,Global benchmark,hypertension,2002,31.4
+USA,United States,Global benchmark,hypertension,2003,31.5
+USA,United States,Global benchmark,hypertension,2004,31.6
+USA,United States,Global benchmark,hypertension,2005,31.7
+USA,United States,Global benchmark,hypertension,2006,31.8
+USA,United States,Global benchmark,hypertension,2007,31.8
+USA,United States,Global benchmark,hypertension,2008,31.9
+USA,United States,Global benchmark,hypertension,2009,31.9
+USA,United States,Global benchmark,hypertension,2010,31.9
+USA,United States,Global benchmark,hypertension,2011,31.8
+USA,United States,Global benchmark,hypertension,2012,31.8
+USA,United States,Global benchmark,hypertension,2013,31.7
+USA,United States,Global benchmark,hypertension,2014,31.7
+USA,United States,Global benchmark,hypertension,2015,31.6
+USA,United States,Global benchmark,hypertension,2016,31.6
+USA,United States,Global benchmark,hypertension,2017,31.6
+USA,United States,Global benchmark,hypertension,2018,31.6
+USA,United States,Global benchmark,hypertension,2019,31.6
+GBR,United Kingdom,Global benchmark,hypertension,2000,33.7
+GBR,United Kingdom,Global benchmark,hypertension,2001,33.1
+GBR,United Kingdom,Global benchmark,hypertension,2002,32.6
+GBR,United Kingdom,Global benchmark,hypertension,2003,32.1
+GBR,United Kingdom,Global benchmark,hypertension,2004,31.7
+GBR,United Kingdom,Global benchmark,hypertension,2005,31.2
+GBR,United Kingdom,Global benchmark,hypertension,2006,30.8
+GBR,United Kingdom,Global benchmark,hypertension,2007,30.5
+GBR,United Kingdom,Global benchmark,hypertension,2008,30.1
+GBR,United Kingdom,Global benchmark,hypertension,2009,29.8
+GBR,United Kingdom,Global benchmark,hypertension,2010,29.4
+GBR,United Kingdom,Global benchmark,hypertension,2011,29
+GBR,United Kingdom,Global benchmark,hypertension,2012,28.7
+GBR,United Kingdom,Global benchmark,hypertension,2013,28.3
+GBR,United Kingdom,Global benchmark,hypertension,2014,27.9
+GBR,United Kingdom,Global benchmark,hypertension,2015,27.6
+GBR,United Kingdom,Global benchmark,hypertension,2016,27.3
+GBR,United Kingdom,Global benchmark,hypertension,2017,27
+GBR,United Kingdom,Global benchmark,hypertension,2018,26.7
+GBR,United Kingdom,Global benchmark,hypertension,2019,26.4
+FIN,Finland,Global benchmark,hypertension,2000,42.2
+FIN,Finland,Global benchmark,hypertension,2001,41.8
+FIN,Finland,Global benchmark,hypertension,2002,41.4
+FIN,Finland,Global benchmark,hypertension,2003,41.1
+FIN,Finland,Global benchmark,hypertension,2004,40.8
+FIN,Finland,Global benchmark,hypertension,2005,40.5
+FIN,Finland,Global benchmark,hypertension,2006,40.2
+FIN,Finland,Global benchmark,hypertension,2007,39.9
+FIN,Finland,Global benchmark,hypertension,2008,39.6
+FIN,Finland,Global benchmark,hypertension,2009,39.3
+FIN,Finland,Global benchmark,hypertension,2010,39
+FIN,Finland,Global benchmark,hypertension,2011,38.6
+FIN,Finland,Global benchmark,hypertension,2012,38.3
+FIN,Finland,Global benchmark,hypertension,2013,37.9
+FIN,Finland,Global benchmark,hypertension,2014,37.6
+FIN,Finland,Global benchmark,hypertension,2015,37.2
+FIN,Finland,Global benchmark,hypertension,2016,36.9
+FIN,Finland,Global benchmark,hypertension,2017,36.6
+FIN,Finland,Global benchmark,hypertension,2018,36.2
+FIN,Finland,Global benchmark,hypertension,2019,35.9
+REG,Regional average,Aggregate,hypertension,2000,37.8
+REG,Regional average,Aggregate,hypertension,2001,37.9
+REG,Regional average,Aggregate,hypertension,2002,38.1
+REG,Regional average,Aggregate,hypertension,2003,38.2
+REG,Regional average,Aggregate,hypertension,2004,38.3
+REG,Regional average,Aggregate,hypertension,2005,38.4
+REG,Regional average,Aggregate,hypertension,2006,38.4
+REG,Regional average,Aggregate,hypertension,2007,38.4
+REG,Regional average,Aggregate,hypertension,2008,38.5
+REG,Regional average,Aggregate,hypertension,2009,38.5
+REG,Regional average,Aggregate,hypertension,2010,38.5
+REG,Regional average,Aggregate,hypertension,2011,38.5
+REG,Regional average,Aggregate,hypertension,2012,38.4
+REG,Regional average,Aggregate,hypertension,2013,38.3
+REG,Regional average,Aggregate,hypertension,2014,38.2
+REG,Regional average,Aggregate,hypertension,2015,38.1
+REG,Regional average,Aggregate,hypertension,2016,38
+REG,Regional average,Aggregate,hypertension,2017,38
+REG,Regional average,Aggregate,hypertension,2018,37.9
+REG,Regional average,Aggregate,hypertension,2019,37.8
+WLD,World,Aggregate,hypertension,2000,33.4
+WLD,World,Aggregate,hypertension,2001,33.5
+WLD,World,Aggregate,hypertension,2002,33.7
+WLD,World,Aggregate,hypertension,2003,33.8
+WLD,World,Aggregate,hypertension,2004,33.9
+WLD,World,Aggregate,hypertension,2005,34.1
+WLD,World,Aggregate,hypertension,2006,34.2
+WLD,World,Aggregate,hypertension,2007,34.2
+WLD,World,Aggregate,hypertension,2008,34.3
+WLD,World,Aggregate,hypertension,2009,34.3
+WLD,World,Aggregate,hypertension,2010,34.3
+WLD,World,Aggregate,hypertension,2011,34.2
+WLD,World,Aggregate,hypertension,2012,34
+WLD,World,Aggregate,hypertension,2013,33.9
+WLD,World,Aggregate,hypertension,2014,33.8
+WLD,World,Aggregate,hypertension,2015,33.6
+WLD,World,Aggregate,hypertension,2016,33.5
+WLD,World,Aggregate,hypertension,2017,33.4
+WLD,World,Aggregate,hypertension,2018,33.3
+WLD,World,Aggregate,hypertension,2019,33.1
+ARE,UAE,GCC,life_exp,2010,81.9
+ARE,UAE,GCC,life_exp,2011,81.9
+ARE,UAE,GCC,life_exp,2012,81.9
+ARE,UAE,GCC,life_exp,2013,82
+ARE,UAE,GCC,life_exp,2014,82
+ARE,UAE,GCC,life_exp,2015,82.1
+ARE,UAE,GCC,life_exp,2016,82.2
+ARE,UAE,GCC,life_exp,2017,82.4
+ARE,UAE,GCC,life_exp,2018,82.4
+ARE,UAE,GCC,life_exp,2019,82.6
+ARE,UAE,GCC,life_exp,2020,81.9
+ARE,UAE,GCC,life_exp,2021,79.1
+ARE,UAE,GCC,life_exp,2022,80.5
+ARE,UAE,GCC,life_exp,2023,82.9
+SAU,Saudi Arabia,GCC,life_exp,2010,75.6
+SAU,Saudi Arabia,GCC,life_exp,2011,75.8
+SAU,Saudi Arabia,GCC,life_exp,2012,76.1
+SAU,Saudi Arabia,GCC,life_exp,2013,76.5
+SAU,Saudi Arabia,GCC,life_exp,2014,77.1
+SAU,Saudi Arabia,GCC,life_exp,2015,77.8
+SAU,Saudi Arabia,GCC,life_exp,2016,78.4
+SAU,Saudi Arabia,GCC,life_exp,2017,78.7
+SAU,Saudi Arabia,GCC,life_exp,2018,78.8
+SAU,Saudi Arabia,GCC,life_exp,2019,78.3
+SAU,Saudi Arabia,GCC,life_exp,2020,77.6
+SAU,Saudi Arabia,GCC,life_exp,2021,77.1
+SAU,Saudi Arabia,GCC,life_exp,2022,77.3
+SAU,Saudi Arabia,GCC,life_exp,2023,78.7
+QAT,Qatar,GCC,life_exp,2010,79.4
+QAT,Qatar,GCC,life_exp,2011,80
+QAT,Qatar,GCC,life_exp,2012,80.5
+QAT,Qatar,GCC,life_exp,2013,81
+QAT,Qatar,GCC,life_exp,2014,81.4
+QAT,Qatar,GCC,life_exp,2015,81.8
+QAT,Qatar,GCC,life_exp,2016,82.1
+QAT,Qatar,GCC,life_exp,2017,82.5
+QAT,Qatar,GCC,life_exp,2018,82.7
+QAT,Qatar,GCC,life_exp,2019,82.9
+QAT,Qatar,GCC,life_exp,2020,80.4
+QAT,Qatar,GCC,life_exp,2021,81.1
+QAT,Qatar,GCC,life_exp,2022,81.9
+QAT,Qatar,GCC,life_exp,2023,82.4
+KWT,Kuwait,GCC,life_exp,2010,77.7
+KWT,Kuwait,GCC,life_exp,2011,78.1
+KWT,Kuwait,GCC,life_exp,2012,78.4
+KWT,Kuwait,GCC,life_exp,2013,78.7
+KWT,Kuwait,GCC,life_exp,2014,79.1
+KWT,Kuwait,GCC,life_exp,2015,79.4
+KWT,Kuwait,GCC,life_exp,2016,79.7
+KWT,Kuwait,GCC,life_exp,2017,79.9
+KWT,Kuwait,GCC,life_exp,2018,80.1
+KWT,Kuwait,GCC,life_exp,2019,82
+KWT,Kuwait,GCC,life_exp,2020,78.8
+KWT,Kuwait,GCC,life_exp,2021,78.7
+KWT,Kuwait,GCC,life_exp,2022,80.6
+KWT,Kuwait,GCC,life_exp,2023,83.2
+BHR,Bahrain,GCC,life_exp,2010,78.6
+BHR,Bahrain,GCC,life_exp,2011,79.1
+BHR,Bahrain,GCC,life_exp,2012,79.6
+BHR,Bahrain,GCC,life_exp,2013,80
+BHR,Bahrain,GCC,life_exp,2014,80.2
+BHR,Bahrain,GCC,life_exp,2015,80.3
+BHR,Bahrain,GCC,life_exp,2016,80.4
+BHR,Bahrain,GCC,life_exp,2017,80.4
+BHR,Bahrain,GCC,life_exp,2018,80.4
+BHR,Bahrain,GCC,life_exp,2019,80.5
+BHR,Bahrain,GCC,life_exp,2020,78.7
+BHR,Bahrain,GCC,life_exp,2021,78.1
+BHR,Bahrain,GCC,life_exp,2022,81
+BHR,Bahrain,GCC,life_exp,2023,81.3
+OMN,Oman,GCC,life_exp,2010,77.2
+OMN,Oman,GCC,life_exp,2011,77.7
+OMN,Oman,GCC,life_exp,2012,78.2
+OMN,Oman,GCC,life_exp,2013,78.6
+OMN,Oman,GCC,life_exp,2014,79
+OMN,Oman,GCC,life_exp,2015,79.3
+OMN,Oman,GCC,life_exp,2016,79.6
+OMN,Oman,GCC,life_exp,2017,79.7
+OMN,Oman,GCC,life_exp,2018,79.9
+OMN,Oman,GCC,life_exp,2019,79.9
+OMN,Oman,GCC,life_exp,2020,77.8
+OMN,Oman,GCC,life_exp,2021,76
+OMN,Oman,GCC,life_exp,2022,77.9
+OMN,Oman,GCC,life_exp,2023,80
+JOR,Jordan,Levant & Iraq,life_exp,2010,73.8
+JOR,Jordan,Levant & Iraq,life_exp,2011,73.9
+JOR,Jordan,Levant & Iraq,life_exp,2012,74.1
+JOR,Jordan,Levant & Iraq,life_exp,2013,74.3
+JOR,Jordan,Levant & Iraq,life_exp,2014,74.6
+JOR,Jordan,Levant & Iraq,life_exp,2015,75.1
+JOR,Jordan,Levant & Iraq,life_exp,2016,75.5
+JOR,Jordan,Levant & Iraq,life_exp,2017,76.1
+JOR,Jordan,Levant & Iraq,life_exp,2018,76.5
+JOR,Jordan,Levant & Iraq,life_exp,2019,76.9
+JOR,Jordan,Levant & Iraq,life_exp,2020,75.6
+JOR,Jordan,Levant & Iraq,life_exp,2021,74.2
+JOR,Jordan,Levant & Iraq,life_exp,2022,77.1
+JOR,Jordan,Levant & Iraq,life_exp,2023,77.8
+LBN,Lebanon,Levant & Iraq,life_exp,2010,77.5
+LBN,Lebanon,Levant & Iraq,life_exp,2011,77.8
+LBN,Lebanon,Levant & Iraq,life_exp,2012,77.9
+LBN,Lebanon,Levant & Iraq,life_exp,2013,78
+LBN,Lebanon,Levant & Iraq,life_exp,2014,78.1
+LBN,Lebanon,Levant & Iraq,life_exp,2015,78.3
+LBN,Lebanon,Levant & Iraq,life_exp,2016,78.3
+LBN,Lebanon,Levant & Iraq,life_exp,2017,78.2
+LBN,Lebanon,Levant & Iraq,life_exp,2018,78.3
+LBN,Lebanon,Levant & Iraq,life_exp,2019,78.2
+LBN,Lebanon,Levant & Iraq,life_exp,2020,76.3
+LBN,Lebanon,Levant & Iraq,life_exp,2021,73.7
+LBN,Lebanon,Levant & Iraq,life_exp,2022,78
+LBN,Lebanon,Levant & Iraq,life_exp,2023,77.8
+IRQ,Iraq,Levant & Iraq,life_exp,2010,68.1
+IRQ,Iraq,Levant & Iraq,life_exp,2011,68.4
+IRQ,Iraq,Levant & Iraq,life_exp,2012,68.8
+IRQ,Iraq,Levant & Iraq,life_exp,2013,69
+IRQ,Iraq,Levant & Iraq,life_exp,2014,69.7
+IRQ,Iraq,Levant & Iraq,life_exp,2015,70
+IRQ,Iraq,Levant & Iraq,life_exp,2016,68.7
+IRQ,Iraq,Levant & Iraq,life_exp,2017,69.8
+IRQ,Iraq,Levant & Iraq,life_exp,2018,71.1
+IRQ,Iraq,Levant & Iraq,life_exp,2019,71.2
+IRQ,Iraq,Levant & Iraq,life_exp,2020,69.7
+IRQ,Iraq,Levant & Iraq,life_exp,2021,70.7
+IRQ,Iraq,Levant & Iraq,life_exp,2022,72
+IRQ,Iraq,Levant & Iraq,life_exp,2023,72.3
+EGY,Egypt,North Africa,life_exp,2010,69.1
+EGY,Egypt,North Africa,life_exp,2011,69.2
+EGY,Egypt,North Africa,life_exp,2012,69.5
+EGY,Egypt,North Africa,life_exp,2013,69.6
+EGY,Egypt,North Africa,life_exp,2014,69.9
+EGY,Egypt,North Africa,life_exp,2015,70.1
+EGY,Egypt,North Africa,life_exp,2016,70.4
+EGY,Egypt,North Africa,life_exp,2017,70.7
+EGY,Egypt,North Africa,life_exp,2018,71
+EGY,Egypt,North Africa,life_exp,2019,71.2
+EGY,Egypt,North Africa,life_exp,2020,69.8
+EGY,Egypt,North Africa,life_exp,2021,69
+EGY,Egypt,North Africa,life_exp,2022,71
+EGY,Egypt,North Africa,life_exp,2023,71.6
+MAR,Morocco,North Africa,life_exp,2010,70.8
+MAR,Morocco,North Africa,life_exp,2011,71.3
+MAR,Morocco,North Africa,life_exp,2012,71.7
+MAR,Morocco,North Africa,life_exp,2013,72.1
+MAR,Morocco,North Africa,life_exp,2014,72.5
+MAR,Morocco,North Africa,life_exp,2015,72.9
+MAR,Morocco,North Africa,life_exp,2016,73.2
+MAR,Morocco,North Africa,life_exp,2017,73.6
+MAR,Morocco,North Africa,life_exp,2018,73.9
+MAR,Morocco,North Africa,life_exp,2019,74.2
+MAR,Morocco,North Africa,life_exp,2020,73.1
+MAR,Morocco,North Africa,life_exp,2021,73.4
+MAR,Morocco,North Africa,life_exp,2022,75.2
+MAR,Morocco,North Africa,life_exp,2023,75.3
+TUN,Tunisia,North Africa,life_exp,2010,74.4
+TUN,Tunisia,North Africa,life_exp,2011,74.5
+TUN,Tunisia,North Africa,life_exp,2012,74.6
+TUN,Tunisia,North Africa,life_exp,2013,74.7
+TUN,Tunisia,North Africa,life_exp,2014,74.8
+TUN,Tunisia,North Africa,life_exp,2015,74.9
+TUN,Tunisia,North Africa,life_exp,2016,75
+TUN,Tunisia,North Africa,life_exp,2017,75.2
+TUN,Tunisia,North Africa,life_exp,2018,75.4
+TUN,Tunisia,North Africa,life_exp,2019,75.6
+TUN,Tunisia,North Africa,life_exp,2020,75
+TUN,Tunisia,North Africa,life_exp,2021,72.9
+TUN,Tunisia,North Africa,life_exp,2022,76
+TUN,Tunisia,North Africa,life_exp,2023,76.5
+DZA,Algeria,North Africa,life_exp,2010,74.1
+DZA,Algeria,North Africa,life_exp,2011,74.4
+DZA,Algeria,North Africa,life_exp,2012,74.6
+DZA,Algeria,North Africa,life_exp,2013,74.8
+DZA,Algeria,North Africa,life_exp,2014,75
+DZA,Algeria,North Africa,life_exp,2015,75.2
+DZA,Algeria,North Africa,life_exp,2016,75.3
+DZA,Algeria,North Africa,life_exp,2017,75.4
+DZA,Algeria,North Africa,life_exp,2018,75.6
+DZA,Algeria,North Africa,life_exp,2019,75.7
+DZA,Algeria,North Africa,life_exp,2020,73.3
+DZA,Algeria,North Africa,life_exp,2021,75.2
+DZA,Algeria,North Africa,life_exp,2022,76.1
+DZA,Algeria,North Africa,life_exp,2023,76.3
+LBY,Libya,North Africa,life_exp,2010,72.2
+LBY,Libya,North Africa,life_exp,2011,70
+LBY,Libya,North Africa,life_exp,2012,72.2
+LBY,Libya,North Africa,life_exp,2013,72.3
+LBY,Libya,North Africa,life_exp,2014,71.3
+LBY,Libya,North Africa,life_exp,2015,71.6
+LBY,Libya,North Africa,life_exp,2016,71.8
+LBY,Libya,North Africa,life_exp,2017,72.7
+LBY,Libya,North Africa,life_exp,2018,73.2
+LBY,Libya,North Africa,life_exp,2019,72.9
+LBY,Libya,North Africa,life_exp,2020,72.4
+LBY,Libya,North Africa,life_exp,2021,72.1
+LBY,Libya,North Africa,life_exp,2022,74.5
+LBY,Libya,North Africa,life_exp,2023,69.3
+USA,United States,Global benchmark,life_exp,2010,78.5
+USA,United States,Global benchmark,life_exp,2011,78.6
+USA,United States,Global benchmark,life_exp,2012,78.7
+USA,United States,Global benchmark,life_exp,2013,78.7
+USA,United States,Global benchmark,life_exp,2014,78.8
+USA,United States,Global benchmark,life_exp,2015,78.7
+USA,United States,Global benchmark,life_exp,2016,78.5
+USA,United States,Global benchmark,life_exp,2017,78.5
+USA,United States,Global benchmark,life_exp,2018,78.6
+USA,United States,Global benchmark,life_exp,2019,78.8
+USA,United States,Global benchmark,life_exp,2020,77
+USA,United States,Global benchmark,life_exp,2021,76.3
+USA,United States,Global benchmark,life_exp,2022,77.4
+USA,United States,Global benchmark,life_exp,2023,78.4
+GBR,United Kingdom,Global benchmark,life_exp,2010,80.4
+GBR,United Kingdom,Global benchmark,life_exp,2011,81
+GBR,United Kingdom,Global benchmark,life_exp,2012,80.9
+GBR,United Kingdom,Global benchmark,life_exp,2013,81
+GBR,United Kingdom,Global benchmark,life_exp,2014,81.3
+GBR,United Kingdom,Global benchmark,life_exp,2015,81
+GBR,United Kingdom,Global benchmark,life_exp,2016,81.2
+GBR,United Kingdom,Global benchmark,life_exp,2017,81.3
+GBR,United Kingdom,Global benchmark,life_exp,2018,81.3
+GBR,United Kingdom,Global benchmark,life_exp,2019,81.4
+GBR,United Kingdom,Global benchmark,life_exp,2020,80.3
+GBR,United Kingdom,Global benchmark,life_exp,2021,80.6
+GBR,United Kingdom,Global benchmark,life_exp,2022,81
+GBR,United Kingdom,Global benchmark,life_exp,2023,81.2
+FIN,Finland,Global benchmark,life_exp,2010,79.9
+FIN,Finland,Global benchmark,life_exp,2011,80.5
+FIN,Finland,Global benchmark,life_exp,2012,80.6
+FIN,Finland,Global benchmark,life_exp,2013,81
+FIN,Finland,Global benchmark,life_exp,2014,81.2
+FIN,Finland,Global benchmark,life_exp,2015,81.5
+FIN,Finland,Global benchmark,life_exp,2016,81.4
+FIN,Finland,Global benchmark,life_exp,2017,81.6
+FIN,Finland,Global benchmark,life_exp,2018,81.7
+FIN,Finland,Global benchmark,life_exp,2019,82
+FIN,Finland,Global benchmark,life_exp,2020,81.9
+FIN,Finland,Global benchmark,life_exp,2021,81.9
+FIN,Finland,Global benchmark,life_exp,2022,81.2
+FIN,Finland,Global benchmark,life_exp,2023,81.6
+REG,Regional average,Aggregate,life_exp,2010,69.2
+REG,Regional average,Aggregate,life_exp,2011,69.4
+REG,Regional average,Aggregate,life_exp,2012,69.5
+REG,Regional average,Aggregate,life_exp,2013,69.7
+REG,Regional average,Aggregate,life_exp,2014,70
+REG,Regional average,Aggregate,life_exp,2015,70.2
+REG,Regional average,Aggregate,life_exp,2016,70.4
+REG,Regional average,Aggregate,life_exp,2017,70.7
+REG,Regional average,Aggregate,life_exp,2018,70.9
+REG,Regional average,Aggregate,life_exp,2019,71.2
+REG,Regional average,Aggregate,life_exp,2020,69.9
+REG,Regional average,Aggregate,life_exp,2021,69.7
+REG,Regional average,Aggregate,life_exp,2022,71.7
+REG,Regional average,Aggregate,life_exp,2023,72.1
+WLD,World,Aggregate,life_exp,2010,70.7
+WLD,World,Aggregate,life_exp,2011,71
+WLD,World,Aggregate,life_exp,2012,71.3
+WLD,World,Aggregate,life_exp,2013,71.5
+WLD,World,Aggregate,life_exp,2014,71.8
+WLD,World,Aggregate,life_exp,2015,72
+WLD,World,Aggregate,life_exp,2016,72.2
+WLD,World,Aggregate,life_exp,2017,72.4
+WLD,World,Aggregate,life_exp,2018,72.6
+WLD,World,Aggregate,life_exp,2019,72.9
+WLD,World,Aggregate,life_exp,2020,72.2
+WLD,World,Aggregate,life_exp,2021,71.2
+WLD,World,Aggregate,life_exp,2022,73
+WLD,World,Aggregate,life_exp,2023,73.3
+ARE,UAE,GCC,ncd_3070,2010,8
+ARE,UAE,GCC,ncd_3070,2011,8.3
+ARE,UAE,GCC,ncd_3070,2012,8.3
+ARE,UAE,GCC,ncd_3070,2013,8.3
+ARE,UAE,GCC,ncd_3070,2014,8.4
+ARE,UAE,GCC,ncd_3070,2015,8.4
+ARE,UAE,GCC,ncd_3070,2016,8.4
+ARE,UAE,GCC,ncd_3070,2017,8.6
+ARE,UAE,GCC,ncd_3070,2018,8.7
+ARE,UAE,GCC,ncd_3070,2019,8.7
+ARE,UAE,GCC,ncd_3070,2020,9.6
+ARE,UAE,GCC,ncd_3070,2021,11.6
+SAU,Saudi Arabia,GCC,ncd_3070,2010,15.9
+SAU,Saudi Arabia,GCC,ncd_3070,2011,14.1
+SAU,Saudi Arabia,GCC,ncd_3070,2012,12.9
+SAU,Saudi Arabia,GCC,ncd_3070,2013,12.5
+SAU,Saudi Arabia,GCC,ncd_3070,2014,12.7
+SAU,Saudi Arabia,GCC,ncd_3070,2015,12.9
+SAU,Saudi Arabia,GCC,ncd_3070,2016,13.1
+SAU,Saudi Arabia,GCC,ncd_3070,2017,13.8
+SAU,Saudi Arabia,GCC,ncd_3070,2018,14.2
+SAU,Saudi Arabia,GCC,ncd_3070,2019,14.3
+SAU,Saudi Arabia,GCC,ncd_3070,2020,13.5
+SAU,Saudi Arabia,GCC,ncd_3070,2021,13.6
+QAT,Qatar,GCC,ncd_3070,2010,20
+QAT,Qatar,GCC,ncd_3070,2011,18.6
+QAT,Qatar,GCC,ncd_3070,2012,17.5
+QAT,Qatar,GCC,ncd_3070,2013,16.4
+QAT,Qatar,GCC,ncd_3070,2014,15.5
+QAT,Qatar,GCC,ncd_3070,2015,14.6
+QAT,Qatar,GCC,ncd_3070,2016,14.1
+QAT,Qatar,GCC,ncd_3070,2017,13.7
+QAT,Qatar,GCC,ncd_3070,2018,13.4
+QAT,Qatar,GCC,ncd_3070,2019,12.9
+QAT,Qatar,GCC,ncd_3070,2020,12
+QAT,Qatar,GCC,ncd_3070,2021,12.1
+KWT,Kuwait,GCC,ncd_3070,2010,13.1
+KWT,Kuwait,GCC,ncd_3070,2011,11.7
+KWT,Kuwait,GCC,ncd_3070,2012,11.8
+KWT,Kuwait,GCC,ncd_3070,2013,11.1
+KWT,Kuwait,GCC,ncd_3070,2014,10.8
+KWT,Kuwait,GCC,ncd_3070,2015,11.5
+KWT,Kuwait,GCC,ncd_3070,2016,10.5
+KWT,Kuwait,GCC,ncd_3070,2017,10.5
+KWT,Kuwait,GCC,ncd_3070,2018,9.9
+KWT,Kuwait,GCC,ncd_3070,2019,10.1
+KWT,Kuwait,GCC,ncd_3070,2020,11
+KWT,Kuwait,GCC,ncd_3070,2021,9.3
+BHR,Bahrain,GCC,ncd_3070,2010,19.5
+BHR,Bahrain,GCC,ncd_3070,2011,18.9
+BHR,Bahrain,GCC,ncd_3070,2012,18
+BHR,Bahrain,GCC,ncd_3070,2013,16.6
+BHR,Bahrain,GCC,ncd_3070,2014,14.9
+BHR,Bahrain,GCC,ncd_3070,2015,14.3
+BHR,Bahrain,GCC,ncd_3070,2016,14.5
+BHR,Bahrain,GCC,ncd_3070,2017,14.5
+BHR,Bahrain,GCC,ncd_3070,2018,14.4
+BHR,Bahrain,GCC,ncd_3070,2019,14.5
+BHR,Bahrain,GCC,ncd_3070,2020,15.1
+BHR,Bahrain,GCC,ncd_3070,2021,14.8
+OMN,Oman,GCC,ncd_3070,2010,26.9
+OMN,Oman,GCC,ncd_3070,2011,25.5
+OMN,Oman,GCC,ncd_3070,2012,23.7
+OMN,Oman,GCC,ncd_3070,2013,22.5
+OMN,Oman,GCC,ncd_3070,2014,22.8
+OMN,Oman,GCC,ncd_3070,2015,22.3
+OMN,Oman,GCC,ncd_3070,2016,21.9
+OMN,Oman,GCC,ncd_3070,2017,21.3
+OMN,Oman,GCC,ncd_3070,2018,20.6
+OMN,Oman,GCC,ncd_3070,2019,20.3
+OMN,Oman,GCC,ncd_3070,2020,17.7
+OMN,Oman,GCC,ncd_3070,2021,14.6
+JOR,Jordan,Levant & Iraq,ncd_3070,2010,17.9
+JOR,Jordan,Levant & Iraq,ncd_3070,2011,17.4
+JOR,Jordan,Levant & Iraq,ncd_3070,2012,16.9
+JOR,Jordan,Levant & Iraq,ncd_3070,2013,16.2
+JOR,Jordan,Levant & Iraq,ncd_3070,2014,15.5
+JOR,Jordan,Levant & Iraq,ncd_3070,2015,14.6
+JOR,Jordan,Levant & Iraq,ncd_3070,2016,14
+JOR,Jordan,Levant & Iraq,ncd_3070,2017,13.4
+JOR,Jordan,Levant & Iraq,ncd_3070,2018,12.8
+JOR,Jordan,Levant & Iraq,ncd_3070,2019,12.7
+JOR,Jordan,Levant & Iraq,ncd_3070,2020,12.9
+JOR,Jordan,Levant & Iraq,ncd_3070,2021,11.6
+LBN,Lebanon,Levant & Iraq,ncd_3070,2010,14.1
+LBN,Lebanon,Levant & Iraq,ncd_3070,2011,14.2
+LBN,Lebanon,Levant & Iraq,ncd_3070,2012,14.2
+LBN,Lebanon,Levant & Iraq,ncd_3070,2013,14.2
+LBN,Lebanon,Levant & Iraq,ncd_3070,2014,13.9
+LBN,Lebanon,Levant & Iraq,ncd_3070,2015,13.6
+LBN,Lebanon,Levant & Iraq,ncd_3070,2016,12.9
+LBN,Lebanon,Levant & Iraq,ncd_3070,2017,12.5
+LBN,Lebanon,Levant & Iraq,ncd_3070,2018,12.1
+LBN,Lebanon,Levant & Iraq,ncd_3070,2019,12.1
+LBN,Lebanon,Levant & Iraq,ncd_3070,2020,12.7
+LBN,Lebanon,Levant & Iraq,ncd_3070,2021,11.9
+IRQ,Iraq,Levant & Iraq,ncd_3070,2010,24.8
+IRQ,Iraq,Levant & Iraq,ncd_3070,2011,24.5
+IRQ,Iraq,Levant & Iraq,ncd_3070,2012,24
+IRQ,Iraq,Levant & Iraq,ncd_3070,2013,23.6
+IRQ,Iraq,Levant & Iraq,ncd_3070,2014,23
+IRQ,Iraq,Levant & Iraq,ncd_3070,2015,22.5
+IRQ,Iraq,Levant & Iraq,ncd_3070,2016,22.2
+IRQ,Iraq,Levant & Iraq,ncd_3070,2017,22
+IRQ,Iraq,Levant & Iraq,ncd_3070,2018,22.2
+IRQ,Iraq,Levant & Iraq,ncd_3070,2019,22.4
+IRQ,Iraq,Levant & Iraq,ncd_3070,2020,24.6
+IRQ,Iraq,Levant & Iraq,ncd_3070,2021,22.7
+EGY,Egypt,North Africa,ncd_3070,2010,29.9
+EGY,Egypt,North Africa,ncd_3070,2011,29.1
+EGY,Egypt,North Africa,ncd_3070,2012,29.7
+EGY,Egypt,North Africa,ncd_3070,2013,28.4
+EGY,Egypt,North Africa,ncd_3070,2014,28.8
+EGY,Egypt,North Africa,ncd_3070,2015,30.1
+EGY,Egypt,North Africa,ncd_3070,2016,28.9
+EGY,Egypt,North Africa,ncd_3070,2017,27.5
+EGY,Egypt,North Africa,ncd_3070,2018,27.8
+EGY,Egypt,North Africa,ncd_3070,2019,27.4
+EGY,Egypt,North Africa,ncd_3070,2020,26
+EGY,Egypt,North Africa,ncd_3070,2021,26
+MAR,Morocco,North Africa,ncd_3070,2010,22.9
+MAR,Morocco,North Africa,ncd_3070,2011,22.9
+MAR,Morocco,North Africa,ncd_3070,2012,22.7
+MAR,Morocco,North Africa,ncd_3070,2013,22.6
+MAR,Morocco,North Africa,ncd_3070,2014,22.6
+MAR,Morocco,North Africa,ncd_3070,2015,22.7
+MAR,Morocco,North Africa,ncd_3070,2016,22.6
+MAR,Morocco,North Africa,ncd_3070,2017,22.6
+MAR,Morocco,North Africa,ncd_3070,2018,22.7
+MAR,Morocco,North Africa,ncd_3070,2019,22.6
+MAR,Morocco,North Africa,ncd_3070,2020,22.6
+MAR,Morocco,North Africa,ncd_3070,2021,22
+TUN,Tunisia,North Africa,ncd_3070,2010,16.4
+TUN,Tunisia,North Africa,ncd_3070,2011,16
+TUN,Tunisia,North Africa,ncd_3070,2012,15.7
+TUN,Tunisia,North Africa,ncd_3070,2013,15.7
+TUN,Tunisia,North Africa,ncd_3070,2014,15.5
+TUN,Tunisia,North Africa,ncd_3070,2015,15.5
+TUN,Tunisia,North Africa,ncd_3070,2016,15.4
+TUN,Tunisia,North Africa,ncd_3070,2017,15.4
+TUN,Tunisia,North Africa,ncd_3070,2018,15.3
+TUN,Tunisia,North Africa,ncd_3070,2019,15.2
+TUN,Tunisia,North Africa,ncd_3070,2020,15.1
+TUN,Tunisia,North Africa,ncd_3070,2021,13
+DZA,Algeria,North Africa,ncd_3070,2010,15.2
+DZA,Algeria,North Africa,ncd_3070,2011,15.1
+DZA,Algeria,North Africa,ncd_3070,2012,14.8
+DZA,Algeria,North Africa,ncd_3070,2013,14.5
+DZA,Algeria,North Africa,ncd_3070,2014,14.3
+DZA,Algeria,North Africa,ncd_3070,2015,14.2
+DZA,Algeria,North Africa,ncd_3070,2016,14.1
+DZA,Algeria,North Africa,ncd_3070,2017,14.1
+DZA,Algeria,North Africa,ncd_3070,2018,14
+DZA,Algeria,North Africa,ncd_3070,2019,14
+DZA,Algeria,North Africa,ncd_3070,2020,12.7
+DZA,Algeria,North Africa,ncd_3070,2021,13.3
+LBY,Libya,North Africa,ncd_3070,2010,20
+LBY,Libya,North Africa,ncd_3070,2011,20.6
+LBY,Libya,North Africa,ncd_3070,2012,19.5
+LBY,Libya,North Africa,ncd_3070,2013,18.7
+LBY,Libya,North Africa,ncd_3070,2014,19.9
+LBY,Libya,North Africa,ncd_3070,2015,20.4
+LBY,Libya,North Africa,ncd_3070,2016,20.9
+LBY,Libya,North Africa,ncd_3070,2017,21.3
+LBY,Libya,North Africa,ncd_3070,2018,21.4
+LBY,Libya,North Africa,ncd_3070,2019,20.9
+LBY,Libya,North Africa,ncd_3070,2020,20.7
+LBY,Libya,North Africa,ncd_3070,2021,19.8
+USA,United States,Global benchmark,ncd_3070,2010,14.5
+USA,United States,Global benchmark,ncd_3070,2011,14.3
+USA,United States,Global benchmark,ncd_3070,2012,14.2
+USA,United States,Global benchmark,ncd_3070,2013,14
+USA,United States,Global benchmark,ncd_3070,2014,13.9
+USA,United States,Global benchmark,ncd_3070,2015,14
+USA,United States,Global benchmark,ncd_3070,2016,13.9
+USA,United States,Global benchmark,ncd_3070,2017,13.7
+USA,United States,Global benchmark,ncd_3070,2018,13.5
+USA,United States,Global benchmark,ncd_3070,2019,13.2
+USA,United States,Global benchmark,ncd_3070,2020,13.6
+USA,United States,Global benchmark,ncd_3070,2021,13.7
+GBR,United Kingdom,Global benchmark,ncd_3070,2010,12.4
+GBR,United Kingdom,Global benchmark,ncd_3070,2011,11.9
+GBR,United Kingdom,Global benchmark,ncd_3070,2012,11.7
+GBR,United Kingdom,Global benchmark,ncd_3070,2013,11.5
+GBR,United Kingdom,Global benchmark,ncd_3070,2014,11.3
+GBR,United Kingdom,Global benchmark,ncd_3070,2015,11.3
+GBR,United Kingdom,Global benchmark,ncd_3070,2016,11.3
+GBR,United Kingdom,Global benchmark,ncd_3070,2017,11
+GBR,United Kingdom,Global benchmark,ncd_3070,2018,11.3
+GBR,United Kingdom,Global benchmark,ncd_3070,2019,10.7
+GBR,United Kingdom,Global benchmark,ncd_3070,2020,10.8
+GBR,United Kingdom,Global benchmark,ncd_3070,2021,11
+FIN,Finland,Global benchmark,ncd_3070,2010,12
+FIN,Finland,Global benchmark,ncd_3070,2011,11.7
+FIN,Finland,Global benchmark,ncd_3070,2012,11.4
+FIN,Finland,Global benchmark,ncd_3070,2013,11.1
+FIN,Finland,Global benchmark,ncd_3070,2014,10.7
+FIN,Finland,Global benchmark,ncd_3070,2015,10.7
+FIN,Finland,Global benchmark,ncd_3070,2016,10.4
+FIN,Finland,Global benchmark,ncd_3070,2017,10.3
+FIN,Finland,Global benchmark,ncd_3070,2018,10
+FIN,Finland,Global benchmark,ncd_3070,2019,9.6
+FIN,Finland,Global benchmark,ncd_3070,2020,9.7
+FIN,Finland,Global benchmark,ncd_3070,2021,9.6
+REG,Regional average,Aggregate,ncd_3070,2010,23.2
+REG,Regional average,Aggregate,ncd_3070,2011,22.9
+REG,Regional average,Aggregate,ncd_3070,2012,22.7
+REG,Regional average,Aggregate,ncd_3070,2013,22.3
+REG,Regional average,Aggregate,ncd_3070,2014,22.2
+REG,Regional average,Aggregate,ncd_3070,2015,22.3
+REG,Regional average,Aggregate,ncd_3070,2016,21.9
+REG,Regional average,Aggregate,ncd_3070,2017,21.6
+REG,Regional average,Aggregate,ncd_3070,2018,21.6
+REG,Regional average,Aggregate,ncd_3070,2019,21.5
+REG,Regional average,Aggregate,ncd_3070,2020,21.2
+REG,Regional average,Aggregate,ncd_3070,2021,20.7
+WLD,World,Aggregate,ncd_3070,2010,20
+WLD,World,Aggregate,ncd_3070,2011,19.7
+WLD,World,Aggregate,ncd_3070,2012,19.5
+WLD,World,Aggregate,ncd_3070,2013,19.1
+WLD,World,Aggregate,ncd_3070,2014,18.9
+WLD,World,Aggregate,ncd_3070,2015,18.9
+WLD,World,Aggregate,ncd_3070,2016,18.8
+WLD,World,Aggregate,ncd_3070,2017,18.6
+WLD,World,Aggregate,ncd_3070,2018,18.6
+WLD,World,Aggregate,ncd_3070,2019,18.5
+WLD,World,Aggregate,ncd_3070,2020,18.3
+WLD,World,Aggregate,ncd_3070,2021,18.3
+ARE,UAE,GCC,obesity,2000,25.5
+ARE,UAE,GCC,obesity,2001,26.2
+ARE,UAE,GCC,obesity,2002,26.8
+ARE,UAE,GCC,obesity,2003,27.4
+ARE,UAE,GCC,obesity,2004,28
+ARE,UAE,GCC,obesity,2005,28.5
+ARE,UAE,GCC,obesity,2006,29
+ARE,UAE,GCC,obesity,2007,29.4
+ARE,UAE,GCC,obesity,2008,29.8
+ARE,UAE,GCC,obesity,2009,30.2
+ARE,UAE,GCC,obesity,2010,30.7
+ARE,UAE,GCC,obesity,2011,31
+ARE,UAE,GCC,obesity,2012,31.2
+ARE,UAE,GCC,obesity,2013,31.4
+ARE,UAE,GCC,obesity,2014,31.6
+ARE,UAE,GCC,obesity,2015,31.8
+ARE,UAE,GCC,obesity,2016,31.9
+ARE,UAE,GCC,obesity,2017,32
+ARE,UAE,GCC,obesity,2018,32
+ARE,UAE,GCC,obesity,2019,31.9
+ARE,UAE,GCC,obesity,2020,31.9
+ARE,UAE,GCC,obesity,2021,31.9
+ARE,UAE,GCC,obesity,2022,31.8
+ARE,UAE,GCC,obesity,2023,31.7
+ARE,UAE,GCC,obesity,2024,31.6
+SAU,Saudi Arabia,GCC,obesity,2000,27.3
+SAU,Saudi Arabia,GCC,obesity,2001,28
+SAU,Saudi Arabia,GCC,obesity,2002,28.7
+SAU,Saudi Arabia,GCC,obesity,2003,29.4
+SAU,Saudi Arabia,GCC,obesity,2004,30.1
+SAU,Saudi Arabia,GCC,obesity,2005,30.7
+SAU,Saudi Arabia,GCC,obesity,2006,31.4
+SAU,Saudi Arabia,GCC,obesity,2007,32
+SAU,Saudi Arabia,GCC,obesity,2008,32.7
+SAU,Saudi Arabia,GCC,obesity,2009,33.4
+SAU,Saudi Arabia,GCC,obesity,2010,34
+SAU,Saudi Arabia,GCC,obesity,2011,34.6
+SAU,Saudi Arabia,GCC,obesity,2012,35.1
+SAU,Saudi Arabia,GCC,obesity,2013,35.7
+SAU,Saudi Arabia,GCC,obesity,2014,36.1
+SAU,Saudi Arabia,GCC,obesity,2015,36.6
+SAU,Saudi Arabia,GCC,obesity,2016,37.1
+SAU,Saudi Arabia,GCC,obesity,2017,37.5
+SAU,Saudi Arabia,GCC,obesity,2018,38
+SAU,Saudi Arabia,GCC,obesity,2019,38.4
+SAU,Saudi Arabia,GCC,obesity,2020,38.8
+SAU,Saudi Arabia,GCC,obesity,2021,39.2
+SAU,Saudi Arabia,GCC,obesity,2022,39.5
+SAU,Saudi Arabia,GCC,obesity,2023,39.8
+SAU,Saudi Arabia,GCC,obesity,2024,40.1
+QAT,Qatar,GCC,obesity,2000,26
+QAT,Qatar,GCC,obesity,2001,26.9
+QAT,Qatar,GCC,obesity,2002,27.7
+QAT,Qatar,GCC,obesity,2003,28.6
+QAT,Qatar,GCC,obesity,2004,29.5
+QAT,Qatar,GCC,obesity,2005,30.3
+QAT,Qatar,GCC,obesity,2006,31.1
+QAT,Qatar,GCC,obesity,2007,31.9
+QAT,Qatar,GCC,obesity,2008,32.7
+QAT,Qatar,GCC,obesity,2009,33.6
+QAT,Qatar,GCC,obesity,2010,34.4
+QAT,Qatar,GCC,obesity,2011,35.3
+QAT,Qatar,GCC,obesity,2012,36
+QAT,Qatar,GCC,obesity,2013,36.8
+QAT,Qatar,GCC,obesity,2014,37.4
+QAT,Qatar,GCC,obesity,2015,37.9
+QAT,Qatar,GCC,obesity,2016,38.6
+QAT,Qatar,GCC,obesity,2017,39.2
+QAT,Qatar,GCC,obesity,2018,39.7
+QAT,Qatar,GCC,obesity,2019,40.2
+QAT,Qatar,GCC,obesity,2020,40.7
+QAT,Qatar,GCC,obesity,2021,41.2
+QAT,Qatar,GCC,obesity,2022,41.5
+QAT,Qatar,GCC,obesity,2023,41.7
+QAT,Qatar,GCC,obesity,2024,42
+KWT,Kuwait,GCC,obesity,2000,35.4
+KWT,Kuwait,GCC,obesity,2001,36.2
+KWT,Kuwait,GCC,obesity,2002,36.9
+KWT,Kuwait,GCC,obesity,2003,37.5
+KWT,Kuwait,GCC,obesity,2004,38
+KWT,Kuwait,GCC,obesity,2005,38.5
+KWT,Kuwait,GCC,obesity,2006,39
+KWT,Kuwait,GCC,obesity,2007,39.3
+KWT,Kuwait,GCC,obesity,2008,39.7
+KWT,Kuwait,GCC,obesity,2009,40
+KWT,Kuwait,GCC,obesity,2010,40.3
+KWT,Kuwait,GCC,obesity,2011,40.5
+KWT,Kuwait,GCC,obesity,2012,40.6
+KWT,Kuwait,GCC,obesity,2013,40.7
+KWT,Kuwait,GCC,obesity,2014,40.8
+KWT,Kuwait,GCC,obesity,2015,40.8
+KWT,Kuwait,GCC,obesity,2016,40.7
+KWT,Kuwait,GCC,obesity,2017,40.6
+KWT,Kuwait,GCC,obesity,2018,40.4
+KWT,Kuwait,GCC,obesity,2019,40.3
+KWT,Kuwait,GCC,obesity,2020,40.3
+KWT,Kuwait,GCC,obesity,2021,40.5
+KWT,Kuwait,GCC,obesity,2022,40.7
+KWT,Kuwait,GCC,obesity,2023,40.5
+KWT,Kuwait,GCC,obesity,2024,40.4
+BHR,Bahrain,GCC,obesity,2000,24.3
+BHR,Bahrain,GCC,obesity,2001,25.1
+BHR,Bahrain,GCC,obesity,2002,25.8
+BHR,Bahrain,GCC,obesity,2003,26.4
+BHR,Bahrain,GCC,obesity,2004,27.1
+BHR,Bahrain,GCC,obesity,2005,27.7
+BHR,Bahrain,GCC,obesity,2006,28.3
+BHR,Bahrain,GCC,obesity,2007,28.9
+BHR,Bahrain,GCC,obesity,2008,29.4
+BHR,Bahrain,GCC,obesity,2009,30
+BHR,Bahrain,GCC,obesity,2010,30.5
+BHR,Bahrain,GCC,obesity,2011,31.1
+BHR,Bahrain,GCC,obesity,2012,31.5
+BHR,Bahrain,GCC,obesity,2013,32
+BHR,Bahrain,GCC,obesity,2014,32.4
+BHR,Bahrain,GCC,obesity,2015,32.8
+BHR,Bahrain,GCC,obesity,2016,33.2
+BHR,Bahrain,GCC,obesity,2017,33.5
+BHR,Bahrain,GCC,obesity,2018,33.7
+BHR,Bahrain,GCC,obesity,2019,34
+BHR,Bahrain,GCC,obesity,2020,34.2
+BHR,Bahrain,GCC,obesity,2021,34.5
+BHR,Bahrain,GCC,obesity,2022,34.6
+BHR,Bahrain,GCC,obesity,2023,34.8
+BHR,Bahrain,GCC,obesity,2024,34.9
+OMN,Oman,GCC,obesity,2000,18.1
+OMN,Oman,GCC,obesity,2001,18.8
+OMN,Oman,GCC,obesity,2002,19.4
+OMN,Oman,GCC,obesity,2003,20
+OMN,Oman,GCC,obesity,2004,20.7
+OMN,Oman,GCC,obesity,2005,21.3
+OMN,Oman,GCC,obesity,2006,21.9
+OMN,Oman,GCC,obesity,2007,22.5
+OMN,Oman,GCC,obesity,2008,23.1
+OMN,Oman,GCC,obesity,2009,23.8
+OMN,Oman,GCC,obesity,2010,24.4
+OMN,Oman,GCC,obesity,2011,24.7
+OMN,Oman,GCC,obesity,2012,24.9
+OMN,Oman,GCC,obesity,2013,25.4
+OMN,Oman,GCC,obesity,2014,25.9
+OMN,Oman,GCC,obesity,2015,26.5
+OMN,Oman,GCC,obesity,2016,27
+OMN,Oman,GCC,obesity,2017,27.4
+OMN,Oman,GCC,obesity,2018,27.9
+OMN,Oman,GCC,obesity,2019,28.4
+OMN,Oman,GCC,obesity,2020,29
+OMN,Oman,GCC,obesity,2021,29.5
+OMN,Oman,GCC,obesity,2022,29.8
+OMN,Oman,GCC,obesity,2023,30.1
+OMN,Oman,GCC,obesity,2024,30.5
+JOR,Jordan,Levant & Iraq,obesity,2000,29.9
+JOR,Jordan,Levant & Iraq,obesity,2001,30.6
+JOR,Jordan,Levant & Iraq,obesity,2002,31.3
+JOR,Jordan,Levant & Iraq,obesity,2003,32
+JOR,Jordan,Levant & Iraq,obesity,2004,32.6
+JOR,Jordan,Levant & Iraq,obesity,2005,33.1
+JOR,Jordan,Levant & Iraq,obesity,2006,33.6
+JOR,Jordan,Levant & Iraq,obesity,2007,34.1
+JOR,Jordan,Levant & Iraq,obesity,2008,34.6
+JOR,Jordan,Levant & Iraq,obesity,2009,35
+JOR,Jordan,Levant & Iraq,obesity,2010,35.4
+JOR,Jordan,Levant & Iraq,obesity,2011,35.7
+JOR,Jordan,Levant & Iraq,obesity,2012,36
+JOR,Jordan,Levant & Iraq,obesity,2013,36.2
+JOR,Jordan,Levant & Iraq,obesity,2014,36.4
+JOR,Jordan,Levant & Iraq,obesity,2015,36.5
+JOR,Jordan,Levant & Iraq,obesity,2016,36.6
+JOR,Jordan,Levant & Iraq,obesity,2017,36.6
+JOR,Jordan,Levant & Iraq,obesity,2018,36.5
+JOR,Jordan,Levant & Iraq,obesity,2019,36.3
+JOR,Jordan,Levant & Iraq,obesity,2020,36.1
+JOR,Jordan,Levant & Iraq,obesity,2021,35.9
+JOR,Jordan,Levant & Iraq,obesity,2022,35.7
+JOR,Jordan,Levant & Iraq,obesity,2023,35.5
+JOR,Jordan,Levant & Iraq,obesity,2024,35.4
+LBN,Lebanon,Levant & Iraq,obesity,2000,20
+LBN,Lebanon,Levant & Iraq,obesity,2001,20.7
+LBN,Lebanon,Levant & Iraq,obesity,2002,21.3
+LBN,Lebanon,Levant & Iraq,obesity,2003,21.9
+LBN,Lebanon,Levant & Iraq,obesity,2004,22.5
+LBN,Lebanon,Levant & Iraq,obesity,2005,23.1
+LBN,Lebanon,Levant & Iraq,obesity,2006,23.6
+LBN,Lebanon,Levant & Iraq,obesity,2007,24.2
+LBN,Lebanon,Levant & Iraq,obesity,2008,24.7
+LBN,Lebanon,Levant & Iraq,obesity,2009,25.2
+LBN,Lebanon,Levant & Iraq,obesity,2010,25.8
+LBN,Lebanon,Levant & Iraq,obesity,2011,26.2
+LBN,Lebanon,Levant & Iraq,obesity,2012,26.7
+LBN,Lebanon,Levant & Iraq,obesity,2013,27.2
+LBN,Lebanon,Levant & Iraq,obesity,2014,27.6
+LBN,Lebanon,Levant & Iraq,obesity,2015,28
+LBN,Lebanon,Levant & Iraq,obesity,2016,28.4
+LBN,Lebanon,Levant & Iraq,obesity,2017,28.8
+LBN,Lebanon,Levant & Iraq,obesity,2018,29.1
+LBN,Lebanon,Levant & Iraq,obesity,2019,29.4
+LBN,Lebanon,Levant & Iraq,obesity,2020,29.6
+LBN,Lebanon,Levant & Iraq,obesity,2021,29.9
+LBN,Lebanon,Levant & Iraq,obesity,2022,30.2
+LBN,Lebanon,Levant & Iraq,obesity,2023,30.5
+LBN,Lebanon,Levant & Iraq,obesity,2024,30.7
+IRQ,Iraq,Levant & Iraq,obesity,2000,26.3
+IRQ,Iraq,Levant & Iraq,obesity,2001,27
+IRQ,Iraq,Levant & Iraq,obesity,2002,27.7
+IRQ,Iraq,Levant & Iraq,obesity,2003,28.5
+IRQ,Iraq,Levant & Iraq,obesity,2004,29.2
+IRQ,Iraq,Levant & Iraq,obesity,2005,29.9
+IRQ,Iraq,Levant & Iraq,obesity,2006,30.6
+IRQ,Iraq,Levant & Iraq,obesity,2007,31.2
+IRQ,Iraq,Levant & Iraq,obesity,2008,31.9
+IRQ,Iraq,Levant & Iraq,obesity,2009,32.6
+IRQ,Iraq,Levant & Iraq,obesity,2010,33.2
+IRQ,Iraq,Levant & Iraq,obesity,2011,33.8
+IRQ,Iraq,Levant & Iraq,obesity,2012,34.5
+IRQ,Iraq,Levant & Iraq,obesity,2013,35.1
+IRQ,Iraq,Levant & Iraq,obesity,2014,35.6
+IRQ,Iraq,Levant & Iraq,obesity,2015,36.2
+IRQ,Iraq,Levant & Iraq,obesity,2016,36.7
+IRQ,Iraq,Levant & Iraq,obesity,2017,37.2
+IRQ,Iraq,Levant & Iraq,obesity,2018,37.6
+IRQ,Iraq,Levant & Iraq,obesity,2019,38
+IRQ,Iraq,Levant & Iraq,obesity,2020,38.3
+IRQ,Iraq,Levant & Iraq,obesity,2021,38.7
+IRQ,Iraq,Levant & Iraq,obesity,2022,39
+IRQ,Iraq,Levant & Iraq,obesity,2023,39.3
+IRQ,Iraq,Levant & Iraq,obesity,2024,39.7
+EGY,Egypt,North Africa,obesity,2000,27.9
+EGY,Egypt,North Africa,obesity,2001,28.8
+EGY,Egypt,North Africa,obesity,2002,29.6
+EGY,Egypt,North Africa,obesity,2003,30.5
+EGY,Egypt,North Africa,obesity,2004,31.3
+EGY,Egypt,North Africa,obesity,2005,32.1
+EGY,Egypt,North Africa,obesity,2006,32.9
+EGY,Egypt,North Africa,obesity,2007,33.7
+EGY,Egypt,North Africa,obesity,2008,34.5
+EGY,Egypt,North Africa,obesity,2009,35.3
+EGY,Egypt,North Africa,obesity,2010,36.1
+EGY,Egypt,North Africa,obesity,2011,36.8
+EGY,Egypt,North Africa,obesity,2012,37.5
+EGY,Egypt,North Africa,obesity,2013,38.3
+EGY,Egypt,North Africa,obesity,2014,38.9
+EGY,Egypt,North Africa,obesity,2015,39.6
+EGY,Egypt,North Africa,obesity,2016,40.3
+EGY,Egypt,North Africa,obesity,2017,40.8
+EGY,Egypt,North Africa,obesity,2018,41.3
+EGY,Egypt,North Africa,obesity,2019,41.8
+EGY,Egypt,North Africa,obesity,2020,42.2
+EGY,Egypt,North Africa,obesity,2021,42.7
+EGY,Egypt,North Africa,obesity,2022,43.1
+EGY,Egypt,North Africa,obesity,2023,43.5
+EGY,Egypt,North Africa,obesity,2024,43.9
+MAR,Morocco,North Africa,obesity,2000,11.4
+MAR,Morocco,North Africa,obesity,2001,11.8
+MAR,Morocco,North Africa,obesity,2002,12.2
+MAR,Morocco,North Africa,obesity,2003,12.7
+MAR,Morocco,North Africa,obesity,2004,13.1
+MAR,Morocco,North Africa,obesity,2005,13.5
+MAR,Morocco,North Africa,obesity,2006,14
+MAR,Morocco,North Africa,obesity,2007,14.4
+MAR,Morocco,North Africa,obesity,2008,14.9
+MAR,Morocco,North Africa,obesity,2009,15.4
+MAR,Morocco,North Africa,obesity,2010,15.8
+MAR,Morocco,North Africa,obesity,2011,16.3
+MAR,Morocco,North Africa,obesity,2012,16.8
+MAR,Morocco,North Africa,obesity,2013,17.2
+MAR,Morocco,North Africa,obesity,2014,17.7
+MAR,Morocco,North Africa,obesity,2015,18.2
+MAR,Morocco,North Africa,obesity,2016,18.6
+MAR,Morocco,North Africa,obesity,2017,19
+MAR,Morocco,North Africa,obesity,2018,19.4
+MAR,Morocco,North Africa,obesity,2019,19.8
+MAR,Morocco,North Africa,obesity,2020,20.1
+MAR,Morocco,North Africa,obesity,2021,20.5
+MAR,Morocco,North Africa,obesity,2022,20.8
+MAR,Morocco,North Africa,obesity,2023,21.2
+MAR,Morocco,North Africa,obesity,2024,21.6
+TUN,Tunisia,North Africa,obesity,2000,16.2
+TUN,Tunisia,North Africa,obesity,2001,16.7
+TUN,Tunisia,North Africa,obesity,2002,17.2
+TUN,Tunisia,North Africa,obesity,2003,17.7
+TUN,Tunisia,North Africa,obesity,2004,18.2
+TUN,Tunisia,North Africa,obesity,2005,18.7
+TUN,Tunisia,North Africa,obesity,2006,19.2
+TUN,Tunisia,North Africa,obesity,2007,19.7
+TUN,Tunisia,North Africa,obesity,2008,20.1
+TUN,Tunisia,North Africa,obesity,2009,20.6
+TUN,Tunisia,North Africa,obesity,2010,21
+TUN,Tunisia,North Africa,obesity,2011,21.5
+TUN,Tunisia,North Africa,obesity,2012,21.9
+TUN,Tunisia,North Africa,obesity,2013,22.4
+TUN,Tunisia,North Africa,obesity,2014,22.8
+TUN,Tunisia,North Africa,obesity,2015,23.2
+TUN,Tunisia,North Africa,obesity,2016,23.7
+TUN,Tunisia,North Africa,obesity,2017,24
+TUN,Tunisia,North Africa,obesity,2018,24.4
+TUN,Tunisia,North Africa,obesity,2019,24.7
+TUN,Tunisia,North Africa,obesity,2020,24.9
+TUN,Tunisia,North Africa,obesity,2021,25.2
+TUN,Tunisia,North Africa,obesity,2022,25.5
+TUN,Tunisia,North Africa,obesity,2023,25.8
+TUN,Tunisia,North Africa,obesity,2024,26.1
+DZA,Algeria,North Africa,obesity,2000,13.4
+DZA,Algeria,North Africa,obesity,2001,13.8
+DZA,Algeria,North Africa,obesity,2002,14.3
+DZA,Algeria,North Africa,obesity,2003,14.7
+DZA,Algeria,North Africa,obesity,2004,15.1
+DZA,Algeria,North Africa,obesity,2005,15.6
+DZA,Algeria,North Africa,obesity,2006,16
+DZA,Algeria,North Africa,obesity,2007,16.5
+DZA,Algeria,North Africa,obesity,2008,16.9
+DZA,Algeria,North Africa,obesity,2009,17.4
+DZA,Algeria,North Africa,obesity,2010,17.8
+DZA,Algeria,North Africa,obesity,2011,18.3
+DZA,Algeria,North Africa,obesity,2012,18.8
+DZA,Algeria,North Africa,obesity,2013,19.2
+DZA,Algeria,North Africa,obesity,2014,19.7
+DZA,Algeria,North Africa,obesity,2015,20.2
+DZA,Algeria,North Africa,obesity,2016,20.6
+DZA,Algeria,North Africa,obesity,2017,21.1
+DZA,Algeria,North Africa,obesity,2018,21.4
+DZA,Algeria,North Africa,obesity,2019,21.8
+DZA,Algeria,North Africa,obesity,2020,22.2
+DZA,Algeria,North Africa,obesity,2021,22.5
+DZA,Algeria,North Africa,obesity,2022,22.9
+DZA,Algeria,North Africa,obesity,2023,23.2
+DZA,Algeria,North Africa,obesity,2024,23.6
+LBY,Libya,North Africa,obesity,2000,23.8
+LBY,Libya,North Africa,obesity,2001,24.6
+LBY,Libya,North Africa,obesity,2002,25.4
+LBY,Libya,North Africa,obesity,2003,26.1
+LBY,Libya,North Africa,obesity,2004,26.9
+LBY,Libya,North Africa,obesity,2005,27.6
+LBY,Libya,North Africa,obesity,2006,28.3
+LBY,Libya,North Africa,obesity,2007,28.8
+LBY,Libya,North Africa,obesity,2008,29.3
+LBY,Libya,North Africa,obesity,2009,29.8
+LBY,Libya,North Africa,obesity,2010,30.3
+LBY,Libya,North Africa,obesity,2011,30.7
+LBY,Libya,North Africa,obesity,2012,31.1
+LBY,Libya,North Africa,obesity,2013,31.5
+LBY,Libya,North Africa,obesity,2014,31.9
+LBY,Libya,North Africa,obesity,2015,32.2
+LBY,Libya,North Africa,obesity,2016,32.5
+LBY,Libya,North Africa,obesity,2017,32.8
+LBY,Libya,North Africa,obesity,2018,33
+LBY,Libya,North Africa,obesity,2019,33.1
+LBY,Libya,North Africa,obesity,2020,33.3
+LBY,Libya,North Africa,obesity,2021,33.4
+LBY,Libya,North Africa,obesity,2022,33.5
+LBY,Libya,North Africa,obesity,2023,33.6
+LBY,Libya,North Africa,obesity,2024,33.7
+USA,United States,Global benchmark,obesity,2000,27.5
+USA,United States,Global benchmark,obesity,2001,28.4
+USA,United States,Global benchmark,obesity,2002,29.4
+USA,United States,Global benchmark,obesity,2003,30.3
+USA,United States,Global benchmark,obesity,2004,31.3
+USA,United States,Global benchmark,obesity,2005,32.1
+USA,United States,Global benchmark,obesity,2006,33
+USA,United States,Global benchmark,obesity,2007,33.8
+USA,United States,Global benchmark,obesity,2008,34.5
+USA,United States,Global benchmark,obesity,2009,35.2
+USA,United States,Global benchmark,obesity,2010,35.8
+USA,United States,Global benchmark,obesity,2011,36.4
+USA,United States,Global benchmark,obesity,2012,36.9
+USA,United States,Global benchmark,obesity,2013,37.3
+USA,United States,Global benchmark,obesity,2014,37.8
+USA,United States,Global benchmark,obesity,2015,38.2
+USA,United States,Global benchmark,obesity,2016,38.6
+USA,United States,Global benchmark,obesity,2017,39
+USA,United States,Global benchmark,obesity,2018,39.3
+USA,United States,Global benchmark,obesity,2019,39.6
+USA,United States,Global benchmark,obesity,2020,39.9
+USA,United States,Global benchmark,obesity,2021,40.2
+USA,United States,Global benchmark,obesity,2022,40.4
+USA,United States,Global benchmark,obesity,2023,40.7
+USA,United States,Global benchmark,obesity,2024,41
+GBR,United Kingdom,Global benchmark,obesity,2000,19.1
+GBR,United Kingdom,Global benchmark,obesity,2001,19.8
+GBR,United Kingdom,Global benchmark,obesity,2002,20.4
+GBR,United Kingdom,Global benchmark,obesity,2003,21.1
+GBR,United Kingdom,Global benchmark,obesity,2004,21.7
+GBR,United Kingdom,Global benchmark,obesity,2005,22.3
+GBR,United Kingdom,Global benchmark,obesity,2006,22.8
+GBR,United Kingdom,Global benchmark,obesity,2007,23.3
+GBR,United Kingdom,Global benchmark,obesity,2008,23.7
+GBR,United Kingdom,Global benchmark,obesity,2009,24.1
+GBR,United Kingdom,Global benchmark,obesity,2010,24.4
+GBR,United Kingdom,Global benchmark,obesity,2011,24.7
+GBR,United Kingdom,Global benchmark,obesity,2012,24.9
+GBR,United Kingdom,Global benchmark,obesity,2013,25.2
+GBR,United Kingdom,Global benchmark,obesity,2014,25.4
+GBR,United Kingdom,Global benchmark,obesity,2015,25.6
+GBR,United Kingdom,Global benchmark,obesity,2016,25.8
+GBR,United Kingdom,Global benchmark,obesity,2017,26
+GBR,United Kingdom,Global benchmark,obesity,2018,26.3
+GBR,United Kingdom,Global benchmark,obesity,2019,26.4
+GBR,United Kingdom,Global benchmark,obesity,2020,26.6
+GBR,United Kingdom,Global benchmark,obesity,2021,26.8
+GBR,United Kingdom,Global benchmark,obesity,2022,27
+GBR,United Kingdom,Global benchmark,obesity,2023,27.2
+GBR,United Kingdom,Global benchmark,obesity,2024,27.4
+FIN,Finland,Global benchmark,obesity,2000,16.2
+FIN,Finland,Global benchmark,obesity,2001,16.5
+FIN,Finland,Global benchmark,obesity,2002,16.8
+FIN,Finland,Global benchmark,obesity,2003,17.1
+FIN,Finland,Global benchmark,obesity,2004,17.4
+FIN,Finland,Global benchmark,obesity,2005,17.7
+FIN,Finland,Global benchmark,obesity,2006,18
+FIN,Finland,Global benchmark,obesity,2007,18.3
+FIN,Finland,Global benchmark,obesity,2008,18.6
+FIN,Finland,Global benchmark,obesity,2009,18.8
+FIN,Finland,Global benchmark,obesity,2010,19.1
+FIN,Finland,Global benchmark,obesity,2011,19.3
+FIN,Finland,Global benchmark,obesity,2012,19.6
+FIN,Finland,Global benchmark,obesity,2013,19.8
+FIN,Finland,Global benchmark,obesity,2014,20.1
+FIN,Finland,Global benchmark,obesity,2015,20.4
+FIN,Finland,Global benchmark,obesity,2016,20.8
+FIN,Finland,Global benchmark,obesity,2017,21.1
+FIN,Finland,Global benchmark,obesity,2018,21.5
+FIN,Finland,Global benchmark,obesity,2019,21.9
+FIN,Finland,Global benchmark,obesity,2020,22.3
+FIN,Finland,Global benchmark,obesity,2021,22.8
+FIN,Finland,Global benchmark,obesity,2022,23.2
+FIN,Finland,Global benchmark,obesity,2023,23.7
+FIN,Finland,Global benchmark,obesity,2024,24.2
+REG,Regional average,Aggregate,obesity,2000,14.7
+REG,Regional average,Aggregate,obesity,2001,15.3
+REG,Regional average,Aggregate,obesity,2002,15.8
+REG,Regional average,Aggregate,obesity,2003,16.4
+REG,Regional average,Aggregate,obesity,2004,17
+REG,Regional average,Aggregate,obesity,2005,17.6
+REG,Regional average,Aggregate,obesity,2006,18.1
+REG,Regional average,Aggregate,obesity,2007,18.7
+REG,Regional average,Aggregate,obesity,2008,19.3
+REG,Regional average,Aggregate,obesity,2009,19.9
+REG,Regional average,Aggregate,obesity,2010,20.5
+REG,Regional average,Aggregate,obesity,2011,21.1
+REG,Regional average,Aggregate,obesity,2012,21.7
+REG,Regional average,Aggregate,obesity,2013,22.4
+REG,Regional average,Aggregate,obesity,2014,23
+REG,Regional average,Aggregate,obesity,2015,23.7
+REG,Regional average,Aggregate,obesity,2016,24.3
+REG,Regional average,Aggregate,obesity,2017,24.9
+REG,Regional average,Aggregate,obesity,2018,25.5
+REG,Regional average,Aggregate,obesity,2019,26
+REG,Regional average,Aggregate,obesity,2020,26.5
+REG,Regional average,Aggregate,obesity,2021,27.1
+REG,Regional average,Aggregate,obesity,2022,27.6
+REG,Regional average,Aggregate,obesity,2023,28.2
+REG,Regional average,Aggregate,obesity,2024,28.8
+WLD,World,Aggregate,obesity,2000,8.7
+WLD,World,Aggregate,obesity,2001,9
+WLD,World,Aggregate,obesity,2002,9.3
+WLD,World,Aggregate,obesity,2003,9.5
+WLD,World,Aggregate,obesity,2004,9.8
+WLD,World,Aggregate,obesity,2005,10.1
+WLD,World,Aggregate,obesity,2006,10.4
+WLD,World,Aggregate,obesity,2007,10.6
+WLD,World,Aggregate,obesity,2008,10.9
+WLD,World,Aggregate,obesity,2009,11.2
+WLD,World,Aggregate,obesity,2010,11.5
+WLD,World,Aggregate,obesity,2011,11.8
+WLD,World,Aggregate,obesity,2012,12.1
+WLD,World,Aggregate,obesity,2013,12.4
+WLD,World,Aggregate,obesity,2014,12.7
+WLD,World,Aggregate,obesity,2015,13
+WLD,World,Aggregate,obesity,2016,13.3
+WLD,World,Aggregate,obesity,2017,13.6
+WLD,World,Aggregate,obesity,2018,14
+WLD,World,Aggregate,obesity,2019,14.3
+WLD,World,Aggregate,obesity,2020,14.6
+WLD,World,Aggregate,obesity,2021,15
+WLD,World,Aggregate,obesity,2022,15.4
+WLD,World,Aggregate,obesity,2023,15.8
+WLD,World,Aggregate,obesity,2024,16.2
+ARE,UAE,GCC,oop,2010,17.9
+ARE,UAE,GCC,oop,2011,16.9
+ARE,UAE,GCC,oop,2012,16.7
+ARE,UAE,GCC,oop,2013,17.2
+ARE,UAE,GCC,oop,2014,17.8
+ARE,UAE,GCC,oop,2015,17.8
+ARE,UAE,GCC,oop,2016,16
+ARE,UAE,GCC,oop,2017,11.4
+ARE,UAE,GCC,oop,2018,12.7
+ARE,UAE,GCC,oop,2019,12.2
+ARE,UAE,GCC,oop,2020,11.2
+ARE,UAE,GCC,oop,2021,10.5
+ARE,UAE,GCC,oop,2022,9.7
+ARE,UAE,GCC,oop,2023,9.7
+SAU,Saudi Arabia,GCC,oop,2010,18.9
+SAU,Saudi Arabia,GCC,oop,2011,15.6
+SAU,Saudi Arabia,GCC,oop,2012,15.2
+SAU,Saudi Arabia,GCC,oop,2013,14.4
+SAU,Saudi Arabia,GCC,oop,2014,13.1
+SAU,Saudi Arabia,GCC,oop,2015,14.4
+SAU,Saudi Arabia,GCC,oop,2016,14.5
+SAU,Saudi Arabia,GCC,oop,2017,14.3
+SAU,Saudi Arabia,GCC,oop,2018,15.9
+SAU,Saudi Arabia,GCC,oop,2019,11.4
+SAU,Saudi Arabia,GCC,oop,2020,10.1
+SAU,Saudi Arabia,GCC,oop,2021,10.2
+SAU,Saudi Arabia,GCC,oop,2022,12.8
+SAU,Saudi Arabia,GCC,oop,2023,14.1
+QAT,Qatar,GCC,oop,2010,18.7
+QAT,Qatar,GCC,oop,2011,16.9
+QAT,Qatar,GCC,oop,2012,10.9
+QAT,Qatar,GCC,oop,2013,6.9
+QAT,Qatar,GCC,oop,2014,5.6
+QAT,Qatar,GCC,oop,2015,5.3
+QAT,Qatar,GCC,oop,2016,6.3
+QAT,Qatar,GCC,oop,2017,6.9
+QAT,Qatar,GCC,oop,2018,6.7
+QAT,Qatar,GCC,oop,2019,6.4
+QAT,Qatar,GCC,oop,2020,5.9
+QAT,Qatar,GCC,oop,2021,6.6
+QAT,Qatar,GCC,oop,2022,7.7
+QAT,Qatar,GCC,oop,2023,7.4
+KWT,Kuwait,GCC,oop,2010,14.3
+KWT,Kuwait,GCC,oop,2011,14
+KWT,Kuwait,GCC,oop,2012,15
+KWT,Kuwait,GCC,oop,2013,14.5
+KWT,Kuwait,GCC,oop,2014,13.9
+KWT,Kuwait,GCC,oop,2015,13.7
+KWT,Kuwait,GCC,oop,2016,13.3
+KWT,Kuwait,GCC,oop,2017,12.9
+KWT,Kuwait,GCC,oop,2018,10.6
+KWT,Kuwait,GCC,oop,2019,10.7
+KWT,Kuwait,GCC,oop,2020,10.4
+KWT,Kuwait,GCC,oop,2021,10
+KWT,Kuwait,GCC,oop,2022,10.8
+KWT,Kuwait,GCC,oop,2023,10
+BHR,Bahrain,GCC,oop,2010,26.7
+BHR,Bahrain,GCC,oop,2011,26.3
+BHR,Bahrain,GCC,oop,2012,26.8
+BHR,Bahrain,GCC,oop,2013,26.9
+BHR,Bahrain,GCC,oop,2014,26.1
+BHR,Bahrain,GCC,oop,2015,25.9
+BHR,Bahrain,GCC,oop,2016,28
+BHR,Bahrain,GCC,oop,2017,32
+BHR,Bahrain,GCC,oop,2018,30
+BHR,Bahrain,GCC,oop,2019,30
+BHR,Bahrain,GCC,oop,2020,26.2
+BHR,Bahrain,GCC,oop,2021,25.8
+BHR,Bahrain,GCC,oop,2022,27.9
+BHR,Bahrain,GCC,oop,2023,28.7
+OMN,Oman,GCC,oop,2010,10.4
+OMN,Oman,GCC,oop,2011,10.8
+OMN,Oman,GCC,oop,2012,10.2
+OMN,Oman,GCC,oop,2013,7
+OMN,Oman,GCC,oop,2014,5.7
+OMN,Oman,GCC,oop,2015,5.3
+OMN,Oman,GCC,oop,2016,5.6
+OMN,Oman,GCC,oop,2017,5.9
+OMN,Oman,GCC,oop,2018,6.5
+OMN,Oman,GCC,oop,2019,6
+OMN,Oman,GCC,oop,2020,5.2
+OMN,Oman,GCC,oop,2021,5.5
+OMN,Oman,GCC,oop,2022,6.9
+OMN,Oman,GCC,oop,2023,6.3
+JOR,Jordan,Levant & Iraq,oop,2010,21.9
+JOR,Jordan,Levant & Iraq,oop,2011,20.9
+JOR,Jordan,Levant & Iraq,oop,2012,21.6
+JOR,Jordan,Levant & Iraq,oop,2013,22.1
+JOR,Jordan,Levant & Iraq,oop,2014,20.9
+JOR,Jordan,Levant & Iraq,oop,2015,29.3
+JOR,Jordan,Levant & Iraq,oop,2016,32.9
+JOR,Jordan,Levant & Iraq,oop,2017,34
+JOR,Jordan,Levant & Iraq,oop,2018,35.3
+JOR,Jordan,Levant & Iraq,oop,2019,36
+JOR,Jordan,Levant & Iraq,oop,2020,35.4
+JOR,Jordan,Levant & Iraq,oop,2021,35.8
+JOR,Jordan,Levant & Iraq,oop,2022,35.9
+JOR,Jordan,Levant & Iraq,oop,2023,34.5
+LBN,Lebanon,Levant & Iraq,oop,2010,43.6
+LBN,Lebanon,Levant & Iraq,oop,2011,40.2
+LBN,Lebanon,Levant & Iraq,oop,2012,37.3
+LBN,Lebanon,Levant & Iraq,oop,2013,37
+LBN,Lebanon,Levant & Iraq,oop,2014,35.6
+LBN,Lebanon,Levant & Iraq,oop,2015,32.7
+LBN,Lebanon,Levant & Iraq,oop,2016,32
+LBN,Lebanon,Levant & Iraq,oop,2017,33.1
+LBN,Lebanon,Levant & Iraq,oop,2018,35.3
+LBN,Lebanon,Levant & Iraq,oop,2019,30.7
+LBN,Lebanon,Levant & Iraq,oop,2020,30.3
+LBN,Lebanon,Levant & Iraq,oop,2021,32.4
+LBN,Lebanon,Levant & Iraq,oop,2022,32.4
+LBN,Lebanon,Levant & Iraq,oop,2023,29.7
+IRQ,Iraq,Levant & Iraq,oop,2010,26
+IRQ,Iraq,Levant & Iraq,oop,2011,25
+IRQ,Iraq,Levant & Iraq,oop,2012,61.7
+IRQ,Iraq,Levant & Iraq,oop,2013,58.6
+IRQ,Iraq,Levant & Iraq,oop,2014,62
+IRQ,Iraq,Levant & Iraq,oop,2015,76.2
+IRQ,Iraq,Levant & Iraq,oop,2016,44.3
+IRQ,Iraq,Levant & Iraq,oop,2017,58
+IRQ,Iraq,Levant & Iraq,oop,2018,50.4
+IRQ,Iraq,Levant & Iraq,oop,2019,50.1
+IRQ,Iraq,Levant & Iraq,oop,2020,54.7
+IRQ,Iraq,Levant & Iraq,oop,2021,49.9
+IRQ,Iraq,Levant & Iraq,oop,2022,53.1
+IRQ,Iraq,Levant & Iraq,oop,2023,54
+EGY,Egypt,North Africa,oop,2010,62.6
+EGY,Egypt,North Africa,oop,2011,60.5
+EGY,Egypt,North Africa,oop,2012,60.9
+EGY,Egypt,North Africa,oop,2013,57.9
+EGY,Egypt,North Africa,oop,2014,55.1
+EGY,Egypt,North Africa,oop,2015,58.8
+EGY,Egypt,North Africa,oop,2016,59
+EGY,Egypt,North Africa,oop,2017,56.4
+EGY,Egypt,North Africa,oop,2018,62.6
+EGY,Egypt,North Africa,oop,2019,62.5
+EGY,Egypt,North Africa,oop,2020,59.3
+EGY,Egypt,North Africa,oop,2021,54.9
+EGY,Egypt,North Africa,oop,2022,53.7
+EGY,Egypt,North Africa,oop,2023,57.2
+MAR,Morocco,North Africa,oop,2010,55.6
+MAR,Morocco,North Africa,oop,2011,54.2
+MAR,Morocco,North Africa,oop,2012,52.7
+MAR,Morocco,North Africa,oop,2013,51.7
+MAR,Morocco,North Africa,oop,2014,49.2
+MAR,Morocco,North Africa,oop,2015,49
+MAR,Morocco,North Africa,oop,2016,48.8
+MAR,Morocco,North Africa,oop,2017,48
+MAR,Morocco,North Africa,oop,2018,47
+MAR,Morocco,North Africa,oop,2019,46.6
+MAR,Morocco,North Africa,oop,2020,43.4
+MAR,Morocco,North Africa,oop,2021,41.8
+MAR,Morocco,North Africa,oop,2022,40.5
+MAR,Morocco,North Africa,oop,2023,37.3
+TUN,Tunisia,North Africa,oop,2010,42.1
+TUN,Tunisia,North Africa,oop,2011,41.6
+TUN,Tunisia,North Africa,oop,2012,41
+TUN,Tunisia,North Africa,oop,2013,39.1
+TUN,Tunisia,North Africa,oop,2014,38
+TUN,Tunisia,North Africa,oop,2015,39.7
+TUN,Tunisia,North Africa,oop,2016,39.8
+TUN,Tunisia,North Africa,oop,2017,40.5
+TUN,Tunisia,North Africa,oop,2018,41.9
+TUN,Tunisia,North Africa,oop,2019,35.6
+TUN,Tunisia,North Africa,oop,2020,33.4
+TUN,Tunisia,North Africa,oop,2021,37.2
+TUN,Tunisia,North Africa,oop,2022,36.3
+TUN,Tunisia,North Africa,oop,2023,37.9
+DZA,Algeria,North Africa,oop,2010,28.9
+DZA,Algeria,North Africa,oop,2011,27.9
+DZA,Algeria,North Africa,oop,2012,27.2
+DZA,Algeria,North Africa,oop,2013,29.3
+DZA,Algeria,North Africa,oop,2014,28.6
+DZA,Algeria,North Africa,oop,2015,30.2
+DZA,Algeria,North Africa,oop,2016,32.9
+DZA,Algeria,North Africa,oop,2017,33.9
+DZA,Algeria,North Africa,oop,2018,33.8
+DZA,Algeria,North Africa,oop,2019,37.9
+DZA,Algeria,North Africa,oop,2020,39.6
+DZA,Algeria,North Africa,oop,2021,40.5
+DZA,Algeria,North Africa,oop,2022,50.1
+DZA,Algeria,North Africa,oop,2023,45
+LBY,Libya,North Africa,oop,2010,30
+LBY,Libya,North Africa,oop,2011,36.7
+LBY,Libya,North Africa,oop,2012,26.1
+LBY,Libya,North Africa,oop,2013,26.5
+LBY,Libya,North Africa,oop,2014,33.6
+LBY,Libya,North Africa,oop,2015,30.7
+LBY,Libya,North Africa,oop,2016,32.5
+LBY,Libya,North Africa,oop,2017,33.8
+LBY,Libya,North Africa,oop,2018,28.2
+LBY,Libya,North Africa,oop,2019,28
+LBY,Libya,North Africa,oop,2020,21.1
+LBY,Libya,North Africa,oop,2021,24.4
+LBY,Libya,North Africa,oop,2022,31.8
+LBY,Libya,North Africa,oop,2023,19.2
+USA,United States,Global benchmark,oop,2010,12.4
+USA,United States,Global benchmark,oop,2011,12.3
+USA,United States,Global benchmark,oop,2012,12.3
+USA,United States,Global benchmark,oop,2013,12.3
+USA,United States,Global benchmark,oop,2014,12
+USA,United States,Global benchmark,oop,2015,11.8
+USA,United States,Global benchmark,oop,2016,11.6
+USA,United States,Global benchmark,oop,2017,11.3
+USA,United States,Global benchmark,oop,2018,11.3
+USA,United States,Global benchmark,oop,2019,11.3
+USA,United States,Global benchmark,oop,2020,10.1
+USA,United States,Global benchmark,oop,2021,10.7
+USA,United States,Global benchmark,oop,2022,11
+USA,United States,Global benchmark,oop,2023,10.9
+GBR,United Kingdom,Global benchmark,oop,2010,13.2
+GBR,United Kingdom,Global benchmark,oop,2011,13.3
+GBR,United Kingdom,Global benchmark,oop,2012,14.2
+GBR,United Kingdom,Global benchmark,oop,2013,15.8
+GBR,United Kingdom,Global benchmark,oop,2014,15.7
+GBR,United Kingdom,Global benchmark,oop,2015,15.9
+GBR,United Kingdom,Global benchmark,oop,2016,15.7
+GBR,United Kingdom,Global benchmark,oop,2017,15.8
+GBR,United Kingdom,Global benchmark,oop,2018,16.2
+GBR,United Kingdom,Global benchmark,oop,2019,16
+GBR,United Kingdom,Global benchmark,oop,2020,12.4
+GBR,United Kingdom,Global benchmark,oop,2021,13
+GBR,United Kingdom,Global benchmark,oop,2022,14.4
+GBR,United Kingdom,Global benchmark,oop,2023,14.6
+FIN,Finland,Global benchmark,oop,2010,18.8
+FIN,Finland,Global benchmark,oop,2011,18.2
+FIN,Finland,Global benchmark,oop,2012,17.5
+FIN,Finland,Global benchmark,oop,2013,17.8
+FIN,Finland,Global benchmark,oop,2014,17.6
+FIN,Finland,Global benchmark,oop,2015,18.6
+FIN,Finland,Global benchmark,oop,2016,19.3
+FIN,Finland,Global benchmark,oop,2017,19
+FIN,Finland,Global benchmark,oop,2018,18.4
+FIN,Finland,Global benchmark,oop,2019,17.4
+FIN,Finland,Global benchmark,oop,2020,16.5
+FIN,Finland,Global benchmark,oop,2021,16.7
+FIN,Finland,Global benchmark,oop,2022,16.1
+FIN,Finland,Global benchmark,oop,2023,14.1
+REG,Regional average,Aggregate,oop,2010,39.1
+REG,Regional average,Aggregate,oop,2011,37.3
+REG,Regional average,Aggregate,oop,2012,36.7
+REG,Regional average,Aggregate,oop,2013,33.4
+REG,Regional average,Aggregate,oop,2014,31.4
+REG,Regional average,Aggregate,oop,2015,32.7
+REG,Regional average,Aggregate,oop,2016,30.8
+REG,Regional average,Aggregate,oop,2017,29.8
+REG,Regional average,Aggregate,oop,2018,30.8
+REG,Regional average,Aggregate,oop,2019,29.1
+REG,Regional average,Aggregate,oop,2020,27.6
+REG,Regional average,Aggregate,oop,2021,26.9
+REG,Regional average,Aggregate,oop,2022,28.9
+REG,Regional average,Aggregate,oop,2023,28.3
+WLD,World,Aggregate,oop,2010,18.5
+WLD,World,Aggregate,oop,2011,18.6
+WLD,World,Aggregate,oop,2012,18.8
+WLD,World,Aggregate,oop,2013,19
+WLD,World,Aggregate,oop,2014,18.7
+WLD,World,Aggregate,oop,2015,18.4
+WLD,World,Aggregate,oop,2016,18.2
+WLD,World,Aggregate,oop,2017,18.1
+WLD,World,Aggregate,oop,2018,18.1
+WLD,World,Aggregate,oop,2019,18
+WLD,World,Aggregate,oop,2020,16.4
+WLD,World,Aggregate,oop,2021,17
+WLD,World,Aggregate,oop,2022,17.2
+WLD,World,Aggregate,oop,2023,17.3
+ARE,UAE,GCC,stroke_rate,2000,65.8
+ARE,UAE,GCC,stroke_rate,2001,63.2
+ARE,UAE,GCC,stroke_rate,2002,62
+ARE,UAE,GCC,stroke_rate,2003,58.5
+ARE,UAE,GCC,stroke_rate,2004,57.3
+ARE,UAE,GCC,stroke_rate,2005,54.1
+ARE,UAE,GCC,stroke_rate,2006,49.5
+ARE,UAE,GCC,stroke_rate,2007,45.7
+ARE,UAE,GCC,stroke_rate,2008,44.1
+ARE,UAE,GCC,stroke_rate,2009,45.7
+ARE,UAE,GCC,stroke_rate,2010,49.6
+ARE,UAE,GCC,stroke_rate,2011,51.8
+ARE,UAE,GCC,stroke_rate,2012,52.4
+ARE,UAE,GCC,stroke_rate,2013,51.3
+ARE,UAE,GCC,stroke_rate,2014,51.7
+ARE,UAE,GCC,stroke_rate,2015,51.6
+ARE,UAE,GCC,stroke_rate,2016,52
+ARE,UAE,GCC,stroke_rate,2017,51.7
+ARE,UAE,GCC,stroke_rate,2018,50
+ARE,UAE,GCC,stroke_rate,2019,48.2
+ARE,UAE,GCC,stroke_rate,2020,45.1
+ARE,UAE,GCC,stroke_rate,2021,62.2
+SAU,Saudi Arabia,GCC,stroke_rate,2000,56.3
+SAU,Saudi Arabia,GCC,stroke_rate,2001,55.5
+SAU,Saudi Arabia,GCC,stroke_rate,2002,54.6
+SAU,Saudi Arabia,GCC,stroke_rate,2003,53.2
+SAU,Saudi Arabia,GCC,stroke_rate,2004,50.7
+SAU,Saudi Arabia,GCC,stroke_rate,2005,48.7
+SAU,Saudi Arabia,GCC,stroke_rate,2006,46.5
+SAU,Saudi Arabia,GCC,stroke_rate,2007,43.7
+SAU,Saudi Arabia,GCC,stroke_rate,2008,40.3
+SAU,Saudi Arabia,GCC,stroke_rate,2009,36.5
+SAU,Saudi Arabia,GCC,stroke_rate,2010,32.7
+SAU,Saudi Arabia,GCC,stroke_rate,2011,28.8
+SAU,Saudi Arabia,GCC,stroke_rate,2012,26
+SAU,Saudi Arabia,GCC,stroke_rate,2013,25.3
+SAU,Saudi Arabia,GCC,stroke_rate,2014,25.8
+SAU,Saudi Arabia,GCC,stroke_rate,2015,26
+SAU,Saudi Arabia,GCC,stroke_rate,2016,26.5
+SAU,Saudi Arabia,GCC,stroke_rate,2017,27.4
+SAU,Saudi Arabia,GCC,stroke_rate,2018,27.7
+SAU,Saudi Arabia,GCC,stroke_rate,2019,27.2
+SAU,Saudi Arabia,GCC,stroke_rate,2020,24.6
+SAU,Saudi Arabia,GCC,stroke_rate,2021,25.3
+QAT,Qatar,GCC,stroke_rate,2000,140.2
+QAT,Qatar,GCC,stroke_rate,2001,144.5
+QAT,Qatar,GCC,stroke_rate,2002,145.6
+QAT,Qatar,GCC,stroke_rate,2003,139.6
+QAT,Qatar,GCC,stroke_rate,2004,128.8
+QAT,Qatar,GCC,stroke_rate,2005,120.5
+QAT,Qatar,GCC,stroke_rate,2006,108.3
+QAT,Qatar,GCC,stroke_rate,2007,97.3
+QAT,Qatar,GCC,stroke_rate,2008,90.8
+QAT,Qatar,GCC,stroke_rate,2009,91.8
+QAT,Qatar,GCC,stroke_rate,2010,85.9
+QAT,Qatar,GCC,stroke_rate,2011,72.4
+QAT,Qatar,GCC,stroke_rate,2012,62.8
+QAT,Qatar,GCC,stroke_rate,2013,55.4
+QAT,Qatar,GCC,stroke_rate,2014,50.4
+QAT,Qatar,GCC,stroke_rate,2015,44.1
+QAT,Qatar,GCC,stroke_rate,2016,45
+QAT,Qatar,GCC,stroke_rate,2017,44.6
+QAT,Qatar,GCC,stroke_rate,2018,44.6
+QAT,Qatar,GCC,stroke_rate,2019,45
+QAT,Qatar,GCC,stroke_rate,2020,52.8
+QAT,Qatar,GCC,stroke_rate,2021,53.6
+KWT,Kuwait,GCC,stroke_rate,2000,53.2
+KWT,Kuwait,GCC,stroke_rate,2001,48.2
+KWT,Kuwait,GCC,stroke_rate,2002,53.3
+KWT,Kuwait,GCC,stroke_rate,2003,51
+KWT,Kuwait,GCC,stroke_rate,2004,54.2
+KWT,Kuwait,GCC,stroke_rate,2005,57.9
+KWT,Kuwait,GCC,stroke_rate,2006,58.7
+KWT,Kuwait,GCC,stroke_rate,2007,56.9
+KWT,Kuwait,GCC,stroke_rate,2008,60.2
+KWT,Kuwait,GCC,stroke_rate,2009,49.6
+KWT,Kuwait,GCC,stroke_rate,2010,42.3
+KWT,Kuwait,GCC,stroke_rate,2011,33.7
+KWT,Kuwait,GCC,stroke_rate,2012,33
+KWT,Kuwait,GCC,stroke_rate,2013,30.7
+KWT,Kuwait,GCC,stroke_rate,2014,28.4
+KWT,Kuwait,GCC,stroke_rate,2015,27.7
+KWT,Kuwait,GCC,stroke_rate,2016,24.3
+KWT,Kuwait,GCC,stroke_rate,2017,23.4
+KWT,Kuwait,GCC,stroke_rate,2018,22.7
+KWT,Kuwait,GCC,stroke_rate,2019,24.4
+KWT,Kuwait,GCC,stroke_rate,2020,28
+KWT,Kuwait,GCC,stroke_rate,2021,32.4
+BHR,Bahrain,GCC,stroke_rate,2000,167.3
+BHR,Bahrain,GCC,stroke_rate,2001,163.5
+BHR,Bahrain,GCC,stroke_rate,2002,158.2
+BHR,Bahrain,GCC,stroke_rate,2003,160.8
+BHR,Bahrain,GCC,stroke_rate,2004,156.2
+BHR,Bahrain,GCC,stroke_rate,2005,149.2
+BHR,Bahrain,GCC,stroke_rate,2006,133.1
+BHR,Bahrain,GCC,stroke_rate,2007,120.1
+BHR,Bahrain,GCC,stroke_rate,2008,108.8
+BHR,Bahrain,GCC,stroke_rate,2009,99.1
+BHR,Bahrain,GCC,stroke_rate,2010,96.1
+BHR,Bahrain,GCC,stroke_rate,2011,90.3
+BHR,Bahrain,GCC,stroke_rate,2012,83
+BHR,Bahrain,GCC,stroke_rate,2013,73.6
+BHR,Bahrain,GCC,stroke_rate,2014,65.2
+BHR,Bahrain,GCC,stroke_rate,2015,67.8
+BHR,Bahrain,GCC,stroke_rate,2016,72.2
+BHR,Bahrain,GCC,stroke_rate,2017,69.9
+BHR,Bahrain,GCC,stroke_rate,2018,66.3
+BHR,Bahrain,GCC,stroke_rate,2019,64.8
+BHR,Bahrain,GCC,stroke_rate,2020,66.5
+BHR,Bahrain,GCC,stroke_rate,2021,69.6
+OMN,Oman,GCC,stroke_rate,2000,94.6
+OMN,Oman,GCC,stroke_rate,2001,88.7
+OMN,Oman,GCC,stroke_rate,2002,84.6
+OMN,Oman,GCC,stroke_rate,2003,81.8
+OMN,Oman,GCC,stroke_rate,2004,76.8
+OMN,Oman,GCC,stroke_rate,2005,74.9
+OMN,Oman,GCC,stroke_rate,2006,74.8
+OMN,Oman,GCC,stroke_rate,2007,75.3
+OMN,Oman,GCC,stroke_rate,2008,77.2
+OMN,Oman,GCC,stroke_rate,2009,75.2
+OMN,Oman,GCC,stroke_rate,2010,84.3
+OMN,Oman,GCC,stroke_rate,2011,80
+OMN,Oman,GCC,stroke_rate,2012,72.1
+OMN,Oman,GCC,stroke_rate,2013,70.5
+OMN,Oman,GCC,stroke_rate,2014,73
+OMN,Oman,GCC,stroke_rate,2015,74.7
+OMN,Oman,GCC,stroke_rate,2016,78.2
+OMN,Oman,GCC,stroke_rate,2017,75.4
+OMN,Oman,GCC,stroke_rate,2018,68.9
+OMN,Oman,GCC,stroke_rate,2019,67.9
+OMN,Oman,GCC,stroke_rate,2020,81.4
+OMN,Oman,GCC,stroke_rate,2021,68.2
+JOR,Jordan,Levant & Iraq,stroke_rate,2000,113
+JOR,Jordan,Levant & Iraq,stroke_rate,2001,116.8
+JOR,Jordan,Levant & Iraq,stroke_rate,2002,114.4
+JOR,Jordan,Levant & Iraq,stroke_rate,2003,102.3
+JOR,Jordan,Levant & Iraq,stroke_rate,2004,103.5
+JOR,Jordan,Levant & Iraq,stroke_rate,2005,111.2
+JOR,Jordan,Levant & Iraq,stroke_rate,2006,109.3
+JOR,Jordan,Levant & Iraq,stroke_rate,2007,88
+JOR,Jordan,Levant & Iraq,stroke_rate,2008,76.8
+JOR,Jordan,Levant & Iraq,stroke_rate,2009,71.6
+JOR,Jordan,Levant & Iraq,stroke_rate,2010,68.3
+JOR,Jordan,Levant & Iraq,stroke_rate,2011,67
+JOR,Jordan,Levant & Iraq,stroke_rate,2012,66
+JOR,Jordan,Levant & Iraq,stroke_rate,2013,63.9
+JOR,Jordan,Levant & Iraq,stroke_rate,2014,61.7
+JOR,Jordan,Levant & Iraq,stroke_rate,2015,57.2
+JOR,Jordan,Levant & Iraq,stroke_rate,2016,55
+JOR,Jordan,Levant & Iraq,stroke_rate,2017,52.4
+JOR,Jordan,Levant & Iraq,stroke_rate,2018,49
+JOR,Jordan,Levant & Iraq,stroke_rate,2019,48
+JOR,Jordan,Levant & Iraq,stroke_rate,2020,56
+JOR,Jordan,Levant & Iraq,stroke_rate,2021,51.7
+LBN,Lebanon,Levant & Iraq,stroke_rate,2000,78.6
+LBN,Lebanon,Levant & Iraq,stroke_rate,2001,73
+LBN,Lebanon,Levant & Iraq,stroke_rate,2002,65.3
+LBN,Lebanon,Levant & Iraq,stroke_rate,2003,60
+LBN,Lebanon,Levant & Iraq,stroke_rate,2004,56.1
+LBN,Lebanon,Levant & Iraq,stroke_rate,2005,54.2
+LBN,Lebanon,Levant & Iraq,stroke_rate,2006,52.2
+LBN,Lebanon,Levant & Iraq,stroke_rate,2007,51.1
+LBN,Lebanon,Levant & Iraq,stroke_rate,2008,50.1
+LBN,Lebanon,Levant & Iraq,stroke_rate,2009,48.5
+LBN,Lebanon,Levant & Iraq,stroke_rate,2010,47
+LBN,Lebanon,Levant & Iraq,stroke_rate,2011,47
+LBN,Lebanon,Levant & Iraq,stroke_rate,2012,46.2
+LBN,Lebanon,Levant & Iraq,stroke_rate,2013,45.4
+LBN,Lebanon,Levant & Iraq,stroke_rate,2014,44.2
+LBN,Lebanon,Levant & Iraq,stroke_rate,2015,42.8
+LBN,Lebanon,Levant & Iraq,stroke_rate,2016,40.9
+LBN,Lebanon,Levant & Iraq,stroke_rate,2017,39.5
+LBN,Lebanon,Levant & Iraq,stroke_rate,2018,38.2
+LBN,Lebanon,Levant & Iraq,stroke_rate,2019,38
+LBN,Lebanon,Levant & Iraq,stroke_rate,2020,38.7
+LBN,Lebanon,Levant & Iraq,stroke_rate,2021,36.7
+IRQ,Iraq,Levant & Iraq,stroke_rate,2000,163.4
+IRQ,Iraq,Levant & Iraq,stroke_rate,2001,158.8
+IRQ,Iraq,Levant & Iraq,stroke_rate,2002,155.9
+IRQ,Iraq,Levant & Iraq,stroke_rate,2003,154.2
+IRQ,Iraq,Levant & Iraq,stroke_rate,2004,151.4
+IRQ,Iraq,Levant & Iraq,stroke_rate,2005,148.4
+IRQ,Iraq,Levant & Iraq,stroke_rate,2006,144.7
+IRQ,Iraq,Levant & Iraq,stroke_rate,2007,145.1
+IRQ,Iraq,Levant & Iraq,stroke_rate,2008,144.8
+IRQ,Iraq,Levant & Iraq,stroke_rate,2009,141.7
+IRQ,Iraq,Levant & Iraq,stroke_rate,2010,138
+IRQ,Iraq,Levant & Iraq,stroke_rate,2011,134.8
+IRQ,Iraq,Levant & Iraq,stroke_rate,2012,131
+IRQ,Iraq,Levant & Iraq,stroke_rate,2013,126.9
+IRQ,Iraq,Levant & Iraq,stroke_rate,2014,123.5
+IRQ,Iraq,Levant & Iraq,stroke_rate,2015,119.7
+IRQ,Iraq,Levant & Iraq,stroke_rate,2016,117.9
+IRQ,Iraq,Levant & Iraq,stroke_rate,2017,116.9
+IRQ,Iraq,Levant & Iraq,stroke_rate,2018,121.6
+IRQ,Iraq,Levant & Iraq,stroke_rate,2019,127.9
+IRQ,Iraq,Levant & Iraq,stroke_rate,2020,161
+IRQ,Iraq,Levant & Iraq,stroke_rate,2021,142.5
+EGY,Egypt,North Africa,stroke_rate,2000,151.1
+EGY,Egypt,North Africa,stroke_rate,2001,159.8
+EGY,Egypt,North Africa,stroke_rate,2002,161.4
+EGY,Egypt,North Africa,stroke_rate,2003,164.9
+EGY,Egypt,North Africa,stroke_rate,2004,155.8
+EGY,Egypt,North Africa,stroke_rate,2005,149.1
+EGY,Egypt,North Africa,stroke_rate,2006,147.3
+EGY,Egypt,North Africa,stroke_rate,2007,144.7
+EGY,Egypt,North Africa,stroke_rate,2008,144.2
+EGY,Egypt,North Africa,stroke_rate,2009,143.2
+EGY,Egypt,North Africa,stroke_rate,2010,142.5
+EGY,Egypt,North Africa,stroke_rate,2011,140.7
+EGY,Egypt,North Africa,stroke_rate,2012,149.4
+EGY,Egypt,North Africa,stroke_rate,2013,137.1
+EGY,Egypt,North Africa,stroke_rate,2014,140.3
+EGY,Egypt,North Africa,stroke_rate,2015,150.5
+EGY,Egypt,North Africa,stroke_rate,2016,141
+EGY,Egypt,North Africa,stroke_rate,2017,135.1
+EGY,Egypt,North Africa,stroke_rate,2018,134.4
+EGY,Egypt,North Africa,stroke_rate,2019,135.2
+EGY,Egypt,North Africa,stroke_rate,2020,128.2
+EGY,Egypt,North Africa,stroke_rate,2021,132.4
+MAR,Morocco,North Africa,stroke_rate,2000,117.2
+MAR,Morocco,North Africa,stroke_rate,2001,116.4
+MAR,Morocco,North Africa,stroke_rate,2002,114.8
+MAR,Morocco,North Africa,stroke_rate,2003,114.8
+MAR,Morocco,North Africa,stroke_rate,2004,114.5
+MAR,Morocco,North Africa,stroke_rate,2005,114.6
+MAR,Morocco,North Africa,stroke_rate,2006,114.4
+MAR,Morocco,North Africa,stroke_rate,2007,114.3
+MAR,Morocco,North Africa,stroke_rate,2008,113
+MAR,Morocco,North Africa,stroke_rate,2009,111.8
+MAR,Morocco,North Africa,stroke_rate,2010,110.8
+MAR,Morocco,North Africa,stroke_rate,2011,110.6
+MAR,Morocco,North Africa,stroke_rate,2012,110
+MAR,Morocco,North Africa,stroke_rate,2013,110
+MAR,Morocco,North Africa,stroke_rate,2014,109.6
+MAR,Morocco,North Africa,stroke_rate,2015,108.8
+MAR,Morocco,North Africa,stroke_rate,2016,108.5
+MAR,Morocco,North Africa,stroke_rate,2017,107.6
+MAR,Morocco,North Africa,stroke_rate,2018,107.3
+MAR,Morocco,North Africa,stroke_rate,2019,106
+MAR,Morocco,North Africa,stroke_rate,2020,108.6
+MAR,Morocco,North Africa,stroke_rate,2021,104.6
+TUN,Tunisia,North Africa,stroke_rate,2000,108.1
+TUN,Tunisia,North Africa,stroke_rate,2001,106.8
+TUN,Tunisia,North Africa,stroke_rate,2002,105
+TUN,Tunisia,North Africa,stroke_rate,2003,104.3
+TUN,Tunisia,North Africa,stroke_rate,2004,102.3
+TUN,Tunisia,North Africa,stroke_rate,2005,99.9
+TUN,Tunisia,North Africa,stroke_rate,2006,97.4
+TUN,Tunisia,North Africa,stroke_rate,2007,94.8
+TUN,Tunisia,North Africa,stroke_rate,2008,92.3
+TUN,Tunisia,North Africa,stroke_rate,2009,90.6
+TUN,Tunisia,North Africa,stroke_rate,2010,89
+TUN,Tunisia,North Africa,stroke_rate,2011,85.8
+TUN,Tunisia,North Africa,stroke_rate,2012,83.8
+TUN,Tunisia,North Africa,stroke_rate,2013,82.7
+TUN,Tunisia,North Africa,stroke_rate,2014,81
+TUN,Tunisia,North Africa,stroke_rate,2015,80.3
+TUN,Tunisia,North Africa,stroke_rate,2016,78.9
+TUN,Tunisia,North Africa,stroke_rate,2017,78.3
+TUN,Tunisia,North Africa,stroke_rate,2018,76.6
+TUN,Tunisia,North Africa,stroke_rate,2019,74.5
+TUN,Tunisia,North Africa,stroke_rate,2020,76.6
+TUN,Tunisia,North Africa,stroke_rate,2021,73.2
+DZA,Algeria,North Africa,stroke_rate,2000,97.3
+DZA,Algeria,North Africa,stroke_rate,2001,95.8
+DZA,Algeria,North Africa,stroke_rate,2002,94.5
+DZA,Algeria,North Africa,stroke_rate,2003,94.5
+DZA,Algeria,North Africa,stroke_rate,2004,93.6
+DZA,Algeria,North Africa,stroke_rate,2005,92.5
+DZA,Algeria,North Africa,stroke_rate,2006,91.8
+DZA,Algeria,North Africa,stroke_rate,2007,91.1
+DZA,Algeria,North Africa,stroke_rate,2008,90.8
+DZA,Algeria,North Africa,stroke_rate,2009,89.8
+DZA,Algeria,North Africa,stroke_rate,2010,91.2
+DZA,Algeria,North Africa,stroke_rate,2011,90.9
+DZA,Algeria,North Africa,stroke_rate,2012,88.2
+DZA,Algeria,North Africa,stroke_rate,2013,87.8
+DZA,Algeria,North Africa,stroke_rate,2014,86.3
+DZA,Algeria,North Africa,stroke_rate,2015,83.9
+DZA,Algeria,North Africa,stroke_rate,2016,82.6
+DZA,Algeria,North Africa,stroke_rate,2017,81.4
+DZA,Algeria,North Africa,stroke_rate,2018,82
+DZA,Algeria,North Africa,stroke_rate,2019,82
+DZA,Algeria,North Africa,stroke_rate,2020,87.8
+DZA,Algeria,North Africa,stroke_rate,2021,89.8
+LBY,Libya,North Africa,stroke_rate,2000,65.9
+LBY,Libya,North Africa,stroke_rate,2001,69.3
+LBY,Libya,North Africa,stroke_rate,2002,70.7
+LBY,Libya,North Africa,stroke_rate,2003,70.6
+LBY,Libya,North Africa,stroke_rate,2004,68.3
+LBY,Libya,North Africa,stroke_rate,2005,68.7
+LBY,Libya,North Africa,stroke_rate,2006,64.6
+LBY,Libya,North Africa,stroke_rate,2007,65.3
+LBY,Libya,North Africa,stroke_rate,2008,66.7
+LBY,Libya,North Africa,stroke_rate,2009,68.4
+LBY,Libya,North Africa,stroke_rate,2010,68
+LBY,Libya,North Africa,stroke_rate,2011,71.1
+LBY,Libya,North Africa,stroke_rate,2012,65.1
+LBY,Libya,North Africa,stroke_rate,2013,62.3
+LBY,Libya,North Africa,stroke_rate,2014,66.1
+LBY,Libya,North Africa,stroke_rate,2015,66.4
+LBY,Libya,North Africa,stroke_rate,2016,68.1
+LBY,Libya,North Africa,stroke_rate,2017,69.9
+LBY,Libya,North Africa,stroke_rate,2018,70
+LBY,Libya,North Africa,stroke_rate,2019,68.2
+LBY,Libya,North Africa,stroke_rate,2020,68.7
+LBY,Libya,North Africa,stroke_rate,2021,64.9
+USA,United States,Global benchmark,stroke_rate,2000,35.7
+USA,United States,Global benchmark,stroke_rate,2001,34.3
+USA,United States,Global benchmark,stroke_rate,2002,33.5
+USA,United States,Global benchmark,stroke_rate,2003,32.1
+USA,United States,Global benchmark,stroke_rate,2004,30.2
+USA,United States,Global benchmark,stroke_rate,2005,28.5
+USA,United States,Global benchmark,stroke_rate,2006,26.9
+USA,United States,Global benchmark,stroke_rate,2007,26.1
+USA,United States,Global benchmark,stroke_rate,2008,25.3
+USA,United States,Global benchmark,stroke_rate,2009,24
+USA,United States,Global benchmark,stroke_rate,2010,23.5
+USA,United States,Global benchmark,stroke_rate,2011,23.1
+USA,United States,Global benchmark,stroke_rate,2012,22.7
+USA,United States,Global benchmark,stroke_rate,2013,22.4
+USA,United States,Global benchmark,stroke_rate,2014,22.6
+USA,United States,Global benchmark,stroke_rate,2015,23.3
+USA,United States,Global benchmark,stroke_rate,2016,23.3
+USA,United States,Global benchmark,stroke_rate,2017,23.4
+USA,United States,Global benchmark,stroke_rate,2018,23.2
+USA,United States,Global benchmark,stroke_rate,2019,23.2
+USA,United States,Global benchmark,stroke_rate,2020,24.6
+USA,United States,Global benchmark,stroke_rate,2021,24.7
+GBR,United Kingdom,Global benchmark,stroke_rate,2000,46
+GBR,United Kingdom,Global benchmark,stroke_rate,2001,50.1
+GBR,United Kingdom,Global benchmark,stroke_rate,2002,49.9
+GBR,United Kingdom,Global benchmark,stroke_rate,2003,48.5
+GBR,United Kingdom,Global benchmark,stroke_rate,2004,44.2
+GBR,United Kingdom,Global benchmark,stroke_rate,2005,41.2
+GBR,United Kingdom,Global benchmark,stroke_rate,2006,38.4
+GBR,United Kingdom,Global benchmark,stroke_rate,2007,36.3
+GBR,United Kingdom,Global benchmark,stroke_rate,2008,35.5
+GBR,United Kingdom,Global benchmark,stroke_rate,2009,32.4
+GBR,United Kingdom,Global benchmark,stroke_rate,2010,31.7
+GBR,United Kingdom,Global benchmark,stroke_rate,2011,26.8
+GBR,United Kingdom,Global benchmark,stroke_rate,2012,26.3
+GBR,United Kingdom,Global benchmark,stroke_rate,2013,25.4
+GBR,United Kingdom,Global benchmark,stroke_rate,2014,24.2
+GBR,United Kingdom,Global benchmark,stroke_rate,2015,24.4
+GBR,United Kingdom,Global benchmark,stroke_rate,2016,22.9
+GBR,United Kingdom,Global benchmark,stroke_rate,2017,21.7
+GBR,United Kingdom,Global benchmark,stroke_rate,2018,21.8
+GBR,United Kingdom,Global benchmark,stroke_rate,2019,20
+GBR,United Kingdom,Global benchmark,stroke_rate,2020,20.4
+GBR,United Kingdom,Global benchmark,stroke_rate,2021,20.1
+FIN,Finland,Global benchmark,stroke_rate,2000,50.8
+FIN,Finland,Global benchmark,stroke_rate,2001,48
+FIN,Finland,Global benchmark,stroke_rate,2002,47.5
+FIN,Finland,Global benchmark,stroke_rate,2003,46.6
+FIN,Finland,Global benchmark,stroke_rate,2004,43.3
+FIN,Finland,Global benchmark,stroke_rate,2005,40.3
+FIN,Finland,Global benchmark,stroke_rate,2006,40
+FIN,Finland,Global benchmark,stroke_rate,2007,37.3
+FIN,Finland,Global benchmark,stroke_rate,2008,35.2
+FIN,Finland,Global benchmark,stroke_rate,2009,35.5
+FIN,Finland,Global benchmark,stroke_rate,2010,33.4
+FIN,Finland,Global benchmark,stroke_rate,2011,33.1
+FIN,Finland,Global benchmark,stroke_rate,2012,33.7
+FIN,Finland,Global benchmark,stroke_rate,2013,32.8
+FIN,Finland,Global benchmark,stroke_rate,2014,32.3
+FIN,Finland,Global benchmark,stroke_rate,2015,30.7
+FIN,Finland,Global benchmark,stroke_rate,2016,30.7
+FIN,Finland,Global benchmark,stroke_rate,2017,28.1
+FIN,Finland,Global benchmark,stroke_rate,2018,28
+FIN,Finland,Global benchmark,stroke_rate,2019,27
+FIN,Finland,Global benchmark,stroke_rate,2020,27
+FIN,Finland,Global benchmark,stroke_rate,2021,25.8
+WLD,World,Aggregate,stroke_rate,2000,113.4
+WLD,World,Aggregate,stroke_rate,2001,112.6
+WLD,World,Aggregate,stroke_rate,2002,112.5
+WLD,World,Aggregate,stroke_rate,2003,113.1
+WLD,World,Aggregate,stroke_rate,2004,110.8
+WLD,World,Aggregate,stroke_rate,2005,108.3
+WLD,World,Aggregate,stroke_rate,2006,102.8
+WLD,World,Aggregate,stroke_rate,2007,99.6
+WLD,World,Aggregate,stroke_rate,2008,98.1
+WLD,World,Aggregate,stroke_rate,2009,95.9
+WLD,World,Aggregate,stroke_rate,2010,94.5
+WLD,World,Aggregate,stroke_rate,2011,91.3
+WLD,World,Aggregate,stroke_rate,2012,88.5
+WLD,World,Aggregate,stroke_rate,2013,86.2
+WLD,World,Aggregate,stroke_rate,2014,84.4
+WLD,World,Aggregate,stroke_rate,2015,83.1
+WLD,World,Aggregate,stroke_rate,2016,81.8
+WLD,World,Aggregate,stroke_rate,2017,80.6
+WLD,World,Aggregate,stroke_rate,2018,79.6
+WLD,World,Aggregate,stroke_rate,2019,78.4
+WLD,World,Aggregate,stroke_rate,2020,77.4
+WLD,World,Aggregate,stroke_rate,2021,76.3
+ARE,UAE,GCC,tobacco,2000,16.9
+ARE,UAE,GCC,tobacco,2005,14.7
+ARE,UAE,GCC,tobacco,2007,13.9
+ARE,UAE,GCC,tobacco,2010,12.7
+ARE,UAE,GCC,tobacco,2015,11.2
+ARE,UAE,GCC,tobacco,2020,9.9
+ARE,UAE,GCC,tobacco,2022,9.4
+ARE,UAE,GCC,tobacco,2023,9.2
+ARE,UAE,GCC,tobacco,2024,9
+SAU,Saudi Arabia,GCC,tobacco,2000,14.4
+SAU,Saudi Arabia,GCC,tobacco,2005,14.5
+SAU,Saudi Arabia,GCC,tobacco,2007,14.5
+SAU,Saudi Arabia,GCC,tobacco,2010,14.6
+SAU,Saudi Arabia,GCC,tobacco,2015,14.5
+SAU,Saudi Arabia,GCC,tobacco,2020,14.6
+SAU,Saudi Arabia,GCC,tobacco,2022,14.7
+SAU,Saudi Arabia,GCC,tobacco,2023,14.7
+SAU,Saudi Arabia,GCC,tobacco,2024,14.7
+QAT,Qatar,GCC,tobacco,2000,12.8
+QAT,Qatar,GCC,tobacco,2005,12.6
+QAT,Qatar,GCC,tobacco,2007,12.6
+QAT,Qatar,GCC,tobacco,2010,12.5
+QAT,Qatar,GCC,tobacco,2015,12.5
+QAT,Qatar,GCC,tobacco,2020,12.5
+QAT,Qatar,GCC,tobacco,2022,12.5
+QAT,Qatar,GCC,tobacco,2023,12.5
+QAT,Qatar,GCC,tobacco,2024,12.5
+KWT,Kuwait,GCC,tobacco,2000,20.9
+KWT,Kuwait,GCC,tobacco,2005,20.4
+KWT,Kuwait,GCC,tobacco,2007,20.2
+KWT,Kuwait,GCC,tobacco,2010,20
+KWT,Kuwait,GCC,tobacco,2015,19.6
+KWT,Kuwait,GCC,tobacco,2020,19.4
+KWT,Kuwait,GCC,tobacco,2022,19.3
+KWT,Kuwait,GCC,tobacco,2023,19.4
+KWT,Kuwait,GCC,tobacco,2024,19.4
+BHR,Bahrain,GCC,tobacco,2000,21.1
+BHR,Bahrain,GCC,tobacco,2005,19.6
+BHR,Bahrain,GCC,tobacco,2007,19.1
+BHR,Bahrain,GCC,tobacco,2010,18.3
+BHR,Bahrain,GCC,tobacco,2015,17.2
+BHR,Bahrain,GCC,tobacco,2020,16.1
+BHR,Bahrain,GCC,tobacco,2022,15.7
+BHR,Bahrain,GCC,tobacco,2023,15.5
+BHR,Bahrain,GCC,tobacco,2024,15.4
+OMN,Oman,GCC,tobacco,2000,7.4
+OMN,Oman,GCC,tobacco,2005,7.6
+OMN,Oman,GCC,tobacco,2007,7.7
+OMN,Oman,GCC,tobacco,2010,7.8
+OMN,Oman,GCC,tobacco,2015,8.1
+OMN,Oman,GCC,tobacco,2020,8.3
+OMN,Oman,GCC,tobacco,2022,8.4
+OMN,Oman,GCC,tobacco,2023,8.5
+OMN,Oman,GCC,tobacco,2024,8.5
+JOR,Jordan,Levant & Iraq,tobacco,2000,32.5
+JOR,Jordan,Levant & Iraq,tobacco,2005,32.9
+JOR,Jordan,Levant & Iraq,tobacco,2007,32.8
+JOR,Jordan,Levant & Iraq,tobacco,2010,32.9
+JOR,Jordan,Levant & Iraq,tobacco,2015,33.2
+JOR,Jordan,Levant & Iraq,tobacco,2020,33.6
+JOR,Jordan,Levant & Iraq,tobacco,2022,33.8
+JOR,Jordan,Levant & Iraq,tobacco,2023,33.8
+JOR,Jordan,Levant & Iraq,tobacco,2024,34.1
+LBN,Lebanon,Levant & Iraq,tobacco,2000,34.3
+LBN,Lebanon,Levant & Iraq,tobacco,2005,36.4
+LBN,Lebanon,Levant & Iraq,tobacco,2007,37.4
+LBN,Lebanon,Levant & Iraq,tobacco,2010,38.9
+LBN,Lebanon,Levant & Iraq,tobacco,2015,41.4
+LBN,Lebanon,Levant & Iraq,tobacco,2020,44.5
+LBN,Lebanon,Levant & Iraq,tobacco,2022,45.6
+LBN,Lebanon,Levant & Iraq,tobacco,2023,46.3
+LBN,Lebanon,Levant & Iraq,tobacco,2024,46.9
+IRQ,Iraq,Levant & Iraq,tobacco,2000,23.1
+IRQ,Iraq,Levant & Iraq,tobacco,2005,22.2
+IRQ,Iraq,Levant & Iraq,tobacco,2007,21.7
+IRQ,Iraq,Levant & Iraq,tobacco,2010,21.3
+IRQ,Iraq,Levant & Iraq,tobacco,2015,20.8
+IRQ,Iraq,Levant & Iraq,tobacco,2020,20.3
+IRQ,Iraq,Levant & Iraq,tobacco,2022,20.2
+IRQ,Iraq,Levant & Iraq,tobacco,2023,20.2
+IRQ,Iraq,Levant & Iraq,tobacco,2024,20.1
+EGY,Egypt,North Africa,tobacco,2000,19.7
+EGY,Egypt,North Africa,tobacco,2005,20.4
+EGY,Egypt,North Africa,tobacco,2007,20.8
+EGY,Egypt,North Africa,tobacco,2010,21.5
+EGY,Egypt,North Africa,tobacco,2015,22.6
+EGY,Egypt,North Africa,tobacco,2020,23.9
+EGY,Egypt,North Africa,tobacco,2022,24.4
+EGY,Egypt,North Africa,tobacco,2023,24.7
+EGY,Egypt,North Africa,tobacco,2024,25
+MAR,Morocco,North Africa,tobacco,2000,20
+MAR,Morocco,North Africa,tobacco,2005,18.1
+MAR,Morocco,North Africa,tobacco,2007,17.3
+MAR,Morocco,North Africa,tobacco,2010,16.4
+MAR,Morocco,North Africa,tobacco,2015,14.8
+MAR,Morocco,North Africa,tobacco,2020,13.6
+MAR,Morocco,North Africa,tobacco,2022,13
+MAR,Morocco,North Africa,tobacco,2023,12.8
+MAR,Morocco,North Africa,tobacco,2024,12.5
+TUN,Tunisia,North Africa,tobacco,2000,32.9
+TUN,Tunisia,North Africa,tobacco,2005,30.9
+TUN,Tunisia,North Africa,tobacco,2007,30.1
+TUN,Tunisia,North Africa,tobacco,2010,29
+TUN,Tunisia,North Africa,tobacco,2015,27.3
+TUN,Tunisia,North Africa,tobacco,2020,25.7
+TUN,Tunisia,North Africa,tobacco,2022,25.2
+TUN,Tunisia,North Africa,tobacco,2023,24.8
+TUN,Tunisia,North Africa,tobacco,2024,24.4
+DZA,Algeria,North Africa,tobacco,2000,20.5
+DZA,Algeria,North Africa,tobacco,2005,20.5
+DZA,Algeria,North Africa,tobacco,2007,20.6
+DZA,Algeria,North Africa,tobacco,2010,20.7
+DZA,Algeria,North Africa,tobacco,2015,21.2
+DZA,Algeria,North Africa,tobacco,2020,21.7
+DZA,Algeria,North Africa,tobacco,2022,22.1
+DZA,Algeria,North Africa,tobacco,2023,22.3
+DZA,Algeria,North Africa,tobacco,2024,22.4
+LBY,Libya,North Africa,tobacco,2000,34.4
+LBY,Libya,North Africa,tobacco,2005,32
+LBY,Libya,North Africa,tobacco,2007,31
+LBY,Libya,North Africa,tobacco,2010,29.6
+LBY,Libya,North Africa,tobacco,2015,27.4
+LBY,Libya,North Africa,tobacco,2020,25.6
+LBY,Libya,North Africa,tobacco,2022,24.8
+LBY,Libya,North Africa,tobacco,2023,24.5
+LBY,Libya,North Africa,tobacco,2024,24.2
+USA,United States,Global benchmark,tobacco,2000,38.6
+USA,United States,Global benchmark,tobacco,2005,31.9
+USA,United States,Global benchmark,tobacco,2007,29.7
+USA,United States,Global benchmark,tobacco,2010,26.5
+USA,United States,Global benchmark,tobacco,2015,22
+USA,United States,Global benchmark,tobacco,2020,18.3
+USA,United States,Global benchmark,tobacco,2022,17
+USA,United States,Global benchmark,tobacco,2023,16.4
+USA,United States,Global benchmark,tobacco,2024,15.8
+GBR,United Kingdom,Global benchmark,tobacco,2000,38.2
+GBR,United Kingdom,Global benchmark,tobacco,2005,30.3
+GBR,United Kingdom,Global benchmark,tobacco,2007,27.7
+GBR,United Kingdom,Global benchmark,tobacco,2010,24.2
+GBR,United Kingdom,Global benchmark,tobacco,2015,19.2
+GBR,United Kingdom,Global benchmark,tobacco,2020,15.3
+GBR,United Kingdom,Global benchmark,tobacco,2022,14
+GBR,United Kingdom,Global benchmark,tobacco,2023,13.4
+GBR,United Kingdom,Global benchmark,tobacco,2024,12.8
+FIN,Finland,Global benchmark,tobacco,2000,39
+FIN,Finland,Global benchmark,tobacco,2005,34.4
+FIN,Finland,Global benchmark,tobacco,2007,32.8
+FIN,Finland,Global benchmark,tobacco,2010,30.3
+FIN,Finland,Global benchmark,tobacco,2015,26.8
+FIN,Finland,Global benchmark,tobacco,2020,23.7
+FIN,Finland,Global benchmark,tobacco,2022,22.4
+FIN,Finland,Global benchmark,tobacco,2023,21.8
+FIN,Finland,Global benchmark,tobacco,2024,21.4
+REG,Regional average,Aggregate,tobacco,2000,27
+REG,Regional average,Aggregate,tobacco,2005,24.2
+REG,Regional average,Aggregate,tobacco,2007,23.3
+REG,Regional average,Aggregate,tobacco,2010,22
+REG,Regional average,Aggregate,tobacco,2015,20.2
+REG,Regional average,Aggregate,tobacco,2020,18.8
+REG,Regional average,Aggregate,tobacco,2022,18.4
+REG,Regional average,Aggregate,tobacco,2023,18.2
+REG,Regional average,Aggregate,tobacco,2024,18
+WLD,World,Aggregate,tobacco,2000,33.1
+WLD,World,Aggregate,tobacco,2005,29.4
+WLD,World,Aggregate,tobacco,2007,28
+WLD,World,Aggregate,tobacco,2010,26.2
+WLD,World,Aggregate,tobacco,2015,23.5
+WLD,World,Aggregate,tobacco,2020,21.1
+WLD,World,Aggregate,tobacco,2022,20.3
+WLD,World,Aggregate,tobacco,2023,19.9
+WLD,World,Aggregate,tobacco,2024,19.5
+ARE,UAE,GCC,uhc,2000,73
+ARE,UAE,GCC,uhc,2001,74
+ARE,UAE,GCC,uhc,2002,74
+ARE,UAE,GCC,uhc,2003,74
+ARE,UAE,GCC,uhc,2004,74
+ARE,UAE,GCC,uhc,2005,71
+ARE,UAE,GCC,uhc,2006,71
+ARE,UAE,GCC,uhc,2007,72
+ARE,UAE,GCC,uhc,2008,72
+ARE,UAE,GCC,uhc,2009,73
+ARE,UAE,GCC,uhc,2010,72
+ARE,UAE,GCC,uhc,2011,74
+ARE,UAE,GCC,uhc,2012,76
+ARE,UAE,GCC,uhc,2013,79
+ARE,UAE,GCC,uhc,2014,80
+ARE,UAE,GCC,uhc,2015,81
+ARE,UAE,GCC,uhc,2016,81
+ARE,UAE,GCC,uhc,2017,82
+ARE,UAE,GCC,uhc,2018,83
+ARE,UAE,GCC,uhc,2019,84
+ARE,UAE,GCC,uhc,2020,84
+ARE,UAE,GCC,uhc,2021,84
+ARE,UAE,GCC,uhc,2022,84
+ARE,UAE,GCC,uhc,2023,84
+SAU,Saudi Arabia,GCC,uhc,2000,74
+SAU,Saudi Arabia,GCC,uhc,2001,75
+SAU,Saudi Arabia,GCC,uhc,2002,76
+SAU,Saudi Arabia,GCC,uhc,2003,77
+SAU,Saudi Arabia,GCC,uhc,2004,78
+SAU,Saudi Arabia,GCC,uhc,2005,78
+SAU,Saudi Arabia,GCC,uhc,2006,79
+SAU,Saudi Arabia,GCC,uhc,2007,80
+SAU,Saudi Arabia,GCC,uhc,2008,80
+SAU,Saudi Arabia,GCC,uhc,2009,81
+SAU,Saudi Arabia,GCC,uhc,2010,81
+SAU,Saudi Arabia,GCC,uhc,2011,81
+SAU,Saudi Arabia,GCC,uhc,2012,81
+SAU,Saudi Arabia,GCC,uhc,2013,82
+SAU,Saudi Arabia,GCC,uhc,2014,82
+SAU,Saudi Arabia,GCC,uhc,2015,82
+SAU,Saudi Arabia,GCC,uhc,2016,82
+SAU,Saudi Arabia,GCC,uhc,2017,82
+SAU,Saudi Arabia,GCC,uhc,2018,80
+SAU,Saudi Arabia,GCC,uhc,2019,80
+SAU,Saudi Arabia,GCC,uhc,2020,81
+SAU,Saudi Arabia,GCC,uhc,2021,82
+SAU,Saudi Arabia,GCC,uhc,2022,82
+SAU,Saudi Arabia,GCC,uhc,2023,83
+QAT,Qatar,GCC,uhc,2000,81
+QAT,Qatar,GCC,uhc,2001,81
+QAT,Qatar,GCC,uhc,2002,81
+QAT,Qatar,GCC,uhc,2003,82
+QAT,Qatar,GCC,uhc,2004,82
+QAT,Qatar,GCC,uhc,2005,82
+QAT,Qatar,GCC,uhc,2006,82
+QAT,Qatar,GCC,uhc,2007,82
+QAT,Qatar,GCC,uhc,2008,81
+QAT,Qatar,GCC,uhc,2009,80
+QAT,Qatar,GCC,uhc,2010,80
+QAT,Qatar,GCC,uhc,2011,82
+QAT,Qatar,GCC,uhc,2012,82
+QAT,Qatar,GCC,uhc,2013,82
+QAT,Qatar,GCC,uhc,2014,82
+QAT,Qatar,GCC,uhc,2015,82
+QAT,Qatar,GCC,uhc,2016,81
+QAT,Qatar,GCC,uhc,2017,80
+QAT,Qatar,GCC,uhc,2018,82
+QAT,Qatar,GCC,uhc,2019,83
+QAT,Qatar,GCC,uhc,2020,83
+QAT,Qatar,GCC,uhc,2021,84
+QAT,Qatar,GCC,uhc,2022,84
+QAT,Qatar,GCC,uhc,2023,84
+KWT,Kuwait,GCC,uhc,2000,79
+KWT,Kuwait,GCC,uhc,2001,79
+KWT,Kuwait,GCC,uhc,2002,79
+KWT,Kuwait,GCC,uhc,2003,79
+KWT,Kuwait,GCC,uhc,2004,79
+KWT,Kuwait,GCC,uhc,2005,79
+KWT,Kuwait,GCC,uhc,2006,80
+KWT,Kuwait,GCC,uhc,2007,80
+KWT,Kuwait,GCC,uhc,2008,80
+KWT,Kuwait,GCC,uhc,2009,81
+KWT,Kuwait,GCC,uhc,2010,81
+KWT,Kuwait,GCC,uhc,2011,82
+KWT,Kuwait,GCC,uhc,2012,82
+KWT,Kuwait,GCC,uhc,2013,83
+KWT,Kuwait,GCC,uhc,2014,83
+KWT,Kuwait,GCC,uhc,2015,83
+KWT,Kuwait,GCC,uhc,2016,83
+KWT,Kuwait,GCC,uhc,2017,83
+KWT,Kuwait,GCC,uhc,2018,80
+KWT,Kuwait,GCC,uhc,2019,83
+KWT,Kuwait,GCC,uhc,2020,83
+KWT,Kuwait,GCC,uhc,2021,83
+KWT,Kuwait,GCC,uhc,2022,84
+KWT,Kuwait,GCC,uhc,2023,84
+BHR,Bahrain,GCC,uhc,2000,74
+BHR,Bahrain,GCC,uhc,2001,75
+BHR,Bahrain,GCC,uhc,2002,75
+BHR,Bahrain,GCC,uhc,2003,75
+BHR,Bahrain,GCC,uhc,2004,75
+BHR,Bahrain,GCC,uhc,2005,75
+BHR,Bahrain,GCC,uhc,2006,75
+BHR,Bahrain,GCC,uhc,2007,75
+BHR,Bahrain,GCC,uhc,2008,75
+BHR,Bahrain,GCC,uhc,2009,75
+BHR,Bahrain,GCC,uhc,2010,75
+BHR,Bahrain,GCC,uhc,2011,77
+BHR,Bahrain,GCC,uhc,2012,78
+BHR,Bahrain,GCC,uhc,2013,78
+BHR,Bahrain,GCC,uhc,2014,79
+BHR,Bahrain,GCC,uhc,2015,79
+BHR,Bahrain,GCC,uhc,2016,78
+BHR,Bahrain,GCC,uhc,2017,78
+BHR,Bahrain,GCC,uhc,2018,77
+BHR,Bahrain,GCC,uhc,2019,76
+BHR,Bahrain,GCC,uhc,2020,78
+BHR,Bahrain,GCC,uhc,2021,78
+BHR,Bahrain,GCC,uhc,2022,78
+BHR,Bahrain,GCC,uhc,2023,78
+OMN,Oman,GCC,uhc,2000,73
+OMN,Oman,GCC,uhc,2001,73
+OMN,Oman,GCC,uhc,2002,73
+OMN,Oman,GCC,uhc,2003,73
+OMN,Oman,GCC,uhc,2004,73
+OMN,Oman,GCC,uhc,2005,73
+OMN,Oman,GCC,uhc,2006,73
+OMN,Oman,GCC,uhc,2007,73
+OMN,Oman,GCC,uhc,2008,74
+OMN,Oman,GCC,uhc,2009,74
+OMN,Oman,GCC,uhc,2010,74
+OMN,Oman,GCC,uhc,2011,76
+OMN,Oman,GCC,uhc,2012,75
+OMN,Oman,GCC,uhc,2013,74
+OMN,Oman,GCC,uhc,2014,74
+OMN,Oman,GCC,uhc,2015,75
+OMN,Oman,GCC,uhc,2016,75
+OMN,Oman,GCC,uhc,2017,74
+OMN,Oman,GCC,uhc,2018,75
+OMN,Oman,GCC,uhc,2019,74
+OMN,Oman,GCC,uhc,2020,73
+OMN,Oman,GCC,uhc,2021,73
+OMN,Oman,GCC,uhc,2022,73
+OMN,Oman,GCC,uhc,2023,73
+JOR,Jordan,Levant & Iraq,uhc,2000,75
+JOR,Jordan,Levant & Iraq,uhc,2001,75
+JOR,Jordan,Levant & Iraq,uhc,2002,75
+JOR,Jordan,Levant & Iraq,uhc,2003,75
+JOR,Jordan,Levant & Iraq,uhc,2004,75
+JOR,Jordan,Levant & Iraq,uhc,2005,75
+JOR,Jordan,Levant & Iraq,uhc,2006,76
+JOR,Jordan,Levant & Iraq,uhc,2007,75
+JOR,Jordan,Levant & Iraq,uhc,2008,75
+JOR,Jordan,Levant & Iraq,uhc,2009,76
+JOR,Jordan,Levant & Iraq,uhc,2010,76
+JOR,Jordan,Levant & Iraq,uhc,2011,77
+JOR,Jordan,Levant & Iraq,uhc,2012,77
+JOR,Jordan,Levant & Iraq,uhc,2013,76
+JOR,Jordan,Levant & Iraq,uhc,2014,76
+JOR,Jordan,Levant & Iraq,uhc,2015,75
+JOR,Jordan,Levant & Iraq,uhc,2016,73
+JOR,Jordan,Levant & Iraq,uhc,2017,72
+JOR,Jordan,Levant & Iraq,uhc,2018,69
+JOR,Jordan,Levant & Iraq,uhc,2019,69
+JOR,Jordan,Levant & Iraq,uhc,2020,70
+JOR,Jordan,Levant & Iraq,uhc,2021,71
+JOR,Jordan,Levant & Iraq,uhc,2022,73
+JOR,Jordan,Levant & Iraq,uhc,2023,74
+LBN,Lebanon,Levant & Iraq,uhc,2000,64
+LBN,Lebanon,Levant & Iraq,uhc,2001,63
+LBN,Lebanon,Levant & Iraq,uhc,2002,63
+LBN,Lebanon,Levant & Iraq,uhc,2003,63
+LBN,Lebanon,Levant & Iraq,uhc,2004,64
+LBN,Lebanon,Levant & Iraq,uhc,2005,64
+LBN,Lebanon,Levant & Iraq,uhc,2006,64
+LBN,Lebanon,Levant & Iraq,uhc,2007,65
+LBN,Lebanon,Levant & Iraq,uhc,2008,65
+LBN,Lebanon,Levant & Iraq,uhc,2009,66
+LBN,Lebanon,Levant & Iraq,uhc,2010,66
+LBN,Lebanon,Levant & Iraq,uhc,2011,66
+LBN,Lebanon,Levant & Iraq,uhc,2012,67
+LBN,Lebanon,Levant & Iraq,uhc,2013,68
+LBN,Lebanon,Levant & Iraq,uhc,2014,68
+LBN,Lebanon,Levant & Iraq,uhc,2015,68
+LBN,Lebanon,Levant & Iraq,uhc,2016,68
+LBN,Lebanon,Levant & Iraq,uhc,2017,69
+LBN,Lebanon,Levant & Iraq,uhc,2018,67
+LBN,Lebanon,Levant & Iraq,uhc,2019,69
+LBN,Lebanon,Levant & Iraq,uhc,2020,68
+LBN,Lebanon,Levant & Iraq,uhc,2021,68
+LBN,Lebanon,Levant & Iraq,uhc,2022,68
+LBN,Lebanon,Levant & Iraq,uhc,2023,67
+IRQ,Iraq,Levant & Iraq,uhc,2000,61
+IRQ,Iraq,Levant & Iraq,uhc,2001,61
+IRQ,Iraq,Levant & Iraq,uhc,2002,62
+IRQ,Iraq,Levant & Iraq,uhc,2003,62
+IRQ,Iraq,Levant & Iraq,uhc,2004,63
+IRQ,Iraq,Levant & Iraq,uhc,2005,63
+IRQ,Iraq,Levant & Iraq,uhc,2006,63
+IRQ,Iraq,Levant & Iraq,uhc,2007,63
+IRQ,Iraq,Levant & Iraq,uhc,2008,64
+IRQ,Iraq,Levant & Iraq,uhc,2009,64
+IRQ,Iraq,Levant & Iraq,uhc,2010,64
+IRQ,Iraq,Levant & Iraq,uhc,2011,67
+IRQ,Iraq,Levant & Iraq,uhc,2012,68
+IRQ,Iraq,Levant & Iraq,uhc,2013,69
+IRQ,Iraq,Levant & Iraq,uhc,2014,68
+IRQ,Iraq,Levant & Iraq,uhc,2015,67
+IRQ,Iraq,Levant & Iraq,uhc,2016,67
+IRQ,Iraq,Levant & Iraq,uhc,2017,67
+IRQ,Iraq,Levant & Iraq,uhc,2018,66
+IRQ,Iraq,Levant & Iraq,uhc,2019,66
+IRQ,Iraq,Levant & Iraq,uhc,2020,67
+IRQ,Iraq,Levant & Iraq,uhc,2021,64
+IRQ,Iraq,Levant & Iraq,uhc,2022,66
+IRQ,Iraq,Levant & Iraq,uhc,2023,64
+EGY,Egypt,North Africa,uhc,2000,73
+EGY,Egypt,North Africa,uhc,2001,73
+EGY,Egypt,North Africa,uhc,2002,74
+EGY,Egypt,North Africa,uhc,2003,74
+EGY,Egypt,North Africa,uhc,2004,74
+EGY,Egypt,North Africa,uhc,2005,74
+EGY,Egypt,North Africa,uhc,2006,75
+EGY,Egypt,North Africa,uhc,2007,75
+EGY,Egypt,North Africa,uhc,2008,75
+EGY,Egypt,North Africa,uhc,2009,75
+EGY,Egypt,North Africa,uhc,2010,74
+EGY,Egypt,North Africa,uhc,2011,74
+EGY,Egypt,North Africa,uhc,2012,73
+EGY,Egypt,North Africa,uhc,2013,74
+EGY,Egypt,North Africa,uhc,2014,74
+EGY,Egypt,North Africa,uhc,2015,73
+EGY,Egypt,North Africa,uhc,2016,73
+EGY,Egypt,North Africa,uhc,2017,73
+EGY,Egypt,North Africa,uhc,2018,72
+EGY,Egypt,North Africa,uhc,2019,72
+EGY,Egypt,North Africa,uhc,2020,71
+EGY,Egypt,North Africa,uhc,2021,71
+EGY,Egypt,North Africa,uhc,2022,71
+EGY,Egypt,North Africa,uhc,2023,71
+MAR,Morocco,North Africa,uhc,2000,55
+MAR,Morocco,North Africa,uhc,2001,55
+MAR,Morocco,North Africa,uhc,2002,56
+MAR,Morocco,North Africa,uhc,2003,56
+MAR,Morocco,North Africa,uhc,2004,57
+MAR,Morocco,North Africa,uhc,2005,58
+MAR,Morocco,North Africa,uhc,2006,59
+MAR,Morocco,North Africa,uhc,2007,60
+MAR,Morocco,North Africa,uhc,2008,61
+MAR,Morocco,North Africa,uhc,2009,62
+MAR,Morocco,North Africa,uhc,2010,63
+MAR,Morocco,North Africa,uhc,2011,64
+MAR,Morocco,North Africa,uhc,2012,64
+MAR,Morocco,North Africa,uhc,2013,65
+MAR,Morocco,North Africa,uhc,2014,66
+MAR,Morocco,North Africa,uhc,2015,66
+MAR,Morocco,North Africa,uhc,2016,66
+MAR,Morocco,North Africa,uhc,2017,66
+MAR,Morocco,North Africa,uhc,2018,65
+MAR,Morocco,North Africa,uhc,2019,65
+MAR,Morocco,North Africa,uhc,2020,65
+MAR,Morocco,North Africa,uhc,2021,65
+MAR,Morocco,North Africa,uhc,2022,65
+MAR,Morocco,North Africa,uhc,2023,65
+TUN,Tunisia,North Africa,uhc,2000,61
+TUN,Tunisia,North Africa,uhc,2001,61
+TUN,Tunisia,North Africa,uhc,2002,62
+TUN,Tunisia,North Africa,uhc,2003,63
+TUN,Tunisia,North Africa,uhc,2004,66
+TUN,Tunisia,North Africa,uhc,2005,66
+TUN,Tunisia,North Africa,uhc,2006,67
+TUN,Tunisia,North Africa,uhc,2007,67
+TUN,Tunisia,North Africa,uhc,2008,67
+TUN,Tunisia,North Africa,uhc,2009,68
+TUN,Tunisia,North Africa,uhc,2010,69
+TUN,Tunisia,North Africa,uhc,2011,69
+TUN,Tunisia,North Africa,uhc,2012,70
+TUN,Tunisia,North Africa,uhc,2013,70
+TUN,Tunisia,North Africa,uhc,2014,72
+TUN,Tunisia,North Africa,uhc,2015,73
+TUN,Tunisia,North Africa,uhc,2016,73
+TUN,Tunisia,North Africa,uhc,2017,74
+TUN,Tunisia,North Africa,uhc,2018,75
+TUN,Tunisia,North Africa,uhc,2019,75
+TUN,Tunisia,North Africa,uhc,2020,76
+TUN,Tunisia,North Africa,uhc,2021,75
+TUN,Tunisia,North Africa,uhc,2022,76
+TUN,Tunisia,North Africa,uhc,2023,76
+DZA,Algeria,North Africa,uhc,2000,68
+DZA,Algeria,North Africa,uhc,2001,68
+DZA,Algeria,North Africa,uhc,2002,68
+DZA,Algeria,North Africa,uhc,2003,68
+DZA,Algeria,North Africa,uhc,2004,68
+DZA,Algeria,North Africa,uhc,2005,68
+DZA,Algeria,North Africa,uhc,2006,68
+DZA,Algeria,North Africa,uhc,2007,69
+DZA,Algeria,North Africa,uhc,2008,69
+DZA,Algeria,North Africa,uhc,2009,70
+DZA,Algeria,North Africa,uhc,2010,70
+DZA,Algeria,North Africa,uhc,2011,62
+DZA,Algeria,North Africa,uhc,2012,65
+DZA,Algeria,North Africa,uhc,2013,69
+DZA,Algeria,North Africa,uhc,2014,72
+DZA,Algeria,North Africa,uhc,2015,72
+DZA,Algeria,North Africa,uhc,2016,72
+DZA,Algeria,North Africa,uhc,2017,71
+DZA,Algeria,North Africa,uhc,2018,70
+DZA,Algeria,North Africa,uhc,2019,64
+DZA,Algeria,North Africa,uhc,2020,66
+DZA,Algeria,North Africa,uhc,2021,69
+DZA,Algeria,North Africa,uhc,2022,70
+DZA,Algeria,North Africa,uhc,2023,70
+LBY,Libya,North Africa,uhc,2000,66
+LBY,Libya,North Africa,uhc,2001,67
+LBY,Libya,North Africa,uhc,2002,67
+LBY,Libya,North Africa,uhc,2003,67
+LBY,Libya,North Africa,uhc,2004,67
+LBY,Libya,North Africa,uhc,2005,68
+LBY,Libya,North Africa,uhc,2006,68
+LBY,Libya,North Africa,uhc,2007,68
+LBY,Libya,North Africa,uhc,2008,68
+LBY,Libya,North Africa,uhc,2009,68
+LBY,Libya,North Africa,uhc,2010,69
+LBY,Libya,North Africa,uhc,2011,69
+LBY,Libya,North Africa,uhc,2012,68
+LBY,Libya,North Africa,uhc,2013,70
+LBY,Libya,North Africa,uhc,2014,70
+LBY,Libya,North Africa,uhc,2015,71
+LBY,Libya,North Africa,uhc,2016,71
+LBY,Libya,North Africa,uhc,2017,71
+LBY,Libya,North Africa,uhc,2018,68
+LBY,Libya,North Africa,uhc,2019,70
+LBY,Libya,North Africa,uhc,2020,71
+LBY,Libya,North Africa,uhc,2021,69
+LBY,Libya,North Africa,uhc,2022,71
+LBY,Libya,North Africa,uhc,2023,71
+USA,United States,Global benchmark,uhc,2000,79
+USA,United States,Global benchmark,uhc,2001,79
+USA,United States,Global benchmark,uhc,2002,80
+USA,United States,Global benchmark,uhc,2003,81
+USA,United States,Global benchmark,uhc,2004,81
+USA,United States,Global benchmark,uhc,2005,82
+USA,United States,Global benchmark,uhc,2006,83
+USA,United States,Global benchmark,uhc,2007,83
+USA,United States,Global benchmark,uhc,2008,83
+USA,United States,Global benchmark,uhc,2009,84
+USA,United States,Global benchmark,uhc,2010,84
+USA,United States,Global benchmark,uhc,2011,85
+USA,United States,Global benchmark,uhc,2012,86
+USA,United States,Global benchmark,uhc,2013,86
+USA,United States,Global benchmark,uhc,2014,86
+USA,United States,Global benchmark,uhc,2015,87
+USA,United States,Global benchmark,uhc,2016,87
+USA,United States,Global benchmark,uhc,2017,87
+USA,United States,Global benchmark,uhc,2018,87
+USA,United States,Global benchmark,uhc,2019,87
+USA,United States,Global benchmark,uhc,2020,87
+USA,United States,Global benchmark,uhc,2021,87
+USA,United States,Global benchmark,uhc,2022,88
+USA,United States,Global benchmark,uhc,2023,88
+GBR,United Kingdom,Global benchmark,uhc,2000,77
+GBR,United Kingdom,Global benchmark,uhc,2001,78
+GBR,United Kingdom,Global benchmark,uhc,2002,79
+GBR,United Kingdom,Global benchmark,uhc,2003,80
+GBR,United Kingdom,Global benchmark,uhc,2004,80
+GBR,United Kingdom,Global benchmark,uhc,2005,81
+GBR,United Kingdom,Global benchmark,uhc,2006,82
+GBR,United Kingdom,Global benchmark,uhc,2007,82
+GBR,United Kingdom,Global benchmark,uhc,2008,83
+GBR,United Kingdom,Global benchmark,uhc,2009,84
+GBR,United Kingdom,Global benchmark,uhc,2010,84
+GBR,United Kingdom,Global benchmark,uhc,2011,84
+GBR,United Kingdom,Global benchmark,uhc,2012,85
+GBR,United Kingdom,Global benchmark,uhc,2013,85
+GBR,United Kingdom,Global benchmark,uhc,2014,86
+GBR,United Kingdom,Global benchmark,uhc,2015,86
+GBR,United Kingdom,Global benchmark,uhc,2016,86
+GBR,United Kingdom,Global benchmark,uhc,2017,87
+GBR,United Kingdom,Global benchmark,uhc,2018,87
+GBR,United Kingdom,Global benchmark,uhc,2019,87
+GBR,United Kingdom,Global benchmark,uhc,2020,88
+GBR,United Kingdom,Global benchmark,uhc,2021,88
+GBR,United Kingdom,Global benchmark,uhc,2022,88
+GBR,United Kingdom,Global benchmark,uhc,2023,88
+FIN,Finland,Global benchmark,uhc,2000,77
+FIN,Finland,Global benchmark,uhc,2001,78
+FIN,Finland,Global benchmark,uhc,2002,78
+FIN,Finland,Global benchmark,uhc,2003,79
+FIN,Finland,Global benchmark,uhc,2004,79
+FIN,Finland,Global benchmark,uhc,2005,80
+FIN,Finland,Global benchmark,uhc,2006,80
+FIN,Finland,Global benchmark,uhc,2007,81
+FIN,Finland,Global benchmark,uhc,2008,81
+FIN,Finland,Global benchmark,uhc,2009,82
+FIN,Finland,Global benchmark,uhc,2010,82
+FIN,Finland,Global benchmark,uhc,2011,83
+FIN,Finland,Global benchmark,uhc,2012,84
+FIN,Finland,Global benchmark,uhc,2013,84
+FIN,Finland,Global benchmark,uhc,2014,85
+FIN,Finland,Global benchmark,uhc,2015,86
+FIN,Finland,Global benchmark,uhc,2016,86
+FIN,Finland,Global benchmark,uhc,2017,86
+FIN,Finland,Global benchmark,uhc,2018,86
+FIN,Finland,Global benchmark,uhc,2019,86
+FIN,Finland,Global benchmark,uhc,2020,86
+FIN,Finland,Global benchmark,uhc,2021,86
+FIN,Finland,Global benchmark,uhc,2022,86
+FIN,Finland,Global benchmark,uhc,2023,86
+REG,Regional average,Aggregate,uhc,2000,51
+REG,Regional average,Aggregate,uhc,2001,51
+REG,Regional average,Aggregate,uhc,2002,52
+REG,Regional average,Aggregate,uhc,2003,52
+REG,Regional average,Aggregate,uhc,2004,53
+REG,Regional average,Aggregate,uhc,2005,53
+REG,Regional average,Aggregate,uhc,2006,54
+REG,Regional average,Aggregate,uhc,2007,55
+REG,Regional average,Aggregate,uhc,2008,56
+REG,Regional average,Aggregate,uhc,2009,57
+REG,Regional average,Aggregate,uhc,2010,57
+REG,Regional average,Aggregate,uhc,2011,58
+REG,Regional average,Aggregate,uhc,2012,59
+REG,Regional average,Aggregate,uhc,2013,60
+REG,Regional average,Aggregate,uhc,2014,61
+REG,Regional average,Aggregate,uhc,2015,61
+REG,Regional average,Aggregate,uhc,2016,62
+REG,Regional average,Aggregate,uhc,2017,62
+REG,Regional average,Aggregate,uhc,2018,62
+REG,Regional average,Aggregate,uhc,2019,62
+REG,Regional average,Aggregate,uhc,2020,63
+REG,Regional average,Aggregate,uhc,2021,63
+REG,Regional average,Aggregate,uhc,2022,63
+REG,Regional average,Aggregate,uhc,2023,63
+WLD,World,Aggregate,uhc,2000,54
+WLD,World,Aggregate,uhc,2001,54
+WLD,World,Aggregate,uhc,2002,55
+WLD,World,Aggregate,uhc,2003,55
+WLD,World,Aggregate,uhc,2004,56
+WLD,World,Aggregate,uhc,2005,57
+WLD,World,Aggregate,uhc,2006,59
+WLD,World,Aggregate,uhc,2007,60
+WLD,World,Aggregate,uhc,2008,61
+WLD,World,Aggregate,uhc,2009,62
+WLD,World,Aggregate,uhc,2010,63
+WLD,World,Aggregate,uhc,2011,64
+WLD,World,Aggregate,uhc,2012,65
+WLD,World,Aggregate,uhc,2013,66
+WLD,World,Aggregate,uhc,2014,67
+WLD,World,Aggregate,uhc,2015,68
+WLD,World,Aggregate,uhc,2016,69
+WLD,World,Aggregate,uhc,2017,69
+WLD,World,Aggregate,uhc,2018,69
+WLD,World,Aggregate,uhc,2019,70
+WLD,World,Aggregate,uhc,2020,70
+WLD,World,Aggregate,uhc,2021,70
+WLD,World,Aggregate,uhc,2022,71
+WLD,World,Aggregate,uhc,2023,71

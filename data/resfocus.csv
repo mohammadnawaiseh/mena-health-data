@@ -1,0 +1,61 @@
+stakeholder,topic,papers,years
+ministries,Healthcare Systems and Reforms,93,2021-2025
+ministries,Global Cancer Incidence and Screening,44,2021-2025
+ministries,"Health Systems, Economic Evaluations, Quality of Life",29,2021-2025
+ministries,Dental Health and Care Utilization,28,2021-2025
+ministries,Healthcare Systems and Practices,27,2021-2025
+ministries,Blood Pressure and Hypertension Studies,25,2021-2025
+ministries,Liver Disease Diagnosis and Treatment,25,2021-2025
+ministries,Global Health and Epidemiology,24,2021-2025
+ministries,Mental Health Treatment and Access,22,2021-2025
+ministries,Global Public Health Policies and Epidemiology,22,2021-2025
+payers,Healthcare Systems and Reforms,168,2021-2025
+payers,"Health Systems, Economic Evaluations, Quality of Life",57,2021-2025
+payers,Global Health Care Issues,36,2021-2025
+payers,Diabetes Management and Education,29,2021-2025
+payers,Hemoglobinopathies and Related Disorders,28,2021-2025
+payers,Medication Adherence and Compliance,28,2021-2025
+payers,Blockchain Technology Applications and Security,27,2021-2025
+payers,Dental Health and Care Utilization,23,2021-2025
+payers,Pharmaceutical Economics and Policy,21,2021-2025
+payers,Economic and Financial Impacts of Cancer,21,2021-2025
+pharma,Medication Adherence and Compliance,387,2021-2025
+pharma,Dental Implant Techniques and Outcomes,385,2021-2025
+pharma,Anesthesia and Pain Management,352,2021-2025
+pharma,Dental materials and restorations,297,2021-2025
+pharma,Endodontics and Root Canal Treatments,264,2021-2025
+pharma,Orthodontics and Dentofacial Orthopedics,251,2021-2025
+pharma,COVID-19 Clinical Research Studies,232,2021-2025
+pharma,SARS-CoV-2 and COVID-19 Research,194,2021-2025
+pharma,Computational Drug Discovery Methods,180,2021-2025
+pharma,Oral microbiology and periodontitis research,148,2021-2025
+providers,Nursing education and management,88,2021-2025
+providers,Global Health Workforce Issues,49,2021-2025
+providers,Disaster Response and Management,22,2021-2025
+providers,Healthcare Operations and Scheduling Optimization,22,2021-2025
+providers,Healthcare Systems and Practices,21,2021-2025
+providers,Innovations in Medical Education,19,2021-2025
+providers,Healthcare Education and Workforce Issues,18,2021-2025
+providers,COVID-19 and Mental Health,17,2021-2025
+providers,Healthcare professionals’ stress and burnout,17,2021-2025
+providers,Artificial Intelligence in Healthcare and Education,16,2021-2025
+investors,Telemedicine and Telehealth Implementation,760,2021-2025
+investors,Mobile Health and mHealth Applications,279,2021-2025
+investors,Electronic Health Records Systems,251,2021-2025
+investors,Blockchain Technology Applications and Security,224,2021-2025
+investors,Artificial Intelligence in Healthcare and Education,171,2021-2025
+investors,Artificial Intelligence in Healthcare,135,2021-2025
+investors,Machine Learning in Healthcare,103,2021-2025
+investors,Internet of Things and AI,91,2021-2025
+investors,Advanced Steganography and Watermarking Techniques,82,2021-2025
+investors,COVID-19 and healthcare impacts,63,2021-2025
+publichealth,Smoking Behavior and Cessation,396,2021-2025
+publichealth,"Obesity, Physical Activity, Diet",392,2021-2025
+publichealth,"Diabetes, Cardiovascular Risks, and Lipoproteins",246,2021-2025
+publichealth,Liver Disease Diagnosis and Treatment,153,2021-2025
+publichealth,Bariatric Surgery and Outcomes,139,2021-2025
+publichealth,Blood Pressure and Hypertension Studies,119,2021-2025
+publichealth,Physical Activity and Health,112,2021-2025
+publichealth,Eating Disorders and Behaviors,87,2021-2025
+publichealth,Ovarian function and disorders,86,2021-2025
+publichealth,Cardiovascular Health and Risk Factors,84,2021-2025

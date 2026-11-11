@@ -1,0 +1,301 @@
+code,period,area,papers
+ARE,early,"Public Health, Environmental and Occupational Health",718
+ARE,recent,"Public Health, Environmental and Occupational Health",1692
+ARE,early,Infectious Diseases,459
+ARE,recent,Infectious Diseases,1385
+ARE,early,Surgery,612
+ARE,recent,Surgery,1344
+ARE,early,Cardiology and Cardiovascular Medicine,673
+ARE,recent,Cardiology and Cardiovascular Medicine,1175
+ARE,early,"Endocrinology, Diabetes and Metabolism",540
+ARE,recent,"Endocrinology, Diabetes and Metabolism",995
+ARE,early,Oncology,272
+ARE,recent,Oncology,892
+ARE,early,Clinical Neurology,366
+ARE,recent,Clinical Neurology,890
+ARE,early,"Radiology, Nuclear Medicine and Imaging",206
+ARE,recent,"Radiology, Nuclear Medicine and Imaging",756
+ARE,early,Oral Surgery,201
+ARE,recent,Oral Surgery,702
+ARE,early,Pulmonary and Respiratory Medicine,227
+ARE,recent,Pulmonary and Respiratory Medicine,641
+SAU,early,"Public Health, Environmental and Occupational Health",2743
+SAU,recent,"Public Health, Environmental and Occupational Health",6206
+SAU,early,Surgery,2701
+SAU,recent,Surgery,5925
+SAU,early,Infectious Diseases,2206
+SAU,recent,Infectious Diseases,5088
+SAU,early,General Dentistry,2211
+SAU,recent,General Dentistry,4480
+SAU,early,Oncology,1847
+SAU,recent,Oncology,4122
+SAU,early,"Endocrinology, Diabetes and Metabolism",1902
+SAU,recent,"Endocrinology, Diabetes and Metabolism",4039
+SAU,early,Clinical Neurology,1460
+SAU,recent,Clinical Neurology,3613
+SAU,early,Cardiology and Cardiovascular Medicine,1800
+SAU,recent,Cardiology and Cardiovascular Medicine,3385
+SAU,early,Oral Surgery,1626
+SAU,recent,Oral Surgery,3254
+SAU,early,"Radiology, Nuclear Medicine and Imaging",914
+SAU,recent,"Radiology, Nuclear Medicine and Imaging",2597
+QAT,early,Surgery,785
+QAT,recent,Surgery,1323
+QAT,early,Infectious Diseases,498
+QAT,recent,Infectious Diseases,1161
+QAT,early,"Public Health, Environmental and Occupational Health",575
+QAT,recent,"Public Health, Environmental and Occupational Health",1082
+QAT,early,Cardiology and Cardiovascular Medicine,658
+QAT,recent,Cardiology and Cardiovascular Medicine,1024
+QAT,early,"Endocrinology, Diabetes and Metabolism",486
+QAT,recent,"Endocrinology, Diabetes and Metabolism",783
+QAT,early,Clinical Neurology,388
+QAT,recent,Clinical Neurology,760
+QAT,early,Oncology,414
+QAT,recent,Oncology,682
+QAT,early,Hematology,255
+QAT,recent,Hematology,557
+QAT,early,Orthopedics and Sports Medicine,701
+QAT,recent,Orthopedics and Sports Medicine,541
+QAT,early,Pulmonary and Respiratory Medicine,241
+QAT,recent,Pulmonary and Respiratory Medicine,462
+KWT,early,Surgery,253
+KWT,recent,Surgery,387
+KWT,early,Clinical Neurology,247
+KWT,recent,Clinical Neurology,360
+KWT,early,"Public Health, Environmental and Occupational Health",157
+KWT,recent,"Public Health, Environmental and Occupational Health",358
+KWT,early,Infectious Diseases,210
+KWT,recent,Infectious Diseases,349
+KWT,early,"Endocrinology, Diabetes and Metabolism",231
+KWT,recent,"Endocrinology, Diabetes and Metabolism",330
+KWT,early,Cardiology and Cardiovascular Medicine,182
+KWT,recent,Cardiology and Cardiovascular Medicine,307
+KWT,early,Oncology,121
+KWT,recent,Oncology,208
+KWT,early,Pulmonary and Respiratory Medicine,111
+KWT,recent,Pulmonary and Respiratory Medicine,185
+KWT,early,Hematology,75
+KWT,recent,Hematology,172
+KWT,early,Gastroenterology,46
+KWT,recent,Gastroenterology,152
+BHR,early,Surgery,90
+BHR,recent,Surgery,315
+BHR,early,"Public Health, Environmental and Occupational Health",122
+BHR,recent,"Public Health, Environmental and Occupational Health",258
+BHR,early,Infectious Diseases,56
+BHR,recent,Infectious Diseases,239
+BHR,early,Clinical Neurology,55
+BHR,recent,Clinical Neurology,206
+BHR,early,"Endocrinology, Diabetes and Metabolism",65
+BHR,recent,"Endocrinology, Diabetes and Metabolism",184
+BHR,early,Oncology,50
+BHR,recent,Oncology,135
+BHR,early,Cardiology and Cardiovascular Medicine,42
+BHR,recent,Cardiology and Cardiovascular Medicine,117
+BHR,early,Pulmonary and Respiratory Medicine,32
+BHR,recent,Pulmonary and Respiratory Medicine,102
+BHR,early,Reproductive Medicine,31
+BHR,recent,Reproductive Medicine,96
+BHR,early,Gastroenterology,30
+BHR,recent,Gastroenterology,87
+OMN,early,"Public Health, Environmental and Occupational Health",274
+OMN,recent,"Public Health, Environmental and Occupational Health",475
+OMN,early,Infectious Diseases,239
+OMN,recent,Infectious Diseases,435
+OMN,early,Cardiology and Cardiovascular Medicine,256
+OMN,recent,Cardiology and Cardiovascular Medicine,349
+OMN,early,Oncology,115
+OMN,recent,Oncology,335
+OMN,early,Surgery,167
+OMN,recent,Surgery,329
+OMN,early,"Endocrinology, Diabetes and Metabolism",103
+OMN,recent,"Endocrinology, Diabetes and Metabolism",276
+OMN,early,Clinical Neurology,134
+OMN,recent,Clinical Neurology,273
+OMN,early,Hematology,111
+OMN,recent,Hematology,184
+OMN,early,"Radiology, Nuclear Medicine and Imaging",28
+OMN,recent,"Radiology, Nuclear Medicine and Imaging",170
+OMN,early,Pulmonary and Respiratory Medicine,58
+OMN,recent,Pulmonary and Respiratory Medicine,153
+JOR,early,"Public Health, Environmental and Occupational Health",623
+JOR,recent,"Public Health, Environmental and Occupational Health",1435
+JOR,early,Surgery,392
+JOR,recent,Surgery,1306
+JOR,early,Oncology,353
+JOR,recent,Oncology,1230
+JOR,early,Cardiology and Cardiovascular Medicine,274
+JOR,recent,Cardiology and Cardiovascular Medicine,851
+JOR,early,Infectious Diseases,250
+JOR,recent,Infectious Diseases,838
+JOR,early,Clinical Neurology,185
+JOR,recent,Clinical Neurology,671
+JOR,early,"Endocrinology, Diabetes and Metabolism",319
+JOR,recent,"Endocrinology, Diabetes and Metabolism",612
+JOR,early,"Radiology, Nuclear Medicine and Imaging",132
+JOR,recent,"Radiology, Nuclear Medicine and Imaging",523
+JOR,early,Pulmonary and Respiratory Medicine,152
+JOR,recent,Pulmonary and Respiratory Medicine,521
+JOR,early,Hematology,133
+JOR,recent,Hematology,444
+LBN,early,"Public Health, Environmental and Occupational Health",680
+LBN,recent,"Public Health, Environmental and Occupational Health",1103
+LBN,early,Surgery,758
+LBN,recent,Surgery,1057
+LBN,early,Oncology,594
+LBN,recent,Oncology,778
+LBN,early,Infectious Diseases,342
+LBN,recent,Infectious Diseases,746
+LBN,early,Cardiology and Cardiovascular Medicine,505
+LBN,recent,Cardiology and Cardiovascular Medicine,728
+LBN,early,Clinical Neurology,366
+LBN,recent,Clinical Neurology,619
+LBN,early,Hematology,305
+LBN,recent,Hematology,537
+LBN,early,Psychiatry and Mental health,168
+LBN,recent,Psychiatry and Mental health,331
+LBN,early,Ophthalmology,206
+LBN,recent,Ophthalmology,321
+LBN,early,"Endocrinology, Diabetes and Metabolism",250
+LBN,recent,"Endocrinology, Diabetes and Metabolism",310
+IRQ,early,Infectious Diseases,869
+IRQ,recent,Infectious Diseases,3565
+IRQ,early,"Endocrinology, Diabetes and Metabolism",705
+IRQ,recent,"Endocrinology, Diabetes and Metabolism",2431
+IRQ,early,Orthopedics and Sports Medicine,532
+IRQ,recent,Orthopedics and Sports Medicine,2135
+IRQ,early,Oncology,564
+IRQ,recent,Oncology,1969
+IRQ,early,"Public Health, Environmental and Occupational Health",599
+IRQ,recent,"Public Health, Environmental and Occupational Health",1915
+IRQ,early,Surgery,674
+IRQ,recent,Surgery,1793
+IRQ,early,Reproductive Medicine,529
+IRQ,recent,Reproductive Medicine,1549
+IRQ,early,General Dentistry,385
+IRQ,recent,General Dentistry,1486
+IRQ,early,"Physical Therapy, Sports Therapy and Rehabilitation",297
+IRQ,recent,"Physical Therapy, Sports Therapy and Rehabilitation",1470
+IRQ,early,Cardiology and Cardiovascular Medicine,497
+IRQ,recent,Cardiology and Cardiovascular Medicine,1456
+EGY,early,Surgery,6257
+EGY,recent,Surgery,9871
+EGY,early,Cardiology and Cardiovascular Medicine,3090
+EGY,recent,Cardiology and Cardiovascular Medicine,5562
+EGY,early,Infectious Diseases,2201
+EGY,recent,Infectious Diseases,4931
+EGY,early,Oncology,2954
+EGY,recent,Oncology,4819
+EGY,early,Clinical Neurology,2094
+EGY,recent,Clinical Neurology,4545
+EGY,early,"Public Health, Environmental and Occupational Health",2272
+EGY,recent,"Public Health, Environmental and Occupational Health",4483
+EGY,early,Orthopedics and Sports Medicine,2072
+EGY,recent,Orthopedics and Sports Medicine,4425
+EGY,early,"Endocrinology, Diabetes and Metabolism",2458
+EGY,recent,"Endocrinology, Diabetes and Metabolism",3836
+EGY,early,General Dentistry,1845
+EGY,recent,General Dentistry,3800
+EGY,early,Oral Surgery,1875
+EGY,recent,Oral Surgery,3607
+MAR,early,Surgery,1159
+MAR,recent,Surgery,2828
+MAR,early,Oncology,754
+MAR,recent,Oncology,1772
+MAR,early,Infectious Diseases,809
+MAR,recent,Infectious Diseases,1513
+MAR,early,Clinical Neurology,594
+MAR,recent,Clinical Neurology,1377
+MAR,early,Cardiology and Cardiovascular Medicine,441
+MAR,recent,Cardiology and Cardiovascular Medicine,1196
+MAR,early,"Public Health, Environmental and Occupational Health",585
+MAR,recent,"Public Health, Environmental and Occupational Health",1153
+MAR,early,"Endocrinology, Diabetes and Metabolism",598
+MAR,recent,"Endocrinology, Diabetes and Metabolism",943
+MAR,early,Rheumatology,333
+MAR,recent,Rheumatology,943
+MAR,early,Pulmonary and Respiratory Medicine,515
+MAR,recent,Pulmonary and Respiratory Medicine,933
+MAR,early,Ophthalmology,518
+MAR,recent,Ophthalmology,921
+TUN,early,Surgery,897
+TUN,recent,Surgery,1381
+TUN,early,Rheumatology,882
+TUN,recent,Rheumatology,1378
+TUN,early,Infectious Diseases,772
+TUN,recent,Infectious Diseases,1378
+TUN,early,"Public Health, Environmental and Occupational Health",695
+TUN,recent,"Public Health, Environmental and Occupational Health",1197
+TUN,early,Pulmonary and Respiratory Medicine,817
+TUN,recent,Pulmonary and Respiratory Medicine,1182
+TUN,early,Clinical Neurology,644
+TUN,recent,Clinical Neurology,1125
+TUN,early,Oncology,619
+TUN,recent,Oncology,1036
+TUN,early,"Endocrinology, Diabetes and Metabolism",858
+TUN,recent,"Endocrinology, Diabetes and Metabolism",857
+TUN,early,Cardiology and Cardiovascular Medicine,635
+TUN,recent,Cardiology and Cardiovascular Medicine,854
+TUN,early,Dermatology,514
+TUN,recent,Dermatology,735
+DZA,early,"Public Health, Environmental and Occupational Health",730
+DZA,recent,"Public Health, Environmental and Occupational Health",656
+DZA,early,Cardiology and Cardiovascular Medicine,234
+DZA,recent,Cardiology and Cardiovascular Medicine,435
+DZA,early,"Endocrinology, Diabetes and Metabolism",365
+DZA,recent,"Endocrinology, Diabetes and Metabolism",426
+DZA,early,Infectious Diseases,247
+DZA,recent,Infectious Diseases,407
+DZA,early,Oncology,241
+DZA,recent,Oncology,368
+DZA,early,Orthopedics and Sports Medicine,399
+DZA,recent,Orthopedics and Sports Medicine,356
+DZA,early,Surgery,234
+DZA,recent,Surgery,351
+DZA,early,Biochemistry (medical),280
+DZA,recent,Biochemistry (medical),314
+DZA,early,Pulmonary and Respiratory Medicine,189
+DZA,recent,Pulmonary and Respiratory Medicine,267
+DZA,early,Clinical Neurology,156
+DZA,recent,Clinical Neurology,266
+LBY,early,Infectious Diseases,100
+LBY,recent,Infectious Diseases,398
+LBY,early,"Public Health, Environmental and Occupational Health",105
+LBY,recent,"Public Health, Environmental and Occupational Health",351
+LBY,early,General Dentistry,80
+LBY,recent,General Dentistry,320
+LBY,early,"Endocrinology, Diabetes and Metabolism",79
+LBY,recent,"Endocrinology, Diabetes and Metabolism",296
+LBY,early,Oncology,76
+LBY,recent,Oncology,264
+LBY,early,Surgery,78
+LBY,recent,Surgery,254
+LBY,early,Oral Surgery,47
+LBY,recent,Oral Surgery,200
+LBY,early,Cardiology and Cardiovascular Medicine,51
+LBY,recent,Cardiology and Cardiovascular Medicine,189
+LBY,early,Hematology,31
+LBY,recent,Hematology,173
+LBY,early,Ophthalmology,31
+LBY,recent,Ophthalmology,113
+MENA,early,Surgery,14317
+MENA,recent,Surgery,26274
+MENA,early,Infectious Diseases,8562
+MENA,recent,Infectious Diseases,19974
+MENA,early,"Public Health, Environmental and Occupational Health",9903
+MENA,recent,"Public Health, Environmental and Occupational Health",19597
+MENA,early,Oncology,8160
+MENA,recent,Oncology,16245
+MENA,early,Cardiology and Cardiovascular Medicine,8483
+MENA,recent,Cardiology and Cardiovascular Medicine,15710
+MENA,early,"Endocrinology, Diabetes and Metabolism",8187
+MENA,recent,"Endocrinology, Diabetes and Metabolism",14398
+MENA,early,Clinical Neurology,6488
+MENA,recent,Clinical Neurology,13944
+MENA,early,General Dentistry,5128
+MENA,recent,General Dentistry,11071
+MENA,early,Orthopedics and Sports Medicine,5142
+MENA,recent,Orthopedics and Sports Medicine,10458
+MENA,early,Pulmonary and Respiratory Medicine,5437
+MENA,recent,Pulmonary and Respiratory Medicine,9307
