@@ -244,3 +244,7 @@ body{margin:0;background:var(--color-bg);color:var(--color-fg);font-family:var(-
 .hd .fb-b i{display:block;height:100%;border-radius:4px}
 .hd .fb-v{font-size:11px;color:var(--color-fg-muted);font-variant-numeric:tabular-nums;white-space:nowrap}
 .hd .fb-v b{color:var(--color-fg)}
+
+.hd .hero .brandrow{display:flex;align-items:center;gap:14px;margin:0 0 var(--cds-gap-sm)}
+.hd .hero .brandrow h1{margin:0}
+.hd .brandmark{flex:none;display:block}
