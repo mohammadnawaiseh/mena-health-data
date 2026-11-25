@@ -13,6 +13,8 @@
     restrend: ['data/restrend.csv', 'Research output per year', 'OpenAlex papers per year 2016–2025 on each stakeholder topic, by author-institution country. Searched 11 Nov 2026.'],
     resfocus: ['data/resfocus.csv', 'Research topics by stakeholder group', 'The ten most common OpenAlex topics among 2021–2025 MENA papers matching each stakeholder topic search.'],
     rescountry: ['data/rescountry.csv', 'Health research areas by country', 'OpenAlex health-sciences papers by research area and country, 2016–2020 and 2021–2025.'],
+    causes: ['data/causes.csv', 'Causes of death and DALYs, 2023', 'Deaths and disability-adjusted life years by cause (three levels: group, category, specific cause) for each country, both sexes, all ages. WHO Global Health Estimates 2023 (CC BY-NC-SA 3.0 IGO), retrieved 25 Nov 2026.'],
+    cause_trend: ['data/cause_trend.csv', 'Cause-of-death trends 2000–2023', 'Yearly deaths and crude death rates per 100,000 for cause groups and categories, per country. WHO Global Health Estimates 2023.'],
     geo: ['data/mena_geo.json', 'Country boundaries', 'Natural Earth boundaries via the world-atlas package. They do not imply any position on disputed borders.']
   };
   const COUNTRIES = {ARE: 'United Arab Emirates', SAU: 'Saudi Arabia', QAT: 'Qatar', KWT: 'Kuwait', BHR: 'Bahrain', OMN: 'Oman', JOR: 'Jordan', LBN: 'Lebanon', IRQ: 'Iraq', EGY: 'Egypt', MAR: 'Morocco', TUN: 'Tunisia', DZA: 'Algeria', LBY: 'Libya'};

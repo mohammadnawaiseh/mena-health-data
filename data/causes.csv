@@ -1,0 +1,2772 @@
+code,cause,parent,level,title,deaths,dalys,population
+ARE,0,,0,All Causes,11741.4,1648106,10642095
+ARE,10,0,1,"Communicable, maternal, perinatal and nutritional conditions",1573.1,154265,10642095
+ARE,20,10,2,Infectious and parasitic diseases,731.7,34078,10642095
+ARE,30,20,3,Tuberculosis,54.6,3979,10642095
+ARE,40,20,3,STDs excluding HIV,0.0,1396,10642095
+ARE,100,20,3,HIV/AIDS,8.8,793,10642095
+ARE,110,20,3,Diarrhoeal diseases,19.9,3977,10642095
+ARE,120,20,3,Childhood-cluster diseases,0.0,124,10642095
+ARE,170,20,3,Meningitis,19.4,1415,10642095
+ARE,180,20,3,Encephalitis,0.0,170,10642095
+ARE,185,20,3,Hepatitis,16.9,1219,10642095
+ARE,210,20,3,Parasitic and vector diseases,0.0,0,10642095
+ARE,330,20,3,Intestinal nematode infections,0.0,3,10642095
+ARE,365,20,3,Leprosy,0.0,8,10642095
+ARE,370,20,3,Other infectious diseases,612.1,20996,10642095
+ARE,380,10,2,Respiratory infections,614.0,41246,10642095
+ARE,390,380,3,Lower respiratory infections,563.3,16160,10642095
+ARE,395,380,3,COVID-19,50.7,17794,10642095
+ARE,400,380,3,Upper respiratory infections,0.0,5241,10642095
+ARE,410,380,3,Otitis media,0.0,2050,10642095
+ARE,420,10,2,Maternal conditions,2.8,1460,10642095
+ARE,490,10,2,Neonatal conditions,201.4,48057,10642095
+ARE,500,490,3,Preterm birth complications,148.6,32489,10642095
+ARE,510,490,3,Birth asphyxia and birth trauma,31.8,6932,10642095
+ARE,520,490,3,Neonatal sepsis and infections,2.0,4285,10642095
+ARE,530,490,3,Other neonatal conditions,19.0,4350,10642095
+ARE,540,10,2,Nutritional deficiencies,23.2,29424,10642095
+ARE,550,540,3,Protein-energy malnutrition,0.0,5008,10642095
+ARE,560,540,3,Iodine deficiency,0.0,1147,10642095
+ARE,570,540,3,Vitamin A deficiency,0.0,17,10642095
+ARE,580,540,3,Iron-deficiency anaemia,11.6,21169,10642095
+ARE,590,540,3,Other nutritional deficiencies,11.6,2083,10642095
+ARE,600,0,1,Noncommunicable diseases,8755.8,1305485,10642095
+ARE,610,600,2,Malignant neoplasms,1595.6,53855,10642095
+ARE,620,610,3,Mouth and oropharynx cancers,55.2,1892,10642095
+ARE,630,610,3,Oesophagus cancer,25.8,783,10642095
+ARE,640,610,3,Stomach cancer,95.3,3209,10642095
+ARE,650,610,3,Colon and rectum cancers,200.4,6555,10642095
+ARE,660,610,3,Liver cancer,107.7,2891,10642095
+ARE,670,610,3,Pancreas cancer,123.7,3502,10642095
+ARE,680,610,3,"Trachea, bronchus, lung cancers",158.8,4487,10642095
+ARE,690,610,3,Melanoma and other skin cancers,10.5,317,10642095
+ARE,700,610,3,Breast cancer,171.6,6384,10642095
+ARE,710,610,3,Cervix uteri cancer,27.3,1113,10642095
+ARE,720,610,3,Corpus uteri cancer,38.0,1055,10642095
+ARE,730,610,3,Ovary cancer,38.7,1335,10642095
+ARE,740,610,3,Prostate cancer,69.2,1476,10642095
+ARE,742,610,3,Testicular cancer,4.6,338,10642095
+ARE,745,610,3,Kidney cancer,24.2,823,10642095
+ARE,750,610,3,Bladder cancer,49.5,1188,10642095
+ARE,751,610,3,Brain and nervous system cancers,92.2,4362,10642095
+ARE,752,610,3,Gallbladder and biliary tract cancer,23.4,693,10642095
+ARE,753,610,3,Larynx cancer,8.9,188,10642095
+ARE,754,610,3,Thyroid cancer,17.9,472,10642095
+ARE,755,610,3,Mesothelioma,1.3,38,10642095
+ARE,760,610,3,"Lymphomas, multiple myeloma",82.7,3160,10642095
+ARE,770,610,3,Leukaemia,98.0,4690,10642095
+ARE,780,610,3,Other malignant neoplasms,70.6,2904,10642095
+ARE,790,600,2,Other neoplasms,129.7,4189,10642095
+ARE,800,600,2,Diabetes mellitus,152.6,111007,10642095
+ARE,810,600,2,"Endocrine, blood, immune disorders",4.9,12280,10642095
+ARE,811,810,3,Thalassaemias,0.2,2798,10642095
+ARE,812,810,3,Sickle cell disorders and trait,0.0,812,10642095
+ARE,813,810,3,Other haemoglobinopathies and haemolytic anaemias,0.0,2011,10642095
+ARE,814,810,3,"Other endocrine, blood and immune disorders",4.7,6659,10642095
+ARE,820,600,2,Mental and substance use disorders,212.7,290427,10642095
+ARE,830,820,3,Depressive disorders,0.0,89853,10642095
+ARE,840,820,3,Bipolar disorder,0.0,18513,10642095
+ARE,850,820,3,Schizophrenia,0.0,31800,10642095
+ARE,860,820,3,Alcohol use disorders,68.9,9563,10642095
+ARE,870,820,3,Drug use disorders,143.8,34950,10642095
+ARE,880,820,3,Anxiety disorders,0.0,56351,10642095
+ARE,890,820,3,Eating disorders,0.0,11556,10642095
+ARE,900,820,3,Autism and Asperger syndrome,0.0,13394,10642095
+ARE,910,820,3,Childhood behavioural disorders,0.0,5434,10642095
+ARE,920,820,3,Idiopathic intellectual disability,0.0,3601,10642095
+ARE,930,820,3,Other mental and behavioural disorders,0.0,15412,10642095
+ARE,940,600,2,Neurological conditions,310.8,100000,10642095
+ARE,950,940,3,Alzheimer disease and other dementias,17.8,3136,10642095
+ARE,960,940,3,Parkinson disease,14.1,900,10642095
+ARE,970,940,3,Epilepsy,34.4,10736,10642095
+ARE,980,940,3,Multiple sclerosis,3.4,1045,10642095
+ARE,990,940,3,Migraine,0.0,61200,10642095
+ARE,1000,940,3,Non-migraine headache,0.0,7713,10642095
+ARE,1010,940,3,Other neurological conditions,241.0,15271,10642095
+ARE,1020,600,2,Sense organ diseases,3.1,48801,10642095
+ARE,1030,1020,3,Glaucoma,0.0,243,10642095
+ARE,1040,1020,3,Cataracts,0.0,1633,10642095
+ARE,1050,1020,3,Uncorrected refractive errors,0.0,3655,10642095
+ARE,1060,1020,3,Macular degeneration,0.0,150,10642095
+ARE,1070,1020,3,Other vision loss,0.0,1703,10642095
+ARE,1080,1020,3,Other hearing loss,0.0,39104,10642095
+ARE,1090,1020,3,Other sense organ disorders,3.1,2315,10642095
+ARE,1100,600,2,Cardiovascular diseases,4160.8,190504,10642095
+ARE,1110,1100,3,Rheumatic heart disease,20.3,900,10642095
+ARE,1120,1100,3,Hypertensive heart disease,141.0,5128,10642095
+ARE,1130,1100,3,Ischaemic heart disease,2022.9,83974,10642095
+ARE,1140,1100,3,Stroke,665.0,39422,10642095
+ARE,1150,1100,3,"Cardiomyopathy, myocarditis, endocarditis",161.6,8175,10642095
+ARE,1160,1100,3,Other circulatory diseases,1150.0,52904,10642095
+ARE,1170,600,2,Respiratory diseases,365.3,53264,10642095
+ARE,1180,1170,3,Chronic obstructive pulmonary disease,120.0,10654,10642095
+ARE,1190,1170,3,Asthma,30.8,33352,10642095
+ARE,1200,1170,3,Other respiratory diseases,214.5,9258,10642095
+ARE,1210,600,2,Digestive diseases,505.6,39761,10642095
+ARE,1220,1210,3,Peptic ulcer disease,21.9,1131,10642095
+ARE,1230,1210,3,Cirrhosis of the liver,86.8,3749,10642095
+ARE,1240,1210,3,Appendicitis,3.8,547,10642095
+ARE,1241,1210,3,Gastritis and duodenitis,8.3,1156,10642095
+ARE,1242,1210,3,Paralytic ileus and intestinal obstruction,15.5,597,10642095
+ARE,1244,1210,3,Inflammatory bowel disease,11.2,1179,10642095
+ARE,1246,1210,3,Gallbladder and biliary diseases,17.9,6229,10642095
+ARE,1248,1210,3,Pancreatitis,23.6,1426,10642095
+ARE,1250,1210,3,Other digestive diseases,316.7,23747,10642095
+ARE,1260,600,2,Genitourinary diseases,1008.8,86086,10642095
+ARE,1270,1260,3,Kidney diseases,929.5,29216,10642095
+ARE,1280,1260,3,Benign prostatic hyperplasia,0.0,1038,10642095
+ARE,1290,1260,3,Urolithiasis,0.0,351,10642095
+ARE,1300,1260,3,Other urinary diseases,79.3,2304,10642095
+ARE,1310,1260,3,Infertility,0.0,1384,10642095
+ARE,1320,1260,3,Gynecological diseases,0.0,51793,10642095
+ARE,1330,600,2,Skin diseases,28.8,49987,10642095
+ARE,1331,1330,3,Dermatitis,0.0,0,10642095
+ARE,1332,1330,3,Psoriasis,0.0,0,10642095
+ARE,1333,1330,3,Fungal skin diseases,0.0,0,10642095
+ARE,1334,1330,3,Viral skin diseases,0.0,0,10642095
+ARE,1335,1330,3,Acne vulgaris,0.0,0,10642095
+ARE,1336,1330,3,Alopecia areata,0.0,0,10642095
+ARE,1337,1330,3,Other specified skin diseases,25.4,686,10642095
+ARE,1339,1330,3,Other skin and subcutaneous diseases,3.4,101,10642095
+ARE,1340,600,2,Musculoskeletal diseases,48.0,201583,10642095
+ARE,1350,1340,3,Rheumatoid arthritis,5.9,2023,10642095
+ARE,1360,1340,3,Osteoarthritis,0.0,14532,10642095
+ARE,1370,1340,3,Gout,0.0,1697,10642095
+ARE,1380,1340,3,Back and neck pain,0.0,127218,10642095
+ARE,1390,1340,3,Other musculoskeletal disorders,42.1,56113,10642095
+ARE,1400,600,2,Congenital anomalies,225.9,29451,10642095
+ARE,1410,1400,3,Neural tube defects,3.4,684,10642095
+ARE,1420,1400,3,Cleft lip and cleft palate,0.0,407,10642095
+ARE,1430,1400,3,Down syndrome,13.1,1425,10642095
+ARE,1440,1400,3,Congenital heart anomalies,91.3,9202,10642095
+ARE,1450,1400,3,Other chromosomal anomalies,24.0,2889,10642095
+ARE,1460,1400,3,Other congenital anomalies,94.1,14845,10642095
+ARE,1470,600,2,Oral conditions,1.5,34125,10642095
+ARE,1480,1470,3,Dental caries,0.0,4106,10642095
+ARE,1490,1470,3,Periodontal disease,0.0,11280,10642095
+ARE,1500,1470,3,Edentulism,0.0,12481,10642095
+ARE,1502,1470,3,Other oral disorders,1.5,6258,10642095
+ARE,1505,600,2,Sudden infant death syndrome,1.8,164,10642095
+ARE,1510,0,1,Injuries,1412.5,188356,10642095
+ARE,1520,1510,2,Unintentional injuries,1025.3,159867,10642095
+ARE,1530,1520,3,Road injury,538.2,53966,10642095
+ARE,1540,1520,3,Poisonings,36.0,2177,10642095
+ARE,1550,1520,3,Falls,128.9,48827,10642095
+ARE,1560,1520,3,"Fire, heat and hot substances",25.1,3675,10642095
+ARE,1570,1520,3,Drowning,116.6,7222,10642095
+ARE,1575,1520,3,Exposure to mechanical forces,53.8,13855,10642095
+ARE,1580,1520,3,Natural disasters,0.0,0,10642095
+ARE,1590,1520,3,Other unintentional injuries,126.9,30145,10642095
+ARE,1600,1510,2,Intentional injuries,387.2,28489,10642095
+ARE,1610,1600,3,Self-harm,309.2,18298,10642095
+ARE,1620,1600,3,Interpersonal violence,77.2,9739,10642095
+ARE,1630,1600,3,Collective violence and legal intervention,0.8,451,10642095
+SAU,0,,0,All Causes,76058.6,6507220,33264304
+SAU,10,0,1,"Communicable, maternal, perinatal and nutritional conditions",8597.1,656615,33264304
+SAU,20,10,2,Infectious and parasitic diseases,1567.0,123268,33264304
+SAU,30,20,3,Tuberculosis,180.7,14089,33264304
+SAU,40,20,3,STDs excluding HIV,2.0,4773,33264304
+SAU,100,20,3,HIV/AIDS,127.5,7964,33264304
+SAU,110,20,3,Diarrhoeal diseases,201.0,36800,33264304
+SAU,120,20,3,Childhood-cluster diseases,17.9,1435,33264304
+SAU,170,20,3,Meningitis,128.8,7532,33264304
+SAU,180,20,3,Encephalitis,0.0,542,33264304
+SAU,185,20,3,Hepatitis,84.2,4794,33264304
+SAU,210,20,3,Parasitic and vector diseases,9.0,15428,33264304
+SAU,330,20,3,Intestinal nematode infections,0.0,100,33264304
+SAU,365,20,3,Leprosy,0.4,38,33264304
+SAU,370,20,3,Other infectious diseases,815.5,40625,33264304
+SAU,380,10,2,Respiratory infections,5562.3,226348,33264304
+SAU,390,380,3,Lower respiratory infections,5475.8,149289,33264304
+SAU,395,380,3,COVID-19,77.0,52170,33264304
+SAU,400,380,3,Upper respiratory infections,6.6,17230,33264304
+SAU,410,380,3,Otitis media,3.0,7658,33264304
+SAU,420,10,2,Maternal conditions,50.0,6292,33264304
+SAU,490,10,2,Neonatal conditions,1281.7,198342,33264304
+SAU,500,490,3,Preterm birth complications,943.5,125646,33264304
+SAU,510,490,3,Birth asphyxia and birth trauma,213.5,39540,33264304
+SAU,520,490,3,Neonatal sepsis and infections,15.8,13279,33264304
+SAU,530,490,3,Other neonatal conditions,108.8,19877,33264304
+SAU,540,10,2,Nutritional deficiencies,136.1,91513,33264304
+SAU,550,540,3,Protein-energy malnutrition,10.8,7822,33264304
+SAU,560,540,3,Iodine deficiency,1.1,1225,33264304
+SAU,570,540,3,Vitamin A deficiency,0.0,46,33264304
+SAU,580,540,3,Iron-deficiency anaemia,104.4,79814,33264304
+SAU,590,540,3,Other nutritional deficiencies,19.8,2606,33264304
+SAU,600,0,1,Noncommunicable diseases,58759.7,5042708,33264304
+SAU,610,600,2,Malignant neoplasms,11119.5,352131,33264304
+SAU,620,610,3,Mouth and oropharynx cancers,269.7,9159,33264304
+SAU,630,610,3,Oesophagus cancer,140.5,4080,33264304
+SAU,640,610,3,Stomach cancer,404.7,12554,33264304
+SAU,650,610,3,Colon and rectum cancers,1691.2,51558,33264304
+SAU,660,610,3,Liver cancer,1176.1,29213,33264304
+SAU,670,610,3,Pancreas cancer,780.4,21677,33264304
+SAU,680,610,3,"Trachea, bronchus, lung cancers",849.6,24579,33264304
+SAU,690,610,3,Melanoma and other skin cancers,52.7,1532,33264304
+SAU,700,610,3,Breast cancer,1188.9,44602,33264304
+SAU,710,610,3,Cervix uteri cancer,156.8,5469,33264304
+SAU,720,610,3,Corpus uteri cancer,317.1,8701,33264304
+SAU,730,610,3,Ovary cancer,276.0,8871,33264304
+SAU,740,610,3,Prostate cancer,298.3,7056,33264304
+SAU,742,610,3,Testicular cancer,31.6,1945,33264304
+SAU,745,610,3,Kidney cancer,230.9,7016,33264304
+SAU,750,610,3,Bladder cancer,264.4,6938,33264304
+SAU,751,610,3,Brain and nervous system cancers,523.2,21105,33264304
+SAU,752,610,3,Gallbladder and biliary tract cancer,305.8,8060,33264304
+SAU,753,610,3,Larynx cancer,68.2,1874,33264304
+SAU,754,610,3,Thyroid cancer,138.7,4104,33264304
+SAU,755,610,3,Mesothelioma,16.8,556,33264304
+SAU,760,610,3,"Lymphomas, multiple myeloma",767.0,25457,33264304
+SAU,770,610,3,Leukaemia,565.7,22699,33264304
+SAU,780,610,3,Other malignant neoplasms,605.2,23326,33264304
+SAU,790,600,2,Other neoplasms,374.0,12211,33264304
+SAU,800,600,2,Diabetes mellitus,6593.0,615576,33264304
+SAU,810,600,2,"Endocrine, blood, immune disorders",62.5,60456,33264304
+SAU,811,810,3,Thalassaemias,3.1,9650,33264304
+SAU,812,810,3,Sickle cell disorders and trait,0.8,14520,33264304
+SAU,813,810,3,Other haemoglobinopathies and haemolytic anaemias,0.3,8030,33264304
+SAU,814,810,3,"Other endocrine, blood and immune disorders",58.4,28256,33264304
+SAU,820,600,2,Mental and substance use disorders,152.9,917588,33264304
+SAU,830,820,3,Depressive disorders,0.0,264978,33264304
+SAU,840,820,3,Bipolar disorder,1.0,55386,33264304
+SAU,850,820,3,Schizophrenia,19.3,83377,33264304
+SAU,860,820,3,Alcohol use disorders,29.9,15347,33264304
+SAU,870,820,3,Drug use disorders,102.7,42644,33264304
+SAU,880,820,3,Anxiety disorders,0.0,279127,33264304
+SAU,890,820,3,Eating disorders,0.0,31770,33264304
+SAU,900,820,3,Autism and Asperger syndrome,0.0,49396,33264304
+SAU,910,820,3,Childhood behavioural disorders,0.0,42763,33264304
+SAU,920,820,3,Idiopathic intellectual disability,0.0,10414,33264304
+SAU,930,820,3,Other mental and behavioural disorders,0.0,42384,33264304
+SAU,940,600,2,Neurological conditions,2139.7,377875,33264304
+SAU,950,940,3,Alzheimer disease and other dementias,441.3,21766,33264304
+SAU,960,940,3,Parkinson disease,63.7,5678,33264304
+SAU,970,940,3,Epilepsy,564.0,73126,33264304
+SAU,980,940,3,Multiple sclerosis,24.1,4591,33264304
+SAU,990,940,3,Migraine,0.0,178117,33264304
+SAU,1000,940,3,Non-migraine headache,0.0,21881,33264304
+SAU,1010,940,3,Other neurological conditions,1046.6,72718,33264304
+SAU,1020,600,2,Sense organ diseases,2.9,170480,33264304
+SAU,1030,1020,3,Glaucoma,0.0,2894,33264304
+SAU,1040,1020,3,Cataracts,0.0,10345,33264304
+SAU,1050,1020,3,Uncorrected refractive errors,0.0,17994,33264304
+SAU,1060,1020,3,Macular degeneration,0.0,1419,33264304
+SAU,1070,1020,3,Other vision loss,0.0,5933,33264304
+SAU,1080,1020,3,Other hearing loss,0.0,124754,33264304
+SAU,1090,1020,3,Other sense organ disorders,2.9,7142,33264304
+SAU,1100,600,2,Cardiovascular diseases,29557.0,981654,33264304
+SAU,1110,1100,3,Rheumatic heart disease,232.5,8630,33264304
+SAU,1120,1100,3,Hypertensive heart disease,7051.4,196199,33264304
+SAU,1130,1100,3,Ischaemic heart disease,14268.9,478267,33264304
+SAU,1140,1100,3,Stroke,4234.7,151495,33264304
+SAU,1150,1100,3,"Cardiomyopathy, myocarditis, endocarditis",881.7,33057,33264304
+SAU,1160,1100,3,Other circulatory diseases,2887.9,114007,33264304
+SAU,1170,600,2,Respiratory diseases,2195.1,185702,33264304
+SAU,1180,1170,3,Chronic obstructive pulmonary disease,440.6,31430,33264304
+SAU,1190,1170,3,Asthma,321.0,106443,33264304
+SAU,1200,1170,3,Other respiratory diseases,1433.4,47829,33264304
+SAU,1210,600,2,Digestive diseases,2143.0,134183,33264304
+SAU,1220,1210,3,Peptic ulcer disease,130.7,5047,33264304
+SAU,1230,1210,3,Cirrhosis of the liver,574.7,19984,33264304
+SAU,1240,1210,3,Appendicitis,9.3,1496,33264304
+SAU,1241,1210,3,Gastritis and duodenitis,29.8,3667,33264304
+SAU,1242,1210,3,Paralytic ileus and intestinal obstruction,129.2,4675,33264304
+SAU,1244,1210,3,Inflammatory bowel disease,64.3,4595,33264304
+SAU,1246,1210,3,Gallbladder and biliary diseases,201.6,25201,33264304
+SAU,1248,1210,3,Pancreatitis,88.8,4130,33264304
+SAU,1250,1210,3,Other digestive diseases,914.5,65388,33264304
+SAU,1260,600,2,Genitourinary diseases,2388.9,242380,33264304
+SAU,1270,1260,3,Kidney diseases,1817.3,70676,33264304
+SAU,1280,1260,3,Benign prostatic hyperplasia,11.5,4084,33264304
+SAU,1290,1260,3,Urolithiasis,0.0,973,33264304
+SAU,1300,1260,3,Other urinary diseases,560.0,13740,33264304
+SAU,1310,1260,3,Infertility,0.0,3638,33264304
+SAU,1320,1260,3,Gynecological diseases,0.0,149269,33264304
+SAU,1330,600,2,Skin diseases,301.0,182512,33264304
+SAU,1331,1330,3,Dermatitis,0.0,0,33264304
+SAU,1332,1330,3,Psoriasis,0.0,0,33264304
+SAU,1333,1330,3,Fungal skin diseases,0.0,0,33264304
+SAU,1334,1330,3,Viral skin diseases,0.0,0,33264304
+SAU,1335,1330,3,Acne vulgaris,0.0,0,33264304
+SAU,1336,1330,3,Alopecia areata,0.0,0,33264304
+SAU,1337,1330,3,Other specified skin diseases,293.3,7585,33264304
+SAU,1339,1330,3,Other skin and subcutaneous diseases,7.7,337,33264304
+SAU,1340,600,2,Musculoskeletal diseases,367.5,581601,33264304
+SAU,1350,1340,3,Rheumatoid arthritis,18.1,4818,33264304
+SAU,1360,1340,3,Osteoarthritis,10.6,48971,33264304
+SAU,1370,1340,3,Gout,1.5,5066,33264304
+SAU,1380,1340,3,Back and neck pain,12.9,388021,33264304
+SAU,1390,1340,3,Other musculoskeletal disorders,324.4,134726,33264304
+SAU,1400,600,2,Congenital anomalies,1294.4,142750,33264304
+SAU,1410,1400,3,Neural tube defects,24.0,3736,33264304
+SAU,1420,1400,3,Cleft lip and cleft palate,1.6,2228,33264304
+SAU,1430,1400,3,Down syndrome,72.1,6406,33264304
+SAU,1440,1400,3,Congenital heart anomalies,493.1,48012,33264304
+SAU,1450,1400,3,Other chromosomal anomalies,30.4,4683,33264304
+SAU,1460,1400,3,Other congenital anomalies,673.3,77684,33264304
+SAU,1470,600,2,Oral conditions,5.0,79768,33264304
+SAU,1480,1470,3,Dental caries,0.0,14196,33264304
+SAU,1490,1470,3,Periodontal disease,0.0,18113,33264304
+SAU,1500,1470,3,Edentulism,0.0,28844,33264304
+SAU,1502,1470,3,Other oral disorders,5.0,18616,33264304
+SAU,1505,600,2,Sudden infant death syndrome,63.4,5843,33264304
+SAU,1510,0,1,Injuries,8701.8,807898,33264304
+SAU,1520,1510,2,Unintentional injuries,7514.9,716365,33264304
+SAU,1530,1520,3,Road injury,4876.7,372195,33264304
+SAU,1540,1520,3,Poisonings,69.5,4786,33264304
+SAU,1550,1520,3,Falls,662.1,137864,33264304
+SAU,1560,1520,3,"Fire, heat and hot substances",240.0,20833,33264304
+SAU,1570,1520,3,Drowning,333.7,24317,33264304
+SAU,1575,1520,3,Exposure to mechanical forces,463.4,58971,33264304
+SAU,1580,1520,3,Natural disasters,0.0,112,33264304
+SAU,1590,1520,3,Other unintentional injuries,869.4,97287,33264304
+SAU,1600,1510,2,Intentional injuries,1186.9,91533,33264304
+SAU,1610,1600,3,Self-harm,740.2,44002,33264304
+SAU,1620,1600,3,Interpersonal violence,398.2,38578,33264304
+SAU,1630,1600,3,Collective violence and legal intervention,48.5,8953,33264304
+QAT,0,,0,All Causes,3094.5,433651,2979102
+QAT,10,0,1,"Communicable, maternal, perinatal and nutritional conditions",255.6,37624,2979102
+QAT,20,10,2,Infectious and parasitic diseases,32.1,4348,2979102
+QAT,30,20,3,Tuberculosis,9.1,598,2979102
+QAT,40,20,3,STDs excluding HIV,1.6,536,2979102
+QAT,100,20,3,HIV/AIDS,8.3,451,2979102
+QAT,110,20,3,Diarrhoeal diseases,3.0,915,2979102
+QAT,120,20,3,Childhood-cluster diseases,3.6,326,2979102
+QAT,170,20,3,Meningitis,1.9,154,2979102
+QAT,180,20,3,Encephalitis,0.8,79,2979102
+QAT,185,20,3,Hepatitis,1.4,177,2979102
+QAT,210,20,3,Parasitic and vector diseases,0.0,1,2979102
+QAT,330,20,3,Intestinal nematode infections,0.0,1,2979102
+QAT,365,20,3,Leprosy,0.0,1,2979102
+QAT,370,20,3,Other infectious diseases,2.5,1109,2979102
+QAT,380,10,2,Respiratory infections,139.6,11355,2979102
+QAT,390,380,3,Lower respiratory infections,87.0,2195,2979102
+QAT,395,380,3,COVID-19,52.2,7167,2979102
+QAT,400,380,3,Upper respiratory infections,0.4,1475,2979102
+QAT,410,380,3,Otitis media,0.0,517,2979102
+QAT,420,10,2,Maternal conditions,0.5,186,2979102
+QAT,490,10,2,Neonatal conditions,81.7,16013,2979102
+QAT,500,490,3,Preterm birth complications,63.9,11500,2979102
+QAT,510,490,3,Birth asphyxia and birth trauma,12.8,2128,2979102
+QAT,520,490,3,Neonatal sepsis and infections,1.0,1550,2979102
+QAT,530,490,3,Other neonatal conditions,4.1,836,2979102
+QAT,540,10,2,Nutritional deficiencies,1.7,5722,2979102
+QAT,550,540,3,Protein-energy malnutrition,0.6,12,2979102
+QAT,560,540,3,Iodine deficiency,0.0,102,2979102
+QAT,570,540,3,Vitamin A deficiency,0.0,2,2979102
+QAT,580,540,3,Iron-deficiency anaemia,0.0,5583,2979102
+QAT,590,540,3,Other nutritional deficiencies,1.1,22,2979102
+QAT,600,0,1,Noncommunicable diseases,2460.6,342689,2979102
+QAT,610,600,2,Malignant neoplasms,1120.5,44562,2979102
+QAT,620,610,3,Mouth and oropharynx cancers,41.0,1554,2979102
+QAT,630,610,3,Oesophagus cancer,12.5,324,2979102
+QAT,640,610,3,Stomach cancer,49.3,1858,2979102
+QAT,650,610,3,Colon and rectum cancers,127.4,4691,2979102
+QAT,660,610,3,Liver cancer,72.4,2070,2979102
+QAT,670,610,3,Pancreas cancer,49.1,1837,2979102
+QAT,680,610,3,"Trachea, bronchus, lung cancers",137.7,4822,2979102
+QAT,690,610,3,Melanoma and other skin cancers,2.1,92,2979102
+QAT,700,610,3,Breast cancer,90.6,3726,2979102
+QAT,710,610,3,Cervix uteri cancer,13.7,490,2979102
+QAT,720,610,3,Corpus uteri cancer,12.3,430,2979102
+QAT,730,610,3,Ovary cancer,24.8,816,2979102
+QAT,740,610,3,Prostate cancer,35.0,1184,2979102
+QAT,742,610,3,Testicular cancer,3.5,216,2979102
+QAT,745,610,3,Kidney cancer,20.0,780,2979102
+QAT,750,610,3,Bladder cancer,28.3,782,2979102
+QAT,751,610,3,Brain and nervous system cancers,88.3,4248,2979102
+QAT,752,610,3,Gallbladder and biliary tract cancer,8.3,198,2979102
+QAT,753,610,3,Larynx cancer,9.4,375,2979102
+QAT,754,610,3,Thyroid cancer,11.8,523,2979102
+QAT,755,610,3,Mesothelioma,3.4,120,2979102
+QAT,760,610,3,"Lymphomas, multiple myeloma",90.0,4295,2979102
+QAT,770,610,3,Leukaemia,81.7,4249,2979102
+QAT,780,610,3,Other malignant neoplasms,108.1,4883,2979102
+QAT,790,600,2,Other neoplasms,2.4,132,2979102
+QAT,800,600,2,Diabetes mellitus,183.7,35040,2979102
+QAT,810,600,2,"Endocrine, blood, immune disorders",14.7,3715,2979102
+QAT,811,810,3,Thalassaemias,0.2,404,2979102
+QAT,812,810,3,Sickle cell disorders and trait,0.6,523,2979102
+QAT,813,810,3,Other haemoglobinopathies and haemolytic anaemias,0.6,534,2979102
+QAT,814,810,3,"Other endocrine, blood and immune disorders",13.3,2254,2979102
+QAT,820,600,2,Mental and substance use disorders,2.0,70555,2979102
+QAT,830,820,3,Depressive disorders,0.0,20419,2979102
+QAT,840,820,3,Bipolar disorder,0.0,5303,2979102
+QAT,850,820,3,Schizophrenia,0.0,9808,2979102
+QAT,860,820,3,Alcohol use disorders,0.6,1640,2979102
+QAT,870,820,3,Drug use disorders,1.5,3622,2979102
+QAT,880,820,3,Anxiety disorders,0.0,12562,2979102
+QAT,890,820,3,Eating disorders,0.0,3750,2979102
+QAT,900,820,3,Autism and Asperger syndrome,0.0,5418,2979102
+QAT,910,820,3,Childhood behavioural disorders,0.0,2416,2979102
+QAT,920,820,3,Idiopathic intellectual disability,0.0,882,2979102
+QAT,930,820,3,Other mental and behavioural disorders,0.0,4734,2979102
+QAT,940,600,2,Neurological conditions,125.6,24459,2979102
+QAT,950,940,3,Alzheimer disease and other dementias,94.8,1822,2979102
+QAT,960,940,3,Parkinson disease,17.5,476,2979102
+QAT,970,940,3,Epilepsy,5.3,2285,2979102
+QAT,980,940,3,Multiple sclerosis,0.2,570,2979102
+QAT,990,940,3,Migraine,0.0,16182,2979102
+QAT,1000,940,3,Non-migraine headache,0.0,2131,2979102
+QAT,1010,940,3,Other neurological conditions,7.8,993,2979102
+QAT,1020,600,2,Sense organ diseases,0.0,13770,2979102
+QAT,1030,1020,3,Glaucoma,0.0,66,2979102
+QAT,1040,1020,3,Cataracts,0.0,374,2979102
+QAT,1050,1020,3,Uncorrected refractive errors,0.0,948,2979102
+QAT,1060,1020,3,Macular degeneration,0.0,45,2979102
+QAT,1070,1020,3,Other vision loss,0.0,483,2979102
+QAT,1080,1020,3,Other hearing loss,0.0,11234,2979102
+QAT,1090,1020,3,Other sense organ disorders,0.0,622,2979102
+QAT,1100,600,2,Cardiovascular diseases,675.0,26247,2979102
+QAT,1110,1100,3,Rheumatic heart disease,4.9,279,2979102
+QAT,1120,1100,3,Hypertensive heart disease,54.8,1218,2979102
+QAT,1130,1100,3,Ischaemic heart disease,464.8,15120,2979102
+QAT,1140,1100,3,Stroke,108.2,6282,2979102
+QAT,1150,1100,3,"Cardiomyopathy, myocarditis, endocarditis",9.3,538,2979102
+QAT,1160,1100,3,Other circulatory diseases,33.0,2811,2979102
+QAT,1170,600,2,Respiratory diseases,56.0,8733,2979102
+QAT,1180,1170,3,Chronic obstructive pulmonary disease,38.0,2825,2979102
+QAT,1190,1170,3,Asthma,10.0,5257,2979102
+QAT,1200,1170,3,Other respiratory diseases,8.0,651,2979102
+QAT,1210,600,2,Digestive diseases,69.0,7833,2979102
+QAT,1220,1210,3,Peptic ulcer disease,3.2,152,2979102
+QAT,1230,1210,3,Cirrhosis of the liver,45.3,1345,2979102
+QAT,1240,1210,3,Appendicitis,0.2,104,2979102
+QAT,1241,1210,3,Gastritis and duodenitis,3.0,315,2979102
+QAT,1242,1210,3,Paralytic ileus and intestinal obstruction,4.3,140,2979102
+QAT,1244,1210,3,Inflammatory bowel disease,1.7,303,2979102
+QAT,1246,1210,3,Gallbladder and biliary diseases,4.7,1488,2979102
+QAT,1248,1210,3,Pancreatitis,3.9,205,2979102
+QAT,1250,1210,3,Other digestive diseases,2.9,3780,2979102
+QAT,1260,600,2,Genitourinary diseases,133.4,17653,2979102
+QAT,1270,1260,3,Kidney diseases,123.7,4148,2979102
+QAT,1280,1260,3,Benign prostatic hyperplasia,0.0,322,2979102
+QAT,1290,1260,3,Urolithiasis,0.0,115,2979102
+QAT,1300,1260,3,Other urinary diseases,9.4,323,2979102
+QAT,1310,1260,3,Infertility,0.0,378,2979102
+QAT,1320,1260,3,Gynecological diseases,0.3,12367,2979102
+QAT,1330,600,2,Skin diseases,10.7,13454,2979102
+QAT,1331,1330,3,Dermatitis,0.0,0,2979102
+QAT,1332,1330,3,Psoriasis,0.0,0,2979102
+QAT,1333,1330,3,Fungal skin diseases,0.0,0,2979102
+QAT,1334,1330,3,Viral skin diseases,0.0,0,2979102
+QAT,1335,1330,3,Acne vulgaris,0.0,0,2979102
+QAT,1336,1330,3,Alopecia areata,0.0,0,2979102
+QAT,1337,1330,3,Other specified skin diseases,10.1,166,2979102
+QAT,1339,1330,3,Other skin and subcutaneous diseases,0.7,18,2979102
+QAT,1340,600,2,Musculoskeletal diseases,1.3,58787,2979102
+QAT,1350,1340,3,Rheumatoid arthritis,0.1,533,2979102
+QAT,1360,1340,3,Osteoarthritis,0.0,4314,2979102
+QAT,1370,1340,3,Gout,0.0,554,2979102
+QAT,1380,1340,3,Back and neck pain,0.0,37498,2979102
+QAT,1390,1340,3,Other musculoskeletal disorders,1.1,15887,2979102
+QAT,1400,600,2,Congenital anomalies,61.3,9075,2979102
+QAT,1410,1400,3,Neural tube defects,2.6,376,2979102
+QAT,1420,1400,3,Cleft lip and cleft palate,0.0,258,2979102
+QAT,1430,1400,3,Down syndrome,2.1,251,2979102
+QAT,1440,1400,3,Congenital heart anomalies,23.3,2532,2979102
+QAT,1450,1400,3,Other chromosomal anomalies,7.2,783,2979102
+QAT,1460,1400,3,Other congenital anomalies,26.1,4875,2979102
+QAT,1470,600,2,Oral conditions,0.0,8207,2979102
+QAT,1480,1470,3,Dental caries,0.0,1144,2979102
+QAT,1490,1470,3,Periodontal disease,0.0,3722,2979102
+QAT,1500,1470,3,Edentulism,0.0,1590,2979102
+QAT,1502,1470,3,Other oral disorders,0.0,1751,2979102
+QAT,1505,600,2,Sudden infant death syndrome,5.1,467,2979102
+QAT,1510,0,1,Injuries,378.2,53338,2979102
+QAT,1520,1510,2,Unintentional injuries,311.4,47902,2979102
+QAT,1530,1520,3,Road injury,216.7,16809,2979102
+QAT,1540,1520,3,Poisonings,4.2,313,2979102
+QAT,1550,1520,3,Falls,34.4,16667,2979102
+QAT,1560,1520,3,"Fire, heat and hot substances",9.6,983,2979102
+QAT,1570,1520,3,Drowning,10.9,761,2979102
+QAT,1575,1520,3,Exposure to mechanical forces,19.6,4077,2979102
+QAT,1580,1520,3,Natural disasters,0.0,1,2979102
+QAT,1590,1520,3,Other unintentional injuries,16.0,8291,2979102
+QAT,1600,1510,2,Intentional injuries,66.8,5436,2979102
+QAT,1610,1600,3,Self-harm,58.2,3594,2979102
+QAT,1620,1600,3,Interpersonal violence,8.3,1796,2979102
+QAT,1630,1600,3,Collective violence and legal intervention,0.3,46,2979102
+KWT,0,,0,All Causes,7864.5,858105,4838789
+KWT,10,0,1,"Communicable, maternal, perinatal and nutritional conditions",681.0,70360,4838789
+KWT,20,10,2,Infectious and parasitic diseases,71.8,8794,4838789
+KWT,30,20,3,Tuberculosis,18.1,1058,4838789
+KWT,40,20,3,STDs excluding HIV,1.1,602,4838789
+KWT,100,20,3,HIV/AIDS,30.6,1627,4838789
+KWT,110,20,3,Diarrhoeal diseases,2.4,1851,4838789
+KWT,120,20,3,Childhood-cluster diseases,0.3,62,4838789
+KWT,170,20,3,Meningitis,9.8,724,4838789
+KWT,180,20,3,Encephalitis,5.4,402,4838789
+KWT,185,20,3,Hepatitis,0.5,212,4838789
+KWT,210,20,3,Parasitic and vector diseases,0.3,44,4838789
+KWT,330,20,3,Intestinal nematode infections,0.0,0,4838789
+KWT,365,20,3,Leprosy,0.0,1,4838789
+KWT,370,20,3,Other infectious diseases,3.4,2217,4838789
+KWT,380,10,2,Respiratory infections,451.4,22558,4838789
+KWT,390,380,3,Lower respiratory infections,422.6,12775,4838789
+KWT,395,380,3,COVID-19,28.8,6409,4838789
+KWT,400,380,3,Upper respiratory infections,0.1,2386,4838789
+KWT,410,380,3,Otitis media,0.0,988,4838789
+KWT,420,10,2,Maternal conditions,4.0,451,4838789
+KWT,490,10,2,Neonatal conditions,152.3,26235,4838789
+KWT,500,490,3,Preterm birth complications,127.8,17194,4838789
+KWT,510,490,3,Birth asphyxia and birth trauma,10.0,4625,4838789
+KWT,520,490,3,Neonatal sepsis and infections,12.0,3834,4838789
+KWT,530,490,3,Other neonatal conditions,2.4,581,4838789
+KWT,540,10,2,Nutritional deficiencies,1.5,12318,4838789
+KWT,550,540,3,Protein-energy malnutrition,0.3,10,4838789
+KWT,560,540,3,Iodine deficiency,0.0,190,4838789
+KWT,570,540,3,Vitamin A deficiency,0.0,181,4838789
+KWT,580,540,3,Iron-deficiency anaemia,0.0,11891,4838789
+KWT,590,540,3,Other nutritional deficiencies,1.2,46,4838789
+KWT,600,0,1,Noncommunicable diseases,6390.8,695998,4838789
+KWT,610,600,2,Malignant neoplasms,1703.0,61617,4838789
+KWT,620,610,3,Mouth and oropharynx cancers,48.1,1763,4838789
+KWT,630,610,3,Oesophagus cancer,21.8,643,4838789
+KWT,640,610,3,Stomach cancer,66.8,2245,4838789
+KWT,650,610,3,Colon and rectum cancers,175.5,5981,4838789
+KWT,660,610,3,Liver cancer,99.9,3060,4838789
+KWT,670,610,3,Pancreas cancer,92.3,2807,4838789
+KWT,680,610,3,"Trachea, bronchus, lung cancers",158.8,4981,4838789
+KWT,690,610,3,Melanoma and other skin cancers,1.8,71,4838789
+KWT,700,610,3,Breast cancer,249.3,9818,4838789
+KWT,710,610,3,Cervix uteri cancer,30.1,1276,4838789
+KWT,720,610,3,Corpus uteri cancer,34.9,1201,4838789
+KWT,730,610,3,Ovary cancer,49.9,1723,4838789
+KWT,740,610,3,Prostate cancer,41.0,1172,4838789
+KWT,742,610,3,Testicular cancer,1.3,76,4838789
+KWT,745,610,3,Kidney cancer,23.9,806,4838789
+KWT,750,610,3,Bladder cancer,42.1,1317,4838789
+KWT,751,610,3,Brain and nervous system cancers,59.7,2688,4838789
+KWT,752,610,3,Gallbladder and biliary tract cancer,21.2,610,4838789
+KWT,753,610,3,Larynx cancer,15.6,479,4838789
+KWT,754,610,3,Thyroid cancer,21.8,866,4838789
+KWT,755,610,3,Mesothelioma,15.1,470,4838789
+KWT,760,610,3,"Lymphomas, multiple myeloma",133.7,5303,4838789
+KWT,770,610,3,Leukaemia,128.3,6158,4838789
+KWT,780,610,3,Other malignant neoplasms,170.1,6104,4838789
+KWT,790,600,2,Other neoplasms,20.3,1479,4838789
+KWT,800,600,2,Diabetes mellitus,494.8,81845,4838789
+KWT,810,600,2,"Endocrine, blood, immune disorders",44.0,7486,4838789
+KWT,811,810,3,Thalassaemias,1.4,650,4838789
+KWT,812,810,3,Sickle cell disorders and trait,3.3,867,4838789
+KWT,813,810,3,Other haemoglobinopathies and haemolytic anaemias,4.2,1260,4838789
+KWT,814,810,3,"Other endocrine, blood and immune disorders",35.2,4709,4838789
+KWT,820,600,2,Mental and substance use disorders,39.0,124877,4838789
+KWT,830,820,3,Depressive disorders,0.0,40635,4838789
+KWT,840,820,3,Bipolar disorder,0.0,8204,4838789
+KWT,850,820,3,Schizophrenia,0.0,14342,4838789
+KWT,860,820,3,Alcohol use disorders,2.6,2128,4838789
+KWT,870,820,3,Drug use disorders,36.4,7364,4838789
+KWT,880,820,3,Anxiety disorders,0.0,28029,4838789
+KWT,890,820,3,Eating disorders,0.0,4597,4838789
+KWT,900,820,3,Autism and Asperger syndrome,0.0,6887,4838789
+KWT,910,820,3,Childhood behavioural disorders,0.0,4182,4838789
+KWT,920,820,3,Idiopathic intellectual disability,0.0,1475,4838789
+KWT,930,820,3,Other mental and behavioural disorders,0.0,7034,4838789
+KWT,940,600,2,Neurological conditions,304.6,45368,4838789
+KWT,950,940,3,Alzheimer disease and other dementias,210.9,5416,4838789
+KWT,960,940,3,Parkinson disease,43.7,1330,4838789
+KWT,970,940,3,Epilepsy,23.5,4803,4838789
+KWT,980,940,3,Multiple sclerosis,1.8,917,4838789
+KWT,990,940,3,Migraine,0.0,27225,4838789
+KWT,1000,940,3,Non-migraine headache,0.0,3332,4838789
+KWT,1010,940,3,Other neurological conditions,24.7,2345,4838789
+KWT,1020,600,2,Sense organ diseases,0.0,25263,4838789
+KWT,1030,1020,3,Glaucoma,0.0,126,4838789
+KWT,1040,1020,3,Cataracts,0.0,964,4838789
+KWT,1050,1020,3,Uncorrected refractive errors,0.0,1660,4838789
+KWT,1060,1020,3,Macular degeneration,0.0,84,4838789
+KWT,1070,1020,3,Other vision loss,0.0,1055,4838789
+KWT,1080,1020,3,Other hearing loss,0.0,20208,4838789
+KWT,1090,1020,3,Other sense organ disorders,0.0,1168,4838789
+KWT,1100,600,2,Cardiovascular diseases,2940.0,106196,4838789
+KWT,1110,1100,3,Rheumatic heart disease,10.8,582,4838789
+KWT,1120,1100,3,Hypertensive heart disease,245.9,5920,4838789
+KWT,1130,1100,3,Ischaemic heart disease,2117.2,74333,4838789
+KWT,1140,1100,3,Stroke,452.9,19527,4838789
+KWT,1150,1100,3,"Cardiomyopathy, myocarditis, endocarditis",30.0,1397,4838789
+KWT,1160,1100,3,Other circulatory diseases,83.2,4436,4838789
+KWT,1170,600,2,Respiratory diseases,101.9,22935,4838789
+KWT,1180,1170,3,Chronic obstructive pulmonary disease,42.3,4641,4838789
+KWT,1190,1170,3,Asthma,20.3,16515,4838789
+KWT,1200,1170,3,Other respiratory diseases,39.3,1779,4838789
+KWT,1210,600,2,Digestive diseases,168.4,14876,4838789
+KWT,1220,1210,3,Peptic ulcer disease,8.7,376,4838789
+KWT,1230,1210,3,Cirrhosis of the liver,83.0,2732,4838789
+KWT,1240,1210,3,Appendicitis,1.0,186,4838789
+KWT,1241,1210,3,Gastritis and duodenitis,1.0,459,4838789
+KWT,1242,1210,3,Paralytic ileus and intestinal obstruction,19.4,612,4838789
+KWT,1244,1210,3,Inflammatory bowel disease,3.2,470,4838789
+KWT,1246,1210,3,Gallbladder and biliary diseases,14.7,3050,4838789
+KWT,1248,1210,3,Pancreatitis,21.1,779,4838789
+KWT,1250,1210,3,Other digestive diseases,16.4,6213,4838789
+KWT,1260,600,2,Genitourinary diseases,355.8,38712,4838789
+KWT,1270,1260,3,Kidney diseases,306.7,10955,4838789
+KWT,1280,1260,3,Benign prostatic hyperplasia,0.0,674,4838789
+KWT,1290,1260,3,Urolithiasis,0.7,187,4838789
+KWT,1300,1260,3,Other urinary diseases,48.2,1341,4838789
+KWT,1310,1260,3,Infertility,0.0,545,4838789
+KWT,1320,1260,3,Gynecological diseases,0.2,25010,4838789
+KWT,1330,600,2,Skin diseases,5.6,23425,4838789
+KWT,1331,1330,3,Dermatitis,0.0,0,4838789
+KWT,1332,1330,3,Psoriasis,0.0,0,4838789
+KWT,1333,1330,3,Fungal skin diseases,0.0,0,4838789
+KWT,1334,1330,3,Viral skin diseases,0.0,0,4838789
+KWT,1335,1330,3,Acne vulgaris,0.0,0,4838789
+KWT,1336,1330,3,Alopecia areata,0.0,0,4838789
+KWT,1337,1330,3,Other specified skin diseases,5.0,105,4838789
+KWT,1339,1330,3,Other skin and subcutaneous diseases,0.6,17,4838789
+KWT,1340,600,2,Musculoskeletal diseases,8.5,103832,4838789
+KWT,1350,1340,3,Rheumatoid arthritis,0.7,1623,4838789
+KWT,1360,1340,3,Osteoarthritis,0.0,9375,4838789
+KWT,1370,1340,3,Gout,0.0,919,4838789
+KWT,1380,1340,3,Back and neck pain,0.0,63472,4838789
+KWT,1390,1340,3,Other musculoskeletal disorders,7.8,28443,4838789
+KWT,1400,600,2,Congenital anomalies,191.2,21333,4838789
+KWT,1410,1400,3,Neural tube defects,4.9,617,4838789
+KWT,1420,1400,3,Cleft lip and cleft palate,0.0,274,4838789
+KWT,1430,1400,3,Down syndrome,6.9,694,4838789
+KWT,1440,1400,3,Congenital heart anomalies,59.4,6048,4838789
+KWT,1450,1400,3,Other chromosomal anomalies,21.7,2167,4838789
+KWT,1460,1400,3,Other congenital anomalies,98.3,11533,4838789
+KWT,1470,600,2,Oral conditions,0.0,15481,4838789
+KWT,1480,1470,3,Dental caries,0.0,1859,4838789
+KWT,1490,1470,3,Periodontal disease,0.0,5615,4838789
+KWT,1500,1470,3,Edentulism,0.0,5194,4838789
+KWT,1502,1470,3,Other oral disorders,0.0,2813,4838789
+KWT,1505,600,2,Sudden infant death syndrome,13.8,1273,4838789
+KWT,1510,0,1,Injuries,792.7,91747,4838789
+KWT,1520,1510,2,Unintentional injuries,625.4,76033,4838789
+KWT,1530,1520,3,Road injury,389.0,27529,4838789
+KWT,1540,1520,3,Poisonings,12.3,795,4838789
+KWT,1550,1520,3,Falls,99.6,26085,4838789
+KWT,1560,1520,3,"Fire, heat and hot substances",14.8,1419,4838789
+KWT,1570,1520,3,Drowning,16.6,1122,4838789
+KWT,1575,1520,3,Exposure to mechanical forces,19.8,4342,4838789
+KWT,1580,1520,3,Natural disasters,0.0,5,4838789
+KWT,1590,1520,3,Other unintentional injuries,73.2,14736,4838789
+KWT,1600,1510,2,Intentional injuries,167.3,15715,4838789
+KWT,1610,1600,3,Self-harm,135.4,8115,4838789
+KWT,1620,1600,3,Interpersonal violence,31.8,4017,4838789
+KWT,1630,1600,3,Collective violence and legal intervention,0.0,3582,4838789
+BHR,0,,0,All Causes,3356.6,295214,1569683
+BHR,10,0,1,"Communicable, maternal, perinatal and nutritional conditions",224.4,25167,1569683
+BHR,20,10,2,Infectious and parasitic diseases,44.3,3593,1569683
+BHR,30,20,3,Tuberculosis,14.6,587,1569683
+BHR,40,20,3,STDs excluding HIV,1.0,272,1569683
+BHR,100,20,3,HIV/AIDS,9.1,498,1569683
+BHR,110,20,3,Diarrhoeal diseases,4.1,684,1569683
+BHR,120,20,3,Childhood-cluster diseases,1.9,173,1569683
+BHR,170,20,3,Meningitis,3.2,201,1569683
+BHR,180,20,3,Encephalitis,1.5,126,1569683
+BHR,185,20,3,Hepatitis,3.8,213,1569683
+BHR,210,20,3,Parasitic and vector diseases,0.1,5,1569683
+BHR,330,20,3,Intestinal nematode infections,0.0,2,1569683
+BHR,365,20,3,Leprosy,0.0,0,1569683
+BHR,370,20,3,Other infectious diseases,4.8,833,1569683
+BHR,380,10,2,Respiratory infections,102.1,7105,1569683
+BHR,390,380,3,Lower respiratory infections,80.4,2592,1569683
+BHR,395,380,3,COVID-19,21.8,3404,1569683
+BHR,400,380,3,Upper respiratory infections,0.0,769,1569683
+BHR,410,380,3,Otitis media,0.0,340,1569683
+BHR,420,10,2,Maternal conditions,8.8,622,1569683
+BHR,490,10,2,Neonatal conditions,63.8,10116,1569683
+BHR,500,490,3,Preterm birth complications,57.7,7794,1569683
+BHR,510,490,3,Birth asphyxia and birth trauma,3.0,1071,1569683
+BHR,520,490,3,Neonatal sepsis and infections,0.0,591,1569683
+BHR,530,490,3,Other neonatal conditions,3.1,660,1569683
+BHR,540,10,2,Nutritional deficiencies,5.3,3731,1569683
+BHR,550,540,3,Protein-energy malnutrition,4.3,131,1569683
+BHR,560,540,3,Iodine deficiency,0.0,63,1569683
+BHR,570,540,3,Vitamin A deficiency,0.0,6,1569683
+BHR,580,540,3,Iron-deficiency anaemia,0.0,3499,1569683
+BHR,590,540,3,Other nutritional deficiencies,1.0,31,1569683
+BHR,600,0,1,Noncommunicable diseases,2911.9,247233,1569683
+BHR,610,600,2,Malignant neoplasms,738.1,24122,1569683
+BHR,620,610,3,Mouth and oropharynx cancers,19.7,614,1569683
+BHR,630,610,3,Oesophagus cancer,12.0,308,1569683
+BHR,640,610,3,Stomach cancer,31.9,937,1569683
+BHR,650,610,3,Colon and rectum cancers,81.3,2539,1569683
+BHR,660,610,3,Liver cancer,41.1,1169,1569683
+BHR,670,610,3,Pancreas cancer,30.4,854,1569683
+BHR,680,610,3,"Trachea, bronchus, lung cancers",89.4,2347,1569683
+BHR,690,610,3,Melanoma and other skin cancers,0.1,9,1569683
+BHR,700,610,3,Breast cancer,107.4,4138,1569683
+BHR,710,610,3,Cervix uteri cancer,6.9,253,1569683
+BHR,720,610,3,Corpus uteri cancer,17.4,610,1569683
+BHR,730,610,3,Ovary cancer,26.8,968,1569683
+BHR,740,610,3,Prostate cancer,19.4,516,1569683
+BHR,742,610,3,Testicular cancer,1.9,105,1569683
+BHR,745,610,3,Kidney cancer,11.0,366,1569683
+BHR,750,610,3,Bladder cancer,38.0,947,1569683
+BHR,751,610,3,Brain and nervous system cancers,18.8,854,1569683
+BHR,752,610,3,Gallbladder and biliary tract cancer,5.3,186,1569683
+BHR,753,610,3,Larynx cancer,7.0,204,1569683
+BHR,754,610,3,Thyroid cancer,6.6,232,1569683
+BHR,755,610,3,Mesothelioma,3.8,91,1569683
+BHR,760,610,3,"Lymphomas, multiple myeloma",48.6,1609,1569683
+BHR,770,610,3,Leukaemia,40.6,1942,1569683
+BHR,780,610,3,Other malignant neoplasms,72.7,2324,1569683
+BHR,790,600,2,Other neoplasms,10.4,458,1569683
+BHR,800,600,2,Diabetes mellitus,459.9,34115,1569683
+BHR,810,600,2,"Endocrine, blood, immune disorders",101.4,8962,1569683
+BHR,811,810,3,Thalassaemias,1.7,756,1569683
+BHR,812,810,3,Sickle cell disorders and trait,35.3,3556,1569683
+BHR,813,810,3,Other haemoglobinopathies and haemolytic anaemias,6.3,667,1569683
+BHR,814,810,3,"Other endocrine, blood and immune disorders",58.1,3984,1569683
+BHR,820,600,2,Mental and substance use disorders,2.7,40312,1569683
+BHR,830,820,3,Depressive disorders,0.0,12994,1569683
+BHR,840,820,3,Bipolar disorder,0.0,2602,1569683
+BHR,850,820,3,Schizophrenia,0.0,4435,1569683
+BHR,860,820,3,Alcohol use disorders,0.6,744,1569683
+BHR,870,820,3,Drug use disorders,2.1,1823,1569683
+BHR,880,820,3,Anxiety disorders,0.0,9970,1569683
+BHR,890,820,3,Eating disorders,0.0,1411,1569683
+BHR,900,820,3,Autism and Asperger syndrome,0.0,2197,1569683
+BHR,910,820,3,Childhood behavioural disorders,0.0,1369,1569683
+BHR,920,820,3,Idiopathic intellectual disability,0.0,522,1569683
+BHR,930,820,3,Other mental and behavioural disorders,0.0,2243,1569683
+BHR,940,600,2,Neurological conditions,143.8,16874,1569683
+BHR,950,940,3,Alzheimer disease and other dementias,82.8,2060,1569683
+BHR,960,940,3,Parkinson disease,15.8,482,1569683
+BHR,970,940,3,Epilepsy,18.2,2499,1569683
+BHR,980,940,3,Multiple sclerosis,2.4,262,1569683
+BHR,990,940,3,Migraine,0.0,8905,1569683
+BHR,1000,940,3,Non-migraine headache,0.0,1125,1569683
+BHR,1010,940,3,Other neurological conditions,24.6,1541,1569683
+BHR,1020,600,2,Sense organ diseases,0.0,8486,1569683
+BHR,1030,1020,3,Glaucoma,0.0,65,1569683
+BHR,1040,1020,3,Cataracts,0.0,387,1569683
+BHR,1050,1020,3,Uncorrected refractive errors,0.0,557,1569683
+BHR,1060,1020,3,Macular degeneration,0.0,39,1569683
+BHR,1070,1020,3,Other vision loss,0.0,355,1569683
+BHR,1080,1020,3,Other hearing loss,0.0,6712,1569683
+BHR,1090,1020,3,Other sense organ disorders,0.0,372,1569683
+BHR,1100,600,2,Cardiovascular diseases,727.9,24924,1569683
+BHR,1110,1100,3,Rheumatic heart disease,5.5,277,1569683
+BHR,1120,1100,3,Hypertensive heart disease,68.3,1768,1569683
+BHR,1130,1100,3,Ischaemic heart disease,420.9,13034,1569683
+BHR,1140,1100,3,Stroke,171.9,6625,1569683
+BHR,1150,1100,3,"Cardiomyopathy, myocarditis, endocarditis",21.9,963,1569683
+BHR,1160,1100,3,Other circulatory diseases,39.3,2257,1569683
+BHR,1170,600,2,Respiratory diseases,174.1,9837,1569683
+BHR,1180,1170,3,Chronic obstructive pulmonary disease,115.8,4502,1569683
+BHR,1190,1170,3,Asthma,32.5,4147,1569683
+BHR,1200,1170,3,Other respiratory diseases,25.7,1188,1569683
+BHR,1210,600,2,Digestive diseases,118.2,6828,1569683
+BHR,1220,1210,3,Peptic ulcer disease,13.8,421,1569683
+BHR,1230,1210,3,Cirrhosis of the liver,64.0,1984,1569683
+BHR,1240,1210,3,Appendicitis,1.2,100,1569683
+BHR,1241,1210,3,Gastritis and duodenitis,2.0,208,1569683
+BHR,1242,1210,3,Paralytic ileus and intestinal obstruction,11.8,370,1569683
+BHR,1244,1210,3,Inflammatory bowel disease,1.8,172,1569683
+BHR,1246,1210,3,Gallbladder and biliary diseases,13.6,1353,1569683
+BHR,1248,1210,3,Pancreatitis,7.0,268,1569683
+BHR,1250,1210,3,Other digestive diseases,3.1,1953,1569683
+BHR,1260,600,2,Genitourinary diseases,267.6,16678,1569683
+BHR,1270,1260,3,Kidney diseases,175.7,6186,1569683
+BHR,1280,1260,3,Benign prostatic hyperplasia,0.0,224,1569683
+BHR,1290,1260,3,Urolithiasis,11.6,401,1569683
+BHR,1300,1260,3,Other urinary diseases,79.0,2088,1569683
+BHR,1310,1260,3,Infertility,0.0,178,1569683
+BHR,1320,1260,3,Gynecological diseases,1.3,7600,1569683
+BHR,1330,600,2,Skin diseases,62.2,9109,1569683
+BHR,1331,1330,3,Dermatitis,0.0,0,1569683
+BHR,1332,1330,3,Psoriasis,0.0,0,1569683
+BHR,1333,1330,3,Fungal skin diseases,0.0,0,1569683
+BHR,1334,1330,3,Viral skin diseases,0.0,0,1569683
+BHR,1335,1330,3,Acne vulgaris,0.0,0,1569683
+BHR,1336,1330,3,Alopecia areata,0.0,0,1569683
+BHR,1337,1330,3,Other specified skin diseases,58.9,1488,1569683
+BHR,1339,1330,3,Other skin and subcutaneous diseases,3.3,105,1569683
+BHR,1340,600,2,Musculoskeletal diseases,21.2,32893,1569683
+BHR,1350,1340,3,Rheumatoid arthritis,1.6,536,1569683
+BHR,1360,1340,3,Osteoarthritis,0.0,2829,1569683
+BHR,1370,1340,3,Gout,0.0,264,1569683
+BHR,1380,1340,3,Back and neck pain,0.0,20116,1569683
+BHR,1390,1340,3,Other musculoskeletal disorders,19.6,9148,1569683
+BHR,1400,600,2,Congenital anomalies,80.6,8436,1569683
+BHR,1410,1400,3,Neural tube defects,3.7,386,1569683
+BHR,1420,1400,3,Cleft lip and cleft palate,0.0,87,1569683
+BHR,1430,1400,3,Down syndrome,3.9,338,1569683
+BHR,1440,1400,3,Congenital heart anomalies,29.1,2766,1569683
+BHR,1450,1400,3,Other chromosomal anomalies,7.3,705,1569683
+BHR,1460,1400,3,Other congenital anomalies,36.6,4154,1569683
+BHR,1470,600,2,Oral conditions,0.0,4845,1569683
+BHR,1480,1470,3,Dental caries,0.0,603,1569683
+BHR,1490,1470,3,Periodontal disease,0.0,1654,1569683
+BHR,1500,1470,3,Edentulism,0.0,1685,1569683
+BHR,1502,1470,3,Other oral disorders,0.0,903,1569683
+BHR,1505,600,2,Sudden infant death syndrome,3.9,355,1569683
+BHR,1510,0,1,Injuries,220.2,22814,1569683
+BHR,1520,1510,2,Unintentional injuries,185.1,19862,1569683
+BHR,1530,1520,3,Road injury,124.9,8002,1569683
+BHR,1540,1520,3,Poisonings,1.7,136,1569683
+BHR,1550,1520,3,Falls,12.7,4709,1569683
+BHR,1560,1520,3,"Fire, heat and hot substances",10.6,861,1569683
+BHR,1570,1520,3,Drowning,5.4,370,1569683
+BHR,1575,1520,3,Exposure to mechanical forces,2.9,1248,1569683
+BHR,1580,1520,3,Natural disasters,0.0,0,1569683
+BHR,1590,1520,3,Other unintentional injuries,27.1,4535,1569683
+BHR,1600,1510,2,Intentional injuries,35.1,2952,1569683
+BHR,1610,1600,3,Self-harm,31.8,1852,1569683
+BHR,1620,1600,3,Interpersonal violence,2.9,862,1569683
+BHR,1630,1600,3,Collective violence and legal intervention,0.4,238,1569683
+OMN,0,,0,All Causes,9674.1,875453,5049281
+OMN,10,0,1,"Communicable, maternal, perinatal and nutritional conditions",1100.1,108506,5049281
+OMN,20,10,2,Infectious and parasitic diseases,243.1,18487,5049281
+OMN,30,20,3,Tuberculosis,18.2,1091,5049281
+OMN,40,20,3,STDs excluding HIV,4.0,771,5049281
+OMN,100,20,3,HIV/AIDS,51.8,2979,5049281
+OMN,110,20,3,Diarrhoeal diseases,36.2,3719,5049281
+OMN,120,20,3,Childhood-cluster diseases,0.7,58,5049281
+OMN,170,20,3,Meningitis,11.4,766,5049281
+OMN,180,20,3,Encephalitis,23.2,1411,5049281
+OMN,185,20,3,Hepatitis,21.0,1110,5049281
+OMN,210,20,3,Parasitic and vector diseases,10.8,1143,5049281
+OMN,330,20,3,Intestinal nematode infections,0.2,15,5049281
+OMN,365,20,3,Leprosy,0.0,0,5049281
+OMN,370,20,3,Other infectious diseases,65.7,5451,5049281
+OMN,380,10,2,Respiratory infections,449.6,26274,5049281
+OMN,390,380,3,Lower respiratory infections,409.4,15467,5049281
+OMN,395,380,3,COVID-19,40.0,7044,5049281
+OMN,400,380,3,Upper respiratory infections,0.1,2591,5049281
+OMN,410,380,3,Otitis media,0.0,1172,5049281
+OMN,420,10,2,Maternal conditions,10.8,1417,5049281
+OMN,490,10,2,Neonatal conditions,354.6,45050,5049281
+OMN,500,490,3,Preterm birth complications,267.6,32062,5049281
+OMN,510,490,3,Birth asphyxia and birth trauma,57.5,7200,5049281
+OMN,520,490,3,Neonatal sepsis and infections,6.0,2401,5049281
+OMN,530,490,3,Other neonatal conditions,23.4,3388,5049281
+OMN,540,10,2,Nutritional deficiencies,42.0,17251,5049281
+OMN,550,540,3,Protein-energy malnutrition,6.3,1151,5049281
+OMN,560,540,3,Iodine deficiency,0.0,424,5049281
+OMN,570,540,3,Vitamin A deficiency,0.0,419,5049281
+OMN,580,540,3,Iron-deficiency anaemia,0.0,13914,5049281
+OMN,590,540,3,Other nutritional deficiencies,35.7,1343,5049281
+OMN,600,0,1,Noncommunicable diseases,7813.4,675375,5049281
+OMN,610,600,2,Malignant neoplasms,2088.2,81202,5049281
+OMN,620,610,3,Mouth and oropharynx cancers,61.9,2592,5049281
+OMN,630,610,3,Oesophagus cancer,30.0,929,5049281
+OMN,640,610,3,Stomach cancer,170.5,5425,5049281
+OMN,650,610,3,Colon and rectum cancers,240.2,9385,5049281
+OMN,660,610,3,Liver cancer,161.1,5684,5049281
+OMN,670,610,3,Pancreas cancer,80.8,2656,5049281
+OMN,680,610,3,"Trachea, bronchus, lung cancers",149.6,4983,5049281
+OMN,690,610,3,Melanoma and other skin cancers,12.3,349,5049281
+OMN,700,610,3,Breast cancer,180.7,8092,5049281
+OMN,710,610,3,Cervix uteri cancer,43.3,1594,5049281
+OMN,720,610,3,Corpus uteri cancer,10.1,348,5049281
+OMN,730,610,3,Ovary cancer,32.3,1183,5049281
+OMN,740,610,3,Prostate cancer,71.9,1854,5049281
+OMN,742,610,3,Testicular cancer,4.8,292,5049281
+OMN,745,610,3,Kidney cancer,44.6,1693,5049281
+OMN,750,610,3,Bladder cancer,65.1,1963,5049281
+OMN,751,610,3,Brain and nervous system cancers,106.9,5608,5049281
+OMN,752,610,3,Gallbladder and biliary tract cancer,24.8,848,5049281
+OMN,753,610,3,Larynx cancer,18.5,600,5049281
+OMN,754,610,3,Thyroid cancer,29.0,1124,5049281
+OMN,755,610,3,Mesothelioma,3.1,122,5049281
+OMN,760,610,3,"Lymphomas, multiple myeloma",191.4,7695,5049281
+OMN,770,610,3,Leukaemia,158.6,7997,5049281
+OMN,780,610,3,Other malignant neoplasms,196.8,8184,5049281
+OMN,790,600,2,Other neoplasms,4.0,200,5049281
+OMN,800,600,2,Diabetes mellitus,628.4,49004,5049281
+OMN,810,600,2,"Endocrine, blood, immune disorders",131.9,16081,5049281
+OMN,811,810,3,Thalassaemias,1.6,1348,5049281
+OMN,812,810,3,Sickle cell disorders and trait,21.6,4578,5049281
+OMN,813,810,3,Other haemoglobinopathies and haemolytic anaemias,8.9,1790,5049281
+OMN,814,810,3,"Other endocrine, blood and immune disorders",99.9,8366,5049281
+OMN,820,600,2,Mental and substance use disorders,16.1,121448,5049281
+OMN,830,820,3,Depressive disorders,0.0,34858,5049281
+OMN,840,820,3,Bipolar disorder,0.0,7609,5049281
+OMN,850,820,3,Schizophrenia,0.0,12626,5049281
+OMN,860,820,3,Alcohol use disorders,4.8,2550,5049281
+OMN,870,820,3,Drug use disorders,11.3,5813,5049281
+OMN,880,820,3,Anxiety disorders,0.0,32870,5049281
+OMN,890,820,3,Eating disorders,0.0,4363,5049281
+OMN,900,820,3,Autism and Asperger syndrome,0.0,7626,5049281
+OMN,910,820,3,Childhood behavioural disorders,0.0,4941,5049281
+OMN,920,820,3,Idiopathic intellectual disability,0.0,1703,5049281
+OMN,930,820,3,Other mental and behavioural disorders,0.0,6489,5049281
+OMN,940,600,2,Neurological conditions,389.8,45108,5049281
+OMN,950,940,3,Alzheimer disease and other dementias,273.1,5559,5049281
+OMN,960,940,3,Parkinson disease,67.8,1620,5049281
+OMN,970,940,3,Epilepsy,14.2,4654,5049281
+OMN,980,940,3,Multiple sclerosis,5.7,469,5049281
+OMN,990,940,3,Migraine,0.0,26942,5049281
+OMN,1000,940,3,Non-migraine headache,0.0,3339,5049281
+OMN,1010,940,3,Other neurological conditions,29.0,2527,5049281
+OMN,1020,600,2,Sense organ diseases,0.0,23464,5049281
+OMN,1030,1020,3,Glaucoma,0.0,348,5049281
+OMN,1040,1020,3,Cataracts,0.0,1343,5049281
+OMN,1050,1020,3,Uncorrected refractive errors,0.0,1658,5049281
+OMN,1060,1020,3,Macular degeneration,0.0,170,5049281
+OMN,1070,1020,3,Other vision loss,0.0,852,5049281
+OMN,1080,1020,3,Other hearing loss,0.0,18055,5049281
+OMN,1090,1020,3,Other sense organ disorders,0.0,1039,5049281
+OMN,1100,600,2,Cardiovascular diseases,2971.2,95693,5049281
+OMN,1110,1100,3,Rheumatic heart disease,24.3,1177,5049281
+OMN,1120,1100,3,Hypertensive heart disease,581.5,13482,5049281
+OMN,1130,1100,3,Ischaemic heart disease,1433.9,42843,5049281
+OMN,1140,1100,3,Stroke,677.6,22275,5049281
+OMN,1150,1100,3,"Cardiomyopathy, myocarditis, endocarditis",79.9,3546,5049281
+OMN,1160,1100,3,Other circulatory diseases,174.0,12371,5049281
+OMN,1170,600,2,Respiratory diseases,261.2,21396,5049281
+OMN,1180,1170,3,Chronic obstructive pulmonary disease,175.2,7570,5049281
+OMN,1190,1170,3,Asthma,52.1,11790,5049281
+OMN,1200,1170,3,Other respiratory diseases,33.9,2037,5049281
+OMN,1210,600,2,Digestive diseases,279.0,17950,5049281
+OMN,1220,1210,3,Peptic ulcer disease,18.9,703,5049281
+OMN,1230,1210,3,Cirrhosis of the liver,214.7,6968,5049281
+OMN,1240,1210,3,Appendicitis,1.7,227,5049281
+OMN,1241,1210,3,Gastritis and duodenitis,1.2,449,5049281
+OMN,1242,1210,3,Paralytic ileus and intestinal obstruction,9.9,394,5049281
+OMN,1244,1210,3,Inflammatory bowel disease,6.1,563,5049281
+OMN,1246,1210,3,Gallbladder and biliary diseases,14.4,2668,5049281
+OMN,1248,1210,3,Pancreatitis,6.2,355,5049281
+OMN,1250,1210,3,Other digestive diseases,5.8,5623,5049281
+OMN,1260,600,2,Genitourinary diseases,647.7,42501,5049281
+OMN,1270,1260,3,Kidney diseases,455.8,14909,5049281
+OMN,1280,1260,3,Benign prostatic hyperplasia,0.0,460,5049281
+OMN,1290,1260,3,Urolithiasis,0.0,149,5049281
+OMN,1300,1260,3,Other urinary diseases,191.1,4351,5049281
+OMN,1310,1260,3,Infertility,0.0,580,5049281
+OMN,1320,1260,3,Gynecological diseases,0.8,22053,5049281
+OMN,1330,600,2,Skin diseases,65.9,28187,5049281
+OMN,1331,1330,3,Dermatitis,0.0,0,5049281
+OMN,1332,1330,3,Psoriasis,0.0,0,5049281
+OMN,1333,1330,3,Fungal skin diseases,0.0,0,5049281
+OMN,1334,1330,3,Viral skin diseases,0.0,0,5049281
+OMN,1335,1330,3,Acne vulgaris,0.0,0,5049281
+OMN,1336,1330,3,Alopecia areata,0.0,0,5049281
+OMN,1337,1330,3,Other specified skin diseases,65.9,1419,5049281
+OMN,1339,1330,3,Other skin and subcutaneous diseases,0.0,0,5049281
+OMN,1340,600,2,Musculoskeletal diseases,13.8,86727,5049281
+OMN,1350,1340,3,Rheumatoid arthritis,0.6,604,5049281
+OMN,1360,1340,3,Osteoarthritis,0.0,6495,5049281
+OMN,1370,1340,3,Gout,0.0,659,5049281
+OMN,1380,1340,3,Back and neck pain,0.0,56732,5049281
+OMN,1390,1340,3,Other musculoskeletal disorders,13.3,22237,5049281
+OMN,1400,600,2,Congenital anomalies,298.6,31446,5049281
+OMN,1410,1400,3,Neural tube defects,74.1,6738,5049281
+OMN,1420,1400,3,Cleft lip and cleft palate,0.1,308,5049281
+OMN,1430,1400,3,Down syndrome,3.7,474,5049281
+OMN,1440,1400,3,Congenital heart anomalies,102.6,9937,5049281
+OMN,1450,1400,3,Other chromosomal anomalies,24.6,2521,5049281
+OMN,1460,1400,3,Other congenital anomalies,93.6,11468,5049281
+OMN,1470,600,2,Oral conditions,0.0,13336,5049281
+OMN,1480,1470,3,Dental caries,0.0,2031,5049281
+OMN,1490,1470,3,Periodontal disease,0.0,4371,5049281
+OMN,1500,1470,3,Edentulism,0.0,4149,5049281
+OMN,1502,1470,3,Other oral disorders,0.0,2785,5049281
+OMN,1505,600,2,Sudden infant death syndrome,17.7,1630,5049281
+OMN,1510,0,1,Injuries,760.7,91572,5049281
+OMN,1520,1510,2,Unintentional injuries,698.4,85571,5049281
+OMN,1530,1520,3,Road injury,345.5,33905,5049281
+OMN,1540,1520,3,Poisonings,2.3,249,5049281
+OMN,1550,1520,3,Falls,136.9,25856,5049281
+OMN,1560,1520,3,"Fire, heat and hot substances",25.4,2168,5049281
+OMN,1570,1520,3,Drowning,64.6,4473,5049281
+OMN,1575,1520,3,Exposure to mechanical forces,67.4,7371,5049281
+OMN,1580,1520,3,Natural disasters,0.0,68,5049281
+OMN,1590,1520,3,Other unintentional injuries,56.4,11481,5049281
+OMN,1600,1510,2,Intentional injuries,62.3,6001,5049281
+OMN,1610,1600,3,Self-harm,48.8,2963,5049281
+OMN,1620,1600,3,Interpersonal violence,12.3,2903,5049281
+OMN,1630,1600,3,Collective violence and legal intervention,1.1,136,5049281
+EGY,0,,0,All Causes,607311.8,33363243,114535775
+EGY,10,0,1,"Communicable, maternal, perinatal and nutritional conditions",56527.9,5099108,114535775
+EGY,20,10,2,Infectious and parasitic diseases,9949.3,748552,114535775
+EGY,30,20,3,Tuberculosis,492.5,33350,114535775
+EGY,40,20,3,STDs excluding HIV,295.5,39211,114535775
+EGY,100,20,3,HIV/AIDS,1417.4,76439,114535775
+EGY,110,20,3,Diarrhoeal diseases,2070.4,216088,114535775
+EGY,120,20,3,Childhood-cluster diseases,472.8,40354,114535775
+EGY,170,20,3,Meningitis,439.4,34734,114535775
+EGY,180,20,3,Encephalitis,634.3,40050,114535775
+EGY,185,20,3,Hepatitis,3177.5,123146,114535775
+EGY,210,20,3,Parasitic and vector diseases,188.7,41933,114535775
+EGY,330,20,3,Intestinal nematode infections,5.6,1976,114535775
+EGY,365,20,3,Leprosy,0.0,53,114535775
+EGY,370,20,3,Other infectious diseases,758.2,102605,114535775
+EGY,380,10,2,Respiratory infections,21237.3,1245994,114535775
+EGY,390,380,3,Lower respiratory infections,19584.0,899952,114535775
+EGY,395,380,3,COVID-19,1535.6,244651,114535775
+EGY,400,380,3,Upper respiratory infections,117.7,64776,114535775
+EGY,410,380,3,Otitis media,0.1,36615,114535775
+EGY,420,10,2,Maternal conditions,366.3,39078,114535775
+EGY,490,10,2,Neonatal conditions,24689.0,2688390,114535775
+EGY,500,490,3,Preterm birth complications,20236.4,2128750,114535775
+EGY,510,490,3,Birth asphyxia and birth trauma,3108.6,342514,114535775
+EGY,520,490,3,Neonatal sepsis and infections,630.1,94770,114535775
+EGY,530,490,3,Other neonatal conditions,713.8,122355,114535775
+EGY,540,10,2,Nutritional deficiencies,283.1,375707,114535775
+EGY,550,540,3,Protein-energy malnutrition,137.3,14041,114535775
+EGY,560,540,3,Iodine deficiency,0.0,8466,114535775
+EGY,570,540,3,Vitamin A deficiency,0.0,8104,114535775
+EGY,580,540,3,Iron-deficiency anaemia,0.0,335951,114535775
+EGY,590,540,3,Other nutritional deficiencies,145.8,9146,114535775
+EGY,600,0,1,Noncommunicable diseases,529367.2,26235620,114535775
+EGY,610,600,2,Malignant neoplasms,88474.9,3032385,114535775
+EGY,620,610,3,Mouth and oropharynx cancers,1344.8,45654,114535775
+EGY,630,610,3,Oesophagus cancer,1309.0,39276,114535775
+EGY,640,610,3,Stomach cancer,2137.3,76333,114535775
+EGY,650,610,3,Colon and rectum cancers,2920.4,113544,114535775
+EGY,660,610,3,Liver cancer,24329.8,799761,114535775
+EGY,670,610,3,Pancreas cancer,3190.9,102612,114535775
+EGY,680,610,3,"Trachea, bronchus, lung cancers",6252.2,191513,114535775
+EGY,690,610,3,Melanoma and other skin cancers,837.4,21893,114535775
+EGY,700,610,3,Breast cancer,9739.9,383150,114535775
+EGY,710,610,3,Cervix uteri cancer,700.2,21970,114535775
+EGY,720,610,3,Corpus uteri cancer,448.4,13674,114535775
+EGY,730,610,3,Ovary cancer,1943.5,71921,114535775
+EGY,740,610,3,Prostate cancer,1559.3,31996,114535775
+EGY,742,610,3,Testicular cancer,45.3,2018,114535775
+EGY,745,610,3,Kidney cancer,814.3,27886,114535775
+EGY,750,610,3,Bladder cancer,6636.9,172521,114535775
+EGY,751,610,3,Brain and nervous system cancers,3838.3,173000,114535775
+EGY,752,610,3,Gallbladder and biliary tract cancer,430.7,13564,114535775
+EGY,753,610,3,Larynx cancer,1060.5,30539,114535775
+EGY,754,610,3,Thyroid cancer,352.9,10320,114535775
+EGY,755,610,3,Mesothelioma,273.9,8853,114535775
+EGY,760,610,3,"Lymphomas, multiple myeloma",5678.4,199254,114535775
+EGY,770,610,3,Leukaemia,3802.0,165794,114535775
+EGY,780,610,3,Other malignant neoplasms,8828.5,315339,114535775
+EGY,790,600,2,Other neoplasms,103.5,4617,114535775
+EGY,800,600,2,Diabetes mellitus,22203.7,1641852,114535775
+EGY,810,600,2,"Endocrine, blood, immune disorders",2077.0,280109,114535775
+EGY,811,810,3,Thalassaemias,64.8,45499,114535775
+EGY,812,810,3,Sickle cell disorders and trait,153.1,44721,114535775
+EGY,813,810,3,Other haemoglobinopathies and haemolytic anaemias,119.3,32846,114535775
+EGY,814,810,3,"Other endocrine, blood and immune disorders",1739.8,157042,114535775
+EGY,820,600,2,Mental and substance use disorders,160.1,2890551,114535775
+EGY,830,820,3,Depressive disorders,0.0,990781,114535775
+EGY,840,820,3,Bipolar disorder,0.0,148037,114535775
+EGY,850,820,3,Schizophrenia,0.0,224811,114535775
+EGY,860,820,3,Alcohol use disorders,17.2,35577,114535775
+EGY,870,820,3,Drug use disorders,142.9,117108,114535775
+EGY,880,820,3,Anxiety disorders,0.0,850611,114535775
+EGY,890,820,3,Eating disorders,0.0,63331,114535775
+EGY,900,820,3,Autism and Asperger syndrome,0.0,141765,114535775
+EGY,910,820,3,Childhood behavioural disorders,0.0,159308,114535775
+EGY,920,820,3,Idiopathic intellectual disability,0.0,41190,114535775
+EGY,930,820,3,Other mental and behavioural disorders,0.0,118032,114535775
+EGY,940,600,2,Neurological conditions,9849.0,1162498,114535775
+EGY,950,940,3,Alzheimer disease and other dementias,6004.8,168979,114535775
+EGY,960,940,3,Parkinson disease,2500.8,59189,114535775
+EGY,970,940,3,Epilepsy,794.4,134388,114535775
+EGY,980,940,3,Multiple sclerosis,12.6,6638,114535775
+EGY,990,940,3,Migraine,0.0,664194,114535775
+EGY,1000,940,3,Non-migraine headache,0.0,76588,114535775
+EGY,1010,940,3,Other neurological conditions,536.3,52522,114535775
+EGY,1020,600,2,Sense organ diseases,0.0,678087,114535775
+EGY,1030,1020,3,Glaucoma,0.0,12579,114535775
+EGY,1040,1020,3,Cataracts,0.0,66933,114535775
+EGY,1050,1020,3,Uncorrected refractive errors,0.0,72882,114535775
+EGY,1060,1020,3,Macular degeneration,0.0,6126,114535775
+EGY,1070,1020,3,Other vision loss,0.0,28366,114535775
+EGY,1080,1020,3,Other hearing loss,0.0,464633,114535775
+EGY,1090,1020,3,Other sense organ disorders,0.0,26569,114535775
+EGY,1100,600,2,Cardiovascular diseases,294512.3,8032023,114535775
+EGY,1110,1100,3,Rheumatic heart disease,2854.6,163799,114535775
+EGY,1120,1100,3,Hypertensive heart disease,32171.6,725135,114535775
+EGY,1130,1100,3,Ischaemic heart disease,190308.4,5030832,114535775
+EGY,1140,1100,3,Stroke,57532.9,1581551,114535775
+EGY,1150,1100,3,"Cardiomyopathy, myocarditis, endocarditis",1989.2,92388,114535775
+EGY,1160,1100,3,Other circulatory diseases,9655.5,438318,114535775
+EGY,1170,600,2,Respiratory diseases,12619.0,672895,114535775
+EGY,1180,1170,3,Chronic obstructive pulmonary disease,9327.6,337074,114535775
+EGY,1190,1170,3,Asthma,2573.8,295568,114535775
+EGY,1200,1170,3,Other respiratory diseases,717.5,40253,114535775
+EGY,1210,600,2,Digestive diseases,38941.1,1291231,114535775
+EGY,1220,1210,3,Peptic ulcer disease,779.2,24625,114535775
+EGY,1230,1210,3,Cirrhosis of the liver,35230.6,973582,114535775
+EGY,1240,1210,3,Appendicitis,54.2,5304,114535775
+EGY,1241,1210,3,Gastritis and duodenitis,149.2,13590,114535775
+EGY,1242,1210,3,Paralytic ileus and intestinal obstruction,727.3,26846,114535775
+EGY,1244,1210,3,Inflammatory bowel disease,219.2,14324,114535775
+EGY,1246,1210,3,Gallbladder and biliary diseases,1120.8,99303,114535775
+EGY,1248,1210,3,Pancreatitis,311.9,11434,114535775
+EGY,1250,1210,3,Other digestive diseases,348.7,122222,114535775
+EGY,1260,600,2,Genitourinary diseases,41334.0,1763467,114535775
+EGY,1270,1260,3,Kidney diseases,40859.8,1130743,114535775
+EGY,1280,1260,3,Benign prostatic hyperplasia,0.0,14317,114535775
+EGY,1290,1260,3,Urolithiasis,63.8,4170,114535775
+EGY,1300,1260,3,Other urinary diseases,358.3,13667,114535775
+EGY,1310,1260,3,Infertility,0.0,9422,114535775
+EGY,1320,1260,3,Gynecological diseases,52.1,591147,114535775
+EGY,1330,600,2,Skin diseases,624.3,691034,114535775
+EGY,1331,1330,3,Dermatitis,0.0,0,114535775
+EGY,1332,1330,3,Psoriasis,0.0,0,114535775
+EGY,1333,1330,3,Fungal skin diseases,0.0,0,114535775
+EGY,1334,1330,3,Viral skin diseases,0.0,0,114535775
+EGY,1335,1330,3,Acne vulgaris,0.0,0,114535775
+EGY,1336,1330,3,Alopecia areata,0.0,0,114535775
+EGY,1337,1330,3,Other specified skin diseases,620.4,13956,114535775
+EGY,1339,1330,3,Other skin and subcutaneous diseases,3.9,198,114535775
+EGY,1340,600,2,Musculoskeletal diseases,206.7,2022901,114535775
+EGY,1350,1340,3,Rheumatoid arthritis,34.0,17750,114535775
+EGY,1360,1340,3,Osteoarthritis,0.0,184032,114535775
+EGY,1370,1340,3,Gout,0.0,14545,114535775
+EGY,1380,1340,3,Back and neck pain,0.0,1354681,114535775
+EGY,1390,1340,3,Other musculoskeletal disorders,172.6,451894,114535775
+EGY,1400,600,2,Congenital anomalies,17677.9,1724032,114535775
+EGY,1410,1400,3,Neural tube defects,1315.7,124067,114535775
+EGY,1420,1400,3,Cleft lip and cleft palate,71.1,13007,114535775
+EGY,1430,1400,3,Down syndrome,861.7,79298,114535775
+EGY,1440,1400,3,Congenital heart anomalies,8900.3,825511,114535775
+EGY,1450,1400,3,Other chromosomal anomalies,952.5,93628,114535775
+EGY,1460,1400,3,Other congenital anomalies,5576.6,588520,114535775
+EGY,1470,600,2,Oral conditions,0.0,294129,114535775
+EGY,1480,1470,3,Dental caries,0.0,36492,114535775
+EGY,1490,1470,3,Periodontal disease,0.0,74065,114535775
+EGY,1500,1470,3,Edentulism,0.0,123325,114535775
+EGY,1502,1470,3,Other oral disorders,0.0,60248,114535775
+EGY,1505,600,2,Sudden infant death syndrome,583.8,53809,114535775
+EGY,1510,0,1,Injuries,21416.6,2028515,114535775
+EGY,1520,1510,2,Unintentional injuries,19272.7,1805809,114535775
+EGY,1530,1520,3,Road injury,9071.5,733670,114535775
+EGY,1540,1520,3,Poisonings,331.7,23038,114535775
+EGY,1550,1520,3,Falls,3057.6,373312,114535775
+EGY,1560,1520,3,"Fire, heat and hot substances",793.1,64048,114535775
+EGY,1570,1520,3,Drowning,2048.3,148754,114535775
+EGY,1575,1520,3,Exposure to mechanical forces,989.3,107847,114535775
+EGY,1580,1520,3,Natural disasters,0.0,637,114535775
+EGY,1590,1520,3,Other unintentional injuries,2981.1,354503,114535775
+EGY,1600,1510,2,Intentional injuries,2143.9,222706,114535775
+EGY,1610,1600,3,Self-harm,765.3,44391,114535775
+EGY,1620,1600,3,Interpersonal violence,434.4,70502,114535775
+EGY,1630,1600,3,Collective violence and legal intervention,944.1,107813,114535775
+JOR,0,,0,All Causes,27102.0,2160150,11439230
+JOR,10,0,1,"Communicable, maternal, perinatal and nutritional conditions",3091.5,343727,11439230
+JOR,20,10,2,Infectious and parasitic diseases,295.6,40259,11439230
+JOR,30,20,3,Tuberculosis,10.1,791,11439230
+JOR,40,20,3,STDs excluding HIV,32.8,3892,11439230
+JOR,100,20,3,HIV/AIDS,16.9,917,11439230
+JOR,110,20,3,Diarrhoeal diseases,118.0,15435,11439230
+JOR,120,20,3,Childhood-cluster diseases,37.2,3540,11439230
+JOR,170,20,3,Meningitis,42.5,3668,11439230
+JOR,180,20,3,Encephalitis,4.6,579,11439230
+JOR,185,20,3,Hepatitis,16.5,1115,11439230
+JOR,210,20,3,Parasitic and vector diseases,3.0,715,11439230
+JOR,330,20,3,Intestinal nematode infections,0.1,223,11439230
+JOR,365,20,3,Leprosy,0.0,0,11439230
+JOR,370,20,3,Other infectious diseases,14.0,9643,11439230
+JOR,380,10,2,Respiratory infections,1425.2,90692,11439230
+JOR,390,380,3,Lower respiratory infections,912.0,45701,11439230
+JOR,395,380,3,COVID-19,512.7,36318,11439230
+JOR,400,380,3,Upper respiratory infections,0.5,4966,11439230
+JOR,410,380,3,Otitis media,0.0,3706,11439230
+JOR,420,10,2,Maternal conditions,60.9,4372,11439230
+JOR,490,10,2,Neonatal conditions,1296.9,151582,11439230
+JOR,500,490,3,Preterm birth complications,966.4,110518,11439230
+JOR,510,490,3,Birth asphyxia and birth trauma,245.0,25435,11439230
+JOR,520,490,3,Neonatal sepsis and infections,40.5,8653,11439230
+JOR,530,490,3,Other neonatal conditions,45.0,6976,11439230
+JOR,540,10,2,Nutritional deficiencies,12.9,56563,11439230
+JOR,550,540,3,Protein-energy malnutrition,9.2,223,11439230
+JOR,560,540,3,Iodine deficiency,0.0,1354,11439230
+JOR,570,540,3,Vitamin A deficiency,0.0,1059,11439230
+JOR,580,540,3,Iron-deficiency anaemia,0.0,53812,11439230
+JOR,590,540,3,Other nutritional deficiencies,3.7,115,11439230
+JOR,600,0,1,Noncommunicable diseases,21590.5,1625469,11439230
+JOR,610,600,2,Malignant neoplasms,5778.0,194257,11439230
+JOR,620,610,3,Mouth and oropharynx cancers,86.2,3103,11439230
+JOR,630,610,3,Oesophagus cancer,59.8,1641,11439230
+JOR,640,610,3,Stomach cancer,293.5,9680,11439230
+JOR,650,610,3,Colon and rectum cancers,606.8,19283,11439230
+JOR,660,610,3,Liver cancer,193.3,5628,11439230
+JOR,670,610,3,Pancreas cancer,276.3,8505,11439230
+JOR,680,610,3,"Trachea, bronchus, lung cancers",907.0,26994,11439230
+JOR,690,610,3,Melanoma and other skin cancers,40.4,1142,11439230
+JOR,700,610,3,Breast cancer,680.4,27076,11439230
+JOR,710,610,3,Cervix uteri cancer,80.7,2737,11439230
+JOR,720,610,3,Corpus uteri cancer,62.7,1996,11439230
+JOR,730,610,3,Ovary cancer,123.2,4250,11439230
+JOR,740,610,3,Prostate cancer,183.8,3907,11439230
+JOR,742,610,3,Testicular cancer,9.9,568,11439230
+JOR,745,610,3,Kidney cancer,100.4,3394,11439230
+JOR,750,610,3,Bladder cancer,207.1,5300,11439230
+JOR,751,610,3,Brain and nervous system cancers,261.5,11056,11439230
+JOR,752,610,3,Gallbladder and biliary tract cancer,47.0,1232,11439230
+JOR,753,610,3,Larynx cancer,104.1,3160,11439230
+JOR,754,610,3,Thyroid cancer,55.0,1595,11439230
+JOR,755,610,3,Mesothelioma,7.1,254,11439230
+JOR,760,610,3,"Lymphomas, multiple myeloma",371.3,13703,11439230
+JOR,770,610,3,Leukaemia,369.9,15513,11439230
+JOR,780,610,3,Other malignant neoplasms,650.8,22542,11439230
+JOR,790,600,2,Other neoplasms,84.5,3794,11439230
+JOR,800,600,2,Diabetes mellitus,1388.8,112758,11439230
+JOR,810,600,2,"Endocrine, blood, immune disorders",173.7,29813,11439230
+JOR,811,810,3,Thalassaemias,6.1,6198,11439230
+JOR,812,810,3,Sickle cell disorders and trait,8.3,3971,11439230
+JOR,813,810,3,Other haemoglobinopathies and haemolytic anaemias,10.0,4992,11439230
+JOR,814,810,3,"Other endocrine, blood and immune disorders",149.3,14651,11439230
+JOR,820,600,2,Mental and substance use disorders,10.6,284282,11439230
+JOR,830,820,3,Depressive disorders,0.0,98221,11439230
+JOR,840,820,3,Bipolar disorder,0.0,16062,11439230
+JOR,850,820,3,Schizophrenia,0.0,24020,11439230
+JOR,860,820,3,Alcohol use disorders,2.8,3736,11439230
+JOR,870,820,3,Drug use disorders,7.8,11435,11439230
+JOR,880,820,3,Anxiety disorders,0.0,80561,11439230
+JOR,890,820,3,Eating disorders,0.0,6057,11439230
+JOR,900,820,3,Autism and Asperger syndrome,0.0,15894,11439230
+JOR,910,820,3,Childhood behavioural disorders,0.0,13011,11439230
+JOR,920,820,3,Idiopathic intellectual disability,0.0,3351,11439230
+JOR,930,820,3,Other mental and behavioural disorders,0.0,11933,11439230
+JOR,940,600,2,Neurological conditions,1059.3,109987,11439230
+JOR,950,940,3,Alzheimer disease and other dementias,704.1,16348,11439230
+JOR,960,940,3,Parkinson disease,184.5,4109,11439230
+JOR,970,940,3,Epilepsy,48.3,9909,11439230
+JOR,980,940,3,Multiple sclerosis,15.8,2095,11439230
+JOR,990,940,3,Migraine,0.0,63184,11439230
+JOR,1000,940,3,Non-migraine headache,0.0,7325,11439230
+JOR,1010,940,3,Other neurological conditions,106.6,7018,11439230
+JOR,1020,600,2,Sense organ diseases,0.0,54075,11439230
+JOR,1030,1020,3,Glaucoma,0.0,377,11439230
+JOR,1040,1020,3,Cataracts,0.0,1454,11439230
+JOR,1050,1020,3,Uncorrected refractive errors,0.0,2592,11439230
+JOR,1060,1020,3,Macular degeneration,0.0,197,11439230
+JOR,1070,1020,3,Other vision loss,0.0,2528,11439230
+JOR,1080,1020,3,Other hearing loss,0.0,44331,11439230
+JOR,1090,1020,3,Other sense organ disorders,0.0,2596,11439230
+JOR,1100,600,2,Cardiovascular diseases,9016.5,237671,11439230
+JOR,1110,1100,3,Rheumatic heart disease,24.0,1129,11439230
+JOR,1120,1100,3,Hypertensive heart disease,1652.2,34572,11439230
+JOR,1130,1100,3,Ischaemic heart disease,4156.9,111078,11439230
+JOR,1140,1100,3,Stroke,2811.6,74009,11439230
+JOR,1150,1100,3,"Cardiomyopathy, myocarditis, endocarditis",84.5,3480,11439230
+JOR,1160,1100,3,Other circulatory diseases,287.3,13404,11439230
+JOR,1170,600,2,Respiratory diseases,620.0,44038,11439230
+JOR,1180,1170,3,Chronic obstructive pulmonary disease,391.3,17221,11439230
+JOR,1190,1170,3,Asthma,90.1,21320,11439230
+JOR,1200,1170,3,Other respiratory diseases,138.6,5497,11439230
+JOR,1210,600,2,Digestive diseases,557.4,35555,11439230
+JOR,1220,1210,3,Peptic ulcer disease,33.5,1056,11439230
+JOR,1230,1210,3,Cirrhosis of the liver,298.1,8742,11439230
+JOR,1240,1210,3,Appendicitis,3.1,442,11439230
+JOR,1241,1210,3,Gastritis and duodenitis,0.5,789,11439230
+JOR,1242,1210,3,Paralytic ileus and intestinal obstruction,83.8,2329,11439230
+JOR,1244,1210,3,Inflammatory bowel disease,9.1,1006,11439230
+JOR,1246,1210,3,Gallbladder and biliary diseases,64.1,7893,11439230
+JOR,1248,1210,3,Pancreatitis,33.4,1199,11439230
+JOR,1250,1210,3,Other digestive diseases,31.7,12098,11439230
+JOR,1260,600,2,Genitourinary diseases,1758.6,109150,11439230
+JOR,1270,1260,3,Kidney diseases,1682.9,46181,11439230
+JOR,1280,1260,3,Benign prostatic hyperplasia,0.0,1660,11439230
+JOR,1290,1260,3,Urolithiasis,1.8,359,11439230
+JOR,1300,1260,3,Other urinary diseases,73.3,2088,11439230
+JOR,1310,1260,3,Infertility,0.0,914,11439230
+JOR,1320,1260,3,Gynecological diseases,0.6,57947,11439230
+JOR,1330,600,2,Skin diseases,56.9,68315,11439230
+JOR,1331,1330,3,Dermatitis,0.0,0,11439230
+JOR,1332,1330,3,Psoriasis,0.0,0,11439230
+JOR,1333,1330,3,Fungal skin diseases,0.0,0,11439230
+JOR,1334,1330,3,Viral skin diseases,0.0,0,11439230
+JOR,1335,1330,3,Acne vulgaris,0.0,0,11439230
+JOR,1336,1330,3,Alopecia areata,0.0,0,11439230
+JOR,1337,1330,3,Other specified skin diseases,53.7,1029,11439230
+JOR,1339,1330,3,Other skin and subcutaneous diseases,3.2,114,11439230
+JOR,1340,600,2,Musculoskeletal diseases,35.5,203628,11439230
+JOR,1350,1340,3,Rheumatoid arthritis,1.8,1652,11439230
+JOR,1360,1340,3,Osteoarthritis,0.0,18665,11439230
+JOR,1370,1340,3,Gout,0.0,1520,11439230
+JOR,1380,1340,3,Back and neck pain,0.0,132734,11439230
+JOR,1390,1340,3,Other musculoskeletal disorders,33.6,49057,11439230
+JOR,1400,600,2,Congenital anomalies,1023.8,105616,11439230
+JOR,1410,1400,3,Neural tube defects,27.6,2916,11439230
+JOR,1420,1400,3,Cleft lip and cleft palate,1.9,855,11439230
+JOR,1430,1400,3,Down syndrome,53.0,5128,11439230
+JOR,1440,1400,3,Congenital heart anomalies,502.2,48218,11439230
+JOR,1450,1400,3,Other chromosomal anomalies,26.3,3163,11439230
+JOR,1460,1400,3,Other congenital anomalies,412.8,45335,11439230
+JOR,1470,600,2,Oral conditions,0.0,30055,11439230
+JOR,1480,1470,3,Dental caries,0.0,4379,11439230
+JOR,1490,1470,3,Periodontal disease,0.0,7292,11439230
+JOR,1500,1470,3,Edentulism,0.0,12361,11439230
+JOR,1502,1470,3,Other oral disorders,0.0,6023,11439230
+JOR,1505,600,2,Sudden infant death syndrome,26.9,2478,11439230
+JOR,1510,0,1,Injuries,2420.1,190953,11439230
+JOR,1520,1510,2,Unintentional injuries,2164.9,170091,11439230
+JOR,1530,1520,3,Road injury,1570.9,88079,11439230
+JOR,1540,1520,3,Poisonings,35.3,2276,11439230
+JOR,1550,1520,3,Falls,169.8,31138,11439230
+JOR,1560,1520,3,"Fire, heat and hot substances",91.0,6684,11439230
+JOR,1570,1520,3,Drowning,61.5,4344,11439230
+JOR,1575,1520,3,Exposure to mechanical forces,40.2,7202,11439230
+JOR,1580,1520,3,Natural disasters,0.0,25,11439230
+JOR,1590,1520,3,Other unintentional injuries,196.1,30341,11439230
+JOR,1600,1510,2,Intentional injuries,255.2,20863,11439230
+JOR,1610,1600,3,Self-harm,99.0,5655,11439230
+JOR,1620,1600,3,Interpersonal violence,145.0,14121,11439230
+JOR,1630,1600,3,Collective violence and legal intervention,11.2,1086,11439230
+LBN,0,,0,All Causes,31179.4,1580896,5773494
+LBN,10,0,1,"Communicable, maternal, perinatal and nutritional conditions",4209.7,203796,5773494
+LBN,20,10,2,Infectious and parasitic diseases,561.9,31290,5773494
+LBN,30,20,3,Tuberculosis,98.0,3675,5773494
+LBN,40,20,3,STDs excluding HIV,10.1,1106,5773494
+LBN,100,20,3,HIV/AIDS,26.1,1571,5773494
+LBN,110,20,3,Diarrhoeal diseases,158.9,10843,5773494
+LBN,120,20,3,Childhood-cluster diseases,29.4,2449,5773494
+LBN,170,20,3,Meningitis,37.2,2365,5773494
+LBN,180,20,3,Encephalitis,21.0,1216,5773494
+LBN,185,20,3,Hepatitis,17.7,823,5773494
+LBN,210,20,3,Parasitic and vector diseases,3.7,155,5773494
+LBN,330,20,3,Intestinal nematode infections,0.1,5,5773494
+LBN,365,20,3,Leprosy,0.0,1,5773494
+LBN,370,20,3,Other infectious diseases,159.8,7086,5773494
+LBN,380,10,2,Respiratory infections,2932.7,82224,5773494
+LBN,390,380,3,Lower respiratory infections,2410.8,57676,5773494
+LBN,395,380,3,COVID-19,519.6,19892,5773494
+LBN,400,380,3,Upper respiratory infections,2.1,2986,5773494
+LBN,410,380,3,Otitis media,0.1,1671,5773494
+LBN,420,10,2,Maternal conditions,12.6,1157,5773494
+LBN,490,10,2,Neonatal conditions,683.8,74628,5773494
+LBN,500,490,3,Preterm birth complications,508.3,53581,5773494
+LBN,510,490,3,Birth asphyxia and birth trauma,128.0,13389,5773494
+LBN,520,490,3,Neonatal sepsis and infections,17.0,3981,5773494
+LBN,530,490,3,Other neonatal conditions,30.6,3678,5773494
+LBN,540,10,2,Nutritional deficiencies,18.6,14491,5773494
+LBN,550,540,3,Protein-energy malnutrition,16.1,679,5773494
+LBN,560,540,3,Iodine deficiency,0.0,749,5773494
+LBN,570,540,3,Vitamin A deficiency,0.0,62,5773494
+LBN,580,540,3,Iron-deficiency anaemia,0.0,12864,5773494
+LBN,590,540,3,Other nutritional deficiencies,2.5,138,5773494
+LBN,600,0,1,Noncommunicable diseases,24839.9,1209363,5773494
+LBN,610,600,2,Malignant neoplasms,8067.3,236497,5773494
+LBN,620,610,3,Mouth and oropharynx cancers,89.2,2626,5773494
+LBN,630,610,3,Oesophagus cancer,49.1,1305,5773494
+LBN,640,610,3,Stomach cancer,283.9,8271,5773494
+LBN,650,610,3,Colon and rectum cancers,672.1,18621,5773494
+LBN,660,610,3,Liver cancer,199.6,5513,5773494
+LBN,670,610,3,Pancreas cancer,305.8,8676,5773494
+LBN,680,610,3,"Trachea, bronchus, lung cancers",1473.9,40547,5773494
+LBN,690,610,3,Melanoma and other skin cancers,141.9,2832,5773494
+LBN,700,610,3,Breast cancer,901.5,31324,5773494
+LBN,710,610,3,Cervix uteri cancer,77.9,2271,5773494
+LBN,720,610,3,Corpus uteri cancer,97.7,2787,5773494
+LBN,730,610,3,Ovary cancer,200.1,6248,5773494
+LBN,740,610,3,Prostate cancer,368.4,7509,5773494
+LBN,742,610,3,Testicular cancer,14.5,791,5773494
+LBN,745,610,3,Kidney cancer,130.9,3896,5773494
+LBN,750,610,3,Bladder cancer,499.1,12001,5773494
+LBN,751,610,3,Brain and nervous system cancers,262.6,10740,5773494
+LBN,752,610,3,Gallbladder and biliary tract cancer,44.8,1087,5773494
+LBN,753,610,3,Larynx cancer,102.3,2959,5773494
+LBN,754,610,3,Thyroid cancer,49.8,1587,5773494
+LBN,755,610,3,Mesothelioma,29.2,817,5773494
+LBN,760,610,3,"Lymphomas, multiple myeloma",593.2,17800,5773494
+LBN,770,610,3,Leukaemia,358.7,14036,5773494
+LBN,780,610,3,Other malignant neoplasms,1121.1,32253,5773494
+LBN,790,600,2,Other neoplasms,61.5,1618,5773494
+LBN,800,600,2,Diabetes mellitus,666.8,79079,5773494
+LBN,810,600,2,"Endocrine, blood, immune disorders",298.9,19542,5773494
+LBN,811,810,3,Thalassaemias,13.8,2919,5773494
+LBN,812,810,3,Sickle cell disorders and trait,21.6,2312,5773494
+LBN,813,810,3,Other haemoglobinopathies and haemolytic anaemias,35.4,2190,5773494
+LBN,814,810,3,"Other endocrine, blood and immune disorders",228.1,12121,5773494
+LBN,820,600,2,Mental and substance use disorders,33.3,174384,5773494
+LBN,830,820,3,Depressive disorders,0.0,61187,5773494
+LBN,840,820,3,Bipolar disorder,0.0,9093,5773494
+LBN,850,820,3,Schizophrenia,0.0,12453,5773494
+LBN,860,820,3,Alcohol use disorders,4.5,1972,5773494
+LBN,870,820,3,Drug use disorders,28.5,8434,5773494
+LBN,880,820,3,Anxiety disorders,0.0,56295,5773494
+LBN,890,820,3,Eating disorders,0.3,3019,5773494
+LBN,900,820,3,Autism and Asperger syndrome,0.0,7503,5773494
+LBN,910,820,3,Childhood behavioural disorders,0.0,5980,5773494
+LBN,920,820,3,Idiopathic intellectual disability,0.0,1917,5773494
+LBN,930,820,3,Other mental and behavioural disorders,0.0,6531,5773494
+LBN,940,600,2,Neurological conditions,2317.7,88323,5773494
+LBN,950,940,3,Alzheimer disease and other dementias,1865.0,29705,5773494
+LBN,960,940,3,Parkinson disease,242.9,4440,5773494
+LBN,970,940,3,Epilepsy,129.8,11517,5773494
+LBN,980,940,3,Multiple sclerosis,11.2,1073,5773494
+LBN,990,940,3,Migraine,0.0,33142,5773494
+LBN,1000,940,3,Non-migraine headache,0.0,3979,5773494
+LBN,1010,940,3,Other neurological conditions,68.8,4469,5773494
+LBN,1020,600,2,Sense organ diseases,0.0,43771,5773494
+LBN,1030,1020,3,Glaucoma,0.0,430,5773494
+LBN,1040,1020,3,Cataracts,0.0,3693,5773494
+LBN,1050,1020,3,Uncorrected refractive errors,0.0,2988,5773494
+LBN,1060,1020,3,Macular degeneration,0.0,315,5773494
+LBN,1070,1020,3,Other vision loss,0.0,2207,5773494
+LBN,1080,1020,3,Other hearing loss,0.0,32325,5773494
+LBN,1090,1020,3,Other sense organ disorders,0.0,1813,5773494
+LBN,1100,600,2,Cardiovascular diseases,7955.9,171871,5773494
+LBN,1110,1100,3,Rheumatic heart disease,70.3,2454,5773494
+LBN,1120,1100,3,Hypertensive heart disease,713.4,11383,5773494
+LBN,1130,1100,3,Ischaemic heart disease,4269.0,87812,5773494
+LBN,1140,1100,3,Stroke,2192.6,46277,5773494
+LBN,1150,1100,3,"Cardiomyopathy, myocarditis, endocarditis",105.5,2968,5773494
+LBN,1160,1100,3,Other circulatory diseases,605.1,20977,5773494
+LBN,1170,600,2,Respiratory diseases,1575.1,55566,5773494
+LBN,1180,1170,3,Chronic obstructive pulmonary disease,1208.4,31286,5773494
+LBN,1190,1170,3,Asthma,137.3,17829,5773494
+LBN,1200,1170,3,Other respiratory diseases,229.4,6450,5773494
+LBN,1210,600,2,Digestive diseases,1128.6,36985,5773494
+LBN,1220,1210,3,Peptic ulcer disease,67.3,1511,5773494
+LBN,1230,1210,3,Cirrhosis of the liver,615.2,14554,5773494
+LBN,1240,1210,3,Appendicitis,4.6,301,5773494
+LBN,1241,1210,3,Gastritis and duodenitis,6.3,680,5773494
+LBN,1242,1210,3,Paralytic ileus and intestinal obstruction,106.8,2153,5773494
+LBN,1244,1210,3,Inflammatory bowel disease,32.0,1683,5773494
+LBN,1246,1210,3,Gallbladder and biliary diseases,149.0,6667,5773494
+LBN,1248,1210,3,Pancreatitis,66.8,1426,5773494
+LBN,1250,1210,3,Other digestive diseases,80.6,8009,5773494
+LBN,1260,600,2,Genitourinary diseases,2017.3,72828,5773494
+LBN,1270,1260,3,Kidney diseases,1762.9,35074,5773494
+LBN,1280,1260,3,Benign prostatic hyperplasia,0.0,1247,5773494
+LBN,1290,1260,3,Urolithiasis,1.9,184,5773494
+LBN,1300,1260,3,Other urinary diseases,251.0,4131,5773494
+LBN,1310,1260,3,Infertility,0.0,634,5773494
+LBN,1320,1260,3,Gynecological diseases,1.4,31558,5773494
+LBN,1330,600,2,Skin diseases,140.8,34034,5773494
+LBN,1331,1330,3,Dermatitis,0.0,0,5773494
+LBN,1332,1330,3,Psoriasis,0.0,0,5773494
+LBN,1333,1330,3,Fungal skin diseases,0.0,0,5773494
+LBN,1334,1330,3,Viral skin diseases,0.0,0,5773494
+LBN,1335,1330,3,Acne vulgaris,0.0,0,5773494
+LBN,1336,1330,3,Alopecia areata,0.0,0,5773494
+LBN,1337,1330,3,Other specified skin diseases,138.0,2027,5773494
+LBN,1339,1330,3,Other skin and subcutaneous diseases,2.8,71,5773494
+LBN,1340,600,2,Musculoskeletal diseases,58.9,123044,5773494
+LBN,1350,1340,3,Rheumatoid arthritis,6.3,1530,5773494
+LBN,1360,1340,3,Osteoarthritis,0.0,15028,5773494
+LBN,1370,1340,3,Gout,0.0,985,5773494
+LBN,1380,1340,3,Back and neck pain,0.0,78295,5773494
+LBN,1390,1340,3,Other musculoskeletal disorders,52.6,27207,5773494
+LBN,1400,600,2,Congenital anomalies,503.4,50937,5773494
+LBN,1410,1400,3,Neural tube defects,26.9,2736,5773494
+LBN,1420,1400,3,Cleft lip and cleft palate,3.2,610,5773494
+LBN,1430,1400,3,Down syndrome,28.1,2579,5773494
+LBN,1440,1400,3,Congenital heart anomalies,241.3,22681,5773494
+LBN,1450,1400,3,Other chromosomal anomalies,35.0,3492,5773494
+LBN,1460,1400,3,Other congenital anomalies,168.9,18837,5773494
+LBN,1470,600,2,Oral conditions,0.0,19550,5773494
+LBN,1480,1470,3,Dental caries,0.0,2224,5773494
+LBN,1490,1470,3,Periodontal disease,0.0,4579,5773494
+LBN,1500,1470,3,Edentulism,0.0,9617,5773494
+LBN,1502,1470,3,Other oral disorders,0.0,3130,5773494
+LBN,1505,600,2,Sudden infant death syndrome,14.5,1335,5773494
+LBN,1510,0,1,Injuries,2129.8,167737,5773494
+LBN,1520,1510,2,Unintentional injuries,1705.0,121453,5773494
+LBN,1530,1520,3,Road injury,395.9,24515,5773494
+LBN,1540,1520,3,Poisonings,15.4,1000,5773494
+LBN,1550,1520,3,Falls,477.8,38997,5773494
+LBN,1560,1520,3,"Fire, heat and hot substances",104.7,6237,5773494
+LBN,1570,1520,3,Drowning,57.1,4022,5773494
+LBN,1575,1520,3,Exposure to mechanical forces,175.3,13258,5773494
+LBN,1580,1520,3,Natural disasters,0.0,19,5773494
+LBN,1590,1520,3,Other unintentional injuries,478.8,33406,5773494
+LBN,1600,1510,2,Intentional injuries,424.8,46283,5773494
+LBN,1610,1600,3,Self-harm,65.2,3632,5773494
+LBN,1620,1600,3,Interpersonal violence,222.0,15160,5773494
+LBN,1630,1600,3,Collective violence and legal intervention,137.6,27491,5773494
+IRQ,0,,0,All Causes,167979.8,12109574,45074050
+IRQ,10,0,1,"Communicable, maternal, perinatal and nutritional conditions",23147.9,2382971,45074050
+IRQ,20,10,2,Infectious and parasitic diseases,4027.1,372878,45074050
+IRQ,30,20,3,Tuberculosis,723.7,44196,45074050
+IRQ,40,20,3,STDs excluding HIV,154.0,19412,45074050
+IRQ,100,20,3,HIV/AIDS,38.2,2532,45074050
+IRQ,110,20,3,Diarrhoeal diseases,1377.3,144852,45074050
+IRQ,120,20,3,Childhood-cluster diseases,420.4,39439,45074050
+IRQ,170,20,3,Meningitis,371.1,25768,45074050
+IRQ,180,20,3,Encephalitis,449.1,31049,45074050
+IRQ,185,20,3,Hepatitis,210.5,11654,45074050
+IRQ,210,20,3,Parasitic and vector diseases,71.6,44488,45074050
+IRQ,330,20,3,Intestinal nematode infections,0.7,103,45074050
+IRQ,365,20,3,Leprosy,0.0,4,45074050
+IRQ,370,20,3,Other infectious diseases,214.2,35631,45074050
+IRQ,380,10,2,Respiratory infections,6939.9,577466,45074050
+IRQ,390,380,3,Lower respiratory infections,6063.2,441858,45074050
+IRQ,395,380,3,COVID-19,864.5,95983,45074050
+IRQ,400,380,3,Upper respiratory infections,12.3,25691,45074050
+IRQ,410,380,3,Otitis media,0.0,13935,45074050
+IRQ,420,10,2,Maternal conditions,765.3,51637,45074050
+IRQ,490,10,2,Neonatal conditions,11192.7,1193617,45074050
+IRQ,500,490,3,Preterm birth complications,8014.2,845370,45074050
+IRQ,510,490,3,Birth asphyxia and birth trauma,1894.8,192477,45074050
+IRQ,520,490,3,Neonatal sepsis and infections,405.5,55632,45074050
+IRQ,530,490,3,Other neonatal conditions,878.2,100138,45074050
+IRQ,540,10,2,Nutritional deficiencies,219.2,161125,45074050
+IRQ,550,540,3,Protein-energy malnutrition,177.4,10892,45074050
+IRQ,560,540,3,Iodine deficiency,0.0,9339,45074050
+IRQ,570,540,3,Vitamin A deficiency,0.0,3798,45074050
+IRQ,580,540,3,Iron-deficiency anaemia,0.0,134783,45074050
+IRQ,590,540,3,Other nutritional deficiencies,41.7,2312,45074050
+IRQ,600,0,1,Noncommunicable diseases,118330.0,7521238,45074050
+IRQ,610,600,2,Malignant neoplasms,20765.0,779274,45074050
+IRQ,620,610,3,Mouth and oropharynx cancers,365.2,13306,45074050
+IRQ,630,610,3,Oesophagus cancer,235.8,7500,45074050
+IRQ,640,610,3,Stomach cancer,956.5,32129,45074050
+IRQ,650,610,3,Colon and rectum cancers,1329.2,47347,45074050
+IRQ,660,610,3,Liver cancer,728.4,22122,45074050
+IRQ,670,610,3,Pancreas cancer,765.6,23985,45074050
+IRQ,680,610,3,"Trachea, bronchus, lung cancers",2609.3,75392,45074050
+IRQ,690,610,3,Melanoma and other skin cancers,150.1,4477,45074050
+IRQ,700,610,3,Breast cancer,3420.8,141542,45074050
+IRQ,710,610,3,Cervix uteri cancer,256.9,9920,45074050
+IRQ,720,610,3,Corpus uteri cancer,201.6,7384,45074050
+IRQ,730,610,3,Ovary cancer,617.2,23284,45074050
+IRQ,740,610,3,Prostate cancer,335.5,7846,45074050
+IRQ,742,610,3,Testicular cancer,59.6,3291,45074050
+IRQ,745,610,3,Kidney cancer,416.2,15587,45074050
+IRQ,750,610,3,Bladder cancer,889.4,25765,45074050
+IRQ,751,610,3,Brain and nervous system cancers,1380.2,65892,45074050
+IRQ,752,610,3,Gallbladder and biliary tract cancer,151.9,4345,45074050
+IRQ,753,610,3,Larynx cancer,341.6,10620,45074050
+IRQ,754,610,3,Thyroid cancer,231.7,10299,45074050
+IRQ,755,610,3,Mesothelioma,26.3,873,45074050
+IRQ,760,610,3,"Lymphomas, multiple myeloma",1495.7,59912,45074050
+IRQ,770,610,3,Leukaemia,1581.6,79251,45074050
+IRQ,780,610,3,Other malignant neoplasms,2218.6,87207,45074050
+IRQ,790,600,2,Other neoplasms,57.5,3017,45074050
+IRQ,800,600,2,Diabetes mellitus,9204.4,544877,45074050
+IRQ,810,600,2,"Endocrine, blood, immune disorders",588.9,102578,45074050
+IRQ,811,810,3,Thalassaemias,41.2,18173,45074050
+IRQ,812,810,3,Sickle cell disorders and trait,123.7,21617,45074050
+IRQ,813,810,3,Other haemoglobinopathies and haemolytic anaemias,57.7,14625,45074050
+IRQ,814,810,3,"Other endocrine, blood and immune disorders",366.4,48163,45074050
+IRQ,820,600,2,Mental and substance use disorders,577.2,1142217,45074050
+IRQ,830,820,3,Depressive disorders,0.0,326205,45074050
+IRQ,840,820,3,Bipolar disorder,0.0,51807,45074050
+IRQ,850,820,3,Schizophrenia,0.0,77328,45074050
+IRQ,860,820,3,Alcohol use disorders,2.7,13321,45074050
+IRQ,870,820,3,Drug use disorders,574.5,70827,45074050
+IRQ,880,820,3,Anxiety disorders,0.0,418536,45074050
+IRQ,890,820,3,Eating disorders,0.0,26025,45074050
+IRQ,900,820,3,Autism and Asperger syndrome,0.0,50835,45074050
+IRQ,910,820,3,Childhood behavioural disorders,0.0,53033,45074050
+IRQ,920,820,3,Idiopathic intellectual disability,0.0,14021,45074050
+IRQ,930,820,3,Other mental and behavioural disorders,0.0,40279,45074050
+IRQ,940,600,2,Neurological conditions,4855.4,446637,45074050
+IRQ,950,940,3,Alzheimer disease and other dementias,3135.0,67644,45074050
+IRQ,960,940,3,Parkinson disease,884.1,20177,45074050
+IRQ,970,940,3,Epilepsy,367.7,58257,45074050
+IRQ,980,940,3,Multiple sclerosis,30.8,4389,45074050
+IRQ,990,940,3,Migraine,0.0,235511,45074050
+IRQ,1000,940,3,Non-migraine headache,0.0,26543,45074050
+IRQ,1010,940,3,Other neurological conditions,437.8,34117,45074050
+IRQ,1020,600,2,Sense organ diseases,0.0,197210,45074050
+IRQ,1030,1020,3,Glaucoma,0.0,2022,45074050
+IRQ,1040,1020,3,Cataracts,0.0,10835,45074050
+IRQ,1050,1020,3,Uncorrected refractive errors,0.0,14547,45074050
+IRQ,1060,1020,3,Macular degeneration,0.0,1081,45074050
+IRQ,1070,1020,3,Other vision loss,0.0,8202,45074050
+IRQ,1080,1020,3,Other hearing loss,0.0,151571,45074050
+IRQ,1090,1020,3,Other sense organ disorders,0.0,8952,45074050
+IRQ,1100,600,2,Cardiovascular diseases,59415.4,1721783,45074050
+IRQ,1110,1100,3,Rheumatic heart disease,431.3,34113,45074050
+IRQ,1120,1100,3,Hypertensive heart disease,4561.7,103144,45074050
+IRQ,1130,1100,3,Ischaemic heart disease,32374.0,893350,45074050
+IRQ,1140,1100,3,Stroke,19267.2,567624,45074050
+IRQ,1150,1100,3,"Cardiomyopathy, myocarditis, endocarditis",1186.2,53906,45074050
+IRQ,1160,1100,3,Other circulatory diseases,1595.0,69646,45074050
+IRQ,1170,600,2,Respiratory diseases,6399.4,267309,45074050
+IRQ,1180,1170,3,Chronic obstructive pulmonary disease,3601.0,106377,45074050
+IRQ,1190,1170,3,Asthma,1827.0,117257,45074050
+IRQ,1200,1170,3,Other respiratory diseases,971.3,43676,45074050
+IRQ,1210,600,2,Digestive diseases,3054.3,180588,45074050
+IRQ,1220,1210,3,Peptic ulcer disease,162.5,6244,45074050
+IRQ,1230,1210,3,Cirrhosis of the liver,2338.3,85311,45074050
+IRQ,1240,1210,3,Appendicitis,10.5,1725,45074050
+IRQ,1241,1210,3,Gastritis and duodenitis,12.4,3814,45074050
+IRQ,1242,1210,3,Paralytic ileus and intestinal obstruction,216.2,10822,45074050
+IRQ,1244,1210,3,Inflammatory bowel disease,57.5,4048,45074050
+IRQ,1246,1210,3,Gallbladder and biliary diseases,123.2,22667,45074050
+IRQ,1248,1210,3,Pancreatitis,88.5,3704,45074050
+IRQ,1250,1210,3,Other digestive diseases,45.2,42253,45074050
+IRQ,1260,600,2,Genitourinary diseases,5757.2,394528,45074050
+IRQ,1270,1260,3,Kidney diseases,5594.8,166599,45074050
+IRQ,1280,1260,3,Benign prostatic hyperplasia,0.0,3786,45074050
+IRQ,1290,1260,3,Urolithiasis,17.8,1443,45074050
+IRQ,1300,1260,3,Other urinary diseases,134.8,5739,45074050
+IRQ,1310,1260,3,Infertility,0.0,3838,45074050
+IRQ,1320,1260,3,Gynecological diseases,9.8,213123,45074050
+IRQ,1330,600,2,Skin diseases,65.0,281772,45074050
+IRQ,1331,1330,3,Dermatitis,0.0,0,45074050
+IRQ,1332,1330,3,Psoriasis,0.0,0,45074050
+IRQ,1333,1330,3,Fungal skin diseases,0.0,0,45074050
+IRQ,1334,1330,3,Viral skin diseases,0.0,0,45074050
+IRQ,1335,1330,3,Acne vulgaris,0.0,0,45074050
+IRQ,1336,1330,3,Alopecia areata,0.0,0,45074050
+IRQ,1337,1330,3,Other specified skin diseases,52.8,1299,45074050
+IRQ,1339,1330,3,Other skin and subcutaneous diseases,12.3,484,45074050
+IRQ,1340,600,2,Musculoskeletal diseases,104.5,638214,45074050
+IRQ,1350,1340,3,Rheumatoid arthritis,4.2,5405,45074050
+IRQ,1360,1340,3,Osteoarthritis,0.0,53544,45074050
+IRQ,1370,1340,3,Gout,0.0,4139,45074050
+IRQ,1380,1340,3,Back and neck pain,0.0,457221,45074050
+IRQ,1390,1340,3,Other musculoskeletal disorders,100.2,117905,45074050
+IRQ,1400,600,2,Congenital anomalies,7109.2,687003,45074050
+IRQ,1410,1400,3,Neural tube defects,301.9,29017,45074050
+IRQ,1420,1400,3,Cleft lip and cleft palate,6.4,3215,45074050
+IRQ,1430,1400,3,Down syndrome,159.2,14818,45074050
+IRQ,1440,1400,3,Congenital heart anomalies,3701.1,340211,45074050
+IRQ,1450,1400,3,Other chromosomal anomalies,139.7,15376,45074050
+IRQ,1460,1400,3,Other congenital anomalies,2800.9,284366,45074050
+IRQ,1470,600,2,Oral conditions,0.0,99507,45074050
+IRQ,1480,1470,3,Dental caries,0.0,16060,45074050
+IRQ,1490,1470,3,Periodontal disease,0.0,25341,45074050
+IRQ,1500,1470,3,Edentulism,0.0,35551,45074050
+IRQ,1502,1470,3,Other oral disorders,0.0,22555,45074050
+IRQ,1505,600,2,Sudden infant death syndrome,376.7,34723,45074050
+IRQ,1510,0,1,Injuries,26501.8,2205364,45074050
+IRQ,1520,1510,2,Unintentional injuries,17442.2,1283472,45074050
+IRQ,1530,1520,3,Road injury,9194.0,565047,45074050
+IRQ,1540,1520,3,Poisonings,109.8,7842,45074050
+IRQ,1550,1520,3,Falls,882.5,129671,45074050
+IRQ,1560,1520,3,"Fire, heat and hot substances",1204.6,82766,45074050
+IRQ,1570,1520,3,Drowning,801.6,58533,45074050
+IRQ,1575,1520,3,Exposure to mechanical forces,3619.3,272843,45074050
+IRQ,1580,1520,3,Natural disasters,3.1,271,45074050
+IRQ,1590,1520,3,Other unintentional injuries,1627.3,166500,45074050
+IRQ,1600,1510,2,Intentional injuries,9059.6,921892,45074050
+IRQ,1610,1600,3,Self-harm,1861.0,109299,45074050
+IRQ,1620,1600,3,Interpersonal violence,4371.6,304387,45074050
+IRQ,1630,1600,3,Collective violence and legal intervention,2827.0,508206,45074050
+MAR,0,,0,All Causes,210761.9,10890492,37712513
+MAR,10,0,1,"Communicable, maternal, perinatal and nutritional conditions",14599.5,1332581,37712513
+MAR,20,10,2,Infectious and parasitic diseases,4707.2,272433,37712513
+MAR,30,20,3,Tuberculosis,2683.8,96994,37712513
+MAR,40,20,3,STDs excluding HIV,331.1,33572,37712513
+MAR,100,20,3,HIV/AIDS,433.5,22880,37712513
+MAR,110,20,3,Diarrhoeal diseases,367.5,32943,37712513
+MAR,120,20,3,Childhood-cluster diseases,149.9,12746,37712513
+MAR,170,20,3,Meningitis,287.7,17855,37712513
+MAR,180,20,3,Encephalitis,65.6,4266,37712513
+MAR,185,20,3,Hepatitis,190.9,9713,37712513
+MAR,210,20,3,Parasitic and vector diseases,55.6,10079,37712513
+MAR,330,20,3,Intestinal nematode infections,0.4,470,37712513
+MAR,365,20,3,Leprosy,0.0,6,37712513
+MAR,370,20,3,Other infectious diseases,142.7,35776,37712513
+MAR,380,10,2,Respiratory infections,4627.7,296813,37712513
+MAR,390,380,3,Lower respiratory infections,4193.3,182799,37712513
+MAR,395,380,3,COVID-19,430.3,79121,37712513
+MAR,400,380,3,Upper respiratory infections,4.1,22970,37712513
+MAR,410,380,3,Otitis media,0.1,11923,37712513
+MAR,420,10,2,Maternal conditions,636.5,40854,37712513
+MAR,490,10,2,Neonatal conditions,4517.0,517029,37712513
+MAR,500,490,3,Preterm birth complications,3494.5,376435,37712513
+MAR,510,490,3,Birth asphyxia and birth trauma,785.1,85077,37712513
+MAR,520,490,3,Neonatal sepsis and infections,176.6,30420,37712513
+MAR,530,490,3,Other neonatal conditions,60.8,25097,37712513
+MAR,540,10,2,Nutritional deficiencies,109.7,200583,37712513
+MAR,550,540,3,Protein-energy malnutrition,79.0,2150,37712513
+MAR,560,540,3,Iodine deficiency,0.0,10237,37712513
+MAR,570,540,3,Vitamin A deficiency,0.0,3430,37712513
+MAR,580,540,3,Iron-deficiency anaemia,0.0,183914,37712513
+MAR,590,540,3,Other nutritional deficiencies,30.7,852,37712513
+MAR,600,0,1,Noncommunicable diseases,179131.4,8420852,37712513
+MAR,610,600,2,Malignant neoplasms,31649.8,1007262,37712513
+MAR,620,610,3,Mouth and oropharynx cancers,1005.2,34094,37712513
+MAR,630,610,3,Oesophagus cancer,334.7,9349,37712513
+MAR,640,610,3,Stomach cancer,1612.7,49542,37712513
+MAR,650,610,3,Colon and rectum cancers,2472.7,74828,37712513
+MAR,660,610,3,Liver cancer,777.7,21555,37712513
+MAR,670,610,3,Pancreas cancer,1123.0,33127,37712513
+MAR,680,610,3,"Trachea, bronchus, lung cancers",6836.4,208315,37712513
+MAR,690,610,3,Melanoma and other skin cancers,220.2,5635,37712513
+MAR,700,610,3,Breast cancer,4004.6,151861,37712513
+MAR,710,610,3,Cervix uteri cancer,1234.0,42103,37712513
+MAR,720,610,3,Corpus uteri cancer,230.5,6881,37712513
+MAR,730,610,3,Ovary cancer,774.6,27015,37712513
+MAR,740,610,3,Prostate cancer,1691.7,32359,37712513
+MAR,742,610,3,Testicular cancer,36.1,2158,37712513
+MAR,745,610,3,Kidney cancer,331.0,10414,37712513
+MAR,750,610,3,Bladder cancer,1038.0,26418,37712513
+MAR,751,610,3,Brain and nervous system cancers,988.5,40007,37712513
+MAR,752,610,3,Gallbladder and biliary tract cancer,318.2,8795,37712513
+MAR,753,610,3,Larynx cancer,629.6,17393,37712513
+MAR,754,610,3,Thyroid cancer,404.3,15164,37712513
+MAR,755,610,3,Mesothelioma,60.5,1835,37712513
+MAR,760,610,3,"Lymphomas, multiple myeloma",1666.1,51410,37712513
+MAR,770,610,3,Leukaemia,903.1,35333,37712513
+MAR,780,610,3,Other malignant neoplasms,2956.3,101671,37712513
+MAR,790,600,2,Other neoplasms,86.6,3060,37712513
+MAR,800,600,2,Diabetes mellitus,4799.3,418407,37712513
+MAR,810,600,2,"Endocrine, blood, immune disorders",1020.7,125018,37712513
+MAR,811,810,3,Thalassaemias,50.5,28215,37712513
+MAR,812,810,3,Sickle cell disorders and trait,24.4,7345,37712513
+MAR,813,810,3,Other haemoglobinopathies and haemolytic anaemias,80.6,20309,37712513
+MAR,814,810,3,"Other endocrine, blood and immune disorders",865.2,69149,37712513
+MAR,820,600,2,Mental and substance use disorders,883.3,973240,37712513
+MAR,830,820,3,Depressive disorders,0.0,329803,37712513
+MAR,840,820,3,Bipolar disorder,0.0,55733,37712513
+MAR,850,820,3,Schizophrenia,0.0,83385,37712513
+MAR,860,820,3,Alcohol use disorders,89.6,16547,37712513
+MAR,870,820,3,Drug use disorders,793.6,80275,37712513
+MAR,880,820,3,Anxiety disorders,0.0,247389,37712513
+MAR,890,820,3,Eating disorders,0.0,18415,37712513
+MAR,900,820,3,Autism and Asperger syndrome,0.0,49651,37712513
+MAR,910,820,3,Childhood behavioural disorders,0.0,37471,37712513
+MAR,920,820,3,Idiopathic intellectual disability,0.0,10017,37712513
+MAR,930,820,3,Other mental and behavioural disorders,0.0,44554,37712513
+MAR,940,600,2,Neurological conditions,5647.6,445015,37712513
+MAR,950,940,3,Alzheimer disease and other dementias,3530.2,89130,37712513
+MAR,960,940,3,Parkinson disease,1337.1,30240,37712513
+MAR,970,940,3,Epilepsy,594.7,60618,37712513
+MAR,980,940,3,Multiple sclerosis,119.6,8361,37712513
+MAR,990,940,3,Migraine,0.0,218386,37712513
+MAR,1000,940,3,Non-migraine headache,0.0,26141,37712513
+MAR,1010,940,3,Other neurological conditions,66.1,12140,37712513
+MAR,1020,600,2,Sense organ diseases,0.0,263463,37712513
+MAR,1030,1020,3,Glaucoma,0.0,4627,37712513
+MAR,1040,1020,3,Cataracts,0.0,21142,37712513
+MAR,1050,1020,3,Uncorrected refractive errors,0.0,15903,37712513
+MAR,1060,1020,3,Macular degeneration,0.0,2208,37712513
+MAR,1070,1020,3,Other vision loss,0.0,13373,37712513
+MAR,1080,1020,3,Other hearing loss,0.0,195506,37712513
+MAR,1090,1020,3,Other sense organ disorders,0.0,10704,37712513
+MAR,1100,600,2,Cardiovascular diseases,108516.9,2715846,37712513
+MAR,1110,1100,3,Rheumatic heart disease,829.1,44837,37712513
+MAR,1120,1100,3,Hypertensive heart disease,11978.4,261275,37712513
+MAR,1130,1100,3,Ischaemic heart disease,53364.6,1337723,37712513
+MAR,1140,1100,3,Stroke,37653.6,915106,37712513
+MAR,1150,1100,3,"Cardiomyopathy, myocarditis, endocarditis",1112.5,40577,37712513
+MAR,1160,1100,3,Other circulatory diseases,3578.8,116327,37712513
+MAR,1170,600,2,Respiratory diseases,4969.7,226018,37712513
+MAR,1180,1170,3,Chronic obstructive pulmonary disease,3282.7,113393,37712513
+MAR,1190,1170,3,Asthma,1277.3,95437,37712513
+MAR,1200,1170,3,Other respiratory diseases,409.7,17187,37712513
+MAR,1210,600,2,Digestive diseases,5875.7,234862,37712513
+MAR,1220,1210,3,Peptic ulcer disease,772.7,19401,37712513
+MAR,1230,1210,3,Cirrhosis of the liver,4094.3,111966,37712513
+MAR,1240,1210,3,Appendicitis,55.9,2949,37712513
+MAR,1241,1210,3,Gastritis and duodenitis,46.6,4764,37712513
+MAR,1242,1210,3,Paralytic ileus and intestinal obstruction,200.1,6103,37712513
+MAR,1244,1210,3,Inflammatory bowel disease,84.3,4553,37712513
+MAR,1246,1210,3,Gallbladder and biliary diseases,302.4,33093,37712513
+MAR,1248,1210,3,Pancreatitis,203.7,6031,37712513
+MAR,1250,1210,3,Other digestive diseases,115.8,46002,37712513
+MAR,1260,600,2,Genitourinary diseases,11934.2,539435,37712513
+MAR,1270,1260,3,Kidney diseases,11367.0,302562,37712513
+MAR,1280,1260,3,Benign prostatic hyperplasia,0.0,7412,37712513
+MAR,1290,1260,3,Urolithiasis,13.3,1283,37712513
+MAR,1300,1260,3,Other urinary diseases,534.7,13474,37712513
+MAR,1310,1260,3,Infertility,0.0,4048,37712513
+MAR,1320,1260,3,Gynecological diseases,19.3,210656,37712513
+MAR,1330,600,2,Skin diseases,463.9,213097,37712513
+MAR,1331,1330,3,Dermatitis,0.0,0,37712513
+MAR,1332,1330,3,Psoriasis,0.0,0,37712513
+MAR,1333,1330,3,Fungal skin diseases,0.0,0,37712513
+MAR,1334,1330,3,Viral skin diseases,0.0,0,37712513
+MAR,1335,1330,3,Acne vulgaris,0.0,0,37712513
+MAR,1336,1330,3,Alopecia areata,0.0,0,37712513
+MAR,1337,1330,3,Other specified skin diseases,430.5,9190,37712513
+MAR,1339,1330,3,Other skin and subcutaneous diseases,33.5,1096,37712513
+MAR,1340,600,2,Musculoskeletal diseases,186.2,812719,37712513
+MAR,1350,1340,3,Rheumatoid arthritis,19.2,5557,37712513
+MAR,1360,1340,3,Osteoarthritis,0.0,80266,37712513
+MAR,1370,1340,3,Gout,0.0,5801,37712513
+MAR,1380,1340,3,Back and neck pain,0.0,553760,37712513
+MAR,1390,1340,3,Other musculoskeletal disorders,167.0,167337,37712513
+MAR,1400,600,2,Congenital anomalies,3010.6,305680,37712513
+MAR,1410,1400,3,Neural tube defects,152.0,14833,37712513
+MAR,1420,1400,3,Cleft lip and cleft palate,5.2,2483,37712513
+MAR,1430,1400,3,Down syndrome,164.2,15033,37712513
+MAR,1440,1400,3,Congenital heart anomalies,1745.5,161612,37712513
+MAR,1450,1400,3,Other chromosomal anomalies,255.8,25296,37712513
+MAR,1460,1400,3,Other congenital anomalies,687.8,86423,37712513
+MAR,1470,600,2,Oral conditions,0.0,129730,37712513
+MAR,1480,1470,3,Dental caries,0.0,8140,37712513
+MAR,1490,1470,3,Periodontal disease,0.0,36447,37712513
+MAR,1500,1470,3,Edentulism,0.0,64344,37712513
+MAR,1502,1470,3,Other oral disorders,0.0,20799,37712513
+MAR,1505,600,2,Sudden infant death syndrome,86.8,7999,37712513
+MAR,1510,0,1,Injuries,17031.0,1137060,37712513
+MAR,1520,1510,2,Unintentional injuries,15008.9,999517,37712513
+MAR,1530,1520,3,Road injury,6126.0,366354,37712513
+MAR,1540,1520,3,Poisonings,477.6,26008,37712513
+MAR,1550,1520,3,Falls,1712.7,135751,37712513
+MAR,1560,1520,3,"Fire, heat and hot substances",383.1,25506,37712513
+MAR,1570,1520,3,Drowning,692.3,43078,37712513
+MAR,1575,1520,3,Exposure to mechanical forces,1081.8,89013,37712513
+MAR,1580,1520,3,Natural disasters,3031.3,172979,37712513
+MAR,1590,1520,3,Other unintentional injuries,1504.2,140830,37712513
+MAR,1600,1510,2,Intentional injuries,2022.1,137543,37712513
+MAR,1610,1600,3,Self-harm,1214.5,69561,37712513
+MAR,1620,1600,3,Interpersonal violence,782.6,62566,37712513
+MAR,1630,1600,3,Collective violence and legal intervention,24.9,5415,37712513
+TUN,0,,0,All Causes,66460.4,3197318,12200439
+TUN,10,0,1,"Communicable, maternal, perinatal and nutritional conditions",6757.2,338535,12200439
+TUN,20,10,2,Infectious and parasitic diseases,1235.6,69733,12200439
+TUN,30,20,3,Tuberculosis,142.3,11626,12200439
+TUN,40,20,3,STDs excluding HIV,9.8,1893,12200439
+TUN,100,20,3,HIV/AIDS,327.8,17910,12200439
+TUN,110,20,3,Diarrhoeal diseases,343.1,17313,12200439
+TUN,120,20,3,Childhood-cluster diseases,12.8,1049,12200439
+TUN,170,20,3,Meningitis,92.5,3995,12200439
+TUN,180,20,3,Encephalitis,98.0,4693,12200439
+TUN,185,20,3,Hepatitis,58.3,2168,12200439
+TUN,210,20,3,Parasitic and vector diseases,23.6,10238,12200439
+TUN,330,20,3,Intestinal nematode infections,0.1,50,12200439
+TUN,365,20,3,Leprosy,0.0,0,12200439
+TUN,370,20,3,Other infectious diseases,127.9,7626,12200439
+TUN,380,10,2,Respiratory infections,4273.3,112333,12200439
+TUN,390,380,3,Lower respiratory infections,2389.6,57308,12200439
+TUN,395,380,3,COVID-19,1878.8,45264,12200439
+TUN,400,380,3,Upper respiratory infections,4.8,6214,12200439
+TUN,410,380,3,Otitis media,0.2,3547,12200439
+TUN,420,10,2,Maternal conditions,58.6,4089,12200439
+TUN,490,10,2,Neonatal conditions,999.6,115942,12200439
+TUN,500,490,3,Preterm birth complications,783.6,85610,12200439
+TUN,510,490,3,Birth asphyxia and birth trauma,153.1,17628,12200439
+TUN,520,490,3,Neonatal sepsis and infections,26.0,7236,12200439
+TUN,530,490,3,Other neonatal conditions,36.9,5469,12200439
+TUN,540,10,2,Nutritional deficiencies,189.6,27610,12200439
+TUN,550,540,3,Protein-energy malnutrition,166.1,2540,12200439
+TUN,560,540,3,Iodine deficiency,0.0,978,12200439
+TUN,570,540,3,Vitamin A deficiency,0.0,538,12200439
+TUN,580,540,3,Iron-deficiency anaemia,0.0,23200,12200439
+TUN,590,540,3,Other nutritional deficiencies,23.5,354,12200439
+TUN,600,0,1,Noncommunicable diseases,53987.1,2518473,12200439
+TUN,610,600,2,Malignant neoplasms,10592.7,337104,12200439
+TUN,620,610,3,Mouth and oropharynx cancers,376.5,12749,12200439
+TUN,630,610,3,Oesophagus cancer,96.7,2787,12200439
+TUN,640,610,3,Stomach cancer,439.8,13638,12200439
+TUN,650,610,3,Colon and rectum cancers,837.0,25986,12200439
+TUN,660,610,3,Liver cancer,344.8,9414,12200439
+TUN,670,610,3,Pancreas cancer,423.2,12360,12200439
+TUN,680,610,3,"Trachea, bronchus, lung cancers",2191.7,67998,12200439
+TUN,690,610,3,Melanoma and other skin cancers,125.1,3044,12200439
+TUN,700,610,3,Breast cancer,949.5,38334,12200439
+TUN,710,610,3,Cervix uteri cancer,180.5,6167,12200439
+TUN,720,610,3,Corpus uteri cancer,70.6,2511,12200439
+TUN,730,610,3,Ovary cancer,204.9,6947,12200439
+TUN,740,610,3,Prostate cancer,405.6,9799,12200439
+TUN,742,610,3,Testicular cancer,4.3,301,12200439
+TUN,745,610,3,Kidney cancer,128.7,4017,12200439
+TUN,750,610,3,Bladder cancer,747.1,19731,12200439
+TUN,751,610,3,Brain and nervous system cancers,326.4,13628,12200439
+TUN,752,610,3,Gallbladder and biliary tract cancer,152.4,3890,12200439
+TUN,753,610,3,Larynx cancer,286.0,8143,12200439
+TUN,754,610,3,Thyroid cancer,45.0,1639,12200439
+TUN,755,610,3,Mesothelioma,17.7,540,12200439
+TUN,760,610,3,"Lymphomas, multiple myeloma",551.0,17528,12200439
+TUN,770,610,3,Leukaemia,335.9,13564,12200439
+TUN,780,610,3,Other malignant neoplasms,1352.2,42391,12200439
+TUN,790,600,2,Other neoplasms,284.0,9805,12200439
+TUN,800,600,2,Diabetes mellitus,5956.6,232840,12200439
+TUN,810,600,2,"Endocrine, blood, immune disorders",713.2,41515,12200439
+TUN,811,810,3,Thalassaemias,18.9,5415,12200439
+TUN,812,810,3,Sickle cell disorders and trait,52.0,4845,12200439
+TUN,813,810,3,Other haemoglobinopathies and haemolytic anaemias,109.2,4923,12200439
+TUN,814,810,3,"Other endocrine, blood and immune disorders",533.2,26332,12200439
+TUN,820,600,2,Mental and substance use disorders,263.6,363713,12200439
+TUN,830,820,3,Depressive disorders,0.0,134834,12200439
+TUN,840,820,3,Bipolar disorder,0.0,18608,12200439
+TUN,850,820,3,Schizophrenia,0.0,28888,12200439
+TUN,860,820,3,Alcohol use disorders,33.9,5833,12200439
+TUN,870,820,3,Drug use disorders,229.2,20911,12200439
+TUN,880,820,3,Anxiety disorders,0.0,102062,12200439
+TUN,890,820,3,Eating disorders,0.5,6280,12200439
+TUN,900,820,3,Autism and Asperger syndrome,0.0,16134,12200439
+TUN,910,820,3,Childhood behavioural disorders,0.0,11364,12200439
+TUN,920,820,3,Idiopathic intellectual disability,0.0,3723,12200439
+TUN,930,820,3,Other mental and behavioural disorders,0.0,15077,12200439
+TUN,940,600,2,Neurological conditions,5389.6,198033,12200439
+TUN,950,940,3,Alzheimer disease and other dementias,4248.1,67660,12200439
+TUN,960,940,3,Parkinson disease,483.2,9775,12200439
+TUN,970,940,3,Epilepsy,317.7,22668,12200439
+TUN,980,940,3,Multiple sclerosis,53.4,3752,12200439
+TUN,990,940,3,Migraine,0.0,72118,12200439
+TUN,1000,940,3,Non-migraine headache,0.0,8772,12200439
+TUN,1010,940,3,Other neurological conditions,287.1,13289,12200439
+TUN,1020,600,2,Sense organ diseases,0.0,89725,12200439
+TUN,1030,1020,3,Glaucoma,0.0,1457,12200439
+TUN,1040,1020,3,Cataracts,0.0,6534,12200439
+TUN,1050,1020,3,Uncorrected refractive errors,0.0,4427,12200439
+TUN,1060,1020,3,Macular degeneration,0.0,779,12200439
+TUN,1070,1020,3,Other vision loss,0.0,4724,12200439
+TUN,1080,1020,3,Other hearing loss,0.0,67989,12200439
+TUN,1090,1020,3,Other sense organ disorders,0.0,3814,12200439
+TUN,1100,600,2,Cardiovascular diseases,19049.7,414733,12200439
+TUN,1110,1100,3,Rheumatic heart disease,162.7,5166,12200439
+TUN,1120,1100,3,Hypertensive heart disease,1755.7,30802,12200439
+TUN,1130,1100,3,Ischaemic heart disease,8513.2,182426,12200439
+TUN,1140,1100,3,Stroke,6923.1,141671,12200439
+TUN,1150,1100,3,"Cardiomyopathy, myocarditis, endocarditis",495.9,13564,12200439
+TUN,1160,1100,3,Other circulatory diseases,1199.0,41105,12200439
+TUN,1170,600,2,Respiratory diseases,3722.8,113524,12200439
+TUN,1180,1170,3,Chronic obstructive pulmonary disease,2386.6,60691,12200439
+TUN,1190,1170,3,Asthma,821.2,39885,12200439
+TUN,1200,1170,3,Other respiratory diseases,515.1,12948,12200439
+TUN,1210,600,2,Digestive diseases,3367.5,97187,12200439
+TUN,1220,1210,3,Peptic ulcer disease,277.7,5631,12200439
+TUN,1230,1210,3,Cirrhosis of the liver,1200.2,29656,12200439
+TUN,1240,1210,3,Appendicitis,56.8,1914,12200439
+TUN,1241,1210,3,Gastritis and duodenitis,19.7,1526,12200439
+TUN,1242,1210,3,Paralytic ileus and intestinal obstruction,443.0,8479,12200439
+TUN,1244,1210,3,Inflammatory bowel disease,144.6,4157,12200439
+TUN,1246,1210,3,Gallbladder and biliary diseases,295.6,12707,12200439
+TUN,1248,1210,3,Pancreatitis,519.8,10794,12200439
+TUN,1250,1210,3,Other digestive diseases,410.1,22323,12200439
+TUN,1260,600,2,Genitourinary diseases,3366.9,149439,12200439
+TUN,1270,1260,3,Kidney diseases,2897.1,65136,12200439
+TUN,1280,1260,3,Benign prostatic hyperplasia,0.0,2677,12200439
+TUN,1290,1260,3,Urolithiasis,15.8,649,12200439
+TUN,1300,1260,3,Other urinary diseases,442.5,7635,12200439
+TUN,1310,1260,3,Infertility,0.0,1069,12200439
+TUN,1320,1260,3,Gynecological diseases,11.5,72273,12200439
+TUN,1330,600,2,Skin diseases,360.9,70716,12200439
+TUN,1331,1330,3,Dermatitis,0.0,0,12200439
+TUN,1332,1330,3,Psoriasis,0.0,0,12200439
+TUN,1333,1330,3,Fungal skin diseases,0.0,0,12200439
+TUN,1334,1330,3,Viral skin diseases,0.0,0,12200439
+TUN,1335,1330,3,Acne vulgaris,0.0,0,12200439
+TUN,1336,1330,3,Alopecia areata,0.0,0,12200439
+TUN,1337,1330,3,Other specified skin diseases,350.4,5968,12200439
+TUN,1339,1330,3,Other skin and subcutaneous diseases,10.5,243,12200439
+TUN,1340,600,2,Musculoskeletal diseases,133.1,277583,12200439
+TUN,1350,1340,3,Rheumatoid arthritis,22.9,2481,12200439
+TUN,1360,1340,3,Osteoarthritis,0.0,31141,12200439
+TUN,1370,1340,3,Gout,0.0,2115,12200439
+TUN,1380,1340,3,Back and neck pain,0.0,177415,12200439
+TUN,1390,1340,3,Other musculoskeletal disorders,110.2,64431,12200439
+TUN,1400,600,2,Congenital anomalies,774.7,78963,12200439
+TUN,1410,1400,3,Neural tube defects,26.5,2791,12200439
+TUN,1420,1400,3,Cleft lip and cleft palate,0.8,723,12200439
+TUN,1430,1400,3,Down syndrome,75.1,6343,12200439
+TUN,1440,1400,3,Congenital heart anomalies,369.2,34375,12200439
+TUN,1450,1400,3,Other chromosomal anomalies,43.6,4500,12200439
+TUN,1460,1400,3,Other congenital anomalies,259.5,30231,12200439
+TUN,1470,600,2,Oral conditions,0.0,42497,12200439
+TUN,1480,1470,3,Dental caries,0.0,4803,12200439
+TUN,1490,1470,3,Periodontal disease,0.0,10563,12200439
+TUN,1500,1470,3,Edentulism,0.0,20292,12200439
+TUN,1502,1470,3,Other oral disorders,0.0,6838,12200439
+TUN,1505,600,2,Sudden infant death syndrome,11.9,1096,12200439
+TUN,1510,0,1,Injuries,5716.1,340310,12200439
+TUN,1520,1510,2,Unintentional injuries,4626.8,277142,12200439
+TUN,1530,1520,3,Road injury,1586.0,86823,12200439
+TUN,1540,1520,3,Poisonings,58.0,2956,12200439
+TUN,1550,1520,3,Falls,1527.1,84957,12200439
+TUN,1560,1520,3,"Fire, heat and hot substances",362.7,16593,12200439
+TUN,1570,1520,3,Drowning,120.8,7457,12200439
+TUN,1575,1520,3,Exposure to mechanical forces,82.6,19695,12200439
+TUN,1580,1520,3,Natural disasters,0.0,53,12200439
+TUN,1590,1520,3,Other unintentional injuries,889.5,58606,12200439
+TUN,1600,1510,2,Intentional injuries,1089.3,63168,12200439
+TUN,1610,1600,3,Self-harm,290.9,14016,12200439
+TUN,1620,1600,3,Interpersonal violence,794.1,47211,12200439
+TUN,1630,1600,3,Collective violence and legal intervention,4.3,1942,12200439
+DZA,0,,0,All Causes,185701.3,11267769,46164227
+DZA,10,0,1,"Communicable, maternal, perinatal and nutritional conditions",23651.1,1998425,46164227
+DZA,20,10,2,Infectious and parasitic diseases,5427.0,322059,46164227
+DZA,30,20,3,Tuberculosis,3306.6,118481,46164227
+DZA,40,20,3,STDs excluding HIV,68.2,10428,46164227
+DZA,100,20,3,HIV/AIDS,284.7,18152,46164227
+DZA,110,20,3,Diarrhoeal diseases,874.9,87145,46164227
+DZA,120,20,3,Childhood-cluster diseases,203.7,19365,46164227
+DZA,170,20,3,Meningitis,233.0,14792,46164227
+DZA,180,20,3,Encephalitis,96.1,6878,46164227
+DZA,185,20,3,Hepatitis,122.0,6591,46164227
+DZA,210,20,3,Parasitic and vector diseases,27.2,18671,46164227
+DZA,330,20,3,Intestinal nematode infections,1.1,273,46164227
+DZA,365,20,3,Leprosy,0.0,0,46164227
+DZA,370,20,3,Other infectious diseases,210.3,37687,46164227
+DZA,380,10,2,Respiratory infections,7238.2,399813,46164227
+DZA,390,380,3,Lower respiratory infections,6924.3,330444,46164227
+DZA,395,380,3,COVID-19,310.9,31284,46164227
+DZA,400,380,3,Upper respiratory infections,3.0,24278,46164227
+DZA,410,380,3,Otitis media,0.0,13807,46164227
+DZA,420,10,2,Maternal conditions,658.9,43924,46164227
+DZA,490,10,2,Neonatal conditions,10185.2,1029488,46164227
+DZA,500,490,3,Preterm birth complications,7605.7,745947,46164227
+DZA,510,490,3,Birth asphyxia and birth trauma,1652.2,166111,46164227
+DZA,520,490,3,Neonatal sepsis and infections,475.9,62849,46164227
+DZA,530,490,3,Other neonatal conditions,451.5,54580,46164227
+DZA,540,10,2,Nutritional deficiencies,141.0,186737,46164227
+DZA,550,540,3,Protein-energy malnutrition,109.3,5066,46164227
+DZA,560,540,3,Iodine deficiency,0.0,5567,46164227
+DZA,570,540,3,Vitamin A deficiency,0.0,3744,46164227
+DZA,580,540,3,Iron-deficiency anaemia,0.0,171344,46164227
+DZA,590,540,3,Other nutritional deficiencies,31.8,1017,46164227
+DZA,600,0,1,Noncommunicable diseases,147740.8,8158969,46164227
+DZA,610,600,2,Malignant neoplasms,36417.6,1201492,46164227
+DZA,620,610,3,Mouth and oropharynx cancers,1203.3,44508,46164227
+DZA,630,610,3,Oesophagus cancer,322.8,9796,46164227
+DZA,640,610,3,Stomach cancer,2222.6,69401,46164227
+DZA,650,610,3,Colon and rectum cancers,4131.1,121551,46164227
+DZA,660,610,3,Liver cancer,687.0,19566,46164227
+DZA,670,610,3,Pancreas cancer,1266.5,36079,46164227
+DZA,680,610,3,"Trachea, bronchus, lung cancers",4519.4,133545,46164227
+DZA,690,610,3,Melanoma and other skin cancers,466.5,11657,46164227
+DZA,700,610,3,Breast cancer,5662.8,225836,46164227
+DZA,710,610,3,Cervix uteri cancer,929.1,32113,46164227
+DZA,720,610,3,Corpus uteri cancer,162.3,5183,46164227
+DZA,730,610,3,Ovary cancer,836.2,29609,46164227
+DZA,740,610,3,Prostate cancer,1296.6,25456,46164227
+DZA,742,610,3,Testicular cancer,27.8,1505,46164227
+DZA,745,610,3,Kidney cancer,429.1,13986,46164227
+DZA,750,610,3,Bladder cancer,1892.2,48768,46164227
+DZA,751,610,3,Brain and nervous system cancers,1765.9,74607,46164227
+DZA,752,610,3,Gallbladder and biliary tract cancer,831.0,23317,46164227
+DZA,753,610,3,Larynx cancer,657.2,18844,46164227
+DZA,754,610,3,Thyroid cancer,287.3,10417,46164227
+DZA,755,610,3,Mesothelioma,57.6,1654,46164227
+DZA,760,610,3,"Lymphomas, multiple myeloma",2029.0,69923,46164227
+DZA,770,610,3,Leukaemia,1131.3,46559,46164227
+DZA,780,610,3,Other malignant neoplasms,3603.2,127615,46164227
+DZA,790,600,2,Other neoplasms,117.8,4327,46164227
+DZA,800,600,2,Diabetes mellitus,5310.0,491338,46164227
+DZA,810,600,2,"Endocrine, blood, immune disorders",841.4,109659,46164227
+DZA,811,810,3,Thalassaemias,47.5,21549,46164227
+DZA,812,810,3,Sickle cell disorders and trait,19.1,6722,46164227
+DZA,813,810,3,Other haemoglobinopathies and haemolytic anaemias,76.9,18032,46164227
+DZA,814,810,3,"Other endocrine, blood and immune disorders",697.8,63356,46164227
+DZA,820,600,2,Mental and substance use disorders,631.5,1108418,46164227
+DZA,830,820,3,Depressive disorders,0.0,379480,46164227
+DZA,840,820,3,Bipolar disorder,0.0,64541,46164227
+DZA,850,820,3,Schizophrenia,0.0,99103,46164227
+DZA,860,820,3,Alcohol use disorders,55.7,17562,46164227
+DZA,870,820,3,Drug use disorders,575.8,72978,46164227
+DZA,880,820,3,Anxiety disorders,0.0,268639,46164227
+DZA,890,820,3,Eating disorders,0.0,25220,46164227
+DZA,900,820,3,Autism and Asperger syndrome,0.0,67451,46164227
+DZA,910,820,3,Childhood behavioural disorders,0.0,47496,46164227
+DZA,920,820,3,Idiopathic intellectual disability,0.0,13888,46164227
+DZA,930,820,3,Other mental and behavioural disorders,0.0,52058,46164227
+DZA,940,600,2,Neurological conditions,8269.7,506223,46164227
+DZA,950,940,3,Alzheimer disease and other dementias,6559.1,116459,46164227
+DZA,960,940,3,Parkinson disease,1201.5,26061,46164227
+DZA,970,940,3,Epilepsy,365.3,54561,46164227
+DZA,980,940,3,Multiple sclerosis,76.1,8578,46164227
+DZA,990,940,3,Migraine,0.0,256133,46164227
+DZA,1000,940,3,Non-migraine headache,0.0,30437,46164227
+DZA,1010,940,3,Other neurological conditions,67.8,13995,46164227
+DZA,1020,600,2,Sense organ diseases,0.0,285615,46164227
+DZA,1030,1020,3,Glaucoma,0.0,4186,46164227
+DZA,1040,1020,3,Cataracts,0.0,20694,46164227
+DZA,1050,1020,3,Uncorrected refractive errors,0.0,17747,46164227
+DZA,1060,1020,3,Macular degeneration,0.0,2232,46164227
+DZA,1070,1020,3,Other vision loss,0.0,13747,46164227
+DZA,1080,1020,3,Other hearing loss,0.0,214853,46164227
+DZA,1090,1020,3,Other sense organ disorders,0.0,12156,46164227
+DZA,1100,600,2,Cardiovascular diseases,69722.1,1662803,46164227
+DZA,1110,1100,3,Rheumatic heart disease,368.6,28489,46164227
+DZA,1120,1100,3,Hypertensive heart disease,9379.0,179913,46164227
+DZA,1130,1100,3,Ischaemic heart disease,39012.8,897195,46164227
+DZA,1140,1100,3,Stroke,17601.9,411879,46164227
+DZA,1150,1100,3,"Cardiomyopathy, myocarditis, endocarditis",691.4,25610,46164227
+DZA,1160,1100,3,Other circulatory diseases,2668.3,119718,46164227
+DZA,1170,600,2,Respiratory diseases,6249.0,273556,46164227
+DZA,1180,1170,3,Chronic obstructive pulmonary disease,4293.6,132117,46164227
+DZA,1190,1170,3,Asthma,1402.5,119390,46164227
+DZA,1200,1170,3,Other respiratory diseases,552.9,22050,46164227
+DZA,1210,600,2,Digestive diseases,6394.9,239068,46164227
+DZA,1220,1210,3,Peptic ulcer disease,732.3,15003,46164227
+DZA,1230,1210,3,Cirrhosis of the liver,4305.3,108858,46164227
+DZA,1240,1210,3,Appendicitis,69.8,3332,46164227
+DZA,1241,1210,3,Gastritis and duodenitis,51.3,5054,46164227
+DZA,1242,1210,3,Paralytic ileus and intestinal obstruction,228.9,5967,46164227
+DZA,1244,1210,3,Inflammatory bowel disease,108.3,5428,46164227
+DZA,1246,1210,3,Gallbladder and biliary diseases,486.2,35949,46164227
+DZA,1248,1210,3,Pancreatitis,251.6,6196,46164227
+DZA,1250,1210,3,Other digestive diseases,161.3,53282,46164227
+DZA,1260,600,2,Genitourinary diseases,8121.3,465010,46164227
+DZA,1270,1260,3,Kidney diseases,7460.4,189815,46164227
+DZA,1280,1260,3,Benign prostatic hyperplasia,0.0,7868,46164227
+DZA,1290,1260,3,Urolithiasis,13.4,1435,46164227
+DZA,1300,1260,3,Other urinary diseases,639.0,13434,46164227
+DZA,1310,1260,3,Infertility,0.0,3728,46164227
+DZA,1320,1260,3,Gynecological diseases,8.6,248731,46164227
+DZA,1330,600,2,Skin diseases,312.0,269970,46164227
+DZA,1331,1330,3,Dermatitis,0.0,0,46164227
+DZA,1332,1330,3,Psoriasis,0.0,0,46164227
+DZA,1333,1330,3,Fungal skin diseases,0.0,0,46164227
+DZA,1334,1330,3,Viral skin diseases,0.0,0,46164227
+DZA,1335,1330,3,Acne vulgaris,0.0,0,46164227
+DZA,1336,1330,3,Alopecia areata,0.0,0,46164227
+DZA,1337,1330,3,Other specified skin diseases,296.3,5319,46164227
+DZA,1339,1330,3,Other skin and subcutaneous diseases,15.6,515,46164227
+DZA,1340,600,2,Musculoskeletal diseases,175.8,886206,46164227
+DZA,1350,1340,3,Rheumatoid arthritis,15.8,5425,46164227
+DZA,1360,1340,3,Osteoarthritis,0.0,92598,46164227
+DZA,1370,1340,3,Gout,0.0,6818,46164227
+DZA,1380,1340,3,Back and neck pain,0.0,578275,46164227
+DZA,1390,1340,3,Other musculoskeletal disorders,160.0,203090,46164227
+DZA,1400,600,2,Congenital anomalies,4980.9,498128,46164227
+DZA,1410,1400,3,Neural tube defects,242.9,24040,46164227
+DZA,1420,1400,3,Cleft lip and cleft palate,6.9,3216,46164227
+DZA,1430,1400,3,Down syndrome,294.7,27307,46164227
+DZA,1440,1400,3,Congenital heart anomalies,2759.6,257139,46164227
+DZA,1450,1400,3,Other chromosomal anomalies,574.7,55525,46164227
+DZA,1460,1400,3,Other congenital anomalies,1102.1,130901,46164227
+DZA,1470,600,2,Oral conditions,0.0,139006,46164227
+DZA,1480,1470,3,Dental caries,0.0,17468,46164227
+DZA,1490,1470,3,Periodontal disease,0.0,35268,46164227
+DZA,1500,1470,3,Edentulism,0.0,61467,46164227
+DZA,1502,1470,3,Other oral disorders,0.0,24802,46164227
+DZA,1505,600,2,Sudden infant death syndrome,196.9,18149,46164227
+DZA,1510,0,1,Injuries,14309.4,1110376,46164227
+DZA,1520,1510,2,Unintentional injuries,12276.3,961010,46164227
+DZA,1530,1520,3,Road injury,7388.8,463251,46164227
+DZA,1540,1520,3,Poisonings,290.4,18044,46164227
+DZA,1550,1520,3,Falls,1482.2,182302,46164227
+DZA,1560,1520,3,"Fire, heat and hot substances",591.8,40223,46164227
+DZA,1570,1520,3,Drowning,616.3,44121,46164227
+DZA,1575,1520,3,Exposure to mechanical forces,655.5,66157,46164227
+DZA,1580,1520,3,Natural disasters,8.1,2635,46164227
+DZA,1590,1520,3,Other unintentional injuries,1243.2,144277,46164227
+DZA,1600,1510,2,Intentional injuries,2033.1,149366,46164227
+DZA,1610,1600,3,Self-harm,1247.7,71238,46164227
+DZA,1620,1600,3,Interpersonal violence,759.5,64061,46164227
+DZA,1630,1600,3,Collective violence and legal intervention,25.9,14068,46164227
+LBY,0,,0,All Causes,49382.5,2865699,7305666
+LBY,10,0,1,"Communicable, maternal, perinatal and nutritional conditions",2754.9,223708,7305666
+LBY,20,10,2,Infectious and parasitic diseases,1339.3,78117,7305666
+LBY,30,20,3,Tuberculosis,841.1,35851,7305666
+LBY,40,20,3,STDs excluding HIV,5.8,1143,7305666
+LBY,100,20,3,HIV/AIDS,196.4,9825,7305666
+LBY,110,20,3,Diarrhoeal diseases,111.8,12308,7305666
+LBY,120,20,3,Childhood-cluster diseases,23.9,2121,7305666
+LBY,170,20,3,Meningitis,54.2,3462,7305666
+LBY,180,20,3,Encephalitis,19.6,1369,7305666
+LBY,185,20,3,Hepatitis,32.0,1628,7305666
+LBY,210,20,3,Parasitic and vector diseases,14.6,9811,7305666
+LBY,330,20,3,Intestinal nematode infections,0.8,134,7305666
+LBY,365,20,3,Leprosy,0.0,1,7305666
+LBY,370,20,3,Other infectious diseases,40.2,6648,7305666
+LBY,380,10,2,Respiratory infections,1023.1,63082,7305666
+LBY,390,380,3,Lower respiratory infections,784.1,35038,7305666
+LBY,395,380,3,COVID-19,238.6,22048,7305666
+LBY,400,380,3,Upper respiratory infections,0.3,3820,7305666
+LBY,410,380,3,Otitis media,0.0,2177,7305666
+LBY,420,10,2,Maternal conditions,70.8,4727,7305666
+LBY,490,10,2,Neonatal conditions,292.4,41108,7305666
+LBY,500,490,3,Preterm birth complications,206.9,25338,7305666
+LBY,510,490,3,Birth asphyxia and birth trauma,52.8,7382,7305666
+LBY,520,490,3,Neonatal sepsis and infections,4.7,3405,7305666
+LBY,530,490,3,Other neonatal conditions,27.9,4983,7305666
+LBY,540,10,2,Nutritional deficiencies,28.2,30488,7305666
+LBY,550,540,3,Protein-energy malnutrition,23.1,1602,7305666
+LBY,560,540,3,Iodine deficiency,0.0,1589,7305666
+LBY,570,540,3,Vitamin A deficiency,0.0,464,7305666
+LBY,580,540,3,Iron-deficiency anaemia,0.0,26555,7305666
+LBY,590,540,3,Other nutritional deficiencies,5.1,278,7305666
+LBY,600,0,1,Noncommunicable diseases,29494.2,1562134,7305666
+LBY,610,600,2,Malignant neoplasms,5171.1,165482,7305666
+LBY,620,610,3,Mouth and oropharynx cancers,135.2,4966,7305666
+LBY,630,610,3,Oesophagus cancer,50.0,1450,7305666
+LBY,640,610,3,Stomach cancer,195.1,5935,7305666
+LBY,650,610,3,Colon and rectum cancers,548.2,15486,7305666
+LBY,660,610,3,Liver cancer,256.1,7109,7305666
+LBY,670,610,3,Pancreas cancer,232.9,6829,7305666
+LBY,680,610,3,"Trachea, bronchus, lung cancers",853.4,24658,7305666
+LBY,690,610,3,Melanoma and other skin cancers,29.1,803,7305666
+LBY,700,610,3,Breast cancer,414.2,17043,7305666
+LBY,710,610,3,Cervix uteri cancer,173.8,6275,7305666
+LBY,720,610,3,Corpus uteri cancer,14.2,490,7305666
+LBY,730,610,3,Ovary cancer,119.3,4394,7305666
+LBY,740,610,3,Prostate cancer,170.8,3337,7305666
+LBY,742,610,3,Testicular cancer,4.7,210,7305666
+LBY,745,610,3,Kidney cancer,83.9,2372,7305666
+LBY,750,610,3,Bladder cancer,283.8,6771,7305666
+LBY,751,610,3,Brain and nervous system cancers,264.7,11473,7305666
+LBY,752,610,3,Gallbladder and biliary tract cancer,115.3,3444,7305666
+LBY,753,610,3,Larynx cancer,135.1,3854,7305666
+LBY,754,610,3,Thyroid cancer,25.4,722,7305666
+LBY,755,610,3,Mesothelioma,8.2,260,7305666
+LBY,760,610,3,"Lymphomas, multiple myeloma",291.9,10169,7305666
+LBY,770,610,3,Leukaemia,236.0,9394,7305666
+LBY,780,610,3,Other malignant neoplasms,529.9,18038,7305666
+LBY,790,600,2,Other neoplasms,26.9,1179,7305666
+LBY,800,600,2,Diabetes mellitus,1050.6,100061,7305666
+LBY,810,600,2,"Endocrine, blood, immune disorders",229.4,30028,7305666
+LBY,811,810,3,Thalassaemias,3.4,3931,7305666
+LBY,812,810,3,Sickle cell disorders and trait,38.7,8931,7305666
+LBY,813,810,3,Other haemoglobinopathies and haemolytic anaemias,6.4,2589,7305666
+LBY,814,810,3,"Other endocrine, blood and immune disorders",180.9,14578,7305666
+LBY,820,600,2,Mental and substance use disorders,168.9,200186,7305666
+LBY,830,820,3,Depressive disorders,0.0,67490,7305666
+LBY,840,820,3,Bipolar disorder,0.0,10487,7305666
+LBY,850,820,3,Schizophrenia,0.0,15466,7305666
+LBY,860,820,3,Alcohol use disorders,12.6,3074,7305666
+LBY,870,820,3,Drug use disorders,156.3,17427,7305666
+LBY,880,820,3,Anxiety disorders,0.0,53477,7305666
+LBY,890,820,3,Eating disorders,0.0,4620,7305666
+LBY,900,820,3,Autism and Asperger syndrome,0.0,10111,7305666
+LBY,910,820,3,Childhood behavioural disorders,0.0,7766,7305666
+LBY,920,820,3,Idiopathic intellectual disability,0.0,2084,7305666
+LBY,930,820,3,Other mental and behavioural disorders,0.0,8184,7305666
+LBY,940,600,2,Neurological conditions,1064.2,84356,7305666
+LBY,950,940,3,Alzheimer disease and other dementias,721.6,16579,7305666
+LBY,960,940,3,Parkinson disease,189.2,4382,7305666
+LBY,970,940,3,Epilepsy,89.1,11253,7305666
+LBY,980,940,3,Multiple sclerosis,25.1,1749,7305666
+LBY,990,940,3,Migraine,0.0,41770,7305666
+LBY,1000,940,3,Non-migraine headache,0.0,4911,7305666
+LBY,1010,940,3,Other neurological conditions,39.3,3711,7305666
+LBY,1020,600,2,Sense organ diseases,0.0,39473,7305666
+LBY,1030,1020,3,Glaucoma,0.0,493,7305666
+LBY,1040,1020,3,Cataracts,0.0,1684,7305666
+LBY,1050,1020,3,Uncorrected refractive errors,0.0,2171,7305666
+LBY,1060,1020,3,Macular degeneration,0.0,242,7305666
+LBY,1070,1020,3,Other vision loss,0.0,1840,7305666
+LBY,1080,1020,3,Other hearing loss,0.0,31213,7305666
+LBY,1090,1020,3,Other sense organ disorders,0.0,1831,7305666
+LBY,1100,600,2,Cardiovascular diseases,16708.9,464274,7305666
+LBY,1110,1100,3,Rheumatic heart disease,65.2,5407,7305666
+LBY,1120,1100,3,Hypertensive heart disease,1569.0,35236,7305666
+LBY,1130,1100,3,Ischaemic heart disease,10045.9,274257,7305666
+LBY,1140,1100,3,Stroke,4362.9,118954,7305666
+LBY,1150,1100,3,"Cardiomyopathy, myocarditis, endocarditis",142.3,6043,7305666
+LBY,1160,1100,3,Other circulatory diseases,523.6,24378,7305666
+LBY,1170,600,2,Respiratory diseases,926.2,48397,7305666
+LBY,1180,1170,3,Chronic obstructive pulmonary disease,587.9,21428,7305666
+LBY,1190,1170,3,Asthma,231.8,21977,7305666
+LBY,1200,1170,3,Other respiratory diseases,106.5,4992,7305666
+LBY,1210,600,2,Digestive diseases,1087.5,47746,7305666
+LBY,1220,1210,3,Peptic ulcer disease,117.3,3323,7305666
+LBY,1230,1210,3,Cirrhosis of the liver,735.5,23814,7305666
+LBY,1240,1210,3,Appendicitis,11.3,628,7305666
+LBY,1241,1210,3,Gastritis and duodenitis,8.2,869,7305666
+LBY,1242,1210,3,Paralytic ileus and intestinal obstruction,40.8,1391,7305666
+LBY,1244,1210,3,Inflammatory bowel disease,24.1,1185,7305666
+LBY,1246,1210,3,Gallbladder and biliary diseases,71.2,6458,7305666
+LBY,1248,1210,3,Pancreatitis,45.7,1456,7305666
+LBY,1250,1210,3,Other digestive diseases,33.3,8623,7305666
+LBY,1260,600,2,Genitourinary diseases,2178.5,104876,7305666
+LBY,1270,1260,3,Kidney diseases,2047.5,59131,7305666
+LBY,1280,1260,3,Benign prostatic hyperplasia,0.0,1029,7305666
+LBY,1290,1260,3,Urolithiasis,3.8,307,7305666
+LBY,1300,1260,3,Other urinary diseases,125.0,3699,7305666
+LBY,1310,1260,3,Infertility,0.0,605,7305666
+LBY,1320,1260,3,Gynecological diseases,2.2,40105,7305666
+LBY,1330,600,2,Skin diseases,51.6,42091,7305666
+LBY,1331,1330,3,Dermatitis,0.0,0,7305666
+LBY,1332,1330,3,Psoriasis,0.0,0,7305666
+LBY,1333,1330,3,Fungal skin diseases,0.0,0,7305666
+LBY,1334,1330,3,Viral skin diseases,0.0,0,7305666
+LBY,1335,1330,3,Acne vulgaris,0.0,0,7305666
+LBY,1336,1330,3,Alopecia areata,0.0,0,7305666
+LBY,1337,1330,3,Other specified skin diseases,48.3,1100,7305666
+LBY,1339,1330,3,Other skin and subcutaneous diseases,3.3,128,7305666
+LBY,1340,600,2,Musculoskeletal diseases,40.9,139067,7305666
+LBY,1350,1340,3,Rheumatoid arthritis,3.8,1097,7305666
+LBY,1360,1340,3,Osteoarthritis,0.0,13726,7305666
+LBY,1370,1340,3,Gout,0.0,1016,7305666
+LBY,1380,1340,3,Back and neck pain,0.0,91199,7305666
+LBY,1390,1340,3,Other musculoskeletal disorders,37.1,32029,7305666
+LBY,1400,600,2,Congenital anomalies,761.9,71118,7305666
+LBY,1410,1400,3,Neural tube defects,37.2,3478,7305666
+LBY,1420,1400,3,Cleft lip and cleft palate,0.3,426,7305666
+LBY,1430,1400,3,Down syndrome,75.0,6195,7305666
+LBY,1440,1400,3,Congenital heart anomalies,471.8,40759,7305666
+LBY,1450,1400,3,Other chromosomal anomalies,56.5,5327,7305666
+LBY,1460,1400,3,Other congenital anomalies,120.9,14933,7305666
+LBY,1470,600,2,Oral conditions,0.0,21250,7305666
+LBY,1480,1470,3,Dental caries,0.0,2858,7305666
+LBY,1490,1470,3,Periodontal disease,0.0,5075,7305666
+LBY,1500,1470,3,Edentulism,0.0,9367,7305666
+LBY,1502,1470,3,Other oral disorders,0.0,3950,7305666
+LBY,1505,600,2,Sudden infant death syndrome,27.7,2551,7305666
+LBY,1510,0,1,Injuries,17133.4,1079856,7305666
+LBY,1520,1510,2,Unintentional injuries,16555.9,1012782,7305666
+LBY,1530,1520,3,Road injury,2435.7,161530,7305666
+LBY,1540,1520,3,Poisonings,97.2,6952,7305666
+LBY,1550,1520,3,Falls,370.8,42698,7305666
+LBY,1560,1520,3,"Fire, heat and hot substances",349.2,27693,7305666
+LBY,1570,1520,3,Drowning,189.2,15009,7305666
+LBY,1575,1520,3,Exposure to mechanical forces,144.0,13633,7305666
+LBY,1580,1520,3,Natural disasters,12515.0,701285,7305666
+LBY,1590,1520,3,Other unintentional injuries,454.7,43981,7305666
+LBY,1600,1510,2,Intentional injuries,577.5,67075,7305666
+LBY,1610,1600,3,Self-harm,312.5,18317,7305666
+LBY,1620,1600,3,Interpersonal violence,170.6,15151,7305666
+LBY,1630,1600,3,Collective violence and legal intervention,94.4,33606,7305666
+GBR,0,,0,All Causes,673702.8,22328296,68682966
+GBR,10,0,1,"Communicable, maternal, perinatal and nutritional conditions",61819.0,1378768,68682966
+GBR,20,10,2,Infectious and parasitic diseases,9788.2,221283,68682966
+GBR,30,20,3,Tuberculosis,230.9,7089,68682966
+GBR,40,20,3,STDs excluding HIV,46.4,5661,68682966
+GBR,100,20,3,HIV/AIDS,161.8,16175,68682966
+GBR,110,20,3,Diarrhoeal diseases,1911.2,45820,68682966
+GBR,120,20,3,Childhood-cluster diseases,4.0,525,68682966
+GBR,170,20,3,Meningitis,213.9,9873,68682966
+GBR,180,20,3,Encephalitis,3.5,1554,68682966
+GBR,185,20,3,Hepatitis,194.1,8509,68682966
+GBR,210,20,3,Parasitic and vector diseases,1.1,120,68682966
+GBR,330,20,3,Intestinal nematode infections,0.0,0,68682966
+GBR,365,20,3,Leprosy,0.0,0,68682966
+GBR,370,20,3,Other infectious diseases,7021.4,125959,68682966
+GBR,380,10,2,Respiratory infections,49776.9,816522,68682966
+GBR,390,380,3,Lower respiratory infections,34741.3,447572,68682966
+GBR,395,380,3,COVID-19,14956.6,310883,68682966
+GBR,400,380,3,Upper respiratory infections,61.2,45141,68682966
+GBR,410,380,3,Otitis media,17.9,12926,68682966
+GBR,420,10,2,Maternal conditions,62.7,9352,68682966
+GBR,490,10,2,Neonatal conditions,1587.0,258284,68682966
+GBR,500,490,3,Preterm birth complications,1261.1,170208,68682966
+GBR,510,490,3,Birth asphyxia and birth trauma,186.3,36303,68682966
+GBR,520,490,3,Neonatal sepsis and infections,39.8,39230,68682966
+GBR,530,490,3,Other neonatal conditions,99.8,12542,68682966
+GBR,540,10,2,Nutritional deficiencies,604.1,73327,68682966
+GBR,550,540,3,Protein-energy malnutrition,90.6,5917,68682966
+GBR,560,540,3,Iodine deficiency,1.0,6128,68682966
+GBR,570,540,3,Vitamin A deficiency,0.0,1,68682966
+GBR,580,540,3,Iron-deficiency anaemia,476.8,59388,68682966
+GBR,590,540,3,Other nutritional deficiencies,35.7,1893,68682966
+GBR,600,0,1,Noncommunicable diseases,585815.3,19249616,68682966
+GBR,610,600,2,Malignant neoplasms,174078.7,3645228,68682966
+GBR,620,610,3,Mouth and oropharynx cancers,4259.7,105373,68682966
+GBR,630,610,3,Oesophagus cancer,8633.4,178795,68682966
+GBR,640,610,3,Stomach cancer,4048.0,84802,68682966
+GBR,650,610,3,Colon and rectum cancers,20473.0,425496,68682966
+GBR,660,610,3,Liver cancer,6583.6,135920,68682966
+GBR,670,610,3,Pancreas cancer,10496.9,212631,68682966
+GBR,680,610,3,"Trachea, bronchus, lung cancers",33412.6,674626,68682966
+GBR,690,610,3,Melanoma and other skin cancers,4393.4,91049,68682966
+GBR,700,610,3,Breast cancer,13126.6,329171,68682966
+GBR,710,610,3,Cervix uteri cancer,1192.9,38083,68682966
+GBR,720,610,3,Corpus uteri cancer,3001.8,66508,68682966
+GBR,730,610,3,Ovary cancer,3953.9,89400,68682966
+GBR,740,610,3,Prostate cancer,13561.0,229842,68682966
+GBR,742,610,3,Testicular cancer,71.6,4246,68682966
+GBR,745,610,3,Kidney cancer,5007.8,103706,68682966
+GBR,750,610,3,Bladder cancer,6528.4,110398,68682966
+GBR,751,610,3,Brain and nervous system cancers,5122.8,147446,68682966
+GBR,752,610,3,Gallbladder and biliary tract cancer,1531.3,29301,68682966
+GBR,753,610,3,Larynx cancer,927.9,22619,68682966
+GBR,754,610,3,Thyroid cancer,531.6,11932,68682966
+GBR,755,610,3,Mesothelioma,2432.8,41573,68682966
+GBR,760,610,3,"Lymphomas, multiple myeloma",9897.7,195870,68682966
+GBR,770,610,3,Leukaemia,5467.4,112097,68682966
+GBR,780,610,3,Other malignant neoplasms,9422.5,204343,68682966
+GBR,790,600,2,Other neoplasms,4484.0,87583,68682966
+GBR,800,600,2,Diabetes mellitus,8580.3,584706,68682966
+GBR,810,600,2,"Endocrine, blood, immune disorders",4057.6,224132,68682966
+GBR,811,810,3,Thalassaemias,0.6,1598,68682966
+GBR,812,810,3,Sickle cell disorders and trait,23.6,3434,68682966
+GBR,813,810,3,Other haemoglobinopathies and haemolytic anaemias,411.8,13360,68682966
+GBR,814,810,3,"Other endocrine, blood and immune disorders",3621.6,205741,68682966
+GBR,820,600,2,Mental and substance use disorders,8359.3,3114860,68682966
+GBR,830,820,3,Depressive disorders,0.0,901155,68682966
+GBR,840,820,3,Bipolar disorder,39.8,103647,68682966
+GBR,850,820,3,Schizophrenia,108.8,144407,68682966
+GBR,860,820,3,Alcohol use disorders,2184.1,258582,68682966
+GBR,870,820,3,Drug use disorders,6023.6,477395,68682966
+GBR,880,820,3,Anxiety disorders,3.1,897878,68682966
+GBR,890,820,3,Eating disorders,0.0,61846,68682966
+GBR,900,820,3,Autism and Asperger syndrome,0.0,94586,68682966
+GBR,910,820,3,Childhood behavioural disorders,0.0,61419,68682966
+GBR,920,820,3,Idiopathic intellectual disability,0.0,16996,68682966
+GBR,930,820,3,Other mental and behavioural disorders,0.0,96947,68682966
+GBR,940,600,2,Neurological conditions,105069.5,2056385,68682966
+GBR,950,940,3,Alzheimer disease and other dementias,85898.1,1076156,68682966
+GBR,960,940,3,Parkinson disease,9670.5,146017,68682966
+GBR,970,940,3,Epilepsy,1123.4,90848,68682966
+GBR,980,940,3,Multiple sclerosis,1751.9,67775,68682966
+GBR,990,940,3,Migraine,0.0,420333,68682966
+GBR,1000,940,3,Non-migraine headache,0.0,57126,68682966
+GBR,1010,940,3,Other neurological conditions,6625.6,198129,68682966
+GBR,1020,600,2,Sense organ diseases,61.6,532282,68682966
+GBR,1030,1020,3,Glaucoma,2.3,5034,68682966
+GBR,1040,1020,3,Cataracts,1.1,26311,68682966
+GBR,1050,1020,3,Uncorrected refractive errors,0.0,31372,68682966
+GBR,1060,1020,3,Macular degeneration,0.0,13326,68682966
+GBR,1070,1020,3,Other vision loss,0.0,6190,68682966
+GBR,1080,1020,3,Other hearing loss,0.0,392460,68682966
+GBR,1090,1020,3,Other sense organ disorders,58.2,57589,68682966
+GBR,1100,600,2,Cardiovascular diseases,168114.1,3191248,68682966
+GBR,1110,1100,3,Rheumatic heart disease,1194.9,20255,68682966
+GBR,1120,1100,3,Hypertensive heart disease,8028.0,125217,68682966
+GBR,1130,1100,3,Ischaemic heart disease,80176.3,1495119,68682966
+GBR,1140,1100,3,Stroke,37643.2,675594,68682966
+GBR,1150,1100,3,"Cardiomyopathy, myocarditis, endocarditis",4884.8,111175,68682966
+GBR,1160,1100,3,Other circulatory diseases,36186.9,763887,68682966
+GBR,1170,600,2,Respiratory diseases,51271.9,1339433,68682966
+GBR,1180,1170,3,Chronic obstructive pulmonary disease,36960.1,819335,68682966
+GBR,1190,1170,3,Asthma,1575.3,301625,68682966
+GBR,1200,1170,3,Other respiratory diseases,12736.5,218473,68682966
+GBR,1210,600,2,Digestive diseases,37471.1,1025199,68682966
+GBR,1220,1210,3,Peptic ulcer disease,1908.6,41230,68682966
+GBR,1230,1210,3,Cirrhosis of the liver,10434.5,348003,68682966
+GBR,1240,1210,3,Appendicitis,130.9,4112,68682966
+GBR,1241,1210,3,Gastritis and duodenitis,268.1,23692,68682966
+GBR,1242,1210,3,Paralytic ileus and intestinal obstruction,3374.4,50110,68682966
+GBR,1244,1210,3,Inflammatory bowel disease,582.8,30073,68682966
+GBR,1246,1210,3,Gallbladder and biliary diseases,3785.3,149735,68682966
+GBR,1248,1210,3,Pancreatitis,1619.0,43188,68682966
+GBR,1250,1210,3,Other digestive diseases,15367.6,335057,68682966
+GBR,1260,600,2,Genitourinary diseases,13183.0,621003,68682966
+GBR,1270,1260,3,Kidney diseases,6174.2,192566,68682966
+GBR,1280,1260,3,Benign prostatic hyperplasia,247.9,34340,68682966
+GBR,1290,1260,3,Urolithiasis,0.0,4248,68682966
+GBR,1300,1260,3,Other urinary diseases,6760.9,90165,68682966
+GBR,1310,1260,3,Infertility,0.0,4964,68682966
+GBR,1320,1260,3,Gynecological diseases,0.0,294719,68682966
+GBR,1330,600,2,Skin diseases,3091.8,259478,68682966
+GBR,1331,1330,3,Dermatitis,0.0,0,68682966
+GBR,1332,1330,3,Psoriasis,0.0,0,68682966
+GBR,1333,1330,3,Fungal skin diseases,0.0,0,68682966
+GBR,1334,1330,3,Viral skin diseases,0.0,0,68682966
+GBR,1335,1330,3,Acne vulgaris,0.0,0,68682966
+GBR,1336,1330,3,Alopecia areata,0.0,0,68682966
+GBR,1337,1330,3,Other specified skin diseases,3009.6,45319,68682966
+GBR,1339,1330,3,Other skin and subcutaneous diseases,82.2,1112,68682966
+GBR,1340,600,2,Musculoskeletal diseases,5289.7,2102454,68682966
+GBR,1350,1340,3,Rheumatoid arthritis,1143.2,79736,68682966
+GBR,1360,1340,3,Osteoarthritis,178.3,338779,68682966
+GBR,1370,1340,3,Gout,16.0,23863,68682966
+GBR,1380,1340,3,Back and neck pain,325.2,1271596,68682966
+GBR,1390,1340,3,Other musculoskeletal disorders,3627.0,388480,68682966
+GBR,1400,600,2,Congenital anomalies,2493.3,198750,68682966
+GBR,1410,1400,3,Neural tube defects,134.1,9810,68682966
+GBR,1420,1400,3,Cleft lip and cleft palate,1.0,1544,68682966
+GBR,1430,1400,3,Down syndrome,477.5,21552,68682966
+GBR,1440,1400,3,Congenital heart anomalies,747.5,56142,68682966
+GBR,1450,1400,3,Other chromosomal anomalies,126.6,18061,68682966
+GBR,1460,1400,3,Other congenital anomalies,1006.6,91642,68682966
+GBR,1470,600,2,Oral conditions,113.1,258002,68682966
+GBR,1480,1470,3,Dental caries,1.0,23284,68682966
+GBR,1490,1470,3,Periodontal disease,3.1,35385,68682966
+GBR,1500,1470,3,Edentulism,0.0,158112,68682966
+GBR,1502,1470,3,Other oral disorders,109.1,41222,68682966
+GBR,1505,600,2,Sudden infant death syndrome,96.3,8873,68682966
+GBR,1510,0,1,Injuries,26068.6,1699912,68682966
+GBR,1520,1510,2,Unintentional injuries,18933.2,1347579,68682966
+GBR,1530,1520,3,Road injury,1745.8,129427,68682966
+GBR,1540,1520,3,Poisonings,222.5,17145,68682966
+GBR,1550,1520,3,Falls,11546.2,871505,68682966
+GBR,1560,1520,3,"Fire, heat and hot substances",304.9,42491,68682966
+GBR,1570,1520,3,Drowning,347.1,16172,68682966
+GBR,1575,1520,3,Exposure to mechanical forces,331.3,82836,68682966
+GBR,1580,1520,3,Natural disasters,0.0,50,68682966
+GBR,1590,1520,3,Other unintentional injuries,4435.5,187954,68682966
+GBR,1600,1510,2,Intentional injuries,7135.4,352333,68682966
+GBR,1610,1600,3,Self-harm,6913.5,321274,68682966
+GBR,1620,1600,3,Interpersonal violence,217.8,29722,68682966
+GBR,1630,1600,3,Collective violence and legal intervention,4.1,1337,68682966
+USA,0,,0,All Causes,3092432.4,126703363,343477339
+USA,10,0,1,"Communicable, maternal, perinatal and nutritional conditions",207501.1,7396714,343477339
+USA,20,10,2,Infectious and parasitic diseases,72231.4,2000704,343477339
+USA,30,20,3,Tuberculosis,608.8,19639,343477339
+USA,40,20,3,STDs excluding HIV,181.4,44130,343477339
+USA,100,20,3,HIV/AIDS,4680.4,319598,343477339
+USA,110,20,3,Diarrhoeal diseases,7453.2,182111,343477339
+USA,120,20,3,Childhood-cluster diseases,13.1,2411,343477339
+USA,170,20,3,Meningitis,728.4,31599,343477339
+USA,180,20,3,Encephalitis,17.4,2629,343477339
+USA,185,20,3,Hepatitis,3465.4,112926,343477339
+USA,210,20,3,Parasitic and vector diseases,9.5,2762,343477339
+USA,330,20,3,Intestinal nematode infections,0.0,0,343477339
+USA,365,20,3,Leprosy,1.0,42,343477339
+USA,370,20,3,Other infectious diseases,55072.7,1282856,343477339
+USA,380,10,2,Respiratory infections,97972.0,2891085,343477339
+USA,390,380,3,Lower respiratory infections,47024.8,938397,343477339
+USA,395,380,3,COVID-19,50672.7,1568113,343477339
+USA,400,380,3,Upper respiratory infections,242.5,331714,343477339
+USA,410,380,3,Otitis media,32.0,52861,343477339
+USA,420,10,2,Maternal conditions,641.2,56929,343477339
+USA,490,10,2,Neonatal conditions,10044.9,1545150,343477339
+USA,500,490,3,Preterm birth complications,5935.8,1014040,343477339
+USA,510,490,3,Birth asphyxia and birth trauma,1350.5,228214,343477339
+USA,520,490,3,Neonatal sepsis and infections,687.4,96476,343477339
+USA,530,490,3,Other neonatal conditions,2071.3,206419,343477339
+USA,540,10,2,Nutritional deficiencies,26611.6,902845,343477339
+USA,550,540,3,Protein-energy malnutrition,22845.7,442801,343477339
+USA,560,540,3,Iodine deficiency,0.0,8918,343477339
+USA,570,540,3,Vitamin A deficiency,0.0,34,343477339
+USA,580,540,3,Iron-deficiency anaemia,3135.4,389396,343477339
+USA,590,540,3,Other nutritional deficiencies,630.5,61696,343477339
+USA,600,0,1,Noncommunicable diseases,2668446.0,103447531,343477339
+USA,610,600,2,Malignant neoplasms,626361.4,14653469,343477339
+USA,620,610,3,Mouth and oropharynx cancers,13690.7,344424,343477339
+USA,630,610,3,Oesophagus cancer,18649.5,435641,343477339
+USA,640,610,3,Stomach cancer,12693.4,309003,343477339
+USA,650,610,3,Colon and rectum cancers,63977.5,1576824,343477339
+USA,660,610,3,Liver cancer,30392.6,701824,343477339
+USA,670,610,3,Pancreas cancer,50404.2,1090198,343477339
+USA,680,610,3,"Trachea, bronchus, lung cancers",134353.8,2881802,343477339
+USA,690,610,3,Melanoma and other skin cancers,15696.1,436881,343477339
+USA,700,610,3,Breast cancer,49383.3,1341504,343477339
+USA,710,610,3,Cervix uteri cancer,6384.1,215503,343477339
+USA,720,610,3,Corpus uteri cancer,13630.3,354641,343477339
+USA,730,610,3,Ovary cancer,13030.2,317088,343477339
+USA,740,610,3,Prostate cancer,40269.5,861450,343477339
+USA,742,610,3,Testicular cancer,588.1,34240,343477339
+USA,745,610,3,Kidney cancer,17771.4,408736,343477339
+USA,750,610,3,Bladder cancer,20567.8,389488,343477339
+USA,751,610,3,Brain and nervous system cancers,20811.7,597354,343477339
+USA,752,610,3,Gallbladder and biliary tract cancer,5046.6,108274,343477339
+USA,753,610,3,Larynx cancer,4549.5,115108,343477339
+USA,754,610,3,Thyroid cancer,2510.7,66672,343477339
+USA,755,610,3,Mesothelioma,2501.9,46989,343477339
+USA,760,610,3,"Lymphomas, multiple myeloma",39235.4,810371,343477339
+USA,770,610,3,Leukaemia,27426.0,606268,343477339
+USA,780,610,3,Other malignant neoplasms,22797.0,603187,343477339
+USA,790,600,2,Other neoplasms,16562.6,349117,343477339
+USA,800,600,2,Diabetes mellitus,57356.8,4539783,343477339
+USA,810,600,2,"Endocrine, blood, immune disorders",61468.1,2029490,343477339
+USA,811,810,3,Thalassaemias,21.6,14244,343477339
+USA,812,810,3,Sickle cell disorders and trait,605.3,52727,343477339
+USA,813,810,3,Other haemoglobinopathies and haemolytic anaemias,2381.0,89977,343477339
+USA,814,810,3,"Other endocrine, blood and immune disorders",58460.1,1872542,343477339
+USA,820,600,2,Mental and substance use disorders,124590.0,19364364,343477339
+USA,830,820,3,Depressive disorders,0.0,2967850,343477339
+USA,840,820,3,Bipolar disorder,155.1,478103,343477339
+USA,850,820,3,Schizophrenia,687.3,1016559,343477339
+USA,860,820,3,Alcohol use disorders,18512.1,1631458,343477339
+USA,870,820,3,Drug use disorders,105042.4,8449227,343477339
+USA,880,820,3,Anxiety disorders,55.6,2979914,343477339
+USA,890,820,3,Eating disorders,0.0,196334,343477339
+USA,900,820,3,Autism and Asperger syndrome,0.0,619023,343477339
+USA,910,820,3,Childhood behavioural disorders,0.0,359144,343477339
+USA,920,820,3,Idiopathic intellectual disability,137.4,121265,343477339
+USA,930,820,3,Other mental and behavioural disorders,0.0,545487,343477339
+USA,940,600,2,Neurological conditions,384067.4,9186316,343477339
+USA,950,940,3,Alzheimer disease and other dementias,294224.4,4238666,343477339
+USA,960,940,3,Parkinson disease,41180.7,705328,343477339
+USA,970,940,3,Epilepsy,4065.5,446946,343477339
+USA,980,940,3,Multiple sclerosis,4860.9,236840,343477339
+USA,990,940,3,Migraine,5.2,2057885,343477339
+USA,1000,940,3,Non-migraine headache,0.0,270311,343477339
+USA,1010,940,3,Other neurological conditions,39730.7,1230340,343477339
+USA,1020,600,2,Sense organ diseases,145.5,2892514,343477339
+USA,1030,1020,3,Glaucoma,3.1,13591,343477339
+USA,1040,1020,3,Cataracts,1.0,47043,343477339
+USA,1050,1020,3,Uncorrected refractive errors,1.0,117025,343477339
+USA,1060,1020,3,Macular degeneration,0.0,14580,343477339
+USA,1070,1020,3,Other vision loss,0.0,47646,343477339
+USA,1080,1020,3,Other hearing loss,8.2,2462529,343477339
+USA,1090,1020,3,Other sense organ disorders,132.2,190100,343477339
+USA,1100,600,2,Cardiovascular diseases,895074.8,19256622,343477339
+USA,1110,1100,3,Rheumatic heart disease,4448.6,115842,343477339
+USA,1120,1100,3,Hypertensive heart disease,109444.3,2052660,343477339
+USA,1130,1100,3,Ischaemic heart disease,467037.2,9222510,343477339
+USA,1140,1100,3,Stroke,174753.1,3959702,343477339
+USA,1150,1100,3,"Cardiomyopathy, myocarditis, endocarditis",28704.5,745516,343477339
+USA,1160,1100,3,Other circulatory diseases,110687.2,3160391,343477339
+USA,1170,600,2,Respiratory diseases,211296.7,6607402,343477339
+USA,1180,1170,3,Chronic obstructive pulmonary disease,171236.3,4275024,343477339
+USA,1190,1170,3,Asthma,3719.9,1550977,343477339
+USA,1200,1170,3,Other respiratory diseases,36340.5,781401,343477339
+USA,1210,600,2,Digestive diseases,131638.7,4295181,343477339
+USA,1220,1210,3,Peptic ulcer disease,3939.4,105346,343477339
+USA,1230,1210,3,Cirrhosis of the liver,53687.8,1771566,343477339
+USA,1240,1210,3,Appendicitis,467.6,18885,343477339
+USA,1241,1210,3,Gastritis and duodenitis,299.7,73657,343477339
+USA,1242,1210,3,Paralytic ileus and intestinal obstruction,8272.5,157741,343477339
+USA,1244,1210,3,Inflammatory bowel disease,1504.9,155733,343477339
+USA,1246,1210,3,Gallbladder and biliary diseases,6413.5,390751,343477339
+USA,1248,1210,3,Pancreatitis,4663.4,151341,343477339
+USA,1250,1210,3,Other digestive diseases,52390.0,1470159,343477339
+USA,1260,600,2,Genitourinary diseases,121965.8,4218422,343477339
+USA,1270,1260,3,Kidney diseases,101949.6,2766660,343477339
+USA,1280,1260,3,Benign prostatic hyperplasia,763.8,110195,343477339
+USA,1290,1260,3,Urolithiasis,0.0,12118,343477339
+USA,1300,1260,3,Other urinary diseases,19252.3,347222,343477339
+USA,1310,1260,3,Infertility,0.0,19925,343477339
+USA,1320,1260,3,Gynecological diseases,0.0,962301,343477339
+USA,1330,600,2,Skin diseases,7364.7,1247526,343477339
+USA,1331,1330,3,Dermatitis,0.0,0,343477339
+USA,1332,1330,3,Psoriasis,0.0,0,343477339
+USA,1333,1330,3,Fungal skin diseases,0.0,0,343477339
+USA,1334,1330,3,Viral skin diseases,0.0,0,343477339
+USA,1335,1330,3,Acne vulgaris,0.0,0,343477339
+USA,1336,1330,3,Alopecia areata,0.0,0,343477339
+USA,1337,1330,3,Other specified skin diseases,7136.8,151904,343477339
+USA,1339,1330,3,Other skin and subcutaneous diseases,227.9,4850,343477339
+USA,1340,600,2,Musculoskeletal diseases,17127.9,12350031,343477339
+USA,1350,1340,3,Rheumatoid arthritis,1936.2,225566,343477339
+USA,1360,1340,3,Osteoarthritis,349.9,1723419,343477339
+USA,1370,1340,3,Gout,99.4,244667,343477339
+USA,1380,1340,3,Back and neck pain,1852.7,6031918,343477339
+USA,1390,1340,3,Other musculoskeletal disorders,12889.6,4124462,343477339
+USA,1400,600,2,Congenital anomalies,11775.1,1007699,343477339
+USA,1410,1400,3,Neural tube defects,617.2,55115,343477339
+USA,1420,1400,3,Cleft lip and cleft palate,2.0,4476,343477339
+USA,1430,1400,3,Down syndrome,1444.5,74818,343477339
+USA,1440,1400,3,Congenital heart anomalies,3937.7,297287,343477339
+USA,1450,1400,3,Other chromosomal anomalies,1111.3,126507,343477339
+USA,1460,1400,3,Other congenital anomalies,4662.5,449494,343477339
+USA,1470,600,2,Oral conditions,315.9,1326580,343477339
+USA,1480,1470,3,Dental caries,3.1,72615,343477339
+USA,1490,1470,3,Periodontal disease,10.2,276182,343477339
+USA,1500,1470,3,Edentulism,0.0,776479,343477339
+USA,1502,1470,3,Other oral disorders,302.7,201303,343477339
+USA,1505,600,2,Sudden infant death syndrome,1334.5,123014,343477339
+USA,1510,0,1,Injuries,216485.3,15859118,343477339
+USA,1520,1510,2,Unintentional injuries,145306.4,12146212,343477339
+USA,1530,1520,3,Road injury,63132.1,3688916,343477339
+USA,1540,1520,3,Poisonings,1446.8,103276,343477339
+USA,1550,1520,3,Falls,47158.3,5509451,343477339
+USA,1560,1520,3,"Fire, heat and hot substances",3449.4,261720,343477339
+USA,1570,1520,3,Drowning,3989.1,206010,343477339
+USA,1575,1520,3,Exposure to mechanical forces,2802.0,407049,343477339
+USA,1580,1520,3,Natural disasters,155.4,6853,343477339
+USA,1590,1520,3,Other unintentional injuries,23173.4,1962937,343477339
+USA,1600,1510,2,Intentional injuries,71178.9,3712906,343477339
+USA,1610,1600,3,Self-harm,48179.9,2194387,343477339
+USA,1620,1600,3,Interpersonal violence,21685.9,1417609,343477339
+USA,1630,1600,3,Collective violence and legal intervention,1313.1,100911,343477339
+FIN,0,,0,All Causes,64001.5,1884413,5601186
+FIN,10,0,1,"Communicable, maternal, perinatal and nutritional conditions",3290.4,84026,5601186
+FIN,20,10,2,Infectious and parasitic diseases,244.1,8981,5601186
+FIN,30,20,3,Tuberculosis,23.1,434,5601186
+FIN,40,20,3,STDs excluding HIV,2.6,516,5601186
+FIN,100,20,3,HIV/AIDS,4.0,350,5601186
+FIN,110,20,3,Diarrhoeal diseases,16.3,1597,5601186
+FIN,120,20,3,Childhood-cluster diseases,0.0,31,5601186
+FIN,170,20,3,Meningitis,11.4,521,5601186
+FIN,180,20,3,Encephalitis,0.0,104,5601186
+FIN,185,20,3,Hepatitis,4.9,285,5601186
+FIN,210,20,3,Parasitic and vector diseases,0.0,0,5601186
+FIN,330,20,3,Intestinal nematode infections,0.0,0,5601186
+FIN,365,20,3,Leprosy,0.0,0,5601186
+FIN,370,20,3,Other infectious diseases,181.8,5143,5601186
+FIN,380,10,2,Respiratory infections,2974.9,53252,5601186
+FIN,390,380,3,Lower respiratory infections,247.9,3718,5601186
+FIN,395,380,3,COVID-19,2721.7,45216,5601186
+FIN,400,380,3,Upper respiratory infections,5.2,3445,5601186
+FIN,410,380,3,Otitis media,0.0,874,5601186
+FIN,420,10,2,Maternal conditions,3.6,415,5601186
+FIN,490,10,2,Neonatal conditions,41.5,10459,5601186
+FIN,500,490,3,Preterm birth complications,15.0,4954,5601186
+FIN,510,490,3,Birth asphyxia and birth trauma,11.9,3064,5601186
+FIN,520,490,3,Neonatal sepsis and infections,3.0,1358,5601186
+FIN,530,490,3,Other neonatal conditions,11.6,1083,5601186
+FIN,540,10,2,Nutritional deficiencies,26.3,10918,5601186
+FIN,550,540,3,Protein-energy malnutrition,12.1,281,5601186
+FIN,560,540,3,Iodine deficiency,0.0,499,5601186
+FIN,570,540,3,Vitamin A deficiency,0.0,0,5601186
+FIN,580,540,3,Iron-deficiency anaemia,6.3,9983,5601186
+FIN,590,540,3,Other nutritional deficiencies,8.0,156,5601186
+FIN,600,0,1,Noncommunicable diseases,57613.7,1586617,5601186
+FIN,610,600,2,Malignant neoplasms,14751.3,296566,5601186
+FIN,620,610,3,Mouth and oropharynx cancers,288.8,6330,5601186
+FIN,630,610,3,Oesophagus cancer,436.1,9540,5601186
+FIN,640,610,3,Stomach cancer,445.4,8944,5601186
+FIN,650,610,3,Colon and rectum cancers,1811.4,35084,5601186
+FIN,660,610,3,Liver cancer,674.1,13316,5601186
+FIN,670,610,3,Pancreas cancer,1486.2,28943,5601186
+FIN,680,610,3,"Trachea, bronchus, lung cancers",2355.7,46969,5601186
+FIN,690,610,3,Melanoma and other skin cancers,374.2,7390,5601186
+FIN,700,610,3,Breast cancer,1012.7,23416,5601186
+FIN,710,610,3,Cervix uteri cancer,55.3,1662,5601186
+FIN,720,610,3,Corpus uteri cancer,263.4,5459,5601186
+FIN,730,610,3,Ovary cancer,327.2,6828,5601186
+FIN,740,610,3,Prostate cancer,1152.0,21427,5601186
+FIN,742,610,3,Testicular cancer,7.5,465,5601186
+FIN,745,610,3,Kidney cancer,459.9,8707,5601186
+FIN,750,610,3,Bladder cancer,363.5,6116,5601186
+FIN,751,610,3,Brain and nervous system cancers,431.1,12392,5601186
+FIN,752,610,3,Gallbladder and biliary tract cancer,328.6,6186,5601186
+FIN,753,610,3,Larynx cancer,59.1,1314,5601186
+FIN,754,610,3,Thyroid cancer,66.3,1231,5601186
+FIN,755,610,3,Mesothelioma,92.4,1623,5601186
+FIN,760,610,3,"Lymphomas, multiple myeloma",959.3,17607,5601186
+FIN,770,610,3,Leukaemia,399.3,7565,5601186
+FIN,780,610,3,Other malignant neoplasms,901.8,18052,5601186
+FIN,790,600,2,Other neoplasms,496.3,7797,5601186
+FIN,800,600,2,Diabetes mellitus,672.6,57772,5601186
+FIN,810,600,2,"Endocrine, blood, immune disorders",359.8,17904,5601186
+FIN,811,810,3,Thalassaemias,0.1,202,5601186
+FIN,812,810,3,Sickle cell disorders and trait,0.2,268,5601186
+FIN,813,810,3,Other haemoglobinopathies and haemolytic anaemias,25.5,1572,5601186
+FIN,814,810,3,"Other endocrine, blood and immune disorders",333.9,15862,5601186
+FIN,820,600,2,Mental and substance use disorders,1217.9,184069,5601186
+FIN,830,820,3,Depressive disorders,0.0,30577,5601186
+FIN,840,820,3,Bipolar disorder,6.7,8500,5601186
+FIN,850,820,3,Schizophrenia,183.4,19026,5601186
+FIN,860,820,3,Alcohol use disorders,554.4,26942,5601186
+FIN,870,820,3,Drug use disorders,394.1,35088,5601186
+FIN,880,820,3,Anxiety disorders,0.0,33247,5601186
+FIN,890,820,3,Eating disorders,0.0,5932,5601186
+FIN,900,820,3,Autism and Asperger syndrome,0.0,8101,5601186
+FIN,910,820,3,Childhood behavioural disorders,0.0,5095,5601186
+FIN,920,820,3,Idiopathic intellectual disability,79.3,2970,5601186
+FIN,930,820,3,Other mental and behavioural disorders,0.0,8591,5601186
+FIN,940,600,2,Neurological conditions,10028.1,189846,5601186
+FIN,950,940,3,Alzheimer disease and other dementias,7882.8,101342,5601186
+FIN,960,940,3,Parkinson disease,1141.8,17193,5601186
+FIN,970,940,3,Epilepsy,133.1,7843,5601186
+FIN,980,940,3,Multiple sclerosis,104.2,4825,5601186
+FIN,990,940,3,Migraine,0.0,34622,5601186
+FIN,1000,940,3,Non-migraine headache,0.0,4561,5601186
+FIN,1010,940,3,Other neurological conditions,766.1,19461,5601186
+FIN,1020,600,2,Sense organ diseases,1.1,46090,5601186
+FIN,1030,1020,3,Glaucoma,0.0,226,5601186
+FIN,1040,1020,3,Cataracts,0.0,1189,5601186
+FIN,1050,1020,3,Uncorrected refractive errors,0.0,2435,5601186
+FIN,1060,1020,3,Macular degeneration,0.0,572,5601186
+FIN,1070,1020,3,Other vision loss,0.0,675,5601186
+FIN,1080,1020,3,Other hearing loss,0.0,36473,5601186
+FIN,1090,1020,3,Other sense organ disorders,1.1,4521,5601186
+FIN,1100,600,2,Cardiovascular diseases,24124.6,377306,5601186
+FIN,1110,1100,3,Rheumatic heart disease,8.8,218,5601186
+FIN,1120,1100,3,Hypertensive heart disease,5235.7,59003,5601186
+FIN,1130,1100,3,Ischaemic heart disease,10541.5,162032,5601186
+FIN,1140,1100,3,Stroke,4908.5,82337,5601186
+FIN,1150,1100,3,"Cardiomyopathy, myocarditis, endocarditis",609.7,14398,5601186
+FIN,1160,1100,3,Other circulatory diseases,2820.3,59318,5601186
+FIN,1170,600,2,Respiratory diseases,2220.0,70147,5601186
+FIN,1180,1170,3,Chronic obstructive pulmonary disease,1513.7,39635,5601186
+FIN,1190,1170,3,Asthma,77.7,20247,5601186
+FIN,1200,1170,3,Other respiratory diseases,628.7,10265,5601186
+FIN,1210,600,2,Digestive diseases,2818.7,82344,5601186
+FIN,1220,1210,3,Peptic ulcer disease,160.2,3251,5601186
+FIN,1230,1210,3,Cirrhosis of the liver,1258.4,36853,5601186
+FIN,1240,1210,3,Appendicitis,18.4,574,5601186
+FIN,1241,1210,3,Gastritis and duodenitis,11.4,1246,5601186
+FIN,1242,1210,3,Paralytic ileus and intestinal obstruction,231.2,3639,5601186
+FIN,1244,1210,3,Inflammatory bowel disease,35.9,2687,5601186
+FIN,1246,1210,3,Gallbladder and biliary diseases,185.7,10581,5601186
+FIN,1248,1210,3,Pancreatitis,220.9,5817,5601186
+FIN,1250,1210,3,Other digestive diseases,696.7,17696,5601186
+FIN,1260,600,2,Genitourinary diseases,334.7,44780,5601186
+FIN,1270,1260,3,Kidney diseases,272.4,14390,5601186
+FIN,1280,1260,3,Benign prostatic hyperplasia,18.4,5212,5601186
+FIN,1290,1260,3,Urolithiasis,0.0,229,5601186
+FIN,1300,1260,3,Other urinary diseases,43.9,1163,5601186
+FIN,1310,1260,3,Infertility,0.0,208,5601186
+FIN,1320,1260,3,Gynecological diseases,0.0,23578,5601186
+FIN,1330,600,2,Skin diseases,24.6,17237,5601186
+FIN,1331,1330,3,Dermatitis,0.0,0,5601186
+FIN,1332,1330,3,Psoriasis,0.0,0,5601186
+FIN,1333,1330,3,Fungal skin diseases,0.0,0,5601186
+FIN,1334,1330,3,Viral skin diseases,0.0,0,5601186
+FIN,1335,1330,3,Acne vulgaris,0.0,0,5601186
+FIN,1336,1330,3,Alopecia areata,0.0,0,5601186
+FIN,1337,1330,3,Other specified skin diseases,23.9,467,5601186
+FIN,1339,1330,3,Other skin and subcutaneous diseases,0.7,13,5601186
+FIN,1340,600,2,Musculoskeletal diseases,309.7,153594,5601186
+FIN,1350,1340,3,Rheumatoid arthritis,117.6,7172,5601186
+FIN,1360,1340,3,Osteoarthritis,19.0,28888,5601186
+FIN,1370,1340,3,Gout,3.8,2055,5601186
+FIN,1380,1340,3,Back and neck pain,27.4,93077,5601186
+FIN,1390,1340,3,Other musculoskeletal disorders,141.9,22403,5601186
+FIN,1400,600,2,Congenital anomalies,238.8,13773,5601186
+FIN,1410,1400,3,Neural tube defects,3.0,379,5601186
+FIN,1420,1400,3,Cleft lip and cleft palate,0.0,114,5601186
+FIN,1430,1400,3,Down syndrome,79.1,3213,5601186
+FIN,1440,1400,3,Congenital heart anomalies,60.3,3641,5601186
+FIN,1450,1400,3,Other chromosomal anomalies,7.5,1174,5601186
+FIN,1460,1400,3,Other congenital anomalies,88.8,5253,5601186
+FIN,1470,600,2,Oral conditions,11.8,27047,5601186
+FIN,1480,1470,3,Dental caries,1.1,1459,5601186
+FIN,1490,1470,3,Periodontal disease,0.0,6766,5601186
+FIN,1500,1470,3,Edentulism,0.0,15398,5601186
+FIN,1502,1470,3,Other oral disorders,10.6,3423,5601186
+FIN,1505,600,2,Sudden infant death syndrome,3.7,345,5601186
+FIN,1510,0,1,Injuries,3097.5,213770,5601186
+FIN,1520,1510,2,Unintentional injuries,2262.1,173747,5601186
+FIN,1530,1520,3,Road injury,198.7,12168,5601186
+FIN,1540,1520,3,Poisonings,36.0,1770,5601186
+FIN,1550,1520,3,Falls,1423.2,123393,5601186
+FIN,1560,1520,3,"Fire, heat and hot substances",47.5,5244,5601186
+FIN,1570,1520,3,Drowning,105.5,3238,5601186
+FIN,1575,1520,3,Exposure to mechanical forces,46.4,8705,5601186
+FIN,1580,1520,3,Natural disasters,0.0,13,5601186
+FIN,1590,1520,3,Other unintentional injuries,404.8,19216,5601186
+FIN,1600,1510,2,Intentional injuries,835.4,40023,5601186
+FIN,1610,1600,3,Self-harm,783.9,35137,5601186
+FIN,1620,1600,3,Interpersonal violence,51.3,4827,5601186
+FIN,1630,1600,3,Collective violence and legal intervention,0.1,59,5601186

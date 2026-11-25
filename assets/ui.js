@@ -16,7 +16,7 @@ const H = window.HD;
 const show = (id) => {
   document.querySelectorAll('.hd .tab').forEach((b) => b.setAttribute('aria-selected', String(b.dataset.tab === id)));
   document.querySelectorAll('.hd section').forEach((s) => { s.hidden = s.id !== id; });
-  document.querySelectorAll('.hd #filters').forEach((f) => { f.hidden = ['benchmark', 'home', 'downloads', 'about'].includes(id); });
+  document.querySelectorAll('.hd #filters').forEach((f) => { f.hidden = ['benchmark', 'home', 'downloads', 'about', 'insights', 'reports'].includes(id); });
   document.querySelectorAll('.hd #hero').forEach((x) => { x.hidden = id === 'home'; });
   dash.setLink(id);
 };

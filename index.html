@@ -20,7 +20,6 @@
 <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
 <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
 <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
-<link rel="icon" href="data:image/svg+xml,<svg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'><rect width='32' height='32' rx='8' fill='%231d4e89'/><path d='M6 17h5l2.5-7 4.5 13 2.5-6H26' fill='none' stroke='%23fff' stroke-width='2.4' stroke-linecap='round' stroke-linejoin='round'/></svg>">
 <link rel="stylesheet" href="assets/site.css">
 </head>
 <body>
@@ -40,6 +39,8 @@
 <button class="tab" role="tab" data-tab="stakeholders" aria-selected="false">Stakeholder workspaces</button>
 <button class="tab" role="tab" data-tab="explorer" aria-selected="false">Indicator explorer</button>
 <button class="tab" role="tab" data-tab="profile" aria-selected="false">Country profile</button>
+<button class="tab" role="tab" data-tab="insights" aria-selected="false">Insights</button>
+<button class="tab" role="tab" data-tab="reports" aria-selected="false">Reports</button>
 <button class="tab" role="tab" data-tab="relations" aria-selected="false">Relationships</button>
 <button class="tab" role="tab" data-tab="trials" aria-selected="false">Clinical trials</button>
 <button class="tab" role="tab" data-tab="downloads" aria-selected="false">Data &amp; downloads</button>
@@ -168,6 +169,34 @@
 <div class="card" id="pr-score"><h3>Full scorecard</h3><p class="sub">Rank is among the 14 MENA countries (1 = best for that indicator, or largest where no direction applies). Status compares with the world average.</p><div class="tw"><table><thead><tr><th>Indicator</th><th class="n" data-draw="h-country">—</th><th class="n" data-draw="h-cmp">—</th><th class="n">World</th><th class="n">MENA rank</th><th>vs world</th><th>Year</th></tr></thead><tbody data-draw="score" data-source="latest catalog ranks"></tbody></table></div></div>
 </section>
 
+<section id="insights" hidden>
+<div class="sechead"><h2>Insights</h2><p class="who">Four interactive views: how countries' ranks have changed, how far each is from global health targets, what people die from, and where trends point by 2030.</p></div>
+<div class="card ix-card" id="ix-race-card"><h3>Ranking race</h3><p class="sub">How the 14 countries rank on one indicator, year by year. Press play, or drag the year slider.</p>
+<div class="ctrl" data-draw="ix-race-ctrl" data-source="series"></div>
+<div class="legend"><span><i style="background:var(--hd-c0)"></i>GCC</span><span><i style="background:var(--hd-c2)"></i>Levant &amp; Iraq</span><span><i style="background:var(--hd-c1)"></i>North Africa</span></div>
+<div class="chart race-chart" data-draw="ix-race" data-source="series"></div><p class="sub" data-draw="ix-race-note"></p></div>
+<div class="card ix-card" id="ix-gap-card"><h3>Gap to target</h3><p class="sub">Each country against UN Sustainable Development Goal and WHO targets for 2025–2030.</p>
+<div class="ctrl" data-draw="ix-gap-ctrl" data-source="latest series"></div><p class="lede-s" data-draw="ix-gap-sum"></p>
+<div data-draw="ix-gap" data-source="latest series"></div>
+<details class="ix-more"><summary>All 14 countries at a glance</summary><p class="sub">✓ met · ↗ on track · ✗ off track, not met or still rising · – no data. Hover a mark for the numbers; click a country to open it above.</p><div class="tw" data-draw="ix-gapmx" data-source="latest series"></div></details></div>
+<div class="card ix-card" id="ix-tm-card"><h3>Disease burden</h3><p class="sub">What people die from — or lose healthy years to — in 2023, by cause. Bigger block = bigger share. Click a block to see the causes inside it.</p>
+<div class="ctrl" data-draw="ix-tm-ctrl" data-source="causes"></div><div class="crumb" data-draw="ix-tm-crumb" data-source="causes"></div>
+<div class="legend"><span><i style="background:var(--hd-c0)"></i>Noncommunicable diseases</span><span><i style="background:var(--hd-c1)"></i>Communicable, maternal &amp; nutritional</span><span><i style="background:var(--hd-c2)"></i>Injuries</span></div>
+<div class="chart tm-chart" data-draw="ix-tm" data-source="causes"></div>
+<h4 class="sub">Top 10 specific causes</h4><div data-draw="ix-tm-top" data-source="causes"></div>
+<p class="sub">Source: WHO Global Health Estimates 2023, both sexes, all ages. DALYs (disability-adjusted life years) add years lived with illness to years lost to early death, so they show conditions such as mental disorders that rarely kill.</p></div>
+<div class="card ix-card" id="ix-fc-card"><h3>Forecast to 2030</h3><p class="sub">History and a straight-line projection with its 80% range, against the regional average and, where one exists, the target.</p>
+<div class="ctrl" data-draw="ix-fc-ctrl" data-source="series"></div>
+<div class="legend"><span><i style="background:var(--hd-c0)"></i>Selected country (dashed = projection)</span><span><i style="background:var(--cds-chart-muted)"></i>Regional average</span><span><i class="dash"></i>Target</span></div>
+<div class="chart" data-draw="ix-fc" data-source="series"></div><p class="sub" data-draw="ix-fc-note"></p></div>
+</section>
+
+<section id="reports" hidden>
+<div class="sechead no-print"><h2>Reports</h2><p class="who">Ready-made briefs, built from the latest data each time you open them. Pick a report, then press Download PDF and choose &ldquo;Save as PDF&rdquo; in the print window.</p></div>
+<div class="ctrl rp-ctrl no-print" data-draw="rp-ctrl" data-source="latest"></div>
+<div class="report-wrap" data-draw="rp-body" data-source="latest causes"></div>
+</section>
+
 <section id="relations" hidden>
 <div class="ctrl"><label>Horizontal axis <select class="dash-select" data-draw="xsel" aria-label="Horizontal axis" data-source="catalog"></select></label><label>Vertical axis <select class="dash-select" data-draw="ysel" aria-label="Vertical axis" data-source="catalog"></select></label></div>
 <div class="chips" id="presets"><span class="sub">Ready-made analyses:</span>
@@ -200,6 +229,8 @@
 <div class="card dlc" id="dl-catalog"><h3>Indicator catalogue</h3><p>Definitions, units, sources and good/bad direction.</p><div class="dlf"><span class="dlr" data-draw="dlcount" data-ds="catalog" data-source="catalog">—</span><button class="btn" data-dl="catalog">Download CSV</button></div></div>
 <div class="card dlc" id="dl-trials"><h3>Clinical trials snapshot</h3><p>Open trials per country, all and cardiometabolic.</p><div class="dlf"><span class="dlr" data-draw="dlcount" data-ds="trials" data-source="trials">—</span><button class="btn" data-dl="trials">Download CSV</button></div></div>
 <div class="card dlc" id="dl-swot"><h3>SWOT, all countries</h3><p>Every strength, weakness, potential and risk flagged.</p><div class="dlf"><span class="dlr" data-draw="dlcount" data-ds="swot" data-source="swot">—</span><button class="btn" data-dl="swot_all">Download CSV</button></div></div>
+<div class="card dlc" id="dl-causes"><h3>Causes of death 2023</h3><p>Deaths and DALYs by cause (3 levels) per country, WHO GHE.</p><div class="dlf"><span class="dlr" data-draw="dlcount" data-ds="causes" data-source="causes">—</span><button class="btn" data-dl="causes">Download CSV</button></div></div>
+<div class="card dlc" id="dl-causetrend"><h3>Cause-of-death trends 2000–2023</h3><p>Deaths and rates per 100,000 by cause group, per year.</p><div class="dlf"><span class="dlr" data-draw="dlcount" data-ds="cause_trend" data-source="cause_trend">—</span><button class="btn" data-dl="cause_trend">Download CSV</button></div></div>
 <div class="card dlc" id="dl-platforms"><h3>Platform benchmark</h3><p>Comparable health-data platforms and lessons.</p><div class="dlf"><span class="dlr" data-draw="dlcount" data-ds="platforms" data-source="platforms">—</span><button class="btn" data-dl="platforms">Download CSV</button></div></div>
 </div>
 <div class="card dlc" id="dl-profile"><h3>Country profile</h3><p>All 30 indicators for one country, with women/men, year, regional average and world.</p><div class="dlf"><label class="sub">Country <select class="dash-select" data-draw="swotsel" aria-label="Profile country to download" data-source="latest"></select></label><button class="btn primary" data-dl="profile">Download profile (CSV)</button></div></div>
@@ -240,6 +271,8 @@
 <script src="assets/evidence.js"></script>
 <script src="assets/pubmed.js"></script>
 <script src="assets/trends.js"></script>
+<script src="assets/insights.js"></script>
+<script src="assets/reports.js"></script>
 <script src="assets/ui.js"></script>
 </body>
 </html>
